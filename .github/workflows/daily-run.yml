@@ -49,6 +49,9 @@ jobs:
           OPENALEX_API_KEY=${{ secrets.OPENALEX_API_KEY }}
           SEMANTIC_SCHOLAR_API_KEY=${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
           CORE_API_KEY=${{ secrets.CORE_API_KEY }}
+          MINIMAX_API_KEY=${{ secrets.MINIMAX_API_KEY }}
+          EMBEDDING_BASE_URL=https://api.minimaxi.com/v1
+          EMBEDDING_MODEL=embo-01
           MINERU_API_KEY=${{ secrets.MINERU_API_KEY }}
           MINERU_MODEL_VERSION=vlm
           ENABLE_NOTIFICATIONS=${{ secrets.ENABLE_NOTIFICATIONS }}

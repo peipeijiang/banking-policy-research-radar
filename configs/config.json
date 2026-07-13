@@ -238,6 +238,16 @@
     },
     "include_all_in_report": true
   },
+  "personalization": {
+    "enabled": true,
+    "mode": "shadow",
+    "min_feedback": 3,
+    "max_adjustment": 15.0,
+    "negative_weight": 0.75,
+    "half_life_days": 90,
+    "diversity_lambda": 0.78,
+    "exploration_ratio": 0.2
+  },
   "paths": {
     "data_dir": "data",
     "reference_pdfs": "data/reference_pdfs",

@@ -68,6 +68,9 @@ class Settings(BaseSettings):
     OPENALEX_EMAIL: str = ""  # OpenAlex 礼貌池邮箱（可选，提高速率限制）
     OPENALEX_API_KEY: str = ""  # OpenAlex API Key（可选，2026年2月后必需）
     CORE_API_KEY: str = ""  # CORE API Key（可选，用于发现机构仓库全文）
+    MINIMAX_API_KEY: str = ""  # MiniMax embo-01 API Key
+    EMBEDDING_BASE_URL: str = "https://api.minimaxi.com/v1"
+    EMBEDDING_MODEL: str = "embo-01"
     OPENALEX_SEARCH_TERMS: List[str] = []  # OpenAlex 标题和摘要检索短语
     DBLP_VENUES: List[str] = []  # DBLP 会议流简称
     DBLP_TITLE_TERMS: List[str] = []  # DBLP 标题预筛词
@@ -170,6 +173,16 @@ class Settings(BaseSettings):
 
     # ==================== Daily Research 模式配置 ====================
     DAILY_ENABLE_DEEP_ANALYSIS: bool = True  # 是否在每日研究模式中执行深度分析
+
+    # ==================== 个性化推荐配置 ====================
+    PERSONALIZATION_ENABLED: bool = True
+    PERSONALIZATION_MODE: str = "shadow"  # shadow 或 live
+    PERSONALIZATION_MIN_FEEDBACK: int = 3
+    PERSONALIZATION_MAX_ADJUSTMENT: float = 15.0
+    PERSONALIZATION_NEGATIVE_WEIGHT: float = 0.75
+    PERSONALIZATION_HALF_LIFE_DAYS: int = 90
+    PERSONALIZATION_DIVERSITY_LAMBDA: float = 0.78
+    PERSONALIZATION_EXPLORATION_RATIO: float = 0.2
 
     # ==================== PDF 解析配置 ====================
     PDF_PARSER_MODE: str = "mineru"  # PDF 解析模式: "mineru" (云端API) 或 "pymupdf" (本地解析)
@@ -402,6 +415,28 @@ class Settings(BaseSettings):
 
                 # 报告配置
                 self.INCLUDE_ALL_IN_REPORT = score_cfg.get("include_all_in_report", True)
+
+            personalization = config.get("personalization") or {}
+            self.PERSONALIZATION_ENABLED = personalization.get("enabled", self.PERSONALIZATION_ENABLED)
+            self.PERSONALIZATION_MODE = personalization.get("mode", self.PERSONALIZATION_MODE)
+            self.PERSONALIZATION_MIN_FEEDBACK = personalization.get(
+                "min_feedback", self.PERSONALIZATION_MIN_FEEDBACK
+            )
+            self.PERSONALIZATION_MAX_ADJUSTMENT = personalization.get(
+                "max_adjustment", self.PERSONALIZATION_MAX_ADJUSTMENT
+            )
+            self.PERSONALIZATION_NEGATIVE_WEIGHT = personalization.get(
+                "negative_weight", self.PERSONALIZATION_NEGATIVE_WEIGHT
+            )
+            self.PERSONALIZATION_HALF_LIFE_DAYS = personalization.get(
+                "half_life_days", self.PERSONALIZATION_HALF_LIFE_DAYS
+            )
+            self.PERSONALIZATION_DIVERSITY_LAMBDA = personalization.get(
+                "diversity_lambda", self.PERSONALIZATION_DIVERSITY_LAMBDA
+            )
+            self.PERSONALIZATION_EXPLORATION_RATIO = personalization.get(
+                "exploration_ratio", self.PERSONALIZATION_EXPLORATION_RATIO
+            )
 
             # 加载路径配置
             if "paths" in config:

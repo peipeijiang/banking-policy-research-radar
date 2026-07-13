@@ -267,6 +267,10 @@ class ResearchLibrary:
                         "analysis": analysis_map.get(paper.paper_id),
                         "research_field": settings.RESEARCH_FIELD_NAME,
                         "research_field_tag": settings.RESEARCH_FIELD_TAG,
+                        "personalization": row.get("personalization", {}),
+                        "base_score": (row.get("personalization") or {}).get(
+                            "base_score", score.total_score
+                        ),
                         "updated_at": datetime.now().isoformat(),
                     }
                 )

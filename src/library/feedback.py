@@ -14,6 +14,4 @@ class FeedbackStore:
 
     def apply(self, paper_id: str, score_response) -> None:
         if paper_id in self.data.get("liked", []):
-            score_response.total_score += 10.0
-            score_response.reasoning += "；用户历史反馈：喜欢（+10）"
-            score_response.is_qualified = True
+            score_response.reasoning += "；用户历史反馈：喜欢（交由个性化引擎计算）"

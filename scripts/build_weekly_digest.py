@@ -31,6 +31,34 @@ def recent_records(path=Path("knowledge/index.jsonl"), days=7):
     return sorted(records.values(), key=lambda row: row.get("score", 0), reverse=True)
 
 
+def personalization_summary(root=Path("knowledge/preferences")):
+    try:
+        profile = json.loads((root / "profile.json").read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return "## 个性化学习\n\n本周尚未形成有效偏好画像。"
+    metrics = []
+    if (root / "metrics.jsonl").exists():
+        for line in (root / "metrics.jsonl").read_text(encoding="utf-8").splitlines()[-7:]:
+            try:
+                metrics.append(json.loads(line))
+            except json.JSONDecodeError:
+                continue
+    overlap = (
+        sum(row.get("top_overlap", 0) for row in metrics) / len(metrics) if metrics else 0
+    )
+    positive = "、".join(profile.get("positive_terms", [])[:8]) or "暂无"
+    negative = "、".join(profile.get("negative_terms", [])[:8]) or "暂无"
+    return (
+        "## 个性化学习\n\n"
+        f"- 当前模式：{profile.get('mode', 'shadow')}\n"
+        f"- 有效反馈：{profile.get('usable_feedback_count', 0)} 条"
+        f"（喜欢 {profile.get('liked_count', 0)} / 忽略 {profile.get('ignored_count', 0)}）\n"
+        f"- 正向偏好主题：{positive}\n"
+        f"- 负向偏好主题：{negative}\n"
+        f"- 最近影子排序与基础 Top N 平均重合：{overlap:.1f} 篇\n"
+    )
+
+
 def main():
     records = recent_records()
     if not records:
@@ -82,8 +110,10 @@ def main():
         f"- [{claim['claim_id']}] [{claim['paper_id']}]({claim['source_url']}) · {claim['kind']}"
         for claim in evidence_pack["claims"]
     )
+    preference_section = personalization_summary()
     path.write_text(
-        f"# {settings.RESEARCH_FIELD_NAME}研究周报 {now:%Y-%m-%d}\n\n{content}\n\n## 证据索引\n\n{evidence_index}\n",
+        f"# {settings.RESEARCH_FIELD_NAME}研究周报 {now:%Y-%m-%d}\n\n{content}\n\n"
+        f"{preference_section}\n\n## 证据索引\n\n{evidence_index}\n",
         encoding="utf-8",
     )
 

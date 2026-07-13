@@ -621,6 +621,19 @@ class NotifierAgent:
         limitations = self._analysis_text(analysis.get("limitations"))
 
         sections = [("核心结论", summary)]
+        personalization = paper.get("personalization") or {}
+        if personalization.get("active"):
+            mode_label = "影子评分" if personalization.get("mode") == "shadow" else "个性化评分"
+            reasons = "；".join(personalization.get("reasons") or [])
+            sections.append(
+                (
+                    "推荐理由",
+                    f"{mode_label} {personalization.get('personalized_score', paper.get('score', 0)):.1f} "
+                    f"（调整 {personalization.get('adjustment', 0):+.1f}）"
+                    + (f"；{reasons}" if reasons else "")
+                    + ("；探索位" if personalization.get("exploration") else ""),
+                )
+            )
         if methodology:
             sections.append(("方法", methodology))
         if results:

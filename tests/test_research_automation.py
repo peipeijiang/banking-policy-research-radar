@@ -23,7 +23,7 @@ from sources.institutional_rss_source import InstitutionalRssSource
 from sources.repec_series_source import RepecSeriesSource
 from sources.search_agent import SearchAgent
 from sources.worldbank_source import WorldBankSource
-from sync_feedback import parse_feedback
+from sync_feedback import parse_events, parse_feedback
 from notifications.notifier import NotifierAgent, RunResult, WebhookNotifier
 
 
@@ -558,14 +558,25 @@ class ResearchAutomationTests(unittest.TestCase):
         )
         self.assertEqual(result, {"liked": [], "ignored": ["arxiv:1"]})
 
-    def test_feedback_store_boosts_liked_paper(self):
+    def test_feedback_store_defers_likes_to_personalization_engine(self):
         with tempfile.TemporaryDirectory() as tmp:
             path = Path(tmp) / "feedback.json"
             path.write_text('{"liked":["p1"],"ignored":[]}', encoding="utf-8")
             score = SimpleNamespace(total_score=70.0, reasoning="base", is_qualified=False)
             FeedbackStore(path).apply("p1", score)
-            self.assertEqual(score.total_score, 80.0)
-            self.assertTrue(score.is_qualified)
+            self.assertEqual(score.total_score, 70.0)
+            self.assertFalse(score.is_qualified)
+            self.assertIn("个性化引擎", score.reasoning)
+
+    def test_feedback_events_preserve_complete_history(self):
+        events = parse_events(
+            [
+                {"number": 1, "title": "[LIKE] p1", "created_at": "2026-07-01T00:00:00Z"},
+                {"number": 2, "title": "[IGNORE] p1", "created_at": "2026-07-02T00:00:00Z"},
+            ]
+        )
+        self.assertEqual([event["action"] for event in events], ["LIKE", "IGNORE"])
+        self.assertEqual(events[1]["paper_id"], "p1")
 
     def test_github_enricher_filters_unrelated_results(self):
         enricher = GitHubCodeEnricher(token="test")

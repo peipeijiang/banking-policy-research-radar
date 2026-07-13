@@ -33,6 +33,7 @@ from report.daily import Reporter
 from notifications import NotifierAgent, RunResult
 from enrichers import GitHubCodeEnricher
 from library import FeedbackStore, ResearchLibrary
+from personalization import PersonalizationEngine
 
 logger = setup_logger("DailyResearch")
 
@@ -370,6 +371,23 @@ class DailyResearchPipeline:
                 qualified_count = sum(1 for p in scored_papers if p["score_response"].is_qualified)
                 logger.info(f"    [{source}] 评分完成: {qualified_count}/{len(papers)} 篇及格")
 
+            personalization = PersonalizationEngine.from_settings(settings)
+            personalization_rows = [
+                row for rows in scored_papers_by_source.values() for row in rows
+            ]
+            try:
+                personalization.apply(personalization_rows)
+                profile = personalization.profile
+                logger.info(
+                    ">>> 阶段4.4: 个性化画像 %s，模式 %s，有效反馈 %s 条",
+                    "已激活" if profile.get("active") else "冷启动",
+                    profile.get("mode", "shadow"),
+                    profile.get("usable_feedback_count", 0),
+                )
+            except Exception as exc:
+                logger.warning(f"个性化评分失败，继续使用基础排序: {exc}")
+                personalization.enabled = False
+
             qualified_rows = [
                 row
                 for rows in scored_papers_by_source.values()
@@ -609,10 +627,14 @@ class DailyResearchPipeline:
                             "arxiv_id": metadata.arxiv_id,
                             "arxiv_url": metadata.arxiv_url,
                             "fulltext_provenance": metadata.fulltext_provenance,
+                            "authors": metadata.authors,
+                            "abstract": metadata.abstract,
+                            "topics": metadata.topics,
+                            "categories": metadata.categories,
+                            "personalization": p.get("personalization", {}),
                         }
                     )
-            all_scored_flat.sort(key=lambda x: x["score"], reverse=True)
-            top_papers = all_scored_flat[: settings.NOTIFICATION_TOP_N]
+            top_papers = personalization.rank(all_scored_flat, settings.NOTIFICATION_TOP_N)
 
             run_result = RunResult(
                 run_timestamp=datetime.now().strftime("%Y-%m-%d %H:%M:%S"),

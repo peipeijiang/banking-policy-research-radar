@@ -21,12 +21,31 @@ from sources.base_source import PaperMetadata
 from sources.citation_discovery import CitationDiscovery
 from sources.institutional_rss_source import InstitutionalRssSource
 from sources.repec_series_source import RepecSeriesSource
+from sources.search_agent import SearchAgent
 from sources.worldbank_source import WorldBankSource
 from sync_feedback import parse_feedback
 from notifications.notifier import NotifierAgent, RunResult, WebhookNotifier
 
 
 class ResearchAutomationTests(unittest.TestCase):
+    def test_search_agent_marks_repec_history_in_repec_owner(self):
+        agent = SearchAgent.__new__(SearchAgent)
+        repec = Mock()
+        openalex = Mock()
+        agent.sources = {"repec": repec, "openalex": openalex}
+        agent._source_owner = {"imf": "repec"}
+        agent.mark_as_processed("repec:paper", "imf")
+        repec.mark_as_processed.assert_called_once_with("repec:paper")
+        openalex.mark_as_processed.assert_not_called()
+
+    def test_search_agent_reports_pdf_support_from_source_owner(self):
+        agent = SearchAgent.__new__(SearchAgent)
+        repec = Mock()
+        repec.can_download_pdf.return_value = True
+        agent.sources = {"repec": repec}
+        agent._source_owner = {"imf": "repec"}
+        self.assertTrue(agent.can_download_pdf("imf"))
+
     def test_repec_series_keeps_only_free_records_and_direct_pdf(self):
         series_html = '<a href="/p/iza/izadps/dp18753.html">Paper</a>'
         item_html = """

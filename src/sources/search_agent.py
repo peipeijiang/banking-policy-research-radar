@@ -107,6 +107,7 @@ class SearchAgent:
 
         # 初始化数据源
         self.sources: Dict[str, BasePaperSource] = {}
+        self._source_owner: Dict[str, str] = {}
         self._init_sources()
 
     def _get_max_results(self, source: str) -> int:
@@ -125,6 +126,7 @@ class SearchAgent:
                 max_results=self._get_max_results("arxiv"),
                 proxy_dict=arxiv_proxy,
             )
+            self._source_owner["arxiv"] = "arxiv"
             logger.info("[SearchAgent] 已启用 ArXiv 数据源")
 
         # 检查是否启用期刊（通过 OpenAlex）
@@ -159,6 +161,9 @@ class SearchAgent:
                 self.sources["openalex"].session.proxies.update(openalex_proxy)
                 logger.info("[SearchAgent] OpenAlex 已配置网络代理")
             self._journal_codes = journal_codes
+            self._source_owner["openalex"] = "openalex"
+            for journal_code in journal_codes:
+                self._source_owner[journal_code] = "openalex"
             logger.info(
                 f"[SearchAgent] 已启用 OpenAlex 数据源，"
                 f"主题检索: {len(self.openalex_search_terms)} 条，期刊: {journal_codes}"
@@ -180,6 +185,8 @@ class SearchAgent:
                 title_terms=self.dblp_title_terms,
                 max_results=self._get_max_results("dblp"),
             )
+            for venue in self.dblp_venues:
+                self._source_owner[venue] = "dblp"
             logger.info(f"[SearchAgent] 已启用 DBLP 会议源: {self.dblp_venues}")
 
         if "institutional" in self.enabled_sources and self.institutional_feeds:
@@ -188,6 +195,9 @@ class SearchAgent:
                 feeds=self.institutional_feeds,
                 max_results=self._get_max_results("institutional"),
             )
+            for feed in self.institutional_feeds:
+                if feed.get("name"):
+                    self._source_owner[feed["name"]] = "institutional"
             logger.info(
                 f"[SearchAgent] 已启用 {len(self.institutional_feeds)} 个官方机构 RSS 源"
             )
@@ -198,6 +208,7 @@ class SearchAgent:
                 search_terms=self.worldbank_search_terms,
                 max_results=self._get_max_results("worldbank"),
             )
+            self._source_owner["worldbank"] = "worldbank"
             logger.info("[SearchAgent] 已启用世界银行政策研究工作论文源")
 
         if "repec" in self.enabled_sources and self.repec_series:
@@ -206,6 +217,9 @@ class SearchAgent:
                 series=self.repec_series,
                 max_results=self._get_max_results("repec"),
             )
+            for series in self.repec_series:
+                if series.get("name"):
+                    self._source_owner[series["name"]] = "repec"
             logger.info(f"[SearchAgent] 已启用 {len(self.repec_series)} 个 RePEc 免费全文系列")
 
     def fetch_all_papers(self, days: int = 7) -> Dict[str, List[PaperMetadata]]:
@@ -502,13 +516,10 @@ class SearchAgent:
             paper_id: 论文 ID
             source: 数据源名称（arxiv 或期刊代码）
         """
-        # ArXiv 论文
-        if source == "arxiv" and "arxiv" in self.sources:
-            self.sources["arxiv"].mark_as_processed(paper_id)
-        elif source in getattr(self, "dblp_venues", []) and "dblp" in self.sources:
-            self.sources["dblp"].mark_as_processed(paper_id)
-        # 期刊论文（都通过 openalex）
-        elif "openalex" in self.sources:
+        owner = self._source_owner.get(source)
+        if owner and owner in self.sources:
+            self.sources[owner].mark_as_processed(paper_id)
+        elif source == "citation" and "openalex" in self.sources:
             self.sources["openalex"].mark_as_processed(paper_id)
 
     def get_source(self, source_name: str) -> Optional[BasePaperSource]:
@@ -520,9 +531,8 @@ class SearchAgent:
 
     def can_download_pdf(self, source: str) -> bool:
         """检查指定数据源是否支持 PDF 下载"""
-        if source == "arxiv":
-            return True
-        return False  # 期刊默认不支持
+        owner = self._source_owner.get(source)
+        return bool(owner and owner in self.sources and self.sources[owner].can_download_pdf())
 
     def get_enabled_sources(self) -> List[str]:
         """获取所有启用的数据源名称"""

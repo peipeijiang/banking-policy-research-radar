@@ -281,10 +281,10 @@
         "enabled": false
       },
       "wechat_work": {
-        "enabled": true
+        "enabled": false
       },
       "dingtalk": {
-        "enabled": false
+        "enabled": true
       },
       "telegram": {
         "enabled": false

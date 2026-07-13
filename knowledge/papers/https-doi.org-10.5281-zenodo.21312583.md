@@ -1,6 +1,6 @@
 ---
 title: "THEORETICAL FOUNDATIONS OF THE IMPACT OF TAX POLICY ON ECONOMIC GROWTH"
-paper_id: "https://doi.org/10.5281/zenodo.21312584"
+paper_id: "https://doi.org/10.5281/zenodo.21312583"
 source: "openalex"
 published: "2026-07-11T00:00:00"
 score: 18.0
@@ -9,7 +9,7 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policy and Economic Gr
 
 # THEORETICAL FOUNDATIONS OF THE IMPACT OF TAX POLICY ON ECONOMIC GROWTH
 
-[查看原文](https://doi.org/10.5281/zenodo.21312584)
+[查看原文](https://doi.org/10.5281/zenodo.21312583)
 
 ## 一句话结论
 
@@ -21,12 +21,12 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policy and Economic Gr
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-11
 - **相关度评分**：18.0
-- **DOI**：[https://doi.org/10.5281/zenodo.21312584](https://doi.org/10.5281/zenodo.21312584)
+- **DOI**：[https://doi.org/10.5281/zenodo.21312583](https://doi.org/10.5281/zenodo.21312583)
 
 <details open>
 <summary><strong>中文摘要</strong></summary>
 
-税收政策是财政政策的关键工具，影响着投资、生产率及长期经济增长。本文梳理了关于税收政策与经济增长关系的主要理论路径，包括古典理论、新古典理论、内生增长理论、最优税收理论及公共财政理论。研究考察了税收影响投资、劳动力供给、创新及生产率的传导渠道。分析得出结论：税收对增长的影响主要取决于税制设计及税收收入的使用效率，而非整体税负水平。
+税收政策是财政政策的关键工具，影响着投资、生产率及长期经济增长。本文回顾了税收政策与经济增长关系的主要理论方法，包括古典理论、新古典理论、内生增长理论、最优税收理论及公共财政理论。文章考察了税收影响投资、劳动力供给、创新及生产率的传导渠道。分析结论表明，税收对增长的影响主要取决于税制设计及税收收入的有效使用，而非总体税收负担。
 
 </details>
 
@@ -39,4 +39,4 @@ Tax policy is a key instrument of fiscal policy that affects investment, product
 
 ---
 
-_知识库更新时间：2026-07-13T03:20:00.921693_
+_知识库更新时间：2026-07-13T03:50:29.020500_

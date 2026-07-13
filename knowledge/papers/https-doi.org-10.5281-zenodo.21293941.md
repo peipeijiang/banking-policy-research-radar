@@ -1,6 +1,6 @@
 ---
 title: "US Dollar Weakens as Markets Await Key Economic Data and Forex Signals"
-paper_id: "https://doi.org/10.5281/zenodo.21293940"
+paper_id: "https://doi.org/10.5281/zenodo.21293941"
 source: "openalex"
 published: "2026-07-10T00:00:00"
 score: 22.0
@@ -9,7 +9,7 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Economic, financial, and poli
 
 # US Dollar Weakens as Markets Await Key Economic Data and Forex Signals
 
-[查看原文](https://doi.org/10.5281/zenodo.21293940)
+[查看原文](https://doi.org/10.5281/zenodo.21293941)
 
 ## 一句话结论
 
@@ -21,7 +21,7 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Economic, financial, and poli
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-10
 - **相关度评分**：22.0
-- **DOI**：[https://doi.org/10.5281/zenodo.21293940](https://doi.org/10.5281/zenodo.21293940)
+- **DOI**：[https://doi.org/10.5281/zenodo.21293941](https://doi.org/10.5281/zenodo.21293941)
 
 <details open>
 <summary><strong>中文摘要</strong></summary>
@@ -39,4 +39,4 @@ The US dollar slipped as investors turned their attention to upcoming economic d
 
 ---
 
-_知识库更新时间：2026-07-13T03:20:00.921473_
+_知识库更新时间：2026-07-13T03:50:29.020256_

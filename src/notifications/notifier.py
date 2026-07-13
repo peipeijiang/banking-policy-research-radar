@@ -507,7 +507,7 @@ class NotifierAgent:
                 text = NotifierAgent._analysis_text(item)
                 if text:
                     label = labels.get(key, str(key).replace("_", " "))
-                    parts.append(f"{label}：{text}")
+                    parts.append(f"{label}：{text.rstrip('；。')}")
             return "；".join(parts)
         if isinstance(value, list):
             return "；".join(
@@ -536,6 +536,9 @@ class NotifierAgent:
             "posted-content": "预印本",
             "working-paper": "工作论文",
             "report": "研究报告",
+            "edited-book": "学术专著",
+            "book": "学术专著",
+            "monograph": "学术专著",
             "book-chapter": "书籍章节",
         }.get(publication_type, "论文")
         published = paper.get("published_date")

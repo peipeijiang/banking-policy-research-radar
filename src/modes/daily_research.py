@@ -407,6 +407,8 @@ class DailyResearchPipeline:
                     )
                     if not paper.arxiv_id and not paper.fulltext_provenance:
                         for repository in paper.code_repositories:
+                            if not github_enricher.can_supply_paper_pdf(repository):
+                                continue
                             fulltext = github_enricher.find_paper_pdf(
                                 repository.get("full_name", ""), paper.title
                             )

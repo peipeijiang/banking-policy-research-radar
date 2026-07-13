@@ -639,6 +639,34 @@ class ResearchAutomationTests(unittest.TestCase):
         self.assertEqual(result["provider"], "github_author_repository")
         self.assertEqual(result["repository"], "author/repo")
 
+    def test_title_only_possible_repository_cannot_supply_fulltext(self):
+        repository = {
+            "classification": "possible",
+            "confidence": 30,
+            "evidence": [{"type": "title_in_readme", "overlap": 1.0}],
+        }
+
+        self.assertFalse(GitHubCodeEnricher.can_supply_paper_pdf(repository))
+        self.assertTrue(
+            GitHubCodeEnricher.can_supply_paper_pdf(
+                {**repository, "evidence": [{"type": "doi_in_readme"}]}
+            )
+        )
+
+    def test_edited_book_publication_type_is_visible(self):
+        venue, publication_type, date_label, source = NotifierAgent._publication_metadata(
+            {
+                "journal": "Cambridge University Press eBooks",
+                "publication_type": "edited-book",
+                "published_date": "2003-12-04T00:00:00",
+                "source": "citation",
+            }
+        )
+        self.assertEqual(venue, "Cambridge University Press eBooks")
+        self.assertEqual(publication_type, "学术专著")
+        self.assertEqual(date_label, "2003-12-04")
+        self.assertEqual(source, "CITATION")
+
     def test_declared_repository_is_official(self):
         enricher = GitHubCodeEnricher(token="test")
         search = Mock(status_code=200)

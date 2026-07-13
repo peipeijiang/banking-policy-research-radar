@@ -102,6 +102,22 @@ class GitHubCodeEnricher:
                     continue
         return {}
 
+    @staticmethod
+    def can_supply_paper_pdf(repository: Dict) -> bool:
+        """Require identity evidence stronger than a generic title match."""
+        if repository.get("classification") in {"official", "likely"}:
+            return True
+        strong_evidence = {
+            "paper_declared_url",
+            "arxiv_id_in_readme",
+            "doi_in_readme",
+            "author_owner_match",
+        }
+        return any(
+            item.get("type") in strong_evidence
+            for item in repository.get("evidence", [])
+        )
+
     def _verify(
         self, item: Dict, title: str, authors: List[str], arxiv_id: str, doi: str, declared: bool = False
     ) -> Dict:

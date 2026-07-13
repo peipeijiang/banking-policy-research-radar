@@ -215,6 +215,34 @@ class ResearchAutomationTests(unittest.TestCase):
 
         self.assertFalse(agent.notify(result))
 
+    def test_notify_sends_dingtalk_overview_and_paper_card(self):
+        agent = NotifierAgent.__new__(NotifierAgent)
+        agent.settings = SimpleNamespace(
+            NOTIFY_ON_SUCCESS=True,
+            NOTIFY_ON_FAILURE=True,
+            NOTIFY_ATTACH_REPORTS=False,
+            TOKEN_TRACKING_ENABLED=False,
+            RESEARCH_FIELD_NAME="商业银行、财政和货币政策",
+        )
+        notifier = Mock(spec=WebhookNotifier)
+        notifier.platform = "dingtalk"
+        agent.notifiers = [notifier]
+        result = RunResult(
+            success=True,
+            top_papers=[
+                {
+                    "paper_id": "doi:banking",
+                    "title": "Banking Paper",
+                    "source": "openalex",
+                    "score": 80,
+                    "analysis": {"_analysis_basis": "full_text", "summary": "结论"},
+                }
+            ],
+        )
+
+        self.assertTrue(agent.notify(result))
+        self.assertEqual(notifier.send.call_count, 2)
+
     def test_knowledge_report_renders_analysis_as_native_markdown(self):
         report = ResearchLibrary.render_record(
             {
@@ -290,6 +318,36 @@ class ResearchAutomationTests(unittest.TestCase):
         self.assertIn("主要局限", card)
         self.assertNotIn("未获取论文正文", card)
         self.assertLessEqual(len(card.encode("utf-8")), 4000)
+
+    def test_dingtalk_card_keeps_report_and_feedback_links(self):
+        agent = NotifierAgent.__new__(NotifierAgent)
+        with unittest.mock.patch.dict(
+            os.environ,
+            {
+                "FEEDBACK_REPO_URL": "https://github.com/o/r",
+                "FEEDBACK_API_URL": "https://feedback.example.workers.dev",
+                "FEEDBACK_SIGNING_SECRET": "test-secret",
+            },
+        ):
+            card = agent._format_dingtalk_paper_cards(
+                {
+                    "paper_id": "doi:banking",
+                    "title": "Banking Paper",
+                    "source": "openalex",
+                    "score": 80,
+                    "url": "https://example.test/paper",
+                    "analysis": {"_analysis_basis": "full_text", "summary": "结论"},
+                },
+                1,
+                1,
+            )[0]
+
+        self.assertIn("[深度报告]", card)
+        self.assertIn("[查看原文]", card)
+        self.assertIn("[喜欢]", card)
+        self.assertIn("[忽略]", card)
+        self.assertIn("feedback.example.workers.dev/feedback", card)
+        self.assertNotIn("<font", card)
 
     def test_wechat_abstract_card_prominently_marks_missing_full_text(self):
         agent = NotifierAgent.__new__(NotifierAgent)

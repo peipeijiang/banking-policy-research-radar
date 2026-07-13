@@ -458,19 +458,23 @@ class NotifierAgent:
         for notifier in self.notifiers:
             try:
                 platform = self._platform_for_notifier(notifier)
-                if platform == "wechat_work" and result.success:
-                    notifier.send(subject, self._format_wechat_overview(result), attachments)
+                if platform in {"wechat_work", "dingtalk"} and result.success:
+                    if platform == "dingtalk":
+                        overview = self._format_dingtalk_overview(result)
+                        format_cards = self._format_dingtalk_paper_cards
+                    else:
+                        overview = self._format_wechat_overview(result)
+                        format_cards = self._format_wechat_paper_cards
+                    notifier.send(subject, overview, attachments)
                     for index, paper in enumerate(result.top_papers, 1):
                         try:
-                            for card in self._format_wechat_paper_cards(
-                                paper, index, len(result.top_papers)
-                            ):
+                            for card in format_cards(paper, index, len(result.top_papers)):
                                 notifier.send(subject, card)
                                 time.sleep(0.35)
                         except Exception as exc:
                             delivery_succeeded = False
                             logger.error(
-                                f"企业微信论文卡片发送失败 ({paper.get('paper_id')}): {exc}"
+                                f"{platform} 论文卡片发送失败 ({paper.get('paper_id')}): {exc}"
                             )
                     continue
                 body = self._format_body_for_platform(result, platform)
@@ -565,6 +569,22 @@ class NotifierAgent:
             + "\n".join(source_lines)
             + f"\n\n随后发送 Top {len(result.top_papers)} 单篇研究卡片。"
         )
+
+    @staticmethod
+    def _as_dingtalk_markdown(content: str) -> str:
+        """Remove WeCom-only color tags while preserving Markdown links."""
+        return re.sub(r"</?font(?:\s+[^>]*)?>", "", content, flags=re.I)
+
+    def _format_dingtalk_overview(self, result: RunResult) -> str:
+        return self._as_dingtalk_markdown(self._format_wechat_overview(result))
+
+    def _format_dingtalk_paper_cards(
+        self, paper: Dict[str, Any], index: int, total: int
+    ) -> List[str]:
+        return [
+            self._as_dingtalk_markdown(card)
+            for card in self._format_wechat_paper_cards(paper, index, total)
+        ]
 
     def _format_wechat_paper_card(
         self, paper: Dict[str, Any], index: int, total: int

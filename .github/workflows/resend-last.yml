@@ -1,0 +1,38 @@
+name: Resend Latest Research Notification
+
+on:
+  workflow_dispatch:
+    inputs:
+      top:
+        description: 'Number of analyzed papers to resend'
+        required: false
+        default: '5'
+
+jobs:
+  resend:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Resend latest stored batch
+        run: python scripts/resend_last_notification.py --top '${{ inputs.top }}'
+        env:
+          DINGTALK_WEBHOOK_URL: ${{ secrets.DINGTALK_WEBHOOK_URL }}
+          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          FEEDBACK_REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+          FEEDBACK_API_URL: ${{ secrets.FEEDBACK_API_URL }}
+          FEEDBACK_SIGNING_SECRET: ${{ secrets.FEEDBACK_SIGNING_SECRET }}

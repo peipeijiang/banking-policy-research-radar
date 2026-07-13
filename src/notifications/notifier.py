@@ -650,21 +650,24 @@ class NotifierAgent:
         original_link = f"[查看原文]({paper.get('url')})" if paper.get("url") else ""
         links = " · ".join(link for link in (report_link, original_link) if link)
         feedback = self._feedback_links(paper)
-        original_line = "" if title == original_title else f"\n> {original_title}"
-        warning_line = f"\n{basis_warning}" if basis_warning else ""
-        base_header = (
-            f"## {index}/{total} · {title}{original_line}\n"
-            f"<font color=\"{'info' if basis == 'full_text' else 'warning'}\">{level}</font> · "
+        base_header = f"## {index}/{total} · {title}\n"
+        if title != original_title:
+            base_header += f"> {original_title}\n\n"
+        else:
+            base_header += "\n"
+        base_header += (
+            f"<font color=\"{'info' if basis == 'full_text' else 'warning'}\">{level}</font>\n"
             f"`{paper.get('source', '').upper()}` · Score **{paper.get('score', 0):.1f}**"
-            f"{warning_line}"
         )
+        if basis_warning:
+            base_header += f"\n\n> **证据限制**：{basis_warning}"
         blocks = []
         for label, value in sections:
             chunks = self._split_text_by_bytes(value)
             for chunk_index, chunk in enumerate(chunks):
                 suffix = "（续）" if chunk_index else ""
                 blocks.append(f"**{label}{suffix}**\n> {chunk}")
-        footer = "\n".join(value for value in (links, feedback) if value)
+        footer = "\n\n".join(value for value in (links, feedback) if value)
         if footer:
             blocks.append(footer)
 
@@ -683,7 +686,9 @@ class NotifierAgent:
         page_total = len(pages)
         for page_index, page_blocks in enumerate(pages, 1):
             part = f" · {page_index}/{page_total}" if page_total > 1 else ""
-            header = base_header.replace("\n<font", f"{part}\n<font", 1)
+            header = base_header.replace(
+                f"## {index}/{total} ·", f"## {index}/{total}{part} ·", 1
+            )
             content = header + "\n\n" + "\n\n".join(page_blocks)
             rendered.append(WebhookNotifier._truncate_wechat_markdown(content))
         return rendered

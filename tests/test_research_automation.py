@@ -348,6 +348,10 @@ class ResearchAutomationTests(unittest.TestCase):
         self.assertIn("[忽略]", card)
         self.assertIn("feedback.example.workers.dev/feedback", card)
         self.assertNotIn("<font", card)
+        self.assertIn("全文深读\n`OPENALEX` · Score **80.0**", card)
+        self.assertIn("[深度报告]", card)
+        self.assertIn("[查看原文]", card)
+        self.assertIn("\n\n[喜欢]", card)
 
     def test_wechat_abstract_card_prominently_marks_missing_full_text(self):
         agent = NotifierAgent.__new__(NotifierAgent)

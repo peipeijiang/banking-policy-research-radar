@@ -71,6 +71,8 @@ class Settings(BaseSettings):
     OPENALEX_SEARCH_TERMS: List[str] = []  # OpenAlex 标题和摘要检索短语
     DBLP_VENUES: List[str] = []  # DBLP 会议流简称
     DBLP_TITLE_TERMS: List[str] = []  # DBLP 标题预筛词
+    INSTITUTIONAL_FEEDS: List[Dict[str, str]] = []  # 官方机构工作论文 RSS
+    WORLDBANK_SEARCH_TERMS: List[str] = []  # 世界银行政策研究工作论文检索词
 
     # ArXiv 抓取配置
     ARXIV_FETCH_TIMEOUT_SECONDS: int = 180  # 单次抓取硬超时，避免无限阻塞
@@ -321,6 +323,14 @@ class Settings(BaseSettings):
                     if isinstance(dblp_cfg, dict):
                         self.DBLP_VENUES = dblp_cfg.get("venues", [])
                         self.DBLP_TITLE_TERMS = dblp_cfg.get("title_terms", [])
+                if "institutional" in ds_config:
+                    institutional_cfg = ds_config["institutional"]
+                    if isinstance(institutional_cfg, dict):
+                        self.INSTITUTIONAL_FEEDS = institutional_cfg.get("feeds", [])
+                if "worldbank" in ds_config:
+                    worldbank_cfg = ds_config["worldbank"]
+                    if isinstance(worldbank_cfg, dict):
+                        self.WORLDBANK_SEARCH_TERMS = worldbank_cfg.get("search_terms", [])
 
             # 加载关键词配置
             if "keywords" in config:

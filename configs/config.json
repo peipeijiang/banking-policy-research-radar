@@ -5,13 +5,17 @@
     "max_results_per_source": {
       "arxiv": 120,
       "openalex": 60,
+      "institutional": 40,
+      "worldbank": 20,
       "dblp": 30
     }
   },
   "data_sources": {
     "enabled": [
       "arxiv",
-      "openalex"
+      "openalex",
+      "institutional",
+      "worldbank"
     ],
     "journals": [],
     "reports_by_source": true,
@@ -55,6 +59,36 @@
         "credit cycle",
         "bank capital",
         "liquidity regulation"
+      ]
+    },
+    "institutional": {
+      "feeds": [
+        {
+          "name": "ecb",
+          "display_name": "ECB Working Papers",
+          "url": "https://www.ecb.europa.eu/rss/wppub.html"
+        },
+        {
+          "name": "bis",
+          "display_name": "BIS Working Papers",
+          "url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+        },
+        {
+          "name": "federal_reserve",
+          "display_name": "Federal Reserve FEDS and IFDP",
+          "url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+        }
+      ]
+    },
+    "worldbank": {
+      "search_terms": [
+        "commercial banking",
+        "bank lending",
+        "bank regulation",
+        "monetary policy",
+        "fiscal policy",
+        "public debt",
+        "financial stability"
       ]
     }
   },

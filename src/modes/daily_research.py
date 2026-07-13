@@ -218,6 +218,8 @@ class DailyResearchPipeline:
                 openalex_search_terms=settings.OPENALEX_SEARCH_TERMS,
                 dblp_venues=settings.DBLP_VENUES,
                 dblp_title_terms=settings.DBLP_TITLE_TERMS,
+                institutional_feeds=settings.INSTITUTIONAL_FEEDS,
+                worldbank_search_terms=settings.WORLDBANK_SEARCH_TERMS,
                 enable_semantic_scholar=settings.ENABLE_SEMANTIC_SCHOLAR_TLDR,
                 semantic_scholar_api_key=settings.SEMANTIC_SCHOLAR_API_KEY,
                 core_api_key=settings.CORE_API_KEY,

@@ -19,11 +19,67 @@ from library.research_library import ResearchLibrary
 from library.evidence_builder import build_evidence_pack, audit_weekly_digest
 from sources.base_source import PaperMetadata
 from sources.citation_discovery import CitationDiscovery
+from sources.institutional_rss_source import InstitutionalRssSource
+from sources.worldbank_source import WorldBankSource
 from sync_feedback import parse_feedback
 from notifications.notifier import NotifierAgent, RunResult, WebhookNotifier
 
 
 class ResearchAutomationTests(unittest.TestCase):
+    def test_institutional_rss_maps_official_pdf_and_abstract(self):
+        rss = b"""<?xml version="1.0"?><rss version="2.0"><channel>
+        <item><guid>paper-1</guid><title>A theory of bank liquidity requirements</title>
+        <link>https://institution.example/paper.pdf</link>
+        <description>Bank liquidity and regulation.</description>
+        <pubDate>Thu, 09 Jul 2026 11:00:00 GMT</pubDate>
+        </item></channel></rss>"""
+        with tempfile.TemporaryDirectory() as tmp:
+            source = InstitutionalRssSource(
+                Path(tmp),
+                [{"name": "ecb", "display_name": "ECB Working Papers", "url": "https://feed"}],
+            )
+            response = Mock(content=rss)
+            response.raise_for_status.return_value = None
+            source.session.get = Mock(return_value=response)
+
+            papers = source.fetch_papers(days=30)
+
+        self.assertEqual(len(papers), 1)
+        self.assertEqual(papers[0].source, "ecb")
+        self.assertEqual(papers[0].pdf_url, "https://institution.example/paper.pdf")
+        self.assertEqual(
+            papers[0].fulltext_provenance["provider"], "official_institution_rss"
+        )
+
+    def test_worldbank_maps_policy_working_paper(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            source = WorldBankSource(Path(tmp), ["monetary policy"])
+            response = Mock()
+            response.raise_for_status.return_value = None
+            response.json.return_value = {
+                "documents": {
+                    "D1": {
+                        "id": "1",
+                        "display_title": "Monetary Policy and Bank Lending",
+                        "docdt": "2026-07-12T00:00:00Z",
+                        "abstracts": {"cdata!": "Evidence from bank credit."},
+                        "pdfurl": "http://documents.worldbank.org/paper.pdf",
+                        "url": "http://documents.worldbank.org/paper",
+                    },
+                    "facets": {},
+                }
+            }
+            source.session.get = Mock(return_value=response)
+
+            papers = source.fetch_papers(days=30)
+
+        self.assertEqual(len(papers), 1)
+        self.assertEqual(papers[0].paper_id, "worldbank:1")
+        self.assertEqual(papers[0].pdf_url, "https://documents.worldbank.org/paper.pdf")
+        self.assertEqual(
+            papers[0].fulltext_provenance["provider"], "worldbank_documents_api"
+        )
+
     def test_wechat_webhook_rejects_api_error_in_http_200(self):
         response = Mock()
         response.raise_for_status.return_value = None

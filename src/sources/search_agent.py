@@ -13,6 +13,8 @@ from .base_source import BasePaperSource, PaperMetadata
 from .arxiv_source import ArxivSource
 from .openalex_source import OpenAlexSource, JOURNAL_ISSN_MAP
 from .dblp_source import DblpSource
+from .institutional_rss_source import InstitutionalRssSource
+from .worldbank_source import WorldBankSource
 from .semantic_scholar_enricher import SemanticScholarEnricher
 try:
     from enrichers.open_access import OpenAccessResolver
@@ -46,6 +48,8 @@ class SearchAgent:
         openalex_search_terms: List[str] = None,
         dblp_venues: List[str] = None,
         dblp_title_terms: List[str] = None,
+        institutional_feeds: List[Dict[str, str]] = None,
+        worldbank_search_terms: List[str] = None,
         enable_semantic_scholar: bool = True,
         semantic_scholar_api_key: str = None,
         core_api_key: str = None,
@@ -78,6 +82,8 @@ class SearchAgent:
         self.openalex_search_terms = openalex_search_terms or []
         self.dblp_venues = dblp_venues or []
         self.dblp_title_terms = dblp_title_terms or []
+        self.institutional_feeds = institutional_feeds or []
+        self.worldbank_search_terms = worldbank_search_terms or []
         self.open_access_resolver = OpenAccessResolver(
             email=openalex_email or "", core_api_key=core_api_key or ""
         )
@@ -173,6 +179,24 @@ class SearchAgent:
             )
             logger.info(f"[SearchAgent] 已启用 DBLP 会议源: {self.dblp_venues}")
 
+        if "institutional" in self.enabled_sources and self.institutional_feeds:
+            self.sources["institutional"] = InstitutionalRssSource(
+                history_dir=self.history_dir,
+                feeds=self.institutional_feeds,
+                max_results=self._get_max_results("institutional"),
+            )
+            logger.info(
+                f"[SearchAgent] 已启用 {len(self.institutional_feeds)} 个官方机构 RSS 源"
+            )
+
+        if "worldbank" in self.enabled_sources and self.worldbank_search_terms:
+            self.sources["worldbank"] = WorldBankSource(
+                history_dir=self.history_dir,
+                search_terms=self.worldbank_search_terms,
+                max_results=self._get_max_results("worldbank"),
+            )
+            logger.info("[SearchAgent] 已启用世界银行政策研究工作论文源")
+
     def fetch_all_papers(self, days: int = 7) -> Dict[str, List[PaperMetadata]]:
         """
         从所有启用的数据源抓取论文。
@@ -211,6 +235,11 @@ class SearchAgent:
                     papers = self._enrich_dblp_with_openalex(papers)
                     if self.enable_semantic_scholar and self.semantic_scholar_enricher:
                         papers = self._enrich_with_semantic_scholar(papers)
+                    for paper in papers:
+                        results.setdefault(paper.source, []).append(paper)
+
+                elif source_name == "institutional":
+                    papers = source.fetch_papers(days=days)
                     for paper in papers:
                         results.setdefault(paper.source, []).append(paper)
 

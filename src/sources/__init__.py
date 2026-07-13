@@ -13,6 +13,8 @@ from .arxiv_source import ArxivSource, ArxivFetchError
 from .citation_discovery import CitationDiscovery
 from .openalex_source import OpenAlexSource
 from .dblp_source import DblpSource
+from .institutional_rss_source import InstitutionalRssSource
+from .worldbank_source import WorldBankSource
 from .semantic_scholar_enricher import SemanticScholarEnricher
 from .search_agent import SearchAgent
 
@@ -24,6 +26,8 @@ __all__ = [
     "CitationDiscovery",
     "OpenAlexSource",
     "DblpSource",
+    "InstitutionalRssSource",
+    "WorldBankSource",
     "SemanticScholarEnricher",
     "SearchAgent",
 ]

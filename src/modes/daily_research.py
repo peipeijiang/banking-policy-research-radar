@@ -627,6 +627,12 @@ class DailyResearchPipeline:
                             "arxiv_id": metadata.arxiv_id,
                             "arxiv_url": metadata.arxiv_url,
                             "fulltext_provenance": metadata.fulltext_provenance,
+                            "journal": metadata.journal,
+                            "publication_type": metadata.publication_type,
+                            "published_date": (
+                                metadata.published_date.isoformat()
+                                if metadata.published_date else None
+                            ),
                             "authors": metadata.authors,
                             "abstract": metadata.abstract,
                             "topics": metadata.topics,

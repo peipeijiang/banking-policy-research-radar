@@ -234,6 +234,9 @@ class ResearchAutomationTests(unittest.TestCase):
                     "paper_id": "doi:banking",
                     "title": "Banking Paper",
                     "source": "openalex",
+                    "journal": "Journal of Banking & Finance",
+                    "publication_type": "journal-article",
+                    "published_date": "2026-07-13T00:00:00",
                     "score": 80,
                     "analysis": {"_analysis_basis": "full_text", "summary": "结论"},
                 }
@@ -334,6 +337,9 @@ class ResearchAutomationTests(unittest.TestCase):
                     "paper_id": "doi:banking",
                     "title": "Banking Paper",
                     "source": "openalex",
+                    "journal": "Journal of Banking & Finance",
+                    "publication_type": "journal-article",
+                    "published_date": "2026-07-13T00:00:00",
                     "score": 80,
                     "url": "https://example.test/paper",
                     "analysis": {"_analysis_basis": "full_text", "summary": "结论"},
@@ -348,7 +354,10 @@ class ResearchAutomationTests(unittest.TestCase):
         self.assertIn("[忽略]", card)
         self.assertIn("feedback.example.workers.dev/feedback", card)
         self.assertNotIn("<font", card)
-        self.assertIn("全文深读\n`OPENALEX` · Score **80.0**", card)
+        self.assertIn("**期刊 / 会议 / 系列**\n> Journal of Banking & Finance", card)
+        self.assertIn("`期刊论文` · `2026-07-13`", card)
+        self.assertIn("全文深读 · 基础分 **80.0**", card)
+        self.assertIn("发现渠道：OPENALEX", card)
         self.assertIn("[深度报告]", card)
         self.assertIn("[查看原文]", card)
         self.assertIn("\n\n[喜欢]", card)

@@ -516,6 +516,35 @@ class NotifierAgent:
         return " ".join(str(value or "").split())
 
     @staticmethod
+    def _publication_metadata(paper: Dict[str, Any]) -> tuple[str, str, str, str]:
+        source = str(paper.get("source") or "").strip().lower()
+        venue = NotifierAgent._analysis_text(paper.get("journal"))
+        if not venue:
+            venue = {
+                "arxiv": "arXiv 预印本",
+                "openreview": "OpenReview 公开论文",
+                "repec": "RePEc 工作论文系列",
+                "worldbank": "World Bank Policy Research Working Papers",
+                "bis": "Bank for International Settlements",
+            }.get(source, "未识别具体刊物")
+        publication_type = str(paper.get("publication_type") or "").strip().lower()
+        type_label = {
+            "proceedings-article": "会议论文",
+            "journal-article": "期刊论文",
+            "article": "论文",
+            "preprint": "预印本",
+            "posted-content": "预印本",
+            "working-paper": "工作论文",
+            "report": "研究报告",
+            "book-chapter": "书籍章节",
+        }.get(publication_type, "论文")
+        published = paper.get("published_date")
+        if hasattr(published, "isoformat"):
+            published = published.isoformat()
+        date_label = str(published or "").split("T", 1)[0] or "日期未标注"
+        return venue, type_label, date_label, source.upper() or "未标注"
+
+    @staticmethod
     def _split_text_by_bytes(text: str, max_bytes: int = 2400) -> List[str]:
         chunks, current, size = [], [], 0
         for char in text:
@@ -663,14 +692,18 @@ class NotifierAgent:
         original_link = f"[查看原文]({paper.get('url')})" if paper.get("url") else ""
         links = " · ".join(link for link in (report_link, original_link) if link)
         feedback = self._feedback_links(paper)
+        venue, publication_type, published_date, discovery_source = self._publication_metadata(paper)
         base_header = f"## {index}/{total} · {title}\n"
         if title != original_title:
             base_header += f"> {original_title}\n\n"
         else:
             base_header += "\n"
         base_header += (
-            f"<font color=\"{'info' if basis == 'full_text' else 'warning'}\">{level}</font>\n"
-            f"`{paper.get('source', '').upper()}` · Score **{paper.get('score', 0):.1f}**"
+            f"**期刊 / 会议 / 系列**\n> {venue}\n\n"
+            f"`{publication_type}` · `{published_date}`\n"
+            f"<font color=\"{'info' if basis == 'full_text' else 'warning'}\">{level}</font> · "
+            f"基础分 **{paper.get('score', 0):.1f}**\n"
+            f"<font color=\"comment\">发现渠道：{discovery_source}</font>"
         )
         if basis_warning:
             base_header += f"\n\n> **证据限制**：{basis_warning}"

@@ -72,6 +72,7 @@ class Settings(BaseSettings):
     DBLP_VENUES: List[str] = []  # DBLP 会议流简称
     DBLP_TITLE_TERMS: List[str] = []  # DBLP 标题预筛词
     INSTITUTIONAL_FEEDS: List[Dict[str, str]] = []  # 官方机构工作论文 RSS
+    REPEC_SERIES: List[Dict[str, str]] = []  # RePEc 免费工作论文系列
     WORLDBANK_SEARCH_TERMS: List[str] = []  # 世界银行政策研究工作论文检索词
 
     # ArXiv 抓取配置
@@ -331,6 +332,10 @@ class Settings(BaseSettings):
                     worldbank_cfg = ds_config["worldbank"]
                     if isinstance(worldbank_cfg, dict):
                         self.WORLDBANK_SEARCH_TERMS = worldbank_cfg.get("search_terms", [])
+                if "repec" in ds_config:
+                    repec_cfg = ds_config["repec"]
+                    if isinstance(repec_cfg, dict):
+                        self.REPEC_SERIES = repec_cfg.get("series", [])
 
             # 加载关键词配置
             if "keywords" in config:

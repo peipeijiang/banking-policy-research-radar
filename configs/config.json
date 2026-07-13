@@ -6,6 +6,7 @@
       "arxiv": 120,
       "openalex": 60,
       "institutional": 40,
+      "repec": 33,
       "worldbank": 20,
       "dblp": 30
     }
@@ -15,6 +16,7 @@
       "arxiv",
       "openalex",
       "institutional",
+      "repec",
       "worldbank"
     ],
     "journals": [],
@@ -77,6 +79,75 @@
           "name": "federal_reserve",
           "display_name": "Federal Reserve FEDS and IFDP",
           "url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+        },
+        {
+          "name": "bank_of_canada",
+          "display_name": "Bank of Canada Staff Working Papers",
+          "url": "https://www.bankofcanada.ca/feed/?content_type=working-papers&post_type%5B0%5D=post&post_type%5B1%5D=page"
+        },
+        {
+          "name": "econstor",
+          "display_name": "EconStor Open Access Economics",
+          "url": "https://www.econstor.eu/feed/rss_2.0/site"
+        }
+      ]
+    },
+    "repec": {
+      "series": [
+        {
+          "name": "imf",
+          "display_name": "IMF Working Papers",
+          "url": "https://ideas.repec.org/s/imf/imfwpa.html"
+        },
+        {
+          "name": "bank_of_england",
+          "display_name": "Bank of England Staff Working Papers",
+          "url": "https://ideas.repec.org/s/boe/boeewp.html"
+        },
+        {
+          "name": "oecd",
+          "display_name": "OECD Economics Department Working Papers",
+          "url": "https://ideas.repec.org/s/oec/ecoaaa.html"
+        },
+        {
+          "name": "adb",
+          "display_name": "ADB Economics Working Paper Series",
+          "url": "https://ideas.repec.org/s/ris/adbewp.html"
+        },
+        {
+          "name": "iza",
+          "display_name": "IZA Discussion Papers",
+          "url": "https://ideas.repec.org/s/iza/izadps.html"
+        },
+        {
+          "name": "cesifo",
+          "display_name": "CESifo Working Paper Series",
+          "url": "https://ideas.repec.org/s/ces/ceswps.html"
+        },
+        {
+          "name": "new_york_fed",
+          "display_name": "Federal Reserve Bank of New York Staff Reports",
+          "url": "https://ideas.repec.org/s/fip/fednsr.html"
+        },
+        {
+          "name": "chicago_fed",
+          "display_name": "Federal Reserve Bank of Chicago Working Papers",
+          "url": "https://ideas.repec.org/s/fip/fedhwp.html"
+        },
+        {
+          "name": "san_francisco_fed",
+          "display_name": "Federal Reserve Bank of San Francisco Working Papers",
+          "url": "https://ideas.repec.org/s/fip/fedfwp.html"
+        },
+        {
+          "name": "st_louis_fed",
+          "display_name": "Federal Reserve Bank of St. Louis Working Papers",
+          "url": "https://ideas.repec.org/s/fip/fedlwp.html"
+        },
+        {
+          "name": "philadelphia_fed",
+          "display_name": "Federal Reserve Bank of Philadelphia Working Papers",
+          "url": "https://ideas.repec.org/s/fip/fedpwp.html"
         }
       ]
     },

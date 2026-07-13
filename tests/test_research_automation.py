@@ -20,12 +20,87 @@ from library.evidence_builder import build_evidence_pack, audit_weekly_digest
 from sources.base_source import PaperMetadata
 from sources.citation_discovery import CitationDiscovery
 from sources.institutional_rss_source import InstitutionalRssSource
+from sources.repec_series_source import RepecSeriesSource
 from sources.worldbank_source import WorldBankSource
 from sync_feedback import parse_feedback
 from notifications.notifier import NotifierAgent, RunResult, WebhookNotifier
 
 
 class ResearchAutomationTests(unittest.TestCase):
+    def test_repec_series_keeps_only_free_records_and_direct_pdf(self):
+        series_html = '<a href="/p/iza/izadps/dp18753.html">Paper</a>'
+        item_html = """
+        <meta name="handle" content="RePEc:iza:izadps:dp18753">
+        <meta name="freedownload" content="1">
+        <meta name="citation_title" content="Fiscal Policy and Federal Balance">
+        <meta name="citation_abstract" content="Evidence on fiscal transfers.">
+        <meta name="citation_authors" content="Ada One; Bo Two">
+        <meta name="citation_publication_date" content="2026/07/12">
+        <meta name="citation_journal_title" content="IZA Discussion Papers">
+        <input type="radio" name="url" value="https://docs.iza.org/dp18753.pdf">
+        """
+        with tempfile.TemporaryDirectory() as tmp:
+            source = RepecSeriesSource(
+                Path(tmp),
+                [{"name": "iza", "display_name": "IZA Discussion Papers", "url": "https://ideas.repec.org/s/iza/izadps.html"}],
+            )
+            series_response = Mock(text=series_html, url="https://ideas.repec.org/s/iza/izadps.html")
+            series_response.raise_for_status.return_value = None
+            item_response = Mock(text=item_html, url="https://ideas.repec.org/p/iza/izadps/dp18753.html")
+            item_response.raise_for_status.return_value = None
+            source.session.get = Mock(side_effect=[series_response, item_response])
+
+            papers = source.fetch_papers(days=30)
+
+        self.assertEqual(len(papers), 1)
+        self.assertEqual(papers[0].source, "iza")
+        self.assertEqual(papers[0].pdf_url, "https://docs.iza.org/dp18753.pdf")
+        self.assertEqual(papers[0].fulltext_provenance["provider"], "repec_free_fulltext")
+
+    def test_repec_series_rejects_restricted_record(self):
+        series_html = '<a href="/p/test/series/1.html">Paper</a>'
+        item_html = '<meta name="handle" content="RePEc:test:series:1"><meta name="freedownload" content="0"><meta name="citation_title" content="Restricted">'
+        with tempfile.TemporaryDirectory() as tmp:
+            source = RepecSeriesSource(
+                Path(tmp), [{"name": "test", "url": "https://ideas.repec.org/s/test/series.html"}]
+            )
+            first = Mock(text=series_html, url="https://ideas.repec.org/s/test/series.html")
+            first.raise_for_status.return_value = None
+            second = Mock(text=item_html, url="https://ideas.repec.org/p/test/series/1.html")
+            second.raise_for_status.return_value = None
+            source.session.get = Mock(side_effect=[first, second])
+            papers = source.fetch_papers(days=30)
+        self.assertEqual(papers, [])
+
+    def test_repec_series_uses_current_year_section_before_featured_links(self):
+        year = datetime.now().year
+        html = f'''<a href="/p/test/series/old.html">Featured old paper</a>
+        <h3>{year}</h3><div><a href="/p/test/series/new.html">Newest paper</a></div>
+        <h3>{year - 1}</h3><a href="/p/test/series/last-year.html">Older paper</a>'''
+        with tempfile.TemporaryDirectory() as tmp:
+            source = RepecSeriesSource(Path(tmp), [])
+            response = Mock(text=html, url="https://ideas.repec.org/s/test/series.html")
+            response.raise_for_status.return_value = None
+            source.session.get = Mock(return_value=response)
+            links = source._item_links("https://ideas.repec.org/s/test/series.html", 5)
+        self.assertEqual(links, ["https://ideas.repec.org/p/test/series/new.html"])
+
+    def test_repec_series_rejects_old_year_when_date_is_imprecise(self):
+        series_html = '<a href="/p/test/series/old.html">Old paper</a>'
+        item_html = '''<meta name="handle" content="RePEc:test:series:old">
+        <meta name="freedownload" content="1"><meta name="citation_year" content="1996">
+        <meta name="citation_publication_date" content="November 1996">
+        <meta name="citation_title" content="Old paper"><input name="url" value="https://example.test/old.pdf">'''
+        with tempfile.TemporaryDirectory() as tmp:
+            source = RepecSeriesSource(Path(tmp), [{"name": "test", "url": "https://ideas.repec.org/s/test/series.html"}])
+            first = Mock(text=series_html, url="https://ideas.repec.org/s/test/series.html")
+            first.raise_for_status.return_value = None
+            second = Mock(text=item_html, url="https://ideas.repec.org/p/test/series/old.html")
+            second.raise_for_status.return_value = None
+            source.session.get = Mock(side_effect=[first, second])
+            papers = source.fetch_papers(days=14)
+        self.assertEqual(papers, [])
+
     def test_institutional_rss_maps_official_pdf_and_abstract(self):
         rss = b"""<?xml version="1.0"?><rss version="2.0"><channel>
         <item><guid>paper-1</guid><title>A theory of bank liquidity requirements</title>

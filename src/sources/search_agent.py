@@ -14,6 +14,7 @@ from .arxiv_source import ArxivSource
 from .openalex_source import OpenAlexSource, JOURNAL_ISSN_MAP
 from .dblp_source import DblpSource
 from .institutional_rss_source import InstitutionalRssSource
+from .repec_series_source import RepecSeriesSource
 from .worldbank_source import WorldBankSource
 from .semantic_scholar_enricher import SemanticScholarEnricher
 try:
@@ -49,6 +50,7 @@ class SearchAgent:
         dblp_venues: List[str] = None,
         dblp_title_terms: List[str] = None,
         institutional_feeds: List[Dict[str, str]] = None,
+        repec_series: List[Dict[str, str]] = None,
         worldbank_search_terms: List[str] = None,
         enable_semantic_scholar: bool = True,
         semantic_scholar_api_key: str = None,
@@ -83,6 +85,7 @@ class SearchAgent:
         self.dblp_venues = dblp_venues or []
         self.dblp_title_terms = dblp_title_terms or []
         self.institutional_feeds = institutional_feeds or []
+        self.repec_series = repec_series or []
         self.worldbank_search_terms = worldbank_search_terms or []
         self.open_access_resolver = OpenAccessResolver(
             email=openalex_email or "", core_api_key=core_api_key or ""
@@ -197,6 +200,14 @@ class SearchAgent:
             )
             logger.info("[SearchAgent] 已启用世界银行政策研究工作论文源")
 
+        if "repec" in self.enabled_sources and self.repec_series:
+            self.sources["repec"] = RepecSeriesSource(
+                history_dir=self.history_dir,
+                series=self.repec_series,
+                max_results=self._get_max_results("repec"),
+            )
+            logger.info(f"[SearchAgent] 已启用 {len(self.repec_series)} 个 RePEc 免费全文系列")
+
     def fetch_all_papers(self, days: int = 7) -> Dict[str, List[PaperMetadata]]:
         """
         从所有启用的数据源抓取论文。
@@ -239,6 +250,11 @@ class SearchAgent:
                         results.setdefault(paper.source, []).append(paper)
 
                 elif source_name == "institutional":
+                    papers = source.fetch_papers(days=days)
+                    for paper in papers:
+                        results.setdefault(paper.source, []).append(paper)
+
+                elif source_name == "repec":
                     papers = source.fetch_papers(days=days)
                     for paper in papers:
                         results.setdefault(paper.source, []).append(paper)

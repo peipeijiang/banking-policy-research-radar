@@ -1,0 +1,40 @@
+name: Weekly Research Synthesis
+
+on:
+  schedule:
+    - cron: '0 1 * * 1'
+  workflow_dispatch:
+
+jobs:
+  synthesis:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Create runtime configuration
+        run: |
+          cat > .env << 'ENVEOF'
+          SMART_LLM__API_KEY=${{ secrets.SMART_LLM_API_KEY }}
+          SMART_LLM__BASE_URL=${{ secrets.SMART_LLM_BASE_URL }}
+          SMART_LLM__MODEL_NAME=${{ secrets.SMART_LLM_MODEL_NAME }}
+          SMART_LLM__TEMPERATURE=${{ secrets.SMART_LLM_TEMPERATURE }}
+          WECHAT_WEBHOOK_URL=${{ secrets.WECHAT_WEBHOOK_URL }}
+          ENVEOF
+      - name: Build and deliver weekly digest
+        run: python scripts/build_weekly_digest.py
+        env:
+          FEEDBACK_REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+      - name: Commit weekly digest
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add knowledge/reports/weekly/ knowledge/evidence/
+          git diff --cached --quiet || git commit -m "chore: publish weekly research digest"
+          git push

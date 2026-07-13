@@ -1,0 +1,317 @@
+{
+  // ==================================================
+  // Search Configuration
+  // ==================================================
+  "search_settings": {
+    "search_days": 3,
+    "max_results": 120,
+    "max_results_per_source": {
+      "arxiv": 120,
+      "openalex": 60,
+      "dblp": 30
+    }
+  },
+
+  // ==================================================
+  // Data Source Configuration
+  // ==================================================
+  "data_sources": {
+    "enabled": [
+      "arxiv",
+      "openalex",
+      "dblp"
+    ],
+    "journals": [],
+    "reports_by_source": true,
+    "arxiv": {
+      "fetch_timeout_seconds": 180
+    },
+    "openalex": {
+      "search_terms": [
+        "recommender system",
+        "sequential recommendation",
+        "generative recommendation",
+        "LLM recommendation",
+        "multimodal recommendation",
+        "conversational recommendation",
+        "recommendation agent",
+        "click-through rate prediction"
+      ]
+    },
+    "dblp": {
+      "venues": ["recsys", "sigir", "wsdm", "kdd", "www", "cikm"],
+      "title_terms": [
+        "recommend",
+        "ranking",
+        "reranking",
+        "user modeling",
+        "personalization",
+        "click through",
+        "click-through",
+        "conversion rate",
+        "collaborative filtering"
+      ]
+    }
+  },
+
+  // ==================================================
+  // Run Lock Configuration
+  // ==================================================
+  "run_lock": {
+    "max_age_hours": 12
+  },
+
+  // ==================================================
+  // ArXiv Target Domain Configuration
+  // ==================================================
+  "target_domains": {
+    "domains": [
+      "cs.IR",
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+
+  // ==================================================
+  // Keyword Configuration
+  // ==================================================
+  "keywords": {
+    "primary_keywords": {
+      "weight": 1.0,
+      "keywords": [
+        "recommender system",
+        "recommendation system",
+        "sequential recommendation",
+        "generative recommendation",
+        "large language model recommendation",
+        "LLM-based recommendation",
+        "recommendation agent",
+        "multimodal recommendation",
+        "conversational recommendation",
+        "ranking and reranking",
+        "user modeling",
+        "click-through rate prediction",
+        "causal recommendation",
+        "fairness in recommendation"
+      ]
+    },
+    "enable_reference_extraction": false,
+    "reference_keywords_config": {
+      "max_keywords": 10,
+      "similarity_threshold": 0.75,
+      "weight_distribution": {
+        "high_importance": {
+          "weight": 1.0,
+          "count": 3
+        },
+        "medium_importance": {
+          "weight": 0.2,
+          "count": 5
+        },
+        "low_importance": {
+          "weight": 0.1,
+          "count": 2
+        }
+      }
+    },
+    "research_context": "持续跟踪推荐系统领域的最新学术研究，重点关注序列推荐、生成式推荐、LLM 与推荐系统结合、推荐智能体、多模态推荐、对话式推荐、排序与重排、用户建模、CTR/CVR 预测，以及推荐系统的因果性、公平性、鲁棒性和工业落地。优先选择有明确方法创新、可靠实验、公开代码或可复现细节的工作。"
+  },
+
+  // ==================================================
+  // Scoring Configuration
+  // ==================================================
+  "scoring_settings": {
+    "keyword_relevance_score": {
+      "max_score_per_keyword": 10
+    },
+    "author_bonus": {
+      "enabled": false,
+      "expert_authors": [],
+      "bonus_points": 5.0
+    },
+    "passing_score_formula": {
+      "base_score": 1.5,
+      "weight_coefficient": 2.5
+    },
+    "include_all_in_report": true
+  },
+
+  // ==================================================
+  // Path Configuration
+  // ==================================================
+  "paths": {
+    "data_dir": "data",
+    "reference_pdfs": "data/reference_pdfs",
+    "reports": "data/reports",
+    "downloaded_pdfs": "data/downloaded_pdfs",
+    "history_dir": "data/history"
+  },
+
+  // ==================================================
+  // Keyword Trend Tracking Configuration
+  // ==================================================
+  "keyword_tracker": {
+    "enabled": true,
+    "database": {
+      "path": "data/keywords/keywords.db"
+    },
+    "normalization": {
+      "enabled": true,
+      "batch_size": 25
+    },
+    "trend_view": {
+      "default_days": 30
+    },
+    "charts": {
+      "bar_chart": {
+        "top_n": 15
+      },
+      "trend_chart": {
+        "top_n": 5
+      }
+    },
+    "report": {
+      "enabled": true,
+      "frequency": "weekly"
+    }
+  },
+
+  // ==================================================
+  // Notification Configuration
+  // ==================================================
+  "notifications": {
+    "enabled": true,
+    "on_success": true,
+    "on_failure": true,
+    "attach_reports": false,
+    "top_n": 5,
+    "channels": {
+      "email": {
+        "enabled": false
+      },
+      "wechat_work": {
+        "enabled": true
+      },
+      "dingtalk": {
+        "enabled": false
+      },
+      "telegram": {
+        "enabled": false
+      },
+      "slack": {
+        "enabled": false
+      },
+      "generic_webhook": {
+        "enabled": false
+      }
+    }
+  },
+
+  // ==================================================
+  // Retry Configuration
+  // ==================================================
+  "retry": {
+    "max_attempts": 5,
+    "min_wait": 2,
+    "max_wait": 60
+  },
+
+  // ==================================================
+  // Logging Configuration
+  // ==================================================
+  "logging": {
+    "rotation_type": "time",
+    "keep_days": 30
+  },
+
+  // ==================================================
+  // Concurrency Configuration
+  // ==================================================
+  "concurrency": {
+    "enabled": true,
+    "workers": 2
+  },
+
+  // ==================================================
+  // PDF Parser Configuration
+  // ==================================================
+  "pdf_parser": {
+    "mode": "mineru",
+    "mineru_model_version": "vlm",
+    "poll_interval": 3,
+    "poll_timeout": 300
+  },
+
+  // ==================================================
+  // Report Configuration
+  // ==================================================
+  "report_settings": {
+    "enable_html_report": true,
+    "enable_markdown_report": true
+  },
+
+  // ==================================================
+  // Auto-update Configuration
+  // ==================================================
+  "auto_update": {
+    "enabled": false
+  },
+
+  // ==================================================
+  // Token Tracking Configuration
+  // ==================================================
+  "token_tracking": {
+    "enabled": true
+  },
+
+  // ==================================================
+  // Network Proxy Configuration
+  // ==================================================
+  "proxy": {
+    "enabled": false,
+    "url": "",
+    "no_proxy": "localhost,127.0.0.1",
+    "scope": {
+      "arxiv": true,
+      "openalex": false,
+      "semantic_scholar": false,
+      "llm_api": false,
+      "notifications": false,
+      "update_check": false
+    }
+  },
+
+  // ==================================================
+  // WebDAV Sync Configuration
+  // ==================================================
+  "webdav": {
+    "enabled": false,
+    "remote_path": "/arxiv-daily-researcher/",
+    "sync_mode": "after_report",
+    "cron_schedule": "0 23 * * *",
+    "sync_configs": true,
+    "sync_history": false,
+    "sync_keywords": false,
+    "sync_reports": false
+  },
+
+  // ==================================================
+  // Trend Research Mode Configuration
+  // ==================================================
+  "trend_research": {
+    "default_date_range_days": 365,
+    "max_results": 500,
+    "sort_order": "ascending",
+    "report_position": "end",
+    "generate_tldr": true,
+    "tldr_batch_size": 10,
+    "output_formats": [
+      "markdown",
+      "html"
+    ],
+    "enabled_skills": [
+      "comprehensive_analysis"
+    ]
+  }
+}

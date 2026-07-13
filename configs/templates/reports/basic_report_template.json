@@ -1,0 +1,128 @@
+{
+  "version": "1.0",
+  // 基本报告模板配置 - 控制每篇论文的基本信息展示
+
+  "global": {
+    // Admonition语法风格：mkdocs使用 !!! note 语法，github使用 > [!NOTE] 语法
+    "admonition_style": "mkdocs",  // 可选值: "mkdocs" | "github"
+  },
+
+  // 报告模块配置 - 按order字段排序显示
+  // 顺序: 元数据(含链接) -> 评分 -> S2 TLDR -> AI TLDR -> 摘要翻译 -> 原文摘要 -> 关键词
+  "modules": [
+    {
+      "id": "metadata",
+      "name": "论文元数据",
+      "enabled": true,
+      "order": 1,
+      "format": "list",  // 可选: "table" | "list" | "inline"
+      "format_options": ["table", "list", "inline"],
+      "collapsible": false,
+      "fields": {
+        "title": { "enabled": false, "label": "标题", "as_heading": false, "heading_level": 3 },
+        "authors": { "enabled": true, "label": "作者" },
+        "journal": { "enabled": true, "label": "期刊/来源" },
+        "published_date": { "enabled": true, "label": "发布日期" },
+        "cited_by_count": { "enabled": true, "label": "OpenAlex引用数" },
+        "influential_citation_count": { "enabled": true, "label": "高影响力引用" },
+        "url": { "enabled": true, "label": "链接" },
+        "doi": { "enabled": true, "label": "DOI" }
+      }
+    },
+    {
+      "id": "scoring",
+      "name": "评分结果",
+      "enabled": true,
+      "order": 2,
+      "format": "table",  // 可选: "table" | "list"
+      "format_options": ["table", "list"],
+      "collapsible": true,
+      "collapsible_default_open": false,
+      "show_details": true,
+      "show_reasoning": true,
+      "label": "评分详情"
+    },
+    {
+      "id": "tldr_semantic_scholar",
+      "name": "Semantic Scholar TLDR",
+      "enabled": true,
+      "order": 3,
+      "format": "admonition",  // 可选: "admonition" | "quote" | "inline"
+      "format_options": ["admonition", "quote", "inline"],
+      "admonition_type": "info",
+      "collapsible": false,
+      "label": "Semantic Scholar TL;DR"
+    },
+    {
+      "id": "tldr_ai",
+      "name": "AI生成TLDR",
+      "enabled": true,
+      "order": 4,
+      "format": "admonition",  // 可选: "admonition" | "quote" | "inline"
+      "format_options": ["admonition", "quote", "inline"],
+      "admonition_type": "tip",
+      "collapsible": false,
+      "label": "AI TL;DR",
+      "prompt": "用一句话总结论文研究的核心问题和主要结果，要求简洁精炼，突出创新点。"
+    },
+    {
+      "id": "abstract_cn",
+      "name": "摘要中文翻译",
+      "enabled": true,
+      "order": 5,
+      "format": "quote",  // 可选: "quote" | "admonition" | "plain"
+      "format_options": ["quote", "admonition", "plain"],
+      "collapsible": true,
+      "collapsible_default_open": true,
+      "admonition_type": "note",
+      "label": "摘要翻译"
+    },
+    {
+      "id": "abstract_original",
+      "name": "原文摘要",
+      "enabled": true,
+      "order": 6,
+      "format": "quote",  // 可选: "quote" | "admonition" | "plain"
+      "format_options": ["quote", "admonition", "plain"],
+      "collapsible": true,
+      "collapsible_default_open": false,
+      "admonition_type": "abstract",
+      "label": "摘要 (Abstract)"
+    },
+    {
+      "id": "extracted_keywords",
+      "name": "提取的关键词",
+      "enabled": true,
+      "order": 7,
+      "format": "inline",  // 可选: "inline" | "list"
+      "format_options": ["inline", "list"],
+      "collapsible": false,
+      "label": "关键词"
+    }
+  ],
+
+  // AI提示词配置
+  "prompts": {
+    "tldr_generation": {
+      "system": "你是一名学术论文分析专家。",
+      "user_template": "请用一句话总结以下论文的核心研究问题和主要结果：\n\n标题：{title}\n摘要：{abstract}\n\n要求：{custom_prompt}",
+    },
+    "abstract_translation": {
+      "system": "你是一名专业的学术翻译。",
+      "user_template": "请将以下学术论文摘要翻译为中文。要求：\n1. 保持学术术语的准确性\n2. 语句通顺流畅\n3. 保留专业名词的英文（可在首次出现时标注）\n\n英文摘要：\n{abstract}\n\n请直接输出中文翻译，不要添加任何说明或标记。",
+    }
+  },
+
+  // 报告布局配置
+  "layout": {
+    "report_title_template": "📊 {source_name} 研究报告 ({date})",
+    "qualified_section_title": "⭐ 及格论文详细分析",
+    "all_papers_section_title": "📋 所有论文列表",
+    "show_qualified_section": true,
+    "show_all_papers_section": true,
+    "show_config_section": true,
+    "show_stats_section": true,
+    "qualified_icon": "✅",
+    "unqualified_icon": "❌",
+  }
+}

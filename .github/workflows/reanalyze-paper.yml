@@ -1,0 +1,63 @@
+name: Reanalyze One Paper
+
+on:
+  workflow_dispatch:
+    inputs:
+      paper_id:
+        description: Stored paper ID
+        required: true
+      pdf_url:
+        description: Verified public PDF URL
+        required: true
+      provider:
+        description: Full-text provenance label
+        required: false
+        default: manual_verified_open_access
+
+jobs:
+  reanalyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Create analysis environment
+        run: |
+          cat > .env << 'ENVEOF'
+          CHEAP_LLM__API_KEY=${{ secrets.CHEAP_LLM_API_KEY }}
+          CHEAP_LLM__BASE_URL=${{ secrets.CHEAP_LLM_BASE_URL }}
+          CHEAP_LLM__MODEL_NAME=${{ secrets.CHEAP_LLM_MODEL_NAME }}
+          SMART_LLM__API_KEY=${{ secrets.SMART_LLM_API_KEY }}
+          SMART_LLM__BASE_URL=${{ secrets.SMART_LLM_BASE_URL }}
+          SMART_LLM__MODEL_NAME=${{ secrets.SMART_LLM_MODEL_NAME }}
+          MINERU_API_KEY=${{ secrets.MINERU_API_KEY }}
+          MINERU_MODEL_VERSION=vlm
+          ENVEOF
+
+      - name: Reanalyze paper from full text
+        run: |
+          python scripts/reanalyze_paper.py \
+            --paper-id '${{ inputs.paper_id }}' \
+            --pdf-url '${{ inputs.pdf_url }}' \
+            --provider '${{ inputs.provider }}'
+
+      - name: Commit updated knowledge
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add knowledge/
+          git diff --cached --quiet || git commit -m "chore: reanalyze paper from full text"
+          git push

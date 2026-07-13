@@ -1,0 +1,6 @@
+name = "arxiv-research-feedback"
+main = "src/index.js"
+compatibility_date = "2026-07-12"
+
+[vars]
+GITHUB_REPOSITORY = "peipeijiang/arxiv-daily-researcher"

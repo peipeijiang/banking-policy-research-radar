@@ -46,6 +46,17 @@ class ResearchAutomationTests(unittest.TestCase):
         agent._source_owner = {"imf": "repec"}
         self.assertTrue(agent.can_download_pdf("imf"))
 
+    def test_search_agent_migrates_legacy_repec_history(self):
+        agent = SearchAgent.__new__(SearchAgent)
+        openalex = Mock()
+        openalex.history = {"repec:paper": "2026-07-13", "https://openalex.org/W1": "2026-07-13"}
+        repec = Mock()
+        repec.is_processed.return_value = False
+        agent.sources = {"openalex": openalex, "repec": repec}
+        agent._source_owner = {"imf": "repec"}
+        self.assertEqual(agent._migrate_legacy_source_history(), 1)
+        repec.mark_as_processed.assert_called_once_with("repec:paper")
+
     def test_repec_series_keeps_only_free_records_and_direct_pdf(self):
         series_html = '<a href="/p/iza/izadps/dp18753.html">Paper</a>'
         item_html = """

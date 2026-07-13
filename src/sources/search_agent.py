@@ -109,6 +109,28 @@ class SearchAgent:
         self.sources: Dict[str, BasePaperSource] = {}
         self._source_owner: Dict[str, str] = {}
         self._init_sources()
+        self._migrate_legacy_source_history()
+
+    def _migrate_legacy_source_history(self) -> int:
+        """Move IDs written to OpenAlex before source ownership was tracked."""
+        openalex = self.sources.get("openalex")
+        if not openalex:
+            return 0
+        migrated = 0
+        for source_label, owner in self._source_owner.items():
+            if owner not in {"institutional", "repec", "worldbank"}:
+                continue
+            target = self.sources.get(owner)
+            if not target:
+                continue
+            prefix = "repec:" if owner == "repec" else f"{source_label}:"
+            for paper_id in openalex.history:
+                if paper_id.startswith(prefix) and not target.is_processed(paper_id):
+                    target.mark_as_processed(paper_id)
+                    migrated += 1
+        if migrated:
+            logger.info(f"[SearchAgent] 已迁移 {migrated} 条旧版多源历史记录")
+        return migrated
 
     def _get_max_results(self, source: str) -> int:
         """获取指定数据源的最大结果数，优先使用单独配置，否则回退到全局默认值。"""

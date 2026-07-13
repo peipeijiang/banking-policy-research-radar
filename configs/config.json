@@ -1,7 +1,4 @@
 {
-  // ==================================================
-  // Search Configuration
-  // ==================================================
   "search_settings": {
     "search_days": 3,
     "max_results": 120,
@@ -11,15 +8,10 @@
       "dblp": 30
     }
   },
-
-  // ==================================================
-  // Data Source Configuration
-  // ==================================================
   "data_sources": {
     "enabled": [
       "arxiv",
-      "openalex",
-      "dblp"
+      "openalex"
     ],
     "journals": [],
     "reports_by_source": true,
@@ -28,72 +20,81 @@
     },
     "openalex": {
       "search_terms": [
-        "recommender system",
-        "sequential recommendation",
-        "generative recommendation",
-        "LLM recommendation",
-        "multimodal recommendation",
-        "conversational recommendation",
-        "recommendation agent",
-        "click-through rate prediction"
+        "commercial banking",
+        "bank lending",
+        "bank regulation",
+        "monetary policy",
+        "central banking",
+        "inflation",
+        "interest rates",
+        "fiscal policy",
+        "public debt",
+        "fiscal-monetary policy interaction"
       ]
     },
     "dblp": {
-      "venues": ["recsys", "sigir", "wsdm", "kdd", "www", "cikm"],
+      "venues": [],
       "title_terms": [
-        "recommend",
-        "ranking",
-        "reranking",
-        "user modeling",
-        "personalization",
-        "click through",
-        "click-through",
-        "conversion rate",
-        "collaborative filtering"
+        "commercial banking",
+        "bank lending",
+        "bank risk management",
+        "bank regulation",
+        "financial intermediation",
+        "monetary policy",
+        "central banking",
+        "interest rates",
+        "inflation",
+        "quantitative easing",
+        "fiscal policy",
+        "government spending",
+        "taxation",
+        "public debt",
+        "fiscal-monetary interaction",
+        "macroprudential policy",
+        "financial stability",
+        "credit cycle",
+        "bank capital",
+        "liquidity regulation"
       ]
     }
   },
-
-  // ==================================================
-  // Run Lock Configuration
-  // ==================================================
   "run_lock": {
     "max_age_hours": 12
   },
-
-  // ==================================================
-  // ArXiv Target Domain Configuration
-  // ==================================================
   "target_domains": {
     "domains": [
-      "cs.IR",
-      "cs.LG",
-      "cs.AI",
-      "cs.CL"
+      "econ.GN",
+      "econ.EM",
+      "econ.TH",
+      "q-fin.EC",
+      "q-fin.RM",
+      "q-fin.GN"
     ]
   },
-
-  // ==================================================
-  // Keyword Configuration
-  // ==================================================
   "keywords": {
     "primary_keywords": {
       "weight": 1.0,
       "keywords": [
-        "recommender system",
-        "recommendation system",
-        "sequential recommendation",
-        "generative recommendation",
-        "large language model recommendation",
-        "LLM-based recommendation",
-        "recommendation agent",
-        "multimodal recommendation",
-        "conversational recommendation",
-        "ranking and reranking",
-        "user modeling",
-        "click-through rate prediction",
-        "causal recommendation",
-        "fairness in recommendation"
+        "commercial banking",
+        "bank lending",
+        "bank risk management",
+        "bank regulation",
+        "financial intermediation",
+        "monetary policy",
+        "central banking",
+        "interest rates",
+        "inflation",
+        "quantitative easing",
+        "fiscal policy",
+        "government spending",
+        "taxation",
+        "public debt",
+        "fiscal-monetary interaction",
+        "macroprudential policy",
+        "financial stability",
+        "credit cycle",
+        "bank capital",
+        "liquidity regulation"
       ]
     },
     "enable_reference_extraction": false,
@@ -115,12 +116,8 @@
         }
       }
     },
-    "research_context": "持续跟踪推荐系统领域的最新学术研究，重点关注序列推荐、生成式推荐、LLM 与推荐系统结合、推荐智能体、多模态推荐、对话式推荐、排序与重排、用户建模、CTR/CVR 预测，以及推荐系统的因果性、公平性、鲁棒性和工业落地。优先选择有明确方法创新、可靠实验、公开代码或可复现细节的工作。"
+    "research_context": "持续跟踪商业银行、财政政策与货币政策领域的最新学术研究，重点关注银行信贷与风险承担、资本和流动性监管、金融中介、中央银行政策工具、利率与通胀、量化宽松、财政支出与税收、公共债务、财政与货币政策协调、宏观审慎政策、金融稳定和信用周期。优先选择具有明确识别策略、可靠数据、稳健性检验、政策含义以及公开全文或可复现材料的研究。"
   },
-
-  // ==================================================
-  // Scoring Configuration
-  // ==================================================
   "scoring_settings": {
     "keyword_relevance_score": {
       "max_score_per_keyword": 10
@@ -136,10 +133,6 @@
     },
     "include_all_in_report": true
   },
-
-  // ==================================================
-  // Path Configuration
-  // ==================================================
   "paths": {
     "data_dir": "data",
     "reference_pdfs": "data/reference_pdfs",
@@ -147,10 +140,6 @@
     "downloaded_pdfs": "data/downloaded_pdfs",
     "history_dir": "data/history"
   },
-
-  // ==================================================
-  // Keyword Trend Tracking Configuration
-  // ==================================================
   "keyword_tracker": {
     "enabled": true,
     "database": {
@@ -176,10 +165,6 @@
       "frequency": "weekly"
     }
   },
-
-  // ==================================================
-  // Notification Configuration
-  // ==================================================
   "notifications": {
     "enabled": true,
     "on_success": true,
@@ -207,67 +192,35 @@
       }
     }
   },
-
-  // ==================================================
-  // Retry Configuration
-  // ==================================================
   "retry": {
     "max_attempts": 5,
     "min_wait": 2,
     "max_wait": 60
   },
-
-  // ==================================================
-  // Logging Configuration
-  // ==================================================
   "logging": {
     "rotation_type": "time",
     "keep_days": 30
   },
-
-  // ==================================================
-  // Concurrency Configuration
-  // ==================================================
   "concurrency": {
     "enabled": true,
     "workers": 2
   },
-
-  // ==================================================
-  // PDF Parser Configuration
-  // ==================================================
   "pdf_parser": {
     "mode": "mineru",
     "mineru_model_version": "vlm",
     "poll_interval": 3,
     "poll_timeout": 300
   },
-
-  // ==================================================
-  // Report Configuration
-  // ==================================================
   "report_settings": {
     "enable_html_report": true,
     "enable_markdown_report": true
   },
-
-  // ==================================================
-  // Auto-update Configuration
-  // ==================================================
   "auto_update": {
     "enabled": false
   },
-
-  // ==================================================
-  // Token Tracking Configuration
-  // ==================================================
   "token_tracking": {
     "enabled": true
   },
-
-  // ==================================================
-  // Network Proxy Configuration
-  // ==================================================
   "proxy": {
     "enabled": false,
     "url": "",
@@ -281,10 +234,6 @@
       "update_check": false
     }
   },
-
-  // ==================================================
-  // WebDAV Sync Configuration
-  // ==================================================
   "webdav": {
     "enabled": false,
     "remote_path": "/arxiv-daily-researcher/",
@@ -295,10 +244,6 @@
     "sync_keywords": false,
     "sync_reports": false
   },
-
-  // ==================================================
-  // Trend Research Mode Configuration
-  // ==================================================
   "trend_research": {
     "default_date_range_days": 365,
     "max_results": 500,
@@ -313,5 +258,11 @@
     "enabled_skills": [
       "comprehensive_analysis"
     ]
+  },
+  "research_profile": {
+    "field_name": "商业银行、财政和货币政策",
+    "configured_at": "2026-07-13T03:01:24.568221+00:00",
+    "configured_by": "deploy-ai-research-radar",
+    "field_slug": "banking-fiscal-monetary-policy"
   }
 }

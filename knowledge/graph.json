@@ -900,17 +900,9 @@
       "title": "MORTGAGE LENDING AS A TOOL FOR REGULATING THE RESIDENTIAL REAL ESTATE MARKET",
       "paper_id": "https://doi.org/10.55186/2413046x_2026_11_7_91"
     },
-    "W7168091181": {
-      "title": "The Odero Theory of Captured Structural Inflation OTCSI",
-      "paper_id": "https://doi.org/10.5281/zenodo.21323744"
-    },
     "W7168097247": {
       "title": "The impact of conventional monetary policy tools on Private Investment in Iraq for the Period (2005-2023) &lt;sup&gt; &lt;/sup&gt;",
       "paper_id": "https://doi.org/10.36325/ghjec.v22i2.20849"
-    },
-    "W7168086487": {
-      "title": "Resilience of the Moroccan financial market to global shocks: The Role of Monetary Policy and Event Study Analysis (2020–2026)",
-      "paper_id": "https://doi.org/10.5281/zenodo.21257394"
     },
     "W7168083088": {
       "title": "Does UPI Adoption Reduce Demand for Physical Currency in India? An Asymmetric Analysis Using NARDL",
@@ -1175,6 +1167,30 @@
     "W1965770201": {
       "title": "Bank Liquidity, the Maturity Ladder, and Regulation",
       "paper_id": "https://doi.org/10.2139/ssrn.2125081"
+    },
+    "W7168078318": {
+      "title": "The Odero Theory of Captured Structural Inflation OTCSI",
+      "paper_id": "https://doi.org/10.5281/zenodo.21323745"
+    },
+    "W7168089421": {
+      "title": "Resilience of the Moroccan financial market to global shocks: The Role of Monetary Policy and Event Study Analysis (2020–2026)",
+      "paper_id": "https://doi.org/10.5281/zenodo.21257395"
+    },
+    "repec:RePEc:zbw:bubdps:341639": {
+      "title": "Selecting seasonal filters in X-13-ARIMA via cross-validation",
+      "paper_id": "repec:RePEc:zbw:bubdps:341639"
+    },
+    "repec:RePEc:zbw:bubdps:341638": {
+      "title": "Bivariate sudden stop analysis of equity and bond fund flows to emerging markets using isolation forest",
+      "paper_id": "repec:RePEc:zbw:bubdps:341638"
+    },
+    "repec:RePEc:bfr:banfra:1050": {
+      "title": "Austria One Century Apart: Persistent Effects of Hyperinflation on Inflation Expectations",
+      "paper_id": "repec:RePEc:bfr:banfra:1050"
+    },
+    "repec:RePEc:bfr:banfra:1051": {
+      "title": "Les effets macroéconomiques de l’encadrement de l’endettement des ménages : une approche mésoéconométrique",
+      "paper_id": "repec:RePEc:bfr:banfra:1051"
     }
   },
   "edges": [

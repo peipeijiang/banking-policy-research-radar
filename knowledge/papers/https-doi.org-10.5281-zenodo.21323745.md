@@ -1,32 +1,32 @@
 ---
 title: "The Odero Theory of Captured Structural Inflation OTCSI"
-paper_id: "https://doi.org/10.5281/zenodo.21323744"
+paper_id: "https://doi.org/10.5281/zenodo.21323745"
 source: "openalex"
 published: "2026-07-12T00:00:00"
-score: 20.0
+score: 28.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Economic Theory and Policy", "Global Financial Crisis and Policies", "Economic and Technological Innovation"]
 ---
 
 # The Odero Theory of Captured Structural Inflation OTCSI
 
-[查看原文](https://doi.org/10.5281/zenodo.21323744)
+[查看原文](https://doi.org/10.5281/zenodo.21323745)
 
 ## 一句话结论
 
-> 该论文提出Odero结构性通胀理论，认为非洲经济体的通胀主要由市场力量、不对称价格传导、进口依赖和治理衰退驱动，而非货币供应，并提出了量化指标和政策建议。
+> 论文提出Odero理论（OTCSI），认为非洲结构性通胀由市场力量、不对称价格传导、进口依赖和治理衰退驱动，而非货币供给，并引入棘轮效应和刚性系数来量化。
 
 ## 论文信息
 
 - **作者**：John Otieno Odero
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-12
-- **相关度评分**：20.0
-- **DOI**：[https://doi.org/10.5281/zenodo.21323744](https://doi.org/10.5281/zenodo.21323744)
+- **相关度评分**：28.0
+- **DOI**：[https://doi.org/10.5281/zenodo.21323745](https://doi.org/10.5281/zenodo.21323745)
 
 <details open>
 <summary><strong>中文摘要</strong></summary>
 
-标准货币政策无法在结构性俘获的非洲经济体中有效控制通货膨胀。我们提出奥德罗结构性俘获通胀理论（Odero Theory of Captured Structural Inflation, OTCSI），该理论将通胀建模为市场势力、价格非对称传导、进口依赖及治理衰退的函数，而非仅由货币供给决定。基于2020-2025年间6个非洲国家的实证数据，我们揭示了一种普遍的“棘轮效应”（Ratchet Effect）：零售价格随投入成本上涨呈1:1比例上升，但当成本下降时仅呈约0.3:1的比例回落。我们定义刚性系数（Rigidity Coefficient, RC）= 3.0以量化该效应。通过引入OTCSI方程与奥德罗曲线（Odero Curve），我们实现了对结构性通胀的量化分析。该理论的政策启示是为非洲联盟（AU）及各国财政部长提出“四支柱去俘获法案”（4-Pillar De-Capture Act）。关键词：结构性通胀，非洲，市场势力，非对称定价，治理，经济物理学，OTCSI
+标准货币政策无法在结构性俘获的非洲经济体中有效控制通货膨胀。我们提出奥德罗结构性俘获通胀理论（Odero Theory of Captured Structural Inflation, OTCSI），该理论将通胀建模为市场势力、非对称价格传导、进口依赖及治理衰退的函数，而非仅由货币供给决定。基于2020-2025年间6个非洲国家的实证数据，我们揭示了一种普遍的“棘轮效应”（Ratchet Effect）：零售价格随投入成本上涨呈1:1比例上升，但当成本下降时仅以约0.3:1的比例回落。我们将刚性系数（Rigidity Coefficient, RC）定义为3.0以量化该效应。我们引入OTCSI方程（OTCSI Equation）与奥德罗曲线（Odero Curve）以量化结构性通胀。其政策启示是为非洲联盟（AU）及各国财政部长提出一项“四支柱去俘获法案”（4-Pillar De-Capture Act）。关键词：结构性通胀，非洲，市场势力，非对称定价，治理，经济物理学，OTCSI
 
 </details>
 
@@ -39,4 +39,4 @@ Standard monetary policy fails to control inflation in structurally captured Afr
 
 ---
 
-_知识库更新时间：2026-07-14T03:57:10.393388_
+_知识库更新时间：2026-07-14T06:08:13.104596_

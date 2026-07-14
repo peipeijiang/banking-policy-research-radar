@@ -1,32 +1,32 @@
 ---
 title: "Resilience of the Moroccan financial market to global shocks: The Role of Monetary Policy and Event Study Analysis (2020–2026)"
-paper_id: "https://doi.org/10.5281/zenodo.21257394"
+paper_id: "https://doi.org/10.5281/zenodo.21257395"
 source: "openalex"
 published: "2026-07-12T00:00:00"
-score: 18.0
+score: 24.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Market Dynamics and Volatility", "Regional resilience and development", "Global Financial Crisis and Policies"]
 ---
 
 # Resilience of the Moroccan financial market to global shocks: The Role of Monetary Policy and Event Study Analysis (2020–2026)
 
-[查看原文](https://doi.org/10.5281/zenodo.21257394)
+[查看原文](https://doi.org/10.5281/zenodo.21257395)
 
 ## 一句话结论
 
-> 该论文通过事件研究法分析摩洛哥金融市场对COVID-19、俄乌冲突和伊美紧张局势三种全球冲击的反应，发现市场韧性因冲击类型而异，且央行政策起到稳定作用。
+> 该论文通过事件研究法发现摩洛哥金融市场对系统性健康危机、能源冲击和地缘政治冲击具有差异化反应，并强调央行在维护金融稳定中的作用。
 
 ## 论文信息
 
 - **作者**：Karima LAMRANI
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-12
-- **相关度评分**：18.0
-- **DOI**：[https://doi.org/10.5281/zenodo.21257394](https://doi.org/10.5281/zenodo.21257394)
+- **相关度评分**：24.0
+- **DOI**：[https://doi.org/10.5281/zenodo.21257395](https://doi.org/10.5281/zenodo.21257395)
 
 <details open>
 <summary><strong>中文摘要</strong></summary>
 
-本文研究了2020-2026年期间摩洛哥金融市场对重大国际冲击的韧性。尽管新兴市场极易受到外部扰动的影响，但实证文献中缺乏关于摩洛哥市场如何吸收异质性危机的证据。本研究通过分析MASI指数对三个不同事件的反应填补了这一空白：COVID-19疫情、俄罗斯-乌克兰冲突以及伊朗与美国之间的地缘政治紧张局势。采用基于常数均值收益模型的事件研究法，我们估算了十一天窗口期（t–5至t+5）内的累积异常收益（CAR）。该方法论上选择的窗口旨在捕捉每次冲击后的预期阶段与市场即时调整。量化结果显示，市场敏感性因冲击性质而异。系统性健康危机引发了持续负面影响，CAR为-14.80%。与俄罗斯-乌克兰冲突相关的能源冲击产生了突发性负面影响，CAR为-6.73%。最后，伊朗与美国之间的紧张局势凸显出高度波动性，在观察窗口内导致CAR为-8.91%。这些发现揭示了在摩洛哥央行（Bank Al-Maghrib）稳定作用支持下不断演变的金融韧性，并强调了市场在系统性冲击与地缘政治冲击方面差异化的吸收能力。
+本文研究了2020-2026年期间摩洛哥金融市场对重大国际冲击的韧性。尽管新兴市场高度暴露于外部扰动，但实证文献中关于摩洛哥市场如何吸收异质性危机的证据尚不充分。本研究通过分析MASI指数对三个不同事件的反应填补了这一空白：COVID-19疫情、俄乌冲突以及伊朗与美国之间的地缘政治紧张局势。采用基于常数均值回报模型的事件研究法，我们在十一天窗口期（t–5至t+5）内估计了累计异常回报（CAR）。该窗口期的选择在方法论上旨在捕捉每次冲击后的预期阶段与市场即时调整。量化结果显示，市场敏感性因冲击性质不同而存在差异。系统性健康危机引发了持续负面影响，CAR为-14.80%。与俄乌冲突相关的能源冲击产生了突发性负面影响，CAR为-6.73%。最后，伊朗与美国之间的紧张局势凸显了高度波动性，在观察窗口内导致CAR为-8.91%。这些发现揭示了在摩洛哥央行（Bank Al-Maghrib）稳定作用支持下不断演变的金融韧性，并强调了市场在吸收系统性冲击与地缘政治冲击方面的差异化能力。
 
 </details>
 
@@ -39,4 +39,4 @@ Abstract This paper investigates the resilience of the Moroccan financial market
 
 ---
 
-_知识库更新时间：2026-07-14T03:57:10.393756_
+_知识库更新时间：2026-07-14T06:08:13.105214_

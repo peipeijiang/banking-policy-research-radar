@@ -26,10 +26,75 @@ from sources.repec_series_source import RepecSeriesSource
 from sources.search_agent import SearchAgent
 from sources.worldbank_source import WorldBankSource
 from sync_feedback import parse_events, parse_feedback
+from rescore_history import SCORING_VERSION, apply_score, build_scoring_evidence
 from notifications.notifier import NotifierAgent, RunResult, WebhookNotifier
 
 
 class ResearchAutomationTests(unittest.TestCase):
+    def test_historical_rescore_prefers_abstract_then_existing_analysis(self):
+        evidence, basis = build_scoring_evidence(
+            {
+                "abstract": "Bank lending responds to monetary tightening.",
+                "analysis": {"summary": "This should not replace the abstract."},
+            }
+        )
+        self.assertEqual(basis, "abstract")
+        self.assertIn("Bank lending", evidence)
+
+        evidence, basis = build_scoring_evidence(
+            {"abstract": "", "analysis": {"summary": "Fiscal multipliers vary."}}
+        )
+        self.assertEqual(basis, "existing_analysis")
+        self.assertIn("Fiscal multipliers", evidence)
+
+    def test_historical_rescore_updates_scores_without_replacing_analysis(self):
+        record = {
+            "paper_id": "paper:1",
+            "title": "Monetary Transmission",
+            "analysis": {"summary": "Keep this analysis."},
+            "tldr": "Keep this summary.",
+            "personalization": {"active": True, "adjustment": 4.0},
+        }
+        score = SimpleNamespace(
+            total_score=72.0,
+            is_qualified=True,
+            domain_scores={
+                "commercial_banking": 5.0,
+                "monetary_policy": 7.2,
+                "fiscal_policy": 2.0,
+            },
+            matched_domain="monetary_policy",
+            reasoning="货币政策传导是论文主线。",
+        )
+        updated = apply_score(record, score, "abstract", "2026-07-14T00:00:00Z")
+
+        self.assertEqual(updated["score"], 72.0)
+        self.assertTrue(updated["qualified"])
+        self.assertEqual(updated["analysis"], record["analysis"])
+        self.assertEqual(updated["tldr"], record["tldr"])
+        self.assertEqual(updated["personalization"]["personalized_score"], 76.0)
+        self.assertEqual(updated["scoring"]["version"], SCORING_VERSION)
+
+    def test_research_page_renders_independent_domain_scores(self):
+        markdown = ResearchLibrary.render_record(
+            {
+                "paper_id": "paper:2",
+                "title": "Bank Credit Supply",
+                "score": 81,
+                "domain_scores": {
+                    "commercial_banking": 8.1,
+                    "monetary_policy": 5.0,
+                    "fiscal_policy": 1.0,
+                },
+                "matched_domain": "commercial_banking",
+                "scoring": {"evidence_basis": "abstract"},
+                "score_reasoning": "银行信贷供给是核心研究对象。",
+            }
+        )
+        self.assertIn("商业银行**：8.1/10（最高匹配）", markdown)
+        self.assertIn("评分依据**：论文摘要", markdown)
+        self.assertIn("银行信贷供给是核心研究对象", markdown)
+
     def test_domain_scoring_passes_when_one_domain_is_core(self):
         groups = {
             "commercial_banking": {"label": "商业银行", "keywords": ["bank lending"]},

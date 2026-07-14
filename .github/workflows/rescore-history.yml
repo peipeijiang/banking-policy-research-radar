@@ -1,0 +1,89 @@
+name: Rescore Historical Research
+
+on:
+  workflow_dispatch:
+    inputs:
+      workers:
+        description: 'Concurrent LLM requests (1-8)'
+        required: false
+        default: '3'
+      limit:
+        description: 'Maximum records to score; 0 means all remaining records'
+        required: false
+        default: '0'
+      force:
+        description: 'Re-score records already using the current scoring version'
+        type: boolean
+        required: false
+        default: false
+
+concurrency:
+  group: banking-policy-knowledge-write
+  cancel-in-progress: false
+
+jobs:
+  rescore:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Create scoring environment
+        run: |
+          cat > .env << 'ENVEOF'
+          CHEAP_LLM__API_KEY=${{ secrets.CHEAP_LLM_API_KEY }}
+          CHEAP_LLM__BASE_URL=${{ secrets.CHEAP_LLM_BASE_URL }}
+          CHEAP_LLM__MODEL_NAME=${{ secrets.CHEAP_LLM_MODEL_NAME }}
+          CHEAP_LLM__TEMPERATURE=${{ secrets.CHEAP_LLM_TEMPERATURE }}
+          SMART_LLM__API_KEY=${{ secrets.SMART_LLM_API_KEY }}
+          SMART_LLM__BASE_URL=${{ secrets.SMART_LLM_BASE_URL }}
+          SMART_LLM__MODEL_NAME=${{ secrets.SMART_LLM_MODEL_NAME }}
+          MINERU_API_KEY=
+          TOKEN_TRACKING_ENABLED=false
+          ENVEOF
+
+      - name: Re-score knowledge index
+        run: |
+          force_arg=''
+          if [ '${{ inputs.force }}' = 'true' ]; then force_arg='--force'; fi
+          python scripts/rescore_history.py \
+            --workers '${{ inputs.workers }}' \
+            --limit '${{ inputs.limit }}' \
+            $force_arg
+        env:
+          PYTHONUNBUFFERED: '1'
+
+      - name: Rebuild mobile research pages
+        run: python scripts/rebuild_knowledge_pages.py
+
+      - name: Commit updated scores
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add knowledge/
+          git diff --cached --quiet && exit 0
+          git commit -m 'chore: rescore historical research'
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: Upload scoring summary
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: historical-rescore-${{ github.run_number }}
+          path: data/run/rescore_history_summary.json
+          if-no-files-found: warn
+          retention-days: 30

@@ -170,6 +170,33 @@ class ResearchLibrary:
             f"- **DOI**：{doi_text}",
         ]
 
+        domain_scores = record.get("domain_scores") or {}
+        if domain_scores:
+            domain_labels = {
+                "commercial_banking": "商业银行",
+                "monetary_policy": "货币政策",
+                "fiscal_policy": "财政政策",
+            }
+            matched_domain = record.get("matched_domain")
+            body += ["", "## 相关性评分", ""]
+            for domain_id, domain_score in domain_scores.items():
+                label = domain_labels.get(domain_id, domain_id)
+                marker = "（最高匹配）" if domain_id == matched_domain else ""
+                body.append(f"- **{label}**：{float(domain_score):.1f}/10{marker}")
+            scoring = record.get("scoring") or {}
+            if scoring.get("evidence_basis"):
+                evidence_labels = {
+                    "abstract": "论文摘要",
+                    "existing_analysis": "已有深度分析",
+                    "existing_tldr": "已有一句话摘要",
+                    "title_only": "仅论文标题",
+                }
+                body.append(
+                    f"- **评分依据**：{evidence_labels.get(scoring['evidence_basis'], scoring['evidence_basis'])}"
+                )
+            if record.get("score_reasoning"):
+                body += ["", f"> {cls._text(record['score_reasoning'])}"]
+
         abstract_cn = cls._text(record.get("abstract_cn"))
         abstract = cls._text(record.get("abstract"))
         if abstract_cn:

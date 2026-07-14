@@ -27,10 +27,56 @@ from sources.search_agent import SearchAgent
 from sources.worldbank_source import WorldBankSource
 from sync_feedback import parse_events, parse_feedback
 from rescore_history import SCORING_VERSION, apply_score, build_scoring_evidence
+from resend_last_wechat import build_result, select_latest_complete_batch
 from notifications.notifier import NotifierAgent, RunResult, WebhookNotifier
 
 
 class ResearchAutomationTests(unittest.TestCase):
+    def test_resend_filters_abstract_analysis_and_stays_on_requested_date(self):
+        records = [
+            {
+                "paper_id": "full",
+                "title": "Full text paper",
+                "source": "arxiv",
+                "score": 70,
+                "qualified": True,
+                "updated_at": "2026-07-14T03:57:01",
+                "analysis": {"_analysis_basis": "full_text", "summary": "Full"},
+            },
+            {
+                "paper_id": "abstract",
+                "title": "Abstract paper",
+                "source": "openalex",
+                "score": 90,
+                "qualified": True,
+                "updated_at": "2026-07-14T03:57:02",
+                "analysis": {"_analysis_basis": "abstract", "summary": "Abstract"},
+            },
+            {
+                "paper_id": "yesterday",
+                "title": "Yesterday full text",
+                "source": "arxiv",
+                "score": 95,
+                "qualified": True,
+                "updated_at": "2026-07-13T06:39:01",
+                "analysis": {"_analysis_basis": "full_text", "summary": "Old"},
+            },
+        ]
+
+        key, batch = select_latest_complete_batch(
+            records,
+            5,
+            full_text_only=True,
+            batch_date="2026-07-14",
+            allow_fewer=True,
+        )
+        result = build_result(key, batch, 5, full_text_only=True)
+
+        self.assertEqual(key, "2026-07-14T03:57")
+        self.assertEqual([paper["paper_id"] for paper in result.top_papers], ["full"])
+        self.assertEqual(result.total_analyzed, 1)
+        self.assertIn("仅全文", result.run_timestamp)
+
     def test_historical_rescore_prefers_abstract_then_existing_analysis(self):
         evidence, basis = build_scoring_evidence(
             {

@@ -27,13 +27,28 @@ def main() -> int:
     parser.add_argument(
         "--index", type=Path, default=ROOT / "knowledge" / "index.jsonl"
     )
+    parser.add_argument("--full-text-only", action="store_true")
+    parser.add_argument("--batch-date", default="", help="Batch date in YYYY-MM-DD")
+    parser.add_argument(
+        "--allow-fewer",
+        action="store_true",
+        help="Send all eligible papers when fewer than --top are available",
+    )
     args = parser.parse_args()
     if args.top < 1:
         parser.error("--top must be at least 1")
 
     records = load_records(args.index)
-    key, batch = select_latest_complete_batch(records, args.top)
-    result = build_result(key, batch, args.top)
+    key, batch = select_latest_complete_batch(
+        records,
+        args.top,
+        full_text_only=args.full_text_only,
+        batch_date=args.batch_date,
+        allow_fewer=args.allow_fewer,
+    )
+    result = build_result(
+        key, batch, args.top, full_text_only=args.full_text_only
+    )
     if not NotifierAgent().notify(result):
         raise SystemExit("Notification delivery failed")
     print(f"Resent batch {key}: {len(result.top_papers)} papers")

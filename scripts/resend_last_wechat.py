@@ -37,7 +37,21 @@ def batch_key(record: dict) -> str:
     return str(record.get("updated_at") or "")[:16]
 
 
-def select_latest_complete_batch(records: list[dict], top_n: int) -> tuple[str, list[dict]]:
+def _is_analyzed(record: dict, full_text_only: bool = False) -> bool:
+    analysis = record.get("analysis") or {}
+    if not record.get("qualified") or not analysis:
+        return False
+    return not full_text_only or analysis.get("_analysis_basis") == "full_text"
+
+
+def select_latest_complete_batch(
+    records: list[dict],
+    top_n: int,
+    *,
+    full_text_only: bool = False,
+    batch_date: str = "",
+    allow_fewer: bool = False,
+) -> tuple[str, list[dict]]:
     batches: dict[str, list[dict]] = {}
     for record in records:
         key = batch_key(record)
@@ -46,17 +60,26 @@ def select_latest_complete_batch(records: list[dict], top_n: int) -> tuple[str, 
 
     complete = []
     for key, batch in batches.items():
-        analyzed = [item for item in batch if item.get("qualified") and item.get("analysis")]
-        if len(analyzed) >= top_n:
+        if batch_date and not key.startswith(batch_date):
+            continue
+        analyzed = [item for item in batch if _is_analyzed(item, full_text_only)]
+        if analyzed and (allow_fewer or len(analyzed) >= top_n):
             complete.append((key, batch))
     if not complete:
-        raise SystemExit(f"No stored batch contains at least {top_n} analyzed papers")
+        scope = f" on {batch_date}" if batch_date else ""
+        basis = " full-text" if full_text_only else " analyzed"
+        requirement = "any" if allow_fewer else f"at least {top_n}"
+        raise SystemExit(
+            f"No stored batch{scope} contains {requirement}{basis} papers"
+        )
     return max(complete, key=lambda item: item[0])
 
 
-def build_result(key: str, batch: list[dict], top_n: int) -> RunResult:
+def build_result(
+    key: str, batch: list[dict], top_n: int, *, full_text_only: bool = False
+) -> RunResult:
     top_papers = sorted(
-        (item for item in batch if item.get("qualified") and item.get("analysis")),
+        (item for item in batch if _is_analyzed(item, full_text_only)),
         key=lambda item: float(item.get("score") or 0),
         reverse=True,
     )[:top_n]
@@ -67,11 +90,12 @@ def build_result(key: str, batch: list[dict], top_n: int) -> RunResult:
     analyzed = Counter(
         str(item.get("source") or "unknown")
         for item in batch
-        if item.get("qualified") and item.get("analysis")
+        if _is_analyzed(item, full_text_only)
     )
     timestamp = datetime.fromisoformat(key).strftime("%Y-%m-%d %H:%M")
+    resend_label = "知识库重发，仅全文" if full_text_only else "知识库重发"
     return RunResult(
-        run_timestamp=f"{timestamp}（知识库重发）",
+        run_timestamp=f"{timestamp}（{resend_label}）",
         total_papers_fetched=len(batch),
         papers_by_source=dict(fetched),
         qualified_by_source=dict(qualified),
@@ -95,6 +119,13 @@ def main() -> int:
     parser.add_argument(
         "--index", type=Path, default=ROOT / "knowledge" / "index.jsonl"
     )
+    parser.add_argument("--full-text-only", action="store_true")
+    parser.add_argument("--batch-date", default="", help="Batch date in YYYY-MM-DD")
+    parser.add_argument(
+        "--allow-fewer",
+        action="store_true",
+        help="Send all eligible papers when fewer than --top are available",
+    )
     parser.add_argument("--dry-run", action="store_true", help="Print cards without sending")
     args = parser.parse_args()
 
@@ -106,8 +137,16 @@ def main() -> int:
         raise SystemExit("Set WECHAT_WEBHOOK_URL or pass --webhook-url")
 
     records = load_records(args.index)
-    key, batch = select_latest_complete_batch(records, args.top)
-    result = build_result(key, batch, args.top)
+    key, batch = select_latest_complete_batch(
+        records,
+        args.top,
+        full_text_only=args.full_text_only,
+        batch_date=args.batch_date,
+        allow_fewer=args.allow_fewer,
+    )
+    result = build_result(
+        key, batch, args.top, full_text_only=args.full_text_only
+    )
     formatter = NotifierAgent.__new__(NotifierAgent)
     formatter.settings = settings
     messages = [formatter._format_wechat_overview(result)]

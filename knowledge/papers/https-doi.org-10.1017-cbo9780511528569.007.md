@@ -3,7 +3,7 @@ title: "全能银行：“美国模式”"
 paper_id: "https://doi.org/10.1017/cbo9780511528569.007"
 source: "citation"
 published: "2000-07-10T00:00:00"
-score: 69.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Banking Systems and Strategies", "finance, banking, and market dynamics"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Charles W. Calomiris
 - **来源**：Cambridge University Press eBooks
 - **发布时间**：2000-07-10
-- **相关度评分**：69.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.1017/cbo9780511528569.007](https://doi.org/10.1017/cbo9780511528569.007)
+
+## 相关性评分
+
+- **商业银行**：7.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 7.0/10。commercial_banking: 论文主要讨论美国商业银行向全能银行模式的演变，涉及银行规模、范围、与金融市场的新联系，属于商业银行领域核心问题。monetary_policy: 仅提及银行监管和竞争压力，未涉及货币政策工具、传导或政策含义。fiscal_policy: 未涉及政府收入、支出、债务等财政政策内容。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

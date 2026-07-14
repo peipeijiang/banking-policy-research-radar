@@ -3,7 +3,7 @@ title: "Is There a `Credit Channel' for Monetary Policy?"
 paper_id: "https://doi.org/10.3386/w4977"
 source: "citation"
 published: "1994-12-01T00:00:00"
-score: 41.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Monetary Policy and Economic Impact", "Economic Theory and Policy"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：R. Glenn Hubbard
 - **来源**：National Bureau of Economic Research
 - **发布时间**：1994-12-01
-- **相关度评分**：41.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.3386/w4977](https://doi.org/10.3386/w4977)
+
+## 相关性评分
+
+- **商业银行**：4.0/10
+- **货币政策**：8.0/10（最高匹配）
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 8.0/10。论文研究货币政策是否存在信贷渠道，核心是货币政策传导机制，属于货币政策领域。虽然涉及银行信贷，但主要关注企业投资与内部资金关系，而非银行行为或监管，因此商业银行领域仅作为背景，评分4。财政政策完全不相关，评分0。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

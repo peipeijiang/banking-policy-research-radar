@@ -3,7 +3,7 @@ title: "INTERPLAY BETWEEN ECONOMIC GROWTH, EXCHANGE RATE AND INSTITUTIONAL QUALI
 paper_id: "https://doi.org/10.5281/zenodo.21278705"
 source: "openalex"
 published: "2026-07-09T00:00:00"
-score: 15.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policies and Political Economy", "Fiscal Policy and Economic Growth", "Monetary Policy and Economic Impact"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policies and Political
 - **作者**：ABDULKADIR MOHAMMED DALLAH, Ganiyat A Adesina-Uthman
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-09
-- **相关度评分**：15.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21278705](https://doi.org/10.5281/zenodo.21278705)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：2.0/10
+- **财政政策**：8.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 8.0/10。commercial_banking: 论文完全不涉及商业银行、信贷供给或银行监管，得0分。monetary_policy: 论文提及汇率波动，但未研究货币政策工具、传导或政策含义，仅作为背景因素，得2分。fiscal_policy: 论文核心研究公共债务的决定因素，包括经济增长、汇率和制度质量，直接属于财政政策领域（公共债务、债务可持续性），得8分。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

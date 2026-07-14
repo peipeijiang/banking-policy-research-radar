@@ -3,7 +3,7 @@ title: "早期“中央银行”的商业活动、地理扩张与银行代理行
 paper_id: "https://doi.org/10.1080/00076791.2026.2681471"
 source: "openalex"
 published: "2026-07-10T00:00:00"
-score: 62.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Italy: Economic History and Contemporary Issues", "Banking stability, regulation, efficiency", "Historical Economic and Social Studies"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Italy: Economic History and C
 - **作者**：Marianna Astore, Paolo Di Martino
 - **来源**：Business History
 - **发布时间**：2026-07-10
-- **相关度评分**：62.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.1080/00076791.2026.2681471](https://doi.org/10.1080/00076791.2026.2681471)
+
+## 相关性评分
+
+- **商业银行**：7.0/10（最高匹配）
+- **货币政策**：3.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 7.0/10。commercial_banking: 论文研究早期中央银行（意大利银行）的商业活动，包括地理扩张和代理行网络，直接涉及银行运营、支付系统和银行监管，属于商业银行领域核心。monetary_policy: 论文提及中央银行职责，但未研究货币政策工具、传导或通胀，仅作为背景，评分3。fiscal_policy: 未涉及政府收支、债务或财政政策，评分1。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

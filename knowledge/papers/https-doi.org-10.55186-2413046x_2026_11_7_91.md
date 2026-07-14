@@ -3,7 +3,7 @@ title: "抵押贷款作为调控住宅房地产市场的工具"
 paper_id: "https://doi.org/10.55186/2413046x_2026_11_7_91"
 source: "openalex"
 published: "2026-07-12T00:00:00"
-score: 78.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Housing Market and Economics", "Economic and Industrial Development", "Socioeconomic and Demographic Analysis"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Housing Market and Economics"
 - **作者**：Klimentiy Pachev, Vera Titova
 - **来源**：Moscow Economic Journal
 - **发布时间**：2026-07-12
-- **相关度评分**：78.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.55186/2413046x_2026_11_7_91](https://doi.org/10.55186/2413046x_2026_11_7_91)
+
+## 相关性评分
+
+- **商业银行**：7.0/10（最高匹配）
+- **货币政策**：5.0/10
+- **财政政策**：4.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 7.0/10。commercial_banking: 论文以抵押贷款为核心，研究其作为调控房地产市场的工具，涉及银行信贷供给、风险承担和区域市场影响，属于商业银行领域的主要研究问题。monetary_policy: 论文提及货币政策变化对抵押贷款的影响，但未深入分析货币政策工具或传导机制，仅作为背景，因此评5分。fiscal_policy: 论文提到政府干预抵押贷款市场，但未聚焦财政支出、税收或债务等核心财政工具，因此评4分。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

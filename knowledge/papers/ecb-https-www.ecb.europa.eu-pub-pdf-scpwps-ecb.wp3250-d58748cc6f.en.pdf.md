@@ -3,7 +3,7 @@ title: "Measuring geoeconomic tension: a large-language-model approach for the e
 paper_id: "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3250~d58748cc6f.en.pdf"
 source: "ecb"
 published: "2026-07-07T09:00:00"
-score: 5.0
+score: 40.0
 tags: ["paper", "banking-fiscal-monetary-policy"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **作者**：-
 - **来源**：ECB Working Papers
 - **发布时间**：2026-07-07
-- **相关度评分**：5.0
+- **相关度评分**：40.0
 - **DOI**：-
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：4.0/10（最高匹配）
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 4.0/10。论文构建地缘经济紧张指数，并估计其对欧元区产出和通胀的影响。通胀分析涉及货币政策领域，但论文未研究货币政策工具、传导或政策含义，仅将通胀作为结果变量，因此货币政策得分为4（背景提及）。商业银行和财政政策领域无实质关联，得分为0。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

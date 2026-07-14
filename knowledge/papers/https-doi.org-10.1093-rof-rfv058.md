@@ -3,7 +3,7 @@ title: "流动性监管对银行中介的影响"
 paper_id: "https://doi.org/10.1093/rof/rfv058"
 source: "citation"
 published: "2015-11-24T00:00:00"
-score: 95.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Global Financial Crisis and Policies", "Housing Market and Economics"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Clemens Bonner, Sylvester Eijffinger
 - **来源**：European Finance Review
 - **发布时间**：2015-11-24
-- **相关度评分**：95.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.1093/rof/rfv058](https://doi.org/10.1093/rof/rfv058)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.0/10。论文研究流动性监管（LCR）对银行中介的影响，核心是银行信贷、利率和利差，属于商业银行领域。货币政策仅作为背景提及（LCR是宏观审慎工具，但论文不研究货币政策工具或传导），财政政策无关联。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

@@ -3,7 +3,7 @@ title: "金融机构与市场：金融市场当前问题"
 paper_id: "https://doi.org/10.1057/9780230617148"
 source: "citation"
 published: "2008-01-01T00:00:00"
-score: 81.0
+score: 50.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Economic Theory and Policy", "Global Financial Crisis and Policies"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Robert R. Bliss, George G. Kaufman
 - **来源**：OpenAlex
 - **发布时间**：2008-01-01
-- **相关度评分**：81.0
+- **相关度评分**：50.0
 - **DOI**：[https://doi.org/10.1057/9780230617148](https://doi.org/10.1057/9780230617148)
+
+## 相关性评分
+
+- **商业银行**：5.0/10（最高匹配）
+- **货币政策**：4.0/10
+- **财政政策**：2.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 5.0/10。commercial_banking: 论文包含工业贷款公司、银行与商业、银行失败、负担分担等主题，与银行监管和风险管理有实质关联，但作为论文集，主线不明确，评分5。monetary_policy: 包含未来货币政策不确定性、核心通胀测量等，但仅作为章节，非主线，评分4。fiscal_policy: 仅涉及负担分担和银行失败中的财政方面，非主线，评分2。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

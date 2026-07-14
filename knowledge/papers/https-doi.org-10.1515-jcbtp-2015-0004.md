@@ -3,7 +3,7 @@ title: "不良贷款的宏观经济与制度决定因素"
 paper_id: "https://doi.org/10.1515/jcbtp-2015-0004"
 source: "citation"
 published: "2015-01-01T00:00:00"
-score: 61.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Global Financial Crisis and Policies", "Monetary Policy and Economic Impact"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Svetozar Tanasković, Maja Jandrić
 - **来源**：Journal of Central Banking Theory and Practice
 - **发布时间**：2015-01-01
-- **相关度评分**：61.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.1515/jcbtp-2015-0004](https://doi.org/10.1515/jcbtp-2015-0004)
+
+## 相关性评分
+
+- **商业银行**：7.0/10（最高匹配）
+- **货币政策**：3.0/10
+- **财政政策**：2.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 7.0/10。commercial_banking: 论文研究不良贷款（NPL）的宏观和制度决定因素，直接涉及银行信贷风险、银行监管和金融稳定，属于商业银行领域核心问题。monetary_policy: 论文包含通胀变量，但通胀被报告为统计不显著，且未研究货币政策工具、传导或政策含义，仅作为控制变量，因此评分较低。fiscal_policy: 论文未涉及政府收入、支出、债务等财政政策核心内容，仅背景提及，评分低。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

@@ -3,7 +3,7 @@ title: "Analisis Asas Pemungutan Pajak di Indonesia dalam Perspektif Maqashid Sy
 paper_id: "https://doi.org/10.59833/x0qkvy22"
 source: "openalex"
 published: "2026-07-10T00:00:00"
-score: 15.0
+score: 60.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Marriage and Sexual Relationships", "Local Governance and Development", "Marriage and Family Dynamics"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Marriage and Sexual Relations
 - **作者**：Aip Wahidzul Latif, Roifatus Syauqoti
 - **来源**：Qonuni Jurnal Hukum dan Pengkajian Islam
 - **发布时间**：2026-07-10
-- **相关度评分**：15.0
+- **相关度评分**：60.0
 - **DOI**：[https://doi.org/10.59833/x0qkvy22](https://doi.org/10.59833/x0qkvy22)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：0.0/10
+- **财政政策**：6.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 6.0/10。论文研究印尼税收征收原则与伊斯兰法目标（Maqashid Syariah）的兼容性，属于财政政策中的税收原则和财政政策设计。虽然涉及税收，但未讨论货币政策或商业银行，因此货币政策与商业银行领域得分为0。财政政策领域得分为6，因为税收是财政政策的核心工具，论文直接分析税收原则与福利目标，属于财政政策领域。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

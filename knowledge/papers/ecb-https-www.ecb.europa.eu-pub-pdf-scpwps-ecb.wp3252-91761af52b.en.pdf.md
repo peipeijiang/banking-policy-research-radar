@@ -3,7 +3,7 @@ title: "银行流动性需求理论"
 paper_id: "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3252~91761af52b.en.pdf"
 source: "ecb"
 published: "2026-07-09T09:00:00"
-score: 97.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **作者**：-
 - **来源**：ECB Working Papers
 - **发布时间**：2026-07-09
-- **相关度评分**：97.0
+- **相关度评分**：80.0
 - **DOI**：-
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.0/10。论文核心研究银行流动性需求与监管，属于商业银行领域。模型聚焦银行杠杆、道德风险、流动性持有及监管设计，与货币政策工具或通胀无关，货币政策仅得2分。财政政策未涉及，得1分。最高匹配领域为商业银行。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

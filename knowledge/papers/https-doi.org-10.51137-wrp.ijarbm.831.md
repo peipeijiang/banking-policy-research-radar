@@ -3,7 +3,7 @@ title: "Service Marketing Mix and Customer Loyalty in Commercial Banks of Bangla
 paper_id: "https://doi.org/10.51137/wrp.ijarbm.831"
 source: "openalex"
 published: "2026-07-07T00:00:00"
-score: 26.0
+score: 65.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Customer Service Quality and Loyalty", "Organizational and Employee Performance", "Organizational Leadership and Management Strategies"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Customer Service Quality and 
 - **作者**：Md Maniruzzaman, Mohammad Zahir Raihan
 - **来源**：International Journal of Applied Research in Business and Management
 - **发布时间**：2026-07-07
-- **相关度评分**：26.0
+- **相关度评分**：65.0
 - **DOI**：[https://doi.org/10.51137/wrp.ijarbm.831](https://doi.org/10.51137/wrp.ijarbm.831)
+
+## 相关性评分
+
+- **商业银行**：6.5/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 6.5/10。commercial_banking: 论文研究孟加拉国商业银行的服务营销组合对客户忠诚度的影响，核心对象是商业银行，涉及银行客户行为、营销策略和客户满意度，属于商业银行领域的客户关系管理主题，但更偏向营销而非银行监管或风险，因此给予6.5分。monetary_policy: 论文完全不涉及货币政策工具、传导或政策含义，得0分。fiscal_policy: 论文不涉及政府收入、支出、债务等财政政策内容，得0分。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

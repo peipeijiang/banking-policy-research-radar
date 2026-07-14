@@ -3,7 +3,7 @@ title: "不良贷款对银行贷款行为的影响：来自中国商业银行资
 paper_id: "https://doi.org/10.22495/jgrv15i2siart24"
 source: "openalex"
 published: "2026-07-06T00:00:00"
-score: 93.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "FinTech, Crowdfunding, Digital Finance", "Working Capital and Financial Performance"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Lingrong Hou, Nur Laili Ab Ghani, Ainul Huda Jamil
 - **来源**：Journal of Governance and Regulation
 - **发布时间**：2026-07-06
-- **相关度评分**：93.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.22495/jgrv15i2siart24](https://doi.org/10.22495/jgrv15i2siart24)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.0/10。commercial_banking: 论文核心研究不良贷款对银行贷款行为的影响，通过资本渠道机制，涉及银行信贷供给、资本充足率、风险承担等，属于商业银行领域核心问题。monetary_policy: 仅提及银行信贷，未涉及货币政策工具、传导或政策含义，评分低。fiscal_policy: 未涉及财政政策相关内容。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

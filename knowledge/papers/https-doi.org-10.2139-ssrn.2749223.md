@@ -3,7 +3,7 @@ title: "Propagation of Endogenous Liquidity Shocks within the Interbank Market"
 paper_id: "https://doi.org/10.2139/ssrn.2749223"
 source: "citation"
 published: "2016-01-01T00:00:00"
-score: 77.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Global Financial Crisis and Policies", "Monetary Policy and Economic Impact"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Andrea Eross, Andrew Urquhart, Simon Wolfe
 - **来源**：SSRN Electronic Journal
 - **发布时间**：2016-01-01
-- **相关度评分**：77.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.2139/ssrn.2749223](https://doi.org/10.2139/ssrn.2749223)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：3.0/10
+- **财政政策**：1.0/10
+- **评分依据**：已有一句话摘要
+
+> 最高匹配领域：商业银行 8.0/10。commercial_banking: 论文研究银行间市场中内生流动性冲击的传播，直接涉及银行流动性管理、银行间网络和金融稳定，属于商业银行核心领域。monetary_policy: 流动性冲击可能影响货币政策传导，但论文未明确研究货币政策工具或政策含义，仅作为背景间接相关。fiscal_policy: 论文未涉及政府收支、债务或财政政策，无实质关系。
 
 <details>
 <summary><strong>发现与关联证据</strong></summary>

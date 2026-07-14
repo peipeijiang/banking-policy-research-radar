@@ -3,7 +3,7 @@ title: "外生流动性冲击对银行融资成本的影响：来自无担保银
 paper_id: "https://doi.org/10.71609/iheid-4v79-af73"
 source: "citation"
 published: "2024-09-26T00:00:00"
-score: 106.0
+score: 85.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Housing Market and Economics", "Global Financial Crisis and Policies"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Miguel Sarmiento
 - **来源**：Econstor (Econstor)
 - **发布时间**：2024-09-26
-- **相关度评分**：106.0
+- **相关度评分**：85.0
 - **DOI**：[https://doi.org/10.71609/iheid-4v79-af73](https://doi.org/10.71609/iheid-4v79-af73)
+
+## 相关性评分
+
+- **商业银行**：8.5/10（最高匹配）
+- **货币政策**：6.5/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.5/10。commercial_banking: 论文核心研究银行间市场流动性冲击对银行融资成本的影响，涉及银行资本、流动性、存款流出、银行间贷款定价等，直接属于商业银行领域，评分8.5。monetary_policy: 论文分析了美国缩减购债（tapering）这一货币政策事件对银行间市场的影响，并提及货币政策传导和央行流动性平滑作用，但主线是银行融资成本而非货币政策工具或传导机制本身，评分6.5。fiscal_policy: 论文完全不涉及政府收入、支出、债务等财政政策内容，评分0。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

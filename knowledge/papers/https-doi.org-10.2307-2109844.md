@@ -3,7 +3,7 @@ title: "金融加速器与质量飞向"
 paper_id: "https://doi.org/10.2307/2109844"
 source: "citation"
 published: "1996-02-01T00:00:00"
-score: 103.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Corporate Finance and Governance", "Firm Innovation and Growth"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Ben Bernanke, Mark Gertler, Simon Gilchrist
 - **来源**：The Review of Economics and Statistics
 - **发布时间**：1996-02-01
-- **相关度评分**：103.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.2307/2109844](https://doi.org/10.2307/2109844)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：5.0/10
+- **财政政策**：2.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.0/10。commercial_banking: 论文核心研究信贷市场条件变化对经济波动的放大作用，聚焦银行信贷供给中的代理成本变化，属于商业银行领域核心问题，且方法上使用企业面板数据检验信贷分配，故得8分。monetary_policy: 论文虽涉及信贷渠道，但未直接研究货币政策工具、传导或政策含义，仅作为背景提及，故得5分。fiscal_policy: 论文未涉及政府收支、债务等财政政策内容，仅间接相关，故得2分。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

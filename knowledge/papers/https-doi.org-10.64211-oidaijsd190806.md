@@ -3,7 +3,7 @@ title: "宏观经济变动因素对印度卢比波动性的影响：汇率动态
 paper_id: "https://doi.org/10.64211/oidaijsd190806"
 source: "openalex"
 published: "2026-07-12T00:00:00"
-score: 52.0
+score: 40.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Monetary Policy and Economic Impact", "Market Dynamics and Volatility", "COVID-19 Pandemic Impacts"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Monetary Policy and Economic 
 - **作者**：Venugopal G., Shashidhar R.
 - **来源**：OIDA International Journal of Sustainable Development
 - **发布时间**：2026-07-12
-- **相关度评分**：52.0
+- **相关度评分**：40.0
 - **DOI**：[https://doi.org/10.64211/oidaijsd190806](https://doi.org/10.64211/oidaijsd190806)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：4.0/10（最高匹配）
+- **财政政策**：3.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 4.0/10。commercial_banking: 论文研究汇率波动，未涉及银行信贷、金融中介或银行监管，得0分。monetary_policy: 论文包含政策利率变化作为解释变量，但主要研究汇率而非货币政策工具、传导或政策含义，仅间接提及，得4分。fiscal_policy: 论文包含公共债务作为变量，但未深入分析财政政策工具或宏观财政结果，仅作为背景因素，得3分。最高匹配领域为monetary_policy，但未达到6分。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

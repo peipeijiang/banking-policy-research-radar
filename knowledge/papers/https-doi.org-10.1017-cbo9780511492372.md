@@ -3,7 +3,7 @@ title: "欧元区的货币政策传导"
 paper_id: "https://doi.org/10.1017/cbo9780511492372"
 source: "citation"
 published: "2003-12-04T00:00:00"
-score: 113.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Global Financial Crisis and Policies", "Banking stability, regulation, efficiency", "Monetary Policy and Economic Impact"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Global Financial Crisis and P
 - **作者**：Ignazio Angeloni, Kashyap, A. K., Mojon, Benoît, Eurosystem Monetary Transmission Network issuing body
 - **来源**：Cambridge University Press eBooks
 - **发布时间**：2003-12-04
-- **相关度评分**：113.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.1017/cbo9780511492372](https://doi.org/10.1017/cbo9780511492372)
+
+## 相关性评分
+
+- **商业银行**：2.0/10
+- **货币政策**：8.0/10（最高匹配）
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 8.0/10。论文核心研究欧元区货币政策传导机制，使用宏观VAR、结构模型以及银行和企业面板数据，直接属于货币政策领域。商业银行作为传导渠道的一部分被研究，但并非论文主线，因此得分较低。财政政策仅作为背景提及，无实质关联。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

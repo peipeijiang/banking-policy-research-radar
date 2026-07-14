@@ -3,7 +3,7 @@ title: "银行流动性创造与资产市场流动性"
 paper_id: "https://doi.org/10.1016/j.jfs.2015.03.006"
 source: "citation"
 published: "2015-04-06T00:00:00"
-score: 58.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Housing Market and Economics", "Monetary Policy and Economic Impact"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Ujjal Chatterjee
 - **来源**：Journal of Financial Stability
 - **发布时间**：2015-04-06
-- **相关度评分**：58.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.1016/j.jfs.2015.03.006](https://doi.org/10.1016/j.jfs.2015.03.006)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：6.0/10
+- **财政政策**：0.0/10
+- **评分依据**：已有深度分析
+
+> 最高匹配领域：商业银行 8.0/10。commercial_banking: 论文核心研究银行流动性创造，属于商业银行领域核心主题，且区分表内表外、大小银行，直接贡献于银行监管与风险管理。monetary_policy: 论文将联邦基金利率作为货币政策代理变量，并发现其对大小银行流动性创造的异质性影响，涉及货币政策传导的银行信贷渠道，但货币政策并非主线，而是作为解释变量之一。fiscal_policy: 论文未涉及政府收入、支出、债务等财政政策内容，评0分。
 
 ## 深度解读
 

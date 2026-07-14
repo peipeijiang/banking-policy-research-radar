@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Polynomial and algebraic comp
 - **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21309650](https://doi.org/10.5281/zenodo.21309650)
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 0.0/10。论文研究的是代数几何中尖点奇点的解析方法，提出RICIS-III框架替代经典blow-up。完全不涉及商业银行、货币政策或财政政策。三个领域均为0分。
+
 <details open>
 <summary><strong>中文摘要</strong></summary>
 

@@ -3,7 +3,7 @@ title: "Integrated model of brand trust and brand loyalty from digital, ethical,
 paper_id: "https://doi.org/10.1080/23311975.2026.2700128"
 source: "openalex"
 published: "2026-07-08T00:00:00"
-score: 18.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Digital Marketing and Social Media", "Corporate Identity and Reputation", "Customer Service Quality and Loyalty"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Digital Marketing and Social 
 - **作者**：Nga NTT, T N P Nguyen, Phương Linh Nguyễn
 - **来源**：Cogent Business & Management
 - **发布时间**：2026-07-08
-- **相关度评分**：18.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.1080/23311975.2026.2700128](https://doi.org/10.1080/23311975.2026.2700128)
+
+## 相关性评分
+
+- **商业银行**：7.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 7.0/10。commercial_banking: 论文以越南商业银行客户为研究对象，探讨品牌信任和忠诚度，涉及银行服务可及性、企业社会责任等，属于商业银行领域的客户关系管理，但未涉及信贷、风险、监管等核心银行议题，因此评7分。monetary_policy: 论文完全不涉及货币政策工具、传导或通胀，评0分。fiscal_policy: 论文不涉及政府收支、债务或财政政策，评0分。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

@@ -3,7 +3,7 @@ title: "The Effects of Conventional and Unconventional Monetary Policy on Exchan
 paper_id: "https://doi.org/10.3386/w25021"
 source: "citation"
 published: "2018-09-01T00:00:00"
-score: 44.0
+score: 90.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Monetary Policy and Economic Impact", "Market Dynamics and Volatility", "Global Financial Crisis and Policies"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Monetary Policy and Economic 
 - **作者**：Atsushi Inoue, Barbara Rossi
 - **来源**：National Bureau of Economic Research
 - **发布时间**：2018-09-01
-- **相关度评分**：44.0
+- **相关度评分**：90.0
 - **DOI**：[https://doi.org/10.3386/w25021](https://doi.org/10.3386/w25021)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：9.0/10（最高匹配）
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 9.0/10。论文研究货币政策的汇率效应，核心是货币政策冲击对汇率的影响，包括常规和非常规货币政策，属于货币政策领域核心问题。商业银行和财政政策领域无实质关联。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

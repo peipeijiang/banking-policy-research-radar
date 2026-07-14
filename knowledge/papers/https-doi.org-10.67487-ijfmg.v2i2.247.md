@@ -3,7 +3,7 @@ title: "Democratic Governance and Policy Implementation under the Bola Ahmed Tin
 paper_id: "https://doi.org/10.67487/ijfmg.v2i2.247"
 source: "openalex"
 published: "2026-07-09T00:00:00"
-score: 48.0
+score: 40.0
 tags: ["paper", "banking-fiscal-monetary-policy", "African Education and Politics", "Corruption and Economic Development", "Economic Growth and Development"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "African Education and Politic
 - **作者**：Verra John, Nsikak Edet
 - **来源**：INTERNATIONAL JOURNAL OF FINANCE MANAGEMENT AND GOVERNANCE
 - **发布时间**：2026-07-09
-- **相关度评分**：48.0
+- **相关度评分**：40.0
 - **DOI**：[https://doi.org/10.67487/ijfmg.v2i2.247](https://doi.org/10.67487/ijfmg.v2i2.247)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：0.0/10
+- **财政政策**：4.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 4.0/10。论文研究尼日利亚Tinubu政府的民主治理与政策实施，涉及财政政策（如燃油补贴取消、税收改革、公共债务），但主要聚焦治理评估而非财政政策本身。货币政策仅提及通胀，无工具或传导分析。商业银行未涉及。因此财政政策得4分（间接提及），其他领域0分。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Monetary Policy and Economic 
 - **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.1002/jae.616](https://doi.org/10.1002/jae.616)
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 0.0/10。该论文提出了一种用于检验变量间水平关系的边界检验方法（ARDL bounds testing），属于计量经济学方法论研究。论文以英国财政部宏观经济计量模型中的收入方程为例进行实证演示，但研究问题本身不涉及商业银行、货币政策或财政政策的具体内容。三个领域均未达到实质关联，因此评分均为0。
+
 <details open>
 <summary><strong>中文摘要</strong></summary>
 

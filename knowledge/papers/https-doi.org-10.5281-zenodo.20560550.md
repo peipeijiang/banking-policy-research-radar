@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Cellular Automata and Applica
 - **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.5281/zenodo.20560550](https://doi.org/10.5281/zenodo.20560550)
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 0.0/10。该论文提出一个从自包含原理和最小描述长度原则推导标准模型、量子力学和宇宙学的理论框架，完全不涉及商业银行、货币政策或财政政策。论文主题是基础物理和宇宙学，与经济金融领域无关。
+
 <details open>
 <summary><strong>中文摘要</strong></summary>
 

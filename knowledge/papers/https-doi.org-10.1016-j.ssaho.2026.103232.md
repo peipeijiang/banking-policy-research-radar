@@ -3,7 +3,7 @@ title: "Using the GARCH model to measure the dual impact of money supply (M2) on
 paper_id: "https://doi.org/10.1016/j.ssaho.2026.103232"
 source: "openalex"
 published: "2026-07-10T00:00:00"
-score: 22.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Financial Risk and Volatility Modeling", "Financial Markets and Investment Strategies", "Stock Market Forecasting Methods"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Financial Risk and Volatility
 - **作者**：Duc Kien Tran, Nguyet Thi Minh Dang, Huong Ly Vu
 - **来源**：Social Sciences & Humanities Open
 - **发布时间**：2026-07-10
-- **相关度评分**：22.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.1016/j.ssaho.2026.103232](https://doi.org/10.1016/j.ssaho.2026.103232)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：7.0/10（最高匹配）
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 7.0/10。论文研究货币供给（M2）对越南股票市场收益率和波动风险的影响，直接涉及货币政策工具（货币供给）及其对资产价格和风险的影响，属于货币政策领域。商业银行和财政政策领域与论文核心无关。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

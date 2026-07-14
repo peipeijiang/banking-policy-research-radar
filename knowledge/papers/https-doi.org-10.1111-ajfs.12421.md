@@ -3,7 +3,7 @@ title: "Pricing Liquidity Risk in the Korean Corporate Bond Market*"
 paper_id: "https://doi.org/10.1111/ajfs.12421"
 source: "citation"
 published: "2023-04-01T00:00:00"
-score: 0.0
+score: 20.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Financial Markets and Investment Strategies", "Credit Risk and Financial Regulations", "Stochastic processes and financial applications"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Financial Markets and Investm
 - **作者**：Eunji Kim, Ga‐Young Jang, Soo‐Hyun Kim
 - **来源**：Asia-Pacific Journal of Financial Studies
 - **发布时间**：2023-04-01
-- **相关度评分**：0.0
+- **相关度评分**：20.0
 - **DOI**：[https://doi.org/10.1111/ajfs.12421](https://doi.org/10.1111/ajfs.12421)
+
+## 相关性评分
+
+- **商业银行**：2.0/10（最高匹配）
+- **货币政策**：1.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 2.0/10。commercial_banking: 论文研究韩国公司债券市场的流动性风险定价，涉及债券市场微观结构，但未聚焦银行信贷、金融中介或银行监管，与商业银行核心主题关联弱，仅因债券市场与银行间接相关给2分。monetary_policy: 论文未涉及中央银行政策工具、传导机制或通胀目标，仅提及流动性风险，与货币政策无关。fiscal_policy: 论文未涉及政府支出、税收、债务或财政政策，与财政政策无关。最高匹配领域为commercial_banking，但得分低。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

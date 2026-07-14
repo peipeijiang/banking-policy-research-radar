@@ -3,7 +3,7 @@ title: "How do economies with open labour markets work? The role of temporary mi
 paper_id: "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3251~6ae71665ab.en.pdf"
 source: "ecb"
 published: "2026-07-08T09:00:00"
-score: 15.0
+score: 30.0
 tags: ["paper", "banking-fiscal-monetary-policy"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **作者**：-
 - **来源**：ECB Working Papers
 - **发布时间**：2026-07-08
-- **相关度评分**：15.0
+- **相关度评分**：30.0
 - **DOI**：-
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：3.0/10（最高匹配）
+- **财政政策**：3.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 3.0/10。commercial_banking: 论文研究劳动力市场与移民，未涉及银行或信贷中介，评0分。monetary_policy: 论文提及货币政策传导和产出成本，但核心是移民对宏观经济波动的影响，货币政策仅为背景，评3分。fiscal_policy: 论文提及财政扩张的挤出效应，但核心是移民调整机制，财政政策非主线，评3分。最高匹配领域为货币政策，但仅为间接提及。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

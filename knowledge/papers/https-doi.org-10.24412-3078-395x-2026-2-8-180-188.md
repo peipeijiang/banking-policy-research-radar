@@ -3,7 +3,7 @@ title: "塔吉克斯坦经济数字化条件下银行信贷产品数字化的优
 paper_id: "https://doi.org/10.24412/3078-395x-2026-2-8-180-188"
 source: "openalex"
 published: "2026-07-09T00:00:00"
-score: 54.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Water and Wastewater Treatment", "Digital Economy and Transformation", "FinTech, Crowdfunding, Digital Finance"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Water and Wastewater Treatmen
 - **作者**：Саидмуродзода Лутфулло Хабибулло, Juraev Behzod Mashrafovich
 - **来源**：cyberleninka.ru
 - **发布时间**：2026-07-09
-- **相关度评分**：54.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.24412/3078-395x-2026-2-8-180-188](https://doi.org/10.24412/3078-395x-2026-2-8-180-188)
+
+## 相关性评分
+
+- **商业银行**：7.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 7.0/10。论文研究塔吉克斯坦银行信贷产品的数字化，核心是银行信贷、金融中介和银行效率，属于商业银行领域。货币政策仅间接提及（央行数据），但未研究政策工具或传导；财政政策未涉及。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

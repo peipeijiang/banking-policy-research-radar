@@ -3,7 +3,7 @@ title: "Tinjauan Siyasah Maliyah Tentang Pengawasan Keuangan Negara Melalui Opin
 paper_id: "https://doi.org/10.38035/rrj.v8i4.2216"
 source: "openalex"
 published: "2026-07-09T00:00:00"
-score: 13.0
+score: 50.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Indonesian Election Politics and Participation", "Local Governance and Development", "Economic Growth and Fiscal Policies"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Indonesian Election Politics 
 - **作者**：Al Haura Millani, Beni Ahmad Saebani, Chaerul Shaleh
 - **来源**：Ranah Research Journal of Multidisciplinary Research and Development
 - **发布时间**：2026-07-09
-- **相关度评分**：13.0
+- **相关度评分**：50.0
 - **DOI**：[https://doi.org/10.38035/rrj.v8i4.2216](https://doi.org/10.38035/rrj.v8i4.2216)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：0.0/10
+- **财政政策**：5.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 5.0/10。commercial_banking: 论文完全不涉及商业银行、信贷或金融中介，得0分。monetary_policy: 论文不涉及中央银行政策、利率、通胀等货币政策核心内容，得0分。fiscal_policy: 论文讨论国家财政监督、审计意见（WTP）与财政政策原则的一致性，属于财政监督和公共财务管理，与财政政策有实质关联，但论文主线是审计意见的评估而非财政政策本身，因此得5分。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

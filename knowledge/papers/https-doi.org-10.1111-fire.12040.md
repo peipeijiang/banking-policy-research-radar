@@ -3,7 +3,7 @@ title: "The Provision of Liquidity by High‐Frequency Participants"
 paper_id: "https://doi.org/10.1111/fire.12040"
 source: "citation"
 published: "2014-04-07T00:00:00"
-score: 5.0
+score: 0.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Financial Markets and Investment Strategies", "Corporate Finance and Governance", "Housing Market and Economics"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Financial Markets and Investm
 - **作者**：Elvis Jarnecic, Mark Snape
 - **来源**：Financial Review
 - **发布时间**：2014-04-07
-- **相关度评分**：5.0
+- **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.1111/fire.12040](https://doi.org/10.1111/fire.12040)
+
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 0.0/10。论文研究高频交易者（HFT）在限价订单簿中的流动性供给行为，属于市场微观结构领域，与商业银行、货币政策、财政政策均无实质关联。未涉及银行信贷、金融中介、银行监管、中央银行政策工具或政府财政工具。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

@@ -3,7 +3,7 @@ title: "日本银行经理利用可自由支配贷款损失准备进行盈余管
 paper_id: "https://doi.org/10.1142/s0219091509001526"
 source: "citation"
 published: "2009-03-01T00:00:00"
-score: 58.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Auditing, Earnings Management, Governance", "Corporate Finance and Governance", "Credit Risk and Financial Regulations"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Auditing, Earnings Management
 - **作者**：Wikil Kwak, Ho Young Lee, Susan W. Eldridge
 - **来源**：Review of Pacific Basin Financial Markets and Policies
 - **发布时间**：2009-03-01
-- **相关度评分**：58.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.1142/s0219091509001526](https://doi.org/10.1142/s0219091509001526)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：1.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.0/10。论文研究日本银行经理使用贷款损失准备金的自由裁量部分进行盈余管理，核心是银行会计行为与风险管理，属于商业银行领域。货币政策与财政政策仅作为背景提及，无实质关联。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

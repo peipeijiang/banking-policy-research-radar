@@ -3,7 +3,7 @@ title: "Bivariate sudden stop analysis of equity and bond fund flows to emerging
 paper_id: "repec:RePEc:zbw:bubdps:341638"
 source: "bundesbank"
 published: "2026-01-01T00:00:00"
-score: 15.0
+score: 30.0
 tags: ["paper", "banking-fiscal-monetary-policy"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **作者**：Griebsch, Susanne, Röthig, Andreas
 - **来源**：Discussion Papers
 - **发布时间**：2026-01-01
-- **相关度评分**：15.0
+- **相关度评分**：30.0
 - **DOI**：10.71734/DP-2026-15
+
+## 相关性评分
+
+- **商业银行**：1.0/10
+- **货币政策**：3.0/10（最高匹配）
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 3.0/10。commercial_banking: 论文研究新兴市场股票和债券基金流动的突然停止，不涉及银行信贷、金融中介或银行监管，仅间接提及银行相关概念，评分1。monetary_policy: 论文提及利率逆转和资本流动波动，但主要关注异常检测方法，不研究货币政策工具、传导或政策含义，评分3。fiscal_policy: 论文不涉及政府收入、支出、债务或财政政策，评分1。最高匹配领域为monetary_policy，但仅为背景提及。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

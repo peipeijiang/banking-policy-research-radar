@@ -3,7 +3,7 @@ title: "流动性管理"
 paper_id: "https://doi.org/10.1002/9781119444497.ch4"
 source: "citation"
 published: "2018-01-16T00:00:00"
-score: 85.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：-
 - **来源**：Bank Asset and Liability Management
 - **发布时间**：2018-01-16
-- **相关度评分**：85.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.1002/9781119444497.ch4](https://doi.org/10.1002/9781119444497.ch4)
+
+## 相关性评分
+
+- **商业银行**：7.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 7.0/10。commercial_banking: 论文聚焦银行流动性管理，包括流动性覆盖率、净稳定资金比率、压力测试等，直接属于商业银行监管与风险管理领域，评分7。monetary_policy: 仅提及流动性概念，未涉及货币政策工具、传导或政策含义，评分2。fiscal_policy: 未涉及财政政策内容，评分1。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

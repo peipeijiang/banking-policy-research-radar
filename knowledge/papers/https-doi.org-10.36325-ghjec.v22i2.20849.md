@@ -3,7 +3,7 @@ title: "The impact of conventional monetary policy tools on Private Investment i
 paper_id: "https://doi.org/10.36325/ghjec.v22i2.20849"
 source: "openalex"
 published: "2026-07-12T00:00:00"
-score: 23.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Economic Sanctions and International Relations", "Italy: Economic History and Contemporary Issues", "Monetary Policy and Economic Impact"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Economic Sanctions and Intern
 - **作者**：Ihsan Ali Hussein, Helmy Ibraheem Menshad
 - **来源**：Al-Ghary Journal of Economic and Administrative Sciences
 - **发布时间**：2026-07-12
-- **相关度评分**：23.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.36325/ghjec.v22i2.20849](https://doi.org/10.36325/ghjec.v22i2.20849)
+
+## 相关性评分
+
+- **商业银行**：2.0/10
+- **货币政策**：7.0/10（最高匹配）
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 7.0/10。论文研究传统货币政策工具（货币供应量、利率、准备金）对私人投资的影响，属于货币政策传导机制研究，因此货币政策领域得7分。商业银行领域仅提及银行体系管理，但非研究银行信贷或风险，得2分。财政政策未涉及，得1分。最高匹配领域为货币政策。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

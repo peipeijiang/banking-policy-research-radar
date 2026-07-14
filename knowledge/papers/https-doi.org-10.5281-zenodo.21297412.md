@@ -3,7 +3,7 @@ title: "Globalization and Political Austerity in Latin America: An Analytical Re
 paper_id: "https://doi.org/10.5281/zenodo.21297412"
 source: "openalex"
 published: "2026-07-10T00:00:00"
-score: 42.0
+score: 60.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Elite Sociology and Global Capitalism", "Social Policy and Reform Studies", "Economic Theory and Policy"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Elite Sociology and Global Ca
 - **作者**：Daniel Ausejo
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-10
-- **相关度评分**：42.0
+- **相关度评分**：60.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21297412](https://doi.org/10.5281/zenodo.21297412)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：3.0/10
+- **财政政策**：6.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 6.0/10。commercial_banking: 论文不涉及商业银行、信贷供给或银行监管，评0分。monetary_policy: 论文讨论通胀和货币政策制定，但主要是政治经济学视角，未深入分析货币政策工具或传导机制，评3分。fiscal_policy: 论文核心是Kaplan的政治紧缩周期理论，聚焦财政政策（紧缩）与全球化、选举激励的关系，属于财政政策领域，评6分。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

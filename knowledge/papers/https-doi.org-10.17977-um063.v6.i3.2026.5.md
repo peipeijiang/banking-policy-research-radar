@@ -3,7 +3,7 @@ title: "An economic analysis of public government expenditure and its role in at
 paper_id: "https://doi.org/10.17977/um063.v6.i3.2026.5"
 source: "openalex"
 published: "2026-07-09T00:00:00"
-score: 18.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policy and Economic Growth", "International Business and FDI", "Economic and Business Studies"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policy and Economic Gr
 - **作者**：Sami Kamil Abd
 - **来源**：Jurnal Integrasi dan Harmoni Inovatif Ilmu-Ilmu Sosial
 - **发布时间**：2026-07-09
-- **相关度评分**：18.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.17977/um063.v6.i3.2026.5](https://doi.org/10.17977/um063.v6.i3.2026.5)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：0.0/10
+- **财政政策**：7.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 7.0/10。论文研究伊拉克政府公共支出对吸引外国直接投资的作用，核心是财政政策工具（政府支出）及其对投资的影响，属于财政政策领域。未涉及商业银行或货币政策内容，因此其他领域得分为0。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

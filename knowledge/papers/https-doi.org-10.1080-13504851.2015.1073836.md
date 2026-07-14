@@ -3,7 +3,7 @@ title: "Asymmetric effects of monetary policy shocks on economic performance: em
 paper_id: "https://doi.org/10.1080/13504851.2015.1073836"
 source: "citation"
 published: "2015-08-05T00:00:00"
-score: 38.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Market Dynamics and Volatility", "Monetary Policy and Economic Impact", "Energy, Environment, Economic Growth"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Market Dynamics and Volatilit
 - **作者**：Volkan Ülke, Hakan Berument
 - **来源**：Applied Economics Letters
 - **发布时间**：2015-08-05
-- **相关度评分**：38.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.1080/13504851.2015.1073836](https://doi.org/10.1080/13504851.2015.1073836)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：8.0/10（最高匹配）
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 8.0/10。论文研究货币政策冲击对汇率、产出和通胀的非对称效应，使用非线性VAR模型，核心是货币政策工具（利率）的传导机制和效果，属于货币政策领域核心研究。未涉及商业银行或财政政策内容。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

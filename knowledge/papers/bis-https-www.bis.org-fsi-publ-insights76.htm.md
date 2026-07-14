@@ -3,7 +3,7 @@ title: "全球系统重要性银行资本要求的比较研究"
 paper_id: "bis:https://www.bis.org/fsi/publ/insights76.htm"
 source: "bis"
 published: "2026-07-08T11:15:00"
-score: 82.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **作者**：Patrizia Baudino, Jonathan Beissinger, Renzo Corrias, Mathias Drehmann, Egemen Eren, Burcu Erik, Nikola Tarashev
 - **来源**：BIS Working Papers
 - **发布时间**：2026-07-08
-- **相关度评分**：82.0
+- **相关度评分**：80.0
 - **DOI**：-
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.0/10。论文核心是比较全球系统重要性银行的资本要求，属于银行监管和资本充足率领域，直接对应商业银行领域。货币政策仅作为背景提及，财政政策无关。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

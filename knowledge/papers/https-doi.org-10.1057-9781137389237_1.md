@@ -3,7 +3,7 @@ title: "Musings on Liquidity"
 paper_id: "https://doi.org/10.1057/9781137389237_1"
 source: "citation"
 published: "2015-01-01T00:00:00"
-score: 0.0
+score: 10.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Financial Markets and Investment Strategies", "Banking stability, regulation, efficiency", "Economic theories and models"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Financial Markets and Investm
 - **作者**：Andria van der Merwe
 - **来源**：Palgrave Macmillan US eBooks
 - **发布时间**：2015-01-01
-- **相关度评分**：0.0
+- **相关度评分**：10.0
 - **DOI**：[https://doi.org/10.1057/9781137389237_1](https://doi.org/10.1057/9781137389237_1)
+
+## 相关性评分
+
+- **商业银行**：1.0/10（最高匹配）
+- **货币政策**：1.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 1.0/10。论文标题为'Musings on Liquidity'，摘要讨论市场流动性的一般概念，未涉及商业银行、货币政策或财政政策的具体研究问题、方法或结果。内容仅为一般性思考，与三个领域均无实质关联。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

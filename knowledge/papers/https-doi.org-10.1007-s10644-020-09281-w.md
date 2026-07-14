@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Efficiency Analysis Using DEA
 - **相关度评分**：20.0
 - **DOI**：[https://doi.org/10.1007/s10644-020-09281-w](https://doi.org/10.1007/s10644-020-09281-w)
 
+## 相关性评分
+
+- **商业银行**：2.0/10（最高匹配）
+- **货币政策**：1.0/10
+- **财政政策**：1.0/10
+- **评分依据**：已有一句话摘要
+
+> 最高匹配领域：商业银行 2.0/10。论文提出DEA模型测量金融中介效率，但未涉及具体政策、风险或银行行为，与商业银行领域仅有间接关联（金融中介概念），与货币政策和财政政策无实质关系。最高匹配领域为commercial_banking，但得分仅2。
+
 <details>
 <summary><strong>发现与关联证据</strong></summary>
 

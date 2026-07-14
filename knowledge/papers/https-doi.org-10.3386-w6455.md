@@ -3,7 +3,7 @@ title: "金融加速器在定量商业周期框架中的作用"
 paper_id: "https://doi.org/10.3386/w6455"
 source: "citation"
 published: "1998-03-01T00:00:00"
-score: 84.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Economic theories and models", "Banking stability, regulation, efficiency", "Economic Theory and Policy"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Economic theories and models"
 - **作者**：Ben Bernanke, Mark Gertler, Simon Gilchrist
 - **来源**：National Bureau of Economic Research
 - **发布时间**：1998-03-01
-- **相关度评分**：84.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.3386/w6455](https://doi.org/10.3386/w6455)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：7.0/10
+- **财政政策**：2.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.0/10。commercial_banking: 论文核心是金融加速器机制，强调信贷市场摩擦如何放大经济波动，直接研究银行信贷供给和金融中介在商业周期中的作用，属于商业银行领域核心贡献。monetary_policy: 论文明确纳入货币和价格粘性，分析信贷摩擦如何影响货币政策传导，货币政策是研究主线之一，但并非唯一焦点。fiscal_policy: 论文未涉及政府支出、税收或债务等财政政策内容，仅作为背景提及，评分较低。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

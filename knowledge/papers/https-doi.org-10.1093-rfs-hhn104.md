@@ -3,7 +3,7 @@ title: "银行流动性创造"
 paper_id: "https://doi.org/10.1093/rfs/hhn104"
 source: "citation"
 published: "2009-01-08T00:00:00"
-score: 80.0
+score: 90.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Corporate Finance and Governance", "Global Financial Crisis and Policies"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Allen N. Berger, Christa H. S. Bouwman
 - **来源**：Review of Financial Studies
 - **发布时间**：2009-01-08
-- **相关度评分**：80.0
+- **相关度评分**：90.0
 - **DOI**：[https://doi.org/10.1093/rfs/hhn104](https://doi.org/10.1093/rfs/hhn104)
+
+## 相关性评分
+
+- **商业银行**：9.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 9.0/10。论文核心是构建银行流动性创造指标并分析其决定因素和影响，直接属于商业银行领域，研究银行流动性创造、资本与流动性关系等核心主题。货币政策仅作为背景提及，未研究政策工具或传导。财政政策无实质关联。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

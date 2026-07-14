@@ -3,7 +3,7 @@ title: "Friend, Not Foe? Monetary Policy and Energy Prices"
 paper_id: "https://doi.org/10.48462/opus4-6295"
 source: "openalex"
 published: "2026-07-10T00:00:00"
-score: 38.0
+score: 90.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Monetary Policy and Economic Impact", "Market Dynamics and Volatility", "Italy: Economic History and Contemporary Issues"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Monetary Policy and Economic 
 - **作者**：Gökhan Ider, Alexander Kriwoluzky, Frederik Kurcz, Ben Schumann
 - **来源**：OPUS 4 (Zuse Institute Berlin)
 - **发布时间**：2026-07-10
-- **相关度评分**：38.0
+- **相关度评分**：90.0
 - **DOI**：[https://doi.org/10.48462/opus4-6295](https://doi.org/10.48462/opus4-6295)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：9.0/10（最高匹配）
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 9.0/10。commercial_banking: 论文研究货币政策对能源价格的影响及其传导，不涉及商业银行、信贷供给或银行监管，因此评0分。monetary_policy: 论文核心研究货币政策对能源价格的影响，以及这一能力如何改变货币政策传导至通胀和产出，直接属于货币政策领域，且涉及最优政策反应，评9分。fiscal_policy: 论文不涉及政府支出、税收、债务等财政政策内容，评0分。最高匹配领域为monetary_policy。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

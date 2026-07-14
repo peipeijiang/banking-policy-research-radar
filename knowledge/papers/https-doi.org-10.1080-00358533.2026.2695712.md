@@ -3,7 +3,7 @@ title: "Timothy N. J. Antoine and the modernisation of Caribbean central banking
 paper_id: "https://doi.org/10.1080/00358533.2026.2695712"
 source: "openalex"
 published: "2026-07-06T00:00:00"
-score: 18.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Caribbean history, culture, and politics", "Economic and Technological Innovation", "Historical Studies in Central America"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Caribbean history, culture, a
 - **作者**：Neelu Jain
 - **来源**：The Round Table
 - **发布时间**：2026-07-06
-- **相关度评分**：18.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.1080/00358533.2026.2695712](https://doi.org/10.1080/00358533.2026.2695712)
+
+## 相关性评分
+
+- **商业银行**：1.0/10
+- **货币政策**：7.0/10（最高匹配）
+- **财政政策**：2.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 7.0/10。论文主要讨论东加勒比中央银行在Timothy N. J. Antoine领导下的现代化改革，强调韧性导向和发展导向的货币政策治理，属于货币政策领域。商业银行和财政政策仅作为背景提及，非主线。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

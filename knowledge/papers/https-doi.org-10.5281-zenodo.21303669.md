@@ -3,7 +3,7 @@ title: "How to Win a Lose-Lose Game: 8 Priority Policies for Uganda and Rwanda"
 paper_id: "https://doi.org/10.5281/zenodo.21303669"
 source: "openalex"
 published: "2026-07-11T00:00:00"
-score: 35.0
+score: 20.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Economic Growth and Development", "International Development and Aid", "Natural Resources and Economic Development"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Economic Growth and Developme
 - **作者**：Kai Hermann Kayser
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-11
-- **相关度评分**：35.0
+- **相关度评分**：20.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21303669](https://doi.org/10.5281/zenodo.21303669)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：0.0/10
+- **财政政策**：2.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 2.0/10。论文是一份政策建议报告，聚焦于乌干达和卢旺达的发展战略，核心主题是主权、市场自由、税收、债务禁令、加密货币等。虽然涉及税收和债务（财政政策相关），但讨论非常宏观且非学术性，缺乏对财政工具、乘数、可持续性等核心问题的深入研究。商业银行和货币政策领域几乎不相关。最高匹配领域为财政政策，但仅得2分，因为论文未提供实证分析或严谨论证。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

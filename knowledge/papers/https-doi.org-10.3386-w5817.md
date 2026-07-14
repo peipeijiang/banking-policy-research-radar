@@ -3,7 +3,7 @@ title: "Private and Public Supply of Liquidity"
 paper_id: "https://doi.org/10.3386/w5817"
 source: "citation"
 published: "1996-11-01T00:00:00"
-score: 21.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Economic theories and models", "Banking stability, regulation, efficiency", "Economic Theory and Policy"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Economic theories and models"
 - **作者**：Bengt Holmström, Jean Tirole
 - **来源**：National Bureau of Economic Research
 - **发布时间**：1996-11-01
-- **相关度评分**：21.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.3386/w5817](https://doi.org/10.3386/w5817)
+
+## 相关性评分
+
+- **商业银行**：5.0/10
+- **货币政策**：4.0/10
+- **财政政策**：7.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 7.0/10。论文研究私人部门与政府部门提供流动性的问题，核心是政府债券在提供流动性方面的作用，属于财政政策领域（政府发行债券、管理流动性）。商业银行领域涉及金融中介和信贷，但并非主线，仅作为流动性供给的一种方式。货币政策领域提及政府通过调整债券供给管理流动性，但未深入讨论利率、通胀等传统货币政策工具，关联度中等。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

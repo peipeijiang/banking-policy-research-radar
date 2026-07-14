@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Consumer Market Behavior and 
 - **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21319716](https://doi.org/10.5281/zenodo.21319716)
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 0.0/10。论文研究品牌选择概率的生成机制，提出“光谱匹配”统计量预测消费者选择倾向，属于市场营销和消费者行为领域。完全不涉及商业银行、货币政策或财政政策。三个领域均无实质关联。
+
 <details open>
 <summary><strong>中文摘要</strong></summary>
 

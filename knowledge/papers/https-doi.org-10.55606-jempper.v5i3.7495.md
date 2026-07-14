@@ -3,7 +3,7 @@ title: "Peran Museum Bank Indonesia sebagai Sarana Wisata Edukasi Sejarah"
 paper_id: "https://doi.org/10.55606/jempper.v5i3.7495"
 source: "openalex"
 published: "2026-07-06T00:00:00"
-score: 7.0
+score: 10.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Architectural and Urban Studies", "Cultural and Artistic Studies", "Community-based Tourism Development and Sustainability"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Architectural and Urban Studi
 - **作者**：Meisya Rakhma Aqiila, Musa Pelu
 - **来源**：Jurnal Ekonomi Manajemen Pariwisata dan Perhotelan
 - **发布时间**：2026-07-06
-- **相关度评分**：7.0
+- **相关度评分**：10.0
 - **DOI**：[https://doi.org/10.55606/jempper.v5i3.7495](https://doi.org/10.55606/jempper.v5i3.7495)
+
+## 相关性评分
+
+- **商业银行**：1.0/10（最高匹配）
+- **货币政策**：1.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 1.0/10。论文研究印度尼西亚银行博物馆作为历史教育旅游设施的角色，属于博物馆学、旅游教育领域。虽然涉及中央银行（Bank Indonesia），但未研究商业银行的信贷、风险、监管等核心主题；未分析货币政策工具、传导或通胀；未涉及财政政策。因此三个领域得分均很低。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Cosmology and Gravitation The
 - **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21318779](https://doi.org/10.5281/zenodo.21318779)
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 0.0/10。论文研究早期宇宙暴胀时期的共形耗散动力学，涉及广义相对论、量子热力学、规范场相变等，与商业银行、货币政策、财政政策完全无关。
+
 <details open>
 <summary><strong>中文摘要</strong></summary>
 

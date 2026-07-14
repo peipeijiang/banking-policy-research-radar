@@ -3,7 +3,7 @@ title: "美元化对刚果民主共和国货币政策传导的影响：基于200
 paper_id: "https://doi.org/10.5281/zenodo.21293075"
 source: "openalex"
 published: "2026-07-10T00:00:00"
-score: 59.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Monetary Policy and Economic Impact", "Banking stability, regulation, efficiency", "Global Financial Crisis and Policies"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Monetary Policy and Economic 
 - **作者**：LIKINDA YALOSOLA FELICIENNE, MBUDI MASUNDA Martin
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-10
-- **相关度评分**：59.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21293075](https://doi.org/10.5281/zenodo.21293075)
+
+## 相关性评分
+
+- **商业银行**：3.0/10
+- **货币政策**：8.0/10（最高匹配）
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 8.0/10。论文核心研究美元化对刚果民主共和国货币政策传导的影响，主要分析货币政策工具（利率、汇率、货币供应）和信贷渠道，属于货币政策领域核心问题。商业银行领域仅涉及信贷作为变量，但非研究银行行为或监管。财政政策仅作为背景提及，无实质分析。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

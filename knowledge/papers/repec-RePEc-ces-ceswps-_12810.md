@@ -3,7 +3,7 @@ title: "The Labor Market Impacts of GLP-1s"
 paper_id: "repec:RePEc:ces:ceswps:_12810"
 source: "cesifo"
 published: "2026-01-01T00:00:00"
-score: 0.0
+score: 20.0
 tags: ["paper", "banking-fiscal-monetary-policy"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **作者**：Meltem N. Daysal, Camille Fredrickson, Ida Lykke Kristiansen, Mircea Trandafir, Jonathan Zhang, N. Meltem Daysal
 - **来源**：CESifo Working Paper Series
 - **发布时间**：2026-01-01
-- **相关度评分**：0.0
+- **相关度评分**：20.0
 - **DOI**：-
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：0.0/10
+- **财政政策**：2.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 2.0/10。commercial_banking: 论文研究GLP-1药物对劳动力市场的影响，完全不涉及银行、信贷或金融中介，评0分。monetary_policy: 论文不涉及中央银行政策、利率、通胀或货币政策工具，评0分。fiscal_policy: 论文估计了GLP-1治疗的财政收益（约1.3-1.5%年劳动收入），但这是次要结果，主要研究劳动力市场而非财政政策本身，且未深入分析税收、支出或债务，因此仅作为背景提及，评2分。最高匹配领域为fiscal_policy，但分数很低。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

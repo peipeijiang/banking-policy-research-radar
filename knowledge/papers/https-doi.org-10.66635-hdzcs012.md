@@ -3,7 +3,7 @@ title: "印度股市银行板块股权投资的长期影响分析——以Nifty 
 paper_id: "https://doi.org/10.66635/hdzcs012"
 source: "openalex"
 published: "2026-07-10T00:00:00"
-score: 76.0
+score: 65.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Banking Sector Performance and Management", "COVID-19 Pandemic Impacts"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Tanvir mohmmedbhai padaya, Dr.laveena dharmwani
 - **来源**：Journal of Asia Entrepreneurship and Sustainability
 - **发布时间**：2026-07-10
-- **相关度评分**：76.0
+- **相关度评分**：65.0
 - **DOI**：[https://doi.org/10.66635/hdzcs012](https://doi.org/10.66635/hdzcs012)
+
+## 相关性评分
+
+- **商业银行**：6.5/10（最高匹配）
+- **货币政策**：3.0/10
+- **财政政策**：2.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 6.5/10。commercial_banking: 论文主要研究印度银行业股票投资的长期表现，以Nifty Bank Index为对象，分析银行股回报、风险及宏观经济因素（如信贷增长、不良贷款率），属于商业银行领域中的银行股票市场表现，但更偏向投资分析而非银行中介或监管核心，故给6.5分。monetary_policy: 论文提及利率周期、货币政策等作为宏观因素，但未研究货币政策工具、传导或政策含义，仅作为背景，故给3分。fiscal_policy: 论文提及财政政策作为宏观因素之一，但未深入分析财政工具或宏观财政结果，故给2分。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

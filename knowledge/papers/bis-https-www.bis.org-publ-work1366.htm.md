@@ -3,7 +3,7 @@ title: "评估近期拨备规则对哥伦比亚消费信贷分配的影响"
 paper_id: "bis:https://www.bis.org/publ/work1366.htm"
 source: "bis"
 published: "2026-07-09T07:50:00"
-score: 81.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **作者**：Diego Cuesta-Mora, Fredy Gamboa, Camilo Sanchez-Quinto
 - **来源**：BIS Working Papers
 - **发布时间**：2026-07-09
-- **相关度评分**：81.0
+- **相关度评分**：70.0
 - **DOI**：-
+
+## 相关性评分
+
+- **商业银行**：7.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：2.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 7.0/10。论文研究哥伦比亚近期拨备规则对消费信贷分配的影响，核心是银行信贷供给和监管（拨备规则），属于商业银行领域。货币政策与财政政策仅作为背景提及，非主线。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

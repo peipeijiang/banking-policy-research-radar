@@ -3,7 +3,7 @@ title: "外国银行：趋势与影响"
 paper_id: "https://doi.org/10.1111/jmcb.12092"
 source: "citation"
 published: "2014-01-27T00:00:00"
-score: 64.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Islamic Finance and Banking Studies", "Global Financial Crisis and Policies"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Stijn Claessens, Neeltje van Horen
 - **来源**：Journal of money credit and banking
 - **发布时间**：2014-01-27
-- **相关度评分**：64.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.1111/jmcb.12092](https://doi.org/10.1111/jmcb.12092)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：2.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.0/10。commercial_banking: 论文研究外国银行在各国金融中介中的作用，分析其对信贷供给的影响，并考虑银行特征、制度环境等，直接属于商业银行领域，核心贡献。monetary_policy: 仅间接提及信贷，未涉及货币政策工具、传导或政策含义。fiscal_policy: 未涉及政府收入、支出、债务等财政政策内容。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

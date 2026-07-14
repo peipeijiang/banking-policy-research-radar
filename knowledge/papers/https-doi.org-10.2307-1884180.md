@@ -3,7 +3,7 @@ title: "Managerial Incentives and Capital Management"
 paper_id: "https://doi.org/10.2307/1884180"
 source: "citation"
 published: "1986-11-01T00:00:00"
-score: 0.0
+score: 10.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Capital Investment and Risk Analysis", "Fiscal Policy and Economic Growth", "Climate Change Policy and Economics"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Capital Investment and Risk A
 - **作者**：Bengt Holmström, Joan Ricart I Costa
 - **来源**：The Quarterly Journal of Economics
 - **发布时间**：1986-11-01
-- **相关度评分**：0.0
+- **相关度评分**：10.0
 - **DOI**：[https://doi.org/10.2307/1884180](https://doi.org/10.2307/1884180)
+
+## 相关性评分
+
+- **商业银行**：1.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 1.0/10。论文研究经理人职业关注与资本管理中的激励问题，核心是经理人风险偏好与最优合同设计，涉及资本配置中的配给机制。与商业银行、货币政策、财政政策均无实质关联。商业银行业务仅作为资本配置的背景提及，但未涉及银行信贷、监管或金融中介等核心主题。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

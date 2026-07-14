@@ -3,7 +3,7 @@ title: "宏观经济不确定性阈值下的货币需求与流动性惯性：来
 paper_id: "https://doi.org/10.5281/zenodo.21024384"
 source: "openalex"
 published: "2026-07-10T00:00:00"
-score: 55.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Monetary Policy and Economic Impact", "Economic theories and models", "Economic and Technological Innovation"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Monetary Policy and Economic 
 - **作者**：David Umoru, Malachy Ashywel Ugbaka, Beauty Igbinovia, Chinyere Helen Dede, Willie Wilfred Okoi, Emoabino Muhammed, EMOABINO MUHAMMED
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-10
-- **相关度评分**：55.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21024384](https://doi.org/10.5281/zenodo.21024384)
+
+## 相关性评分
+
+- **商业银行**：1.0/10
+- **货币政策**：8.0/10（最高匹配）
+- **财政政策**：4.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 8.0/10。commercial_banking: 论文主要研究货币需求，未涉及银行信贷、资本、流动性等商业银行核心主题，仅提及银行体系作为背景，评分1。monetary_policy: 论文核心研究货币需求、政策不确定性对货币需求的影响，讨论泰勒规则、利率平价、前瞻指引等货币政策工具和传导，属于货币政策领域核心贡献，评分8。fiscal_policy: 论文提及财政与货币政策协调，但未深入分析财政工具、支出、税收或债务，仅作为背景提及，评分4。最高匹配领域为monetary_policy。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

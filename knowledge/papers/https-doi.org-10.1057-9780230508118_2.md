@@ -3,7 +3,7 @@ title: "Liquidity and Financial Operations"
 paper_id: "https://doi.org/10.1057/9780230508118_2"
 source: "citation"
 published: "2005-01-01T00:00:00"
-score: 0.0
+score: 20.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Erik Banks
 - **来源**：Palgrave Macmillan UK eBooks
 - **发布时间**：2005-01-01
-- **相关度评分**：0.0
+- **相关度评分**：20.0
 - **DOI**：[https://doi.org/10.1057/9780230508118_2](https://doi.org/10.1057/9780230508118_2)
+
+## 相关性评分
+
+- **商业银行**：2.0/10（最高匹配）
+- **货币政策**：1.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 2.0/10。论文主要讨论流动性在金融操作中的角色，属于一般性金融概念介绍，未聚焦于商业银行、货币政策或财政政策的具体研究问题。商业银行领域仅提及金融机构和流动性风险，但无银行信贷、监管等核心内容；货币政策与财政政策仅作为背景提及，无实质关联。最高匹配领域为commercial_banking，但评分仅为2。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

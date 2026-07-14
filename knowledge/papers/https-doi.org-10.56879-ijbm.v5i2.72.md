@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Global trade, sustainability,
 - **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.56879/ijbm.v5i2.72](https://doi.org/10.56879/ijbm.v5i2.72)
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 0.0/10。commercial_banking: 论文研究计量不准确对消费者福利和农民收入的影响，涉及市场交易和监管，但未涉及银行信贷、金融中介或银行监管。monetary_policy: 论文未讨论货币政策工具、传导或通胀的政策含义。fiscal_policy: 论文未涉及政府预算、税收、支出或债务。因此三个领域均得0分。
+
 <details open>
 <summary><strong>中文摘要</strong></summary>
 

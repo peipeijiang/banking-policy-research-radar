@@ -3,7 +3,7 @@ title: "宏观审慎政策对银行系统性风险影响的国际证据"
 paper_id: "https://doi.org/10.1111/infi.70040"
 source: "citation"
 published: "2026-06-17T00:00:00"
-score: 75.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Global Financial Crisis and Policies", "Global Financial Regulation and Crises"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Wenqing Gao
 - **来源**：International Finance
 - **发布时间**：2026-06-17
-- **相关度评分**：75.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.1111/infi.70040](https://doi.org/10.1111/infi.70040)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：3.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.0/10。commercial_banking: 论文研究宏观审慎政策对银行系统性风险的影响，核心是银行风险、监管和金融稳定，属于商业银行领域，评分8。monetary_policy: 宏观审慎政策与货币政策相关但非主线，仅间接提及，评分3。fiscal_policy: 未涉及财政政策，评分1。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

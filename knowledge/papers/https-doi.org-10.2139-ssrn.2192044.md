@@ -3,7 +3,7 @@ title: "Liquidity Regulation, Funding Costs and Corporate Lending"
 paper_id: "https://doi.org/10.2139/ssrn.2192044"
 source: "citation"
 published: "2012-01-01T00:00:00"
-score: 102.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Corporate Finance and Governance", "Credit Risk and Financial Regulations"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Clemens Bonner
 - **来源**：SSRN Electronic Journal
 - **发布时间**：2012-01-01
-- **相关度评分**：102.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.2139/ssrn.2192044](https://doi.org/10.2139/ssrn.2192044)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：1.0/10
+- **评分依据**：已有一句话摘要
+
+> 最高匹配领域：商业银行 8.0/10。论文研究流动性监管对银行融资成本和企业贷款的影响，核心是银行监管和信贷供给，属于商业银行领域。货币政策仅作为背景提及，财政政策无关。
 
 <details>
 <summary><strong>发现与关联证据</strong></summary>

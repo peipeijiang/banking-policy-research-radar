@@ -3,7 +3,7 @@ title: "双重传导机制下的货币传导与企业债务结构：来自印度
 paper_id: "https://doi.org/10.1080/17520843.2026.2700877"
 source: "openalex"
 published: "2026-07-10T00:00:00"
-score: 72.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Global Financial Crisis and Policies", "Corporate Finance and Governance"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Neha Sharma, Gourishankar S. Hiremath
 - **来源**：Macroeconomics and Finance in Emerging Market Economies
 - **发布时间**：2026-07-10
-- **相关度评分**：72.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.1080/17520843.2026.2700877](https://doi.org/10.1080/17520843.2026.2700877)
+
+## 相关性评分
+
+- **商业银行**：6.5/10
+- **货币政策**：8.0/10（最高匹配）
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 8.0/10。论文研究货币政策如何影响企业债务结构（银行债务、债券债务），核心是货币政策的传导机制，属于货币政策领域，评分8.0。同时涉及银行信贷（银行债务），但主要从企业融资角度，而非银行行为本身，商业银行领域评分6.5。财政政策仅作为背景提及，无实质关联，评分1.0。最高匹配领域为货币政策。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

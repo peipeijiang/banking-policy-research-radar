@@ -3,7 +3,7 @@ title: "国家信用重组与主权工业基础的物理脱钩：美元体系晚
 paper_id: "https://doi.org/10.5281/zenodo.21311749"
 source: "openalex"
 published: "2026-07-11T00:00:00"
-score: 87.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Economic Theory and Policy", "Global Financial Crisis and Policies", "Fiscal Policies and Political Economy"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Economic Theory and Policy", 
 - **作者**：Feng yvwen Fengdejian
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-11
-- **相关度评分**：87.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21311749](https://doi.org/10.5281/zenodo.21311749)
+
+## 相关性评分
+
+- **商业银行**：1.0/10
+- **货币政策**：5.0/10
+- **财政政策**：8.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 8.0/10。论文核心研究美国财政危机、债务重组与产业基础重建，属于财政政策领域（公共债务、财政可持续性、主权债务重组）。货币政策方面，涉及美联储量化宽松、货币锚等，但主要是作为财政问题的背景或工具，并非主线。商业银行领域仅间接提及金融资本，无实质关联。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

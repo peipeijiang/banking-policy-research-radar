@@ -3,7 +3,7 @@ title: "银行风险承担与竞争理论再探讨"
 paper_id: "https://doi.org/10.1111/j.1540-6261.2005.00763.x"
 source: "citation"
 published: "2005-05-03T00:00:00"
-score: 90.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Corporate Finance and Governance", "Global Financial Crisis and Policies"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：John H. Boyd, Gianni De Nicolò
 - **来源**：The Journal of Finance
 - **发布时间**：2005-05-03
-- **相关度评分**：90.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.1111/j.1540-6261.2005.00763.x](https://doi.org/10.1111/j.1540-6261.2005.00763.x)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：3.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.0/10。commercial_banking: 论文核心研究银行风险承担与竞争的关系，直接属于商业银行领域，评分8。monetary_policy: 论文提及对监管者和央行官员的影响，但研究问题本身不涉及货币政策工具或传导，仅作为背景，评分3。fiscal_policy: 论文未涉及财政政策，评分1。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

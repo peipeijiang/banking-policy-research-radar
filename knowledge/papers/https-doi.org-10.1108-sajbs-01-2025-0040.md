@@ -3,7 +3,7 @@ title: "印度银行中发起人与机构投资者对流动性的影响：市场
 paper_id: "https://doi.org/10.1108/sajbs-01-2025-0040"
 source: "citation"
 published: "2026-06-29T00:00:00"
-score: 77.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Working Capital and Financial Performance", "Corporate Finance and Governance"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Shailesh Rastogi, Bhakti Agarwal, Ashok Patil, Nav Singh
 - **来源**：South Asian Journal of Business Studies
 - **发布时间**：2026-06-29
-- **相关度评分**：77.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.1108/sajbs-01-2025-0040](https://doi.org/10.1108/sajbs-01-2025-0040)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.0/10。commercial_banking: 论文核心研究银行流动性，涉及所有权集中度（发起人和机构投资者）、市场竞争和盈利能力对银行流动性的影响，属于商业银行领域核心主题。monetary_policy: 仅提及银行流动性，未涉及货币政策工具、传导或政策含义，评分低。fiscal_policy: 未涉及政府收入、支出、债务等财政政策内容，评分低。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

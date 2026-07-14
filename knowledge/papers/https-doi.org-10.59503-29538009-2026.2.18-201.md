@@ -3,7 +3,7 @@ title: "THRESHOLD ANALYSIS OF ARMENIA'S PUBLIC DEBT AND ECONOMIC GROWTH"
 paper_id: "https://doi.org/10.59503/29538009-2026.2.18-201"
 source: "openalex"
 published: "2026-07-11T00:00:00"
-score: 20.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policies and Political Economy", "European Monetary and Fiscal Policies", "Global Financial Crisis and Policies"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policies and Political
 - **作者**：Yepraksya Israelyan
 - **来源**：Economics Finance and Accounting
 - **发布时间**：2026-07-11
-- **相关度评分**：20.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.59503/29538009-2026.2.18-201](https://doi.org/10.59503/29538009-2026.2.18-201)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：0.0/10
+- **财政政策**：7.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 7.0/10。论文研究亚美尼亚公共债务与经济增长的关系，核心是债务阈值分析，属于财政政策领域（公共债务、债务可持续性）。未涉及商业银行或货币政策内容。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

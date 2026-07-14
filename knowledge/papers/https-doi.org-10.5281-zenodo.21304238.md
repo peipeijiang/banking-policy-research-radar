@@ -3,7 +3,7 @@ title: "VALYUTA KURSI VA MEHNAT BOZORI BARQARORLIGI O'RTASIDAGI MAKROIQTISODIY M
 paper_id: "https://doi.org/10.5281/zenodo.21304238"
 source: "openalex"
 published: "2026-07-11T00:00:00"
-score: 36.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Education, Innovation and Language Studies", "Economic and Industrial Development", "Sustainability and Innovation in Business"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Education, Innovation and Lan
 - **作者**：Sayipov Begzod Rahimovich
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-11
-- **相关度评分**：36.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21304238](https://doi.org/10.5281/zenodo.21304238)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：7.0/10（最高匹配）
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 7.0/10。论文研究货币政策在汇率与劳动力市场均衡中的作用，核心是货币政策工具（利率、货币供应、外汇干预）对宏观经济均衡的影响，属于货币政策领域。未涉及商业银行或财政政策内容。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

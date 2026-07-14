@@ -3,7 +3,7 @@ title: "德国金融体系"
 paper_id: "https://doi.org/10.1093/0199253161.001.0001"
 source: "citation"
 published: "2004-03-25T00:00:00"
-score: 99.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "European Monetary and Fiscal Policies"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "European Monetary and Fiscal 
 - **作者**：Jan Pieter Krahnen, Reinhard H. Schmidt
 - **来源**：OpenAlex
 - **发布时间**：2004-03-25
-- **相关度评分**：99.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.1093/0199253161.001.0001](https://doi.org/10.1093/0199253161.001.0001)
+
+## 相关性评分
+
+- **商业银行**：7.0/10（最高匹配）
+- **货币政策**：3.0/10
+- **财政政策**：2.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 7.0/10。commercial_banking: 论文全面概述德国金融体系，重点包括银行系统、银行-客户关系、银行监管与竞争，属于商业银行核心领域。monetary_policy: 仅作为背景提及，未深入讨论货币政策工具或传导。fiscal_policy: 未涉及财政政策。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

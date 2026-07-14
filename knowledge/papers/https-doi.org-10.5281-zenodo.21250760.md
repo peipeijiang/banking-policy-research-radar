@@ -3,7 +3,7 @@ title: "Financial Institutional Infrastructure: The Defence, Security and Resili
 paper_id: "https://doi.org/10.5281/zenodo.21250760"
 source: "openalex"
 published: "2026-07-07T00:00:00"
-score: 28.0
+score: 65.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Infrastructure Resilience and Vulnerability Analysis", "Peacebuilding and International Security", "Banking, Crisis Management, COVID-19 Impact"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Infrastructure Resilience and
 - **作者**：Peter Bell
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-07
-- **相关度评分**：28.0
+- **相关度评分**：65.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21250760](https://doi.org/10.5281/zenodo.21250760)
+
+## 相关性评分
+
+- **商业银行**：6.5/10（最高匹配）
+- **货币政策**：1.0/10
+- **财政政策**：2.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 6.5/10。commercial_banking: 论文核心研究拟议的国防、安全与韧性银行（DSRB）作为金融制度基础设施，其功能是解决商业银行业务约束下的融资缺口，涉及银行信贷供给、金融中介和银行监管等主题，属于商业银行领域的主要研究问题。monetary_policy: 论文未涉及中央银行政策工具、利率、通胀或货币政策传导，仅背景提及，评分1。fiscal_policy: 论文涉及政府支出和公共债务，但主线是银行制度而非财政政策本身，评分2。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

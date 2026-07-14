@@ -3,7 +3,7 @@ title: "Resilience of the Moroccan financial market to global shocks: The Role o
 paper_id: "https://doi.org/10.5281/zenodo.21257395"
 source: "openalex"
 published: "2026-07-12T00:00:00"
-score: 24.0
+score: 50.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Market Dynamics and Volatility", "Regional resilience and development", "Global Financial Crisis and Policies"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Market Dynamics and Volatilit
 - **作者**：Karima LAMRANI
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-12
-- **相关度评分**：24.0
+- **相关度评分**：50.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21257395](https://doi.org/10.5281/zenodo.21257395)
+
+## 相关性评分
+
+- **商业银行**：1.0/10
+- **货币政策**：5.0/10（最高匹配）
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 5.0/10。commercial_banking: 论文研究股票市场指数反应，不涉及银行信贷、金融中介或银行监管，仅提及央行稳定作用，但非主线，故1分。monetary_policy: 论文主要分析市场对冲击的反应，但提及央行（Bank Al-Maghrib）的稳定作用，且事件包括可能影响货币政策的冲击，但未深入货币政策工具或传导机制，属于背景提及，故5分。fiscal_policy: 论文未涉及政府支出、税收、债务等财政政策内容，故1分。最高匹配领域为monetary_policy，但未达到6分。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

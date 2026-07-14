@@ -3,7 +3,7 @@ title: "Competition, efficiency and interest rate margins in Latin American bank
 paper_id: "https://doi.org/10.1016/j.irfa.2012.08.006"
 source: "citation"
 published: "2012-08-17T00:00:00"
-score: 73.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Corporate Finance and Governance", "Working Capital and Financial Performance"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Georgios Chortareas, Jesús G. Garza-García, Claudia Girardone
 - **来源**：International Review of Financial Analysis
 - **发布时间**：2012-08-17
-- **相关度评分**：73.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.1016/j.irfa.2012.08.006](https://doi.org/10.1016/j.irfa.2012.08.006)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：1.0/10
+- **评分依据**：已有一句话摘要
+
+> 最高匹配领域：商业银行 8.0/10。论文研究拉丁美洲银行业竞争和效率对利率利差的影响，核心是商业银行的定价行为和市场结构，属于商业银行领域。货币政策仅作为背景提及，未涉及工具或传导机制；财政政策无实质关联。
 
 <details>
 <summary><strong>发现与关联证据</strong></summary>

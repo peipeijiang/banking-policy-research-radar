@@ -3,7 +3,7 @@ title: "Does UPI Adoption Reduce Demand for Physical Currency in India? An Asymm
 paper_id: "https://doi.org/10.1177/22779787261462245"
 source: "openalex"
 published: "2026-07-12T00:00:00"
-score: 21.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Monetary Policy and Economic Impact", "Digital Platforms and Economics", "COVID-19 Pandemic Impacts"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Monetary Policy and Economic 
 - **作者**：Mahalingam Dhamodharan
 - **来源**：South Asian Journal of Macroeconomics and Public Finance
 - **发布时间**：2026-07-12
-- **相关度评分**：21.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.1177/22779787261462245](https://doi.org/10.1177/22779787261462245)
+
+## 相关性评分
+
+- **商业银行**：2.0/10
+- **货币政策**：7.0/10（最高匹配）
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 7.0/10。commercial_banking: 论文研究UPI对现金需求的影响，涉及支付系统，但未聚焦银行信贷、资本、流动性或银行监管等核心商业银行主题，仅间接关联银行体系，评分2。monetary_policy: 论文核心研究数字支付对货币需求的影响，直接关联货币流通、政策利率（RBI repo rate）作为控制变量，结论涉及央行货币政策框架，属于货币政策领域，评分7。fiscal_policy: 论文未涉及政府支出、税收、预算或债务等财政政策主题，评分1。最高匹配领域为monetary_policy。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

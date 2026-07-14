@@ -3,7 +3,7 @@ title: "Public Debt and Economic Growth: The Moderating Role of Sustainability"
 paper_id: "https://doi.org/10.51300/brp-2026-9"
 source: "openalex"
 published: "2026-07-08T00:00:00"
-score: 24.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policies and Political Economy", "Energy, Environment, Economic Growth", "Sustainable Finance and Green Bonds"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policies and Political
 - **作者**：Anna-Maria Kassis
 - **来源**：Business Research Proceedings
 - **发布时间**：2026-07-08
-- **相关度评分**：24.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.51300/brp-2026-9](https://doi.org/10.51300/brp-2026-9)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：0.0/10
+- **财政政策**：7.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 7.0/10。论文研究公共债务与经济增长的关系，并考察政府支出和可持续性因素的调节作用。核心变量包括公共债务、政府支出、可再生能源份额等，属于财政政策领域（公共债务、政府支出、财政政策）。未涉及商业银行或货币政策内容，因此商业银行和货币政策得分为0。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

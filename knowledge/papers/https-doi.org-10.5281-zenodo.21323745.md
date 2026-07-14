@@ -3,7 +3,7 @@ title: "The Odero Theory of Captured Structural Inflation OTCSI"
 paper_id: "https://doi.org/10.5281/zenodo.21323745"
 source: "openalex"
 published: "2026-07-12T00:00:00"
-score: 28.0
+score: 40.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Economic Theory and Policy", "Global Financial Crisis and Policies", "Economic and Technological Innovation"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Economic Theory and Policy", 
 - **作者**：John Otieno Odero
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-12
-- **相关度评分**：28.0
+- **相关度评分**：40.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21323745](https://doi.org/10.5281/zenodo.21323745)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：4.0/10（最高匹配）
+- **财政政策**：2.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 4.0/10。论文提出OTCSI理论，认为标准货币政策在非洲失效，通胀由市场势力、不对称价格传递、进口依赖和治理衰退驱动，而非货币供给。货币政策领域：论文批评标准货币政策，但未研究具体工具、传导或政策含义，仅作为背景，故给4分。财政政策领域：提及治理和进口依赖，但未涉及税收、支出或债务，仅间接相关，给2分。商业银行领域：未涉及银行信贷、金融中介或银行监管，给0分。最高匹配领域为货币政策，但未达到6分。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

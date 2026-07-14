@@ -3,7 +3,7 @@ title: "流动性风险与银行体系绩效"
 paper_id: "https://doi.org/10.1108/13581981211218342"
 source: "citation"
 published: "2012-05-04T00:00:00"
-score: 56.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Islamic Finance and Banking Studies", "Corporate Finance and Governance"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Ahmed Arif, Ahmed Nauman Anees
 - **来源**：Journal of Financial Regulation and Compliance
 - **发布时间**：2012-05-04
-- **相关度评分**：56.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.1108/13581981211218342](https://doi.org/10.1108/13581981211218342)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：1.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.0/10。论文研究巴基斯坦银行的流动性风险及其对盈利能力的影响，核心是银行流动性风险、流动性缺口、不良贷款等，属于商业银行领域。货币政策仅作为背景提及（如回购市场），但未研究货币政策工具或传导；财政政策未涉及。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

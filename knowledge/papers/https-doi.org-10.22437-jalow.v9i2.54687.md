@@ -3,7 +3,7 @@ title: "Determinants Influencing Small Farmers Credit Accessibility and utilizat
 paper_id: "https://doi.org/10.22437/jalow.v9i2.54687"
 source: "openalex"
 published: "2026-07-12T00:00:00"
-score: 28.0
+score: 60.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Microfinance and Financial Inclusion", "Business Strategies and Management Research", "Agricultural Innovations and Practices"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Microfinance and Financial In
 - **作者**：James Chindengwike
 - **来源**：JALOW | Journal of Agribusiness and Local Wisdom
 - **发布时间**：2026-07-12
-- **相关度评分**：28.0
+- **相关度评分**：60.0
 - **DOI**：[https://doi.org/10.22437/jalow.v9i2.54687](https://doi.org/10.22437/jalow.v9i2.54687)
+
+## 相关性评分
+
+- **商业银行**：6.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：2.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 6.0/10。commercial_banking: 论文研究小农户信贷可及性和利用，涉及银行利率、还款条件等，属于商业银行信贷供给和金融中介范畴，但聚焦农业信贷而非银行体系整体，故给6分。monetary_policy: 仅提及银行利率，未研究货币政策工具、传导或政策含义，给2分。fiscal_policy: 未涉及政府收支、税收或债务，给2分。最高匹配领域为commercial_banking。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

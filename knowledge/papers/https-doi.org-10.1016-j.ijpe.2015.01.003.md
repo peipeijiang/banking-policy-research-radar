@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Sustainable Supply Chain Mana
 - **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.1016/j.ijpe.2015.01.003](https://doi.org/10.1016/j.ijpe.2015.01.003)
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：已有一句话摘要
+
+> 最高匹配领域：商业银行 0.0/10。论文主题为绿色供应链管理，属于运营管理/环境管理领域，与商业银行、货币政策、财政政策均无实质关联。三个领域评分均为0。
+
 <details>
 <summary><strong>发现与关联证据</strong></summary>
 

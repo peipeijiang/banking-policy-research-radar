@@ -3,7 +3,7 @@ title: "Assessing risks to fiscal policy: Calibrating stochastic debt sustainabi
 paper_id: "repec:RePEc:oec:ecoaaa:1871-en"
 source: "oecd"
 published: "2026-07-13T00:00:00"
-score: 40.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **作者**：Sebastian Barnes, Eddie Casey, Fred Hanmer
 - **来源**：OECD Economics Department Working Papers
 - **发布时间**：2026-07-13
-- **相关度评分**：40.0
+- **相关度评分**：80.0
 - **DOI**：10.1787/546c0ea7-en
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：0.0/10
+- **财政政策**：8.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 8.0/10。论文聚焦于随机债务可持续性分析（SDSA）模型的校准方法，用于评估财政政策风险。研究问题、方法和结果直接属于财政政策领域，涉及公共债务、财政缓冲和结构性初级余额调整。未涉及商业银行或货币政策内容。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

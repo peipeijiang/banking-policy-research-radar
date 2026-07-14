@@ -3,7 +3,7 @@ title: "THEORETICAL FOUNDATIONS OF THE IMPACT OF TAX POLICY ON ECONOMIC GROWTH"
 paper_id: "https://doi.org/10.5281/zenodo.21312583"
 source: "openalex"
 published: "2026-07-11T00:00:00"
-score: 18.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policy and Economic Growth", "Taxation and Compliance Studies", "Economic Growth and Productivity"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policy and Economic Gr
 - **作者**：H.S. Bobojonov
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-11
-- **相关度评分**：18.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21312583](https://doi.org/10.5281/zenodo.21312583)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：0.0/10
+- **财政政策**：8.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 8.0/10。论文标题和摘要明确聚焦于税收政策对经济增长的影响，属于财政政策的核心领域（税收政策）。全文综述经典、新古典、内生增长、最优税收和公共财政理论，讨论税收对投资、劳动供给、创新和生产率的影响，直接对应财政政策领域。商业银行和货币政策领域未涉及，因此评分为0。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

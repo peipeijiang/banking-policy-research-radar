@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Galaxies: Formation, Evolutio
 - **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21314591](https://doi.org/10.5281/zenodo.21314591)
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 0.0/10。论文提出一个宇宙学框架，涉及暗物质、恒星形成和广义相对论，与商业银行、货币政策或财政政策完全无关。所有领域得分为0。
+
 <details open>
 <summary><strong>中文摘要</strong></summary>
 

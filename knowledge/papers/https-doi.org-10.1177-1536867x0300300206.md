@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Spatial and Panel Data Analys
 - **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.1177/1536867x0300300206](https://doi.org/10.1177/1536867x0300300206)
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 0.0/10。论文研究线性面板数据模型中的序列相关检验，属于计量经济学方法论，与商业银行、货币政策、财政政策均无实质关联。
+
 <details open>
 <summary><strong>中文摘要</strong></summary>
 

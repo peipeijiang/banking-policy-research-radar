@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Astro and Planetary Science",
 - **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21310520](https://doi.org/10.5281/zenodo.21310520)
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 0.0/10。论文研究天王星的外壳动力学和自转轴倾斜，属于行星科学和天体物理学领域，与商业银行、货币政策、财政政策完全无关。三个领域均得0分。
+
 <details open>
 <summary><strong>中文摘要</strong></summary>
 

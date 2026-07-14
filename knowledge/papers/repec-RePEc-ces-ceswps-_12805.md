@@ -3,7 +3,7 @@ title: "Enforcement Spillovers and the Efficiency Costs of Means-Tested Transfer
 paper_id: "repec:RePEc:ces:ceswps:_12805"
 source: "cesifo"
 published: "2026-01-01T00:00:00"
-score: 0.0
+score: 60.0
 tags: ["paper", "banking-fiscal-monetary-policy"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **作者**：Joan Vilá, Marcelo Bérgolo, Guillermo Cruces, Marcelo Bergolo
 - **来源**：CESifo Working Paper Series
 - **发布时间**：2026-01-01
-- **相关度评分**：0.0
+- **相关度评分**：60.0
 - **DOI**：-
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：0.0/10
+- **财政政策**：6.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 6.0/10。论文研究的是乌拉圭的AFAM-PE有条件现金转移项目，这是一个基于收入审查的转移支付项目。核心问题是执行中的信息溢出效应如何通过工作网络影响受益人的正式就业和报告收入，从而影响项目的效率成本。这直接涉及财政政策中的政府转移支付、税收（通过正式收入报告）和预算效率。论文估计了项目的边际价值（MVPF），这是财政政策评估的典型工具。因此，财政政策领域得6分。论文不涉及商业银行或货币政策，故其他领域得0分。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

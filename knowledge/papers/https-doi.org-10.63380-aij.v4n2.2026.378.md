@@ -3,7 +3,7 @@ title: "Utilidades retenidas y reinversión en empresas del sector industrial pe
 paper_id: "https://doi.org/10.63380/aij.v4n2.2026.378"
 source: "openalex"
 published: "2026-07-09T00:00:00"
-score: 5.0
+score: 40.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Business, Education, Mathematics Research", "Business, Innovation, and Economy", "Accounting and Financial Management"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Business, Education, Mathemat
 - **作者**：Kenyon Fabián Jaramillo-Macías, Erick Antonio Calderero-Villagómez
 - **来源**：Alpha International Journal
 - **发布时间**：2026-07-09
-- **相关度评分**：5.0
+- **相关度评分**：40.0
 - **DOI**：[https://doi.org/10.63380/aij.v4n2.2026.378](https://doi.org/10.63380/aij.v4n2.2026.378)
+
+## 相关性评分
+
+- **商业银行**：1.0/10
+- **货币政策**：0.0/10
+- **财政政策**：4.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 4.0/10。commercial_banking: 论文研究企业留存收益与再投资，涉及信贷获取限制，但未聚焦银行或金融中介，仅间接提及外部信贷，评分1。monetary_policy: 论文未涉及中央银行政策、利率、通胀等货币政策核心内容，评分0。fiscal_policy: 论文提及税收改革对再投资决策的影响，但主线是企业财务结构而非政府财政政策，评分4。最高匹配领域为fiscal_policy，但未达到6分。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

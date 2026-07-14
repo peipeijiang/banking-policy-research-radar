@@ -3,7 +3,7 @@ title: "Austria One Century Apart: Persistent Effects of Hyperinflation on Infla
 paper_id: "repec:RePEc:bfr:banfra:1050"
 source: "banque_de_france"
 published: "2026-01-01T00:00:00"
-score: 17.0
+score: 40.0
 tags: ["paper", "banking-fiscal-monetary-policy"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **作者**：Antoine Camous, Natalia Garcia Soto
 - **来源**：Working papers
 - **发布时间**：2026-01-01
-- **相关度评分**：17.0
+- **相关度评分**：40.0
 - **DOI**：-
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：4.0/10（最高匹配）
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 4.0/10。commercial_banking: 论文完全不涉及商业银行、信贷供给或银行监管，评0分。monetary_policy: 论文研究历史通胀对通胀预期的影响，通胀预期是货币政策传导的重要环节，但论文未研究货币政策工具、传导机制或政策含义，仅作为背景，因此评4分。fiscal_policy: 论文不涉及政府收入、支出、债务等财政政策内容，评0分。最高匹配领域为monetary_policy，但未达到6分。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

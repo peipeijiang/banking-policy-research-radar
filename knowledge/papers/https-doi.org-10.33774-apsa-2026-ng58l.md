@@ -3,7 +3,7 @@ title: "Political and security implications of implementing the structural adjus
 paper_id: "https://doi.org/10.33774/apsa-2026-ng58l"
 source: "openalex"
 published: "2026-07-10T00:00:00"
-score: 13.0
+score: 50.0
 tags: ["paper", "banking-fiscal-monetary-policy", "International Development and Aid", "Political Conflict and Governance", "Human Rights and Development"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "International Development and
 - **作者**：Amro Selim
 - **来源**：OpenAlex
 - **发布时间**：2026-07-10
-- **相关度评分**：13.0
+- **相关度评分**：50.0
 - **DOI**：[https://doi.org/10.33774/apsa-2026-ng58l](https://doi.org/10.33774/apsa-2026-ng58l)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：0.0/10
+- **财政政策**：5.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 5.0/10。论文研究肯尼亚实施国际货币基金组织和世界银行的结构调整计划（SAP）的政治和安全影响。虽然摘要提到SAP改善了财政政策指标（如减少公务员、降低公共支出），但论文主线是政治和安全后果，而非财政政策本身。财政政策仅作为背景提及，没有深入分析税收、支出、债务等核心财政工具或宏观财政结果。因此，财政政策评5分（有实质关联但不是主线）。商业银行和货币政策领域与论文无关，评0分。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

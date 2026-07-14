@@ -3,7 +3,7 @@ title: "全国性分支扩张及其对市场结构、质量和银行绩效的影
 paper_id: "https://doi.org/10.1086/499131"
 source: "citation"
 published: "2003-01-01T00:00:00"
-score: 68.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Corporate Finance and Governance", "Banking Systems and Strategies"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Astrid A. Dick
 - **来源**：The Journal of Business
 - **发布时间**：2003-01-01
-- **相关度评分**：68.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.1086/499131](https://doi.org/10.1086/499131)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：1.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.0/10。论文研究美国Riegle-Neal法案后全国性分支银行对市场结构、银行服务质量和绩效的影响，核心是商业银行的监管放松、市场结构、银行行为（成本、费用、信贷风险、利润），属于商业银行领域核心问题。货币政策仅作为背景提及利率和信贷竞争，但非研究主线。财政政策未涉及。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

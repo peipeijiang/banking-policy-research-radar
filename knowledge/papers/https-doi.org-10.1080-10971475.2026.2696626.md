@@ -3,7 +3,7 @@ title: "The Impact of Exchange Rate Fluctuations on the Trade of China: Evidence
 paper_id: "https://doi.org/10.1080/10971475.2026.2696626"
 source: "openalex"
 published: "2026-07-11T00:00:00"
-score: 26.0
+score: 50.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Market Dynamics and Volatility", "Monetary Policy and Economic Impact", "COVID-19 Pandemic Impacts"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Market Dynamics and Volatilit
 - **作者**：Shahzad Ahmad, Qianjin Lu, Farid Ullah
 - **来源**：Chinese Economy
 - **发布时间**：2026-07-11
-- **相关度评分**：26.0
+- **相关度评分**：50.0
 - **DOI**：[https://doi.org/10.1080/10971475.2026.2696626](https://doi.org/10.1080/10971475.2026.2696626)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：5.0/10（最高匹配）
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 5.0/10。commercial_banking: 论文研究汇率波动对贸易平衡的影响，不涉及银行信贷、金融中介或银行监管，得0分。monetary_policy: 论文包含货币供应量、利率、通胀等变量，并提及优化货币政策以稳定贸易，但研究主线是汇率与贸易的关系，而非货币政策工具或传导机制，得5分。fiscal_policy: 论文未涉及政府支出、税收、公共债务等财政政策内容，得0分。最高匹配领域为货币政策。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

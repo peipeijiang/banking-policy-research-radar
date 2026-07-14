@@ -3,7 +3,7 @@ title: "尼日利亚利差对私人消费、储蓄和投资的影响分析研究
 paper_id: "https://doi.org/10.63660/jaze.2026.0701.002"
 source: "openalex"
 published: "2026-07-07T00:00:00"
-score: 68.0
+score: 60.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Monetary Policy and Economic Impact", "Banking stability, regulation, efficiency", "European Monetary and Fiscal Policies"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Monetary Policy and Economic 
 - **作者**：Emmanuel Onyema
 - **来源**：Journal of Arid Zone Economy
 - **发布时间**：2026-07-07
-- **相关度评分**：68.0
+- **相关度评分**：60.0
 - **DOI**：[https://doi.org/10.63660/jaze.2026.0701.002](https://doi.org/10.63660/jaze.2026.0701.002)
+
+## 相关性评分
+
+- **商业银行**：2.0/10
+- **货币政策**：6.0/10（最高匹配）
+- **财政政策**：2.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 6.0/10。commercial_banking: 论文涉及银行存贷利差，但主要关注其对消费、储蓄和投资的影响，而非银行自身行为或监管，因此仅间接相关，评分2。monetary_policy: 论文核心是利率利差对宏观经济变量的影响，并建议央行监控利差相关指标，直接涉及货币政策传导和工具，属于货币政策领域，评分6。fiscal_policy: 论文未涉及政府支出、税收或债务等财政政策核心内容，仅建议政府与金融机构合作，评分2。最高匹配领域为货币政策。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

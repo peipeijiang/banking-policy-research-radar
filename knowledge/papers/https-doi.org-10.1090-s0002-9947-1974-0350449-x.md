@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Holomorphic and Operator Theo
 - **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.1090/s0002-9947-1974-0350449-x](https://doi.org/10.1090/s0002-9947-1974-0350449-x)
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 0.0/10。论文研究的是希尔伯特空间上有界算子的Stein条件H-C*HC>>O的惯性方面，属于纯数学（泛函分析）领域，完全不涉及商业银行、货币政策或财政政策。因此三个领域均为0分。
+
 <details open>
 <summary><strong>中文摘要</strong></summary>
 

@@ -3,7 +3,7 @@ title: "IFDP Paper: Multi-Plant Firms, Variable Capacity Utilization, and the Ag
 paper_id: "federal_reserve:https://www.federalreserve.gov/econres/ifdp/multi-plant-firms-variable-capacity-utilization-and-the-aggregate-hours-elasticity.htm"
 source: "federal_reserve"
 published: "2026-07-08T13:20:00"
-score: 5.0
+score: 20.0
 tags: ["paper", "banking-fiscal-monetary-policy"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **作者**：-
 - **来源**：Federal Reserve FEDS and IFDP
 - **发布时间**：2026-07-08
-- **相关度评分**：5.0
+- **相关度评分**：20.0
 - **DOI**：-
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：0.0/10
+- **财政政策**：2.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 2.0/10。commercial_banking: 论文研究多工厂企业、产能利用率和总工时弹性，完全不涉及商业银行、信贷或金融中介，评0分。monetary_policy: 论文不涉及中央银行政策、利率、通胀或货币政策工具，评0分。fiscal_policy: 论文提及劳动税冲击对工时和产出的影响，但税收只是作为识别冲击的工具，并非研究财政政策本身，且论文主线是商业周期模型和产能利用率，财政政策仅作为背景提及，评2分。最高匹配领域为fiscal_policy，但分数很低。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

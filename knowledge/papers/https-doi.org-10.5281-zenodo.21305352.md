@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Global Financial Crisis and P
 - **相关度评分**：30.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21305352](https://doi.org/10.5281/zenodo.21305352)
 
+## 相关性评分
+
+- **商业银行**：1.0/10
+- **货币政策**：3.0/10（最高匹配）
+- **财政政策**：2.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 3.0/10。commercial_banking: 论文讨论美元霸权、外部金融遏制和主权储备冻结，但未聚焦商业银行的信贷、风险或监管，仅间接涉及金融体系，评分1。monetary_policy: 涉及货币主权、通胀和汇率稳定，但未研究货币政策工具、传导或政策含义，仅作为背景，评分3。fiscal_policy: 提及公共债务和主权风险，但未深入分析政府支出、税收或预算，评分2。最高匹配领域为monetary_policy，但未达到核心相关。
+
 <details open>
 <summary><strong>中文摘要</strong></summary>
 

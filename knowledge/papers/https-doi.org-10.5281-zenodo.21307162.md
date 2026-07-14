@@ -3,7 +3,7 @@ title: "The Computational Transmission Gap: Monetary Policy, Inflation Persisten
 paper_id: "https://doi.org/10.5281/zenodo.21307162"
 source: "openalex"
 published: "2026-07-11T00:00:00"
-score: 38.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Housing Market and Economics", "Italy: Economic History and Contemporary Issues", "Monetary Policy and Economic Impact"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Housing Market and Economics"
 - **作者**：Marco Patrone
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-07-11
-- **相关度评分**：38.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21307162](https://doi.org/10.5281/zenodo.21307162)
+
+## 相关性评分
+
+- **商业银行**：1.0/10
+- **货币政策**：7.0/10（最高匹配）
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 7.0/10。论文核心研究AI中介市场对货币政策传导的影响，提出计算传导缺口（CTG）概念，属于货币政策传导机制和有效性领域，因此货币政策领域得7分。论文未涉及商业银行信贷、银行监管或金融中介等核心主题，仅提及金融条件但非主线，商业银行领域得1分。论文未讨论政府支出、税收、债务等财政政策核心内容，财政政策领域得1分。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

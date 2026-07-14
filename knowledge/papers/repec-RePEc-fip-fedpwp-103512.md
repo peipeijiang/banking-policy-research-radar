@@ -3,7 +3,7 @@ title: "Is Mortgage Lock-In Responsible for Housing Market Tightness?"
 paper_id: "repec:RePEc:fip:fedpwp:103512"
 source: "philadelphia_fed"
 published: "2026-07-10T00:00:00"
-score: 13.0
+score: 60.0
 tags: ["paper", "banking-fiscal-monetary-policy"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **作者**：Aaron Graybill, Kyle Mangum
 - **来源**：Working Papers
 - **发布时间**：2026-07-10
-- **相关度评分**：13.0
+- **相关度评分**：60.0
 - **DOI**：10.21799/frbp.wp.2026.33
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：6.0/10（最高匹配）
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：货币政策 6.0/10。论文研究抵押贷款利率对房主出售意愿的影响，属于货币政策传导机制（利率影响住房市场交易），核心是货币政策对房地产市场的影响，因此货币政策领域得6分。商业银行和财政政策领域无实质关联，得0分。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

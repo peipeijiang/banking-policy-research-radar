@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Cosmology and Gravitation The
 - **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21320135](https://doi.org/10.5281/zenodo.21320135)
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 0.0/10。论文提出Pconf范式，探讨宇宙膨胀中微观束缚系统的结构稳定性，涉及量子力学与广义相对论的统一，解决宇宙学常数问题、哈勃张力等。完全不涉及商业银行、货币政策或财政政策。
+
 <details open>
 <summary><strong>中文摘要</strong></summary>
 

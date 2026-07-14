@@ -3,7 +3,7 @@ title: "Investment, Fundamentals and Finance"
 paper_id: "https://doi.org/10.3386/w6652"
 source: "citation"
 published: "1998-07-01T00:00:00"
-score: 8.0
+score: 20.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Capital Investment and Risk Analysis"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Capital Investment and Risk A
 - **作者**：Simon Gilchrist, Charles P. Himmelberg
 - **来源**：National Bureau of Economic Research
 - **发布时间**：1998-07-01
-- **相关度评分**：8.0
+- **相关度评分**：20.0
 - **DOI**：[https://doi.org/10.3386/w6652](https://doi.org/10.3386/w6652)
+
+## 相关性评分
+
+- **商业银行**：2.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 2.0/10。论文研究企业投资与现金流等财务变量的关系，使用结构性模型区分基本面与金融因素。虽然涉及融资约束，但研究对象是非金融企业，不聚焦银行或信贷中介，因此商业银行领域得分低。货币政策仅作为背景提及，未研究工具或传导。财政政策未涉及。最高匹配领域为商业银行，但仅为间接相关。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Intramuscular injections and 
 - **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.1007/springerreference_32028](https://doi.org/10.1007/springerreference_32028)
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：已有一句话摘要
+
+> 最高匹配领域：商业银行 0.0/10。论文研究皮质类固醇结合球蛋白（CBG），属于生物化学/内分泌学领域，与商业银行、货币政策、财政政策均无任何关联。
+
 <details>
 <summary><strong>发现与关联证据</strong></summary>
 

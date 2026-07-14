@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **相关度评分**：0.0
 - **DOI**：-
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 0.0/10。commercial_banking: 论文研究低收入租赁住房市场，不涉及银行、信贷或金融中介，得0分。monetary_policy: 论文不涉及中央银行政策、利率、通胀或货币政策工具，得0分。fiscal_policy: 论文不涉及政府支出、税收、债务或财政政策，得0分。最高匹配领域：无。
+
 <details open>
 <summary><strong>中文摘要</strong></summary>
 

@@ -3,7 +3,7 @@ title: "Les effets macroéconomiques de l’encadrement de l’endettement des m
 paper_id: "repec:RePEc:bfr:banfra:1051"
 source: "banque_de_france"
 published: "2026-01-01T00:00:00"
-score: 47.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **作者**：Moaz Elsayed, Valère Fourel, Matthieu Segol
 - **来源**：Working papers
 - **发布时间**：2026-01-01
-- **相关度评分**：47.0
+- **相关度评分**：70.0
 - **DOI**：-
+
+## 相关性评分
+
+- **商业银行**：7.0/10（最高匹配）
+- **货币政策**：3.0/10
+- **财政政策**：2.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 7.0/10。论文研究基于借款人的宏观审慎措施（BBMs），具体是法国对债务收入比和贷款期限的限制，这些措施直接影响银行信贷标准和家庭杠杆，属于商业银行领域的核心主题（银行监管、信贷供给、宏观审慎政策）。货币政策领域仅间接相关，因为BBMs是宏观审慎工具而非货币政策工具，且论文未研究利率、量化宽松等货币政策传导。财政政策领域无实质关联。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

@@ -3,7 +3,7 @@ title: "欧洲银行业联盟的障碍"
 paper_id: "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3249~d8b9cf2aed.en.pdf"
 source: "ecb"
 published: "2026-07-07T09:00:00"
-score: 75.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **作者**：-
 - **来源**：ECB Working Papers
 - **发布时间**：2026-07-07
-- **相关度评分**：75.0
+- **相关度评分**：80.0
 - **DOI**：-
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.0/10。论文研究欧元区跨境银行贷款的壁垒及其对信贷配置和产出的影响，核心是银行信贷供给、金融中介和银行监管差异，属于商业银行领域。货币政策仅作为背景提及，未研究工具或传导；财政政策无关。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

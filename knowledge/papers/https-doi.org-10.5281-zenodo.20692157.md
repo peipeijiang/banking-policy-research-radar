@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Relativity and Gravitational 
 - **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.5281/zenodo.20692157](https://doi.org/10.5281/zenodo.20692157)
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 0.0/10。commercial_banking: 论文讨论黑洞宇宙学、熵、时空等，与商业银行、信贷、银行监管等完全无关。monetary_policy: 论文涉及宇宙学模型，未讨论中央银行政策、利率、通胀等货币政策主题。fiscal_policy: 论文未涉及政府支出、税收、公共债务等财政政策主题。三个领域均无实质关联。
+
 <details open>
 <summary><strong>中文摘要</strong></summary>
 

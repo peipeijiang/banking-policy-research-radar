@@ -3,7 +3,7 @@ title: "流动性风险是否影响资产质量和金融稳定性？来自乌兹
 paper_id: "https://doi.org/10.3390/jrfm19070510"
 source: "openalex"
 published: "2026-07-08T00:00:00"
-score: 88.0
+score: 80.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation, efficiency", "Working Capital and Financial Performance", "Financial Distress and Bankruptcy Prediction"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking stability, regulation
 - **作者**：Akrom A. Omonov, Boburjon B. Izbosarov, Erlane K Ghani
 - **来源**：Journal of risk and financial management
 - **发布时间**：2026-07-08
-- **相关度评分**：88.0
+- **相关度评分**：80.0
 - **DOI**：[https://doi.org/10.3390/jrfm19070510](https://doi.org/10.3390/jrfm19070510)
+
+## 相关性评分
+
+- **商业银行**：8.0/10（最高匹配）
+- **货币政策**：1.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 8.0/10。论文研究乌兹别克斯坦商业银行的流动性风险对资产质量和金融稳定的影响，核心是银行信贷、风险承担和稳定性，属于商业银行领域。货币政策仅作为背景提及，未研究工具或传导；财政政策未涉及。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

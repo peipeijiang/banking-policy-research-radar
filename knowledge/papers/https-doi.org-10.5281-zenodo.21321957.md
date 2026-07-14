@@ -23,6 +23,15 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Advanced Mathematical Theorie
 - **相关度评分**：0.0
 - **DOI**：[https://doi.org/10.5281/zenodo.21321957](https://doi.org/10.5281/zenodo.21321957)
 
+## 相关性评分
+
+- **商业银行**：0.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 0.0/10。commercial_banking: 论文完全不涉及商业银行、信贷、金融中介或银行监管，评分0。monetary_policy: 论文不涉及中央银行政策、利率、通胀或货币政策工具，评分0。fiscal_policy: 论文不涉及政府支出、税收、债务或财政政策，评分0。最高匹配领域：无。
+
 <details open>
 <summary><strong>中文摘要</strong></summary>
 

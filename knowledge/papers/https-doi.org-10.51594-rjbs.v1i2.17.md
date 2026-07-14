@@ -3,7 +3,7 @@ title: "Ownership structure, financial leverage, and company performance; A stud
 paper_id: "https://doi.org/10.51594/rjbs.v1i2.17"
 source: "openalex"
 published: "2026-07-11T00:00:00"
-score: 0.0
+score: 10.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Working Capital and Financial Performance", "Corporate Finance and Governance", "Corporate Governance and Financial Management"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Working Capital and Financial
 - **作者**：Dr. Ogechukwuka Chegwe
 - **来源**：Radiant Journal of Business & Sustainability
 - **发布时间**：2026-07-11
-- **相关度评分**：0.0
+- **相关度评分**：10.0
 - **DOI**：[https://doi.org/10.51594/rjbs.v1i2.17](https://doi.org/10.51594/rjbs.v1i2.17)
+
+## 相关性评分
+
+- **商业银行**：1.0/10（最高匹配）
+- **货币政策**：0.0/10
+- **财政政策**：0.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 1.0/10。commercial_banking: 论文研究公司所有权结构和财务杠杆对绩效的影响，属于公司金融和公司治理范畴，不涉及银行信贷、金融中介或银行监管等商业银行核心主题。仅因提及“financial leverage”和“listed companies”而间接关联，但无实质关系，评分1。monetary_policy: 论文完全不涉及中央银行政策、利率、通胀或货币政策传导，评分0。fiscal_policy: 论文不涉及政府支出、税收、公共债务或财政政策，评分0。最高匹配领域为commercial_banking，但得分极低。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

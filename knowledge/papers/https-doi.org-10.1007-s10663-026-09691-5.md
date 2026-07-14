@@ -3,7 +3,7 @@ title: "After the pandemic: Optimal fiscal policies for Slovenia"
 paper_id: "https://doi.org/10.1007/s10663-026-09691-5"
 source: "openalex"
 published: "2026-07-11T00:00:00"
-score: 41.0
+score: 90.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policies and Political Economy", "Global Financial Crisis and Policies", "Monetary Policy and Economic Impact"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policies and Political
 - **作者**：Reinhard Neck, Dmitri Blueschke, Klaus Weyerstraß, Miroslav Verbič
 - **来源**：Empirica
 - **发布时间**：2026-07-11
-- **相关度评分**：41.0
+- **相关度评分**：90.0
 - **DOI**：[https://doi.org/10.1007/s10663-026-09691-5](https://doi.org/10.1007/s10663-026-09691-5)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：2.0/10
+- **财政政策**：9.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 9.0/10。论文研究斯洛文尼亚的最优财政政策路径，核心是财政工具（直接税、公共投资、增值税、政府消费等）在稳定产出和就业与维持财政可持续性之间的权衡。属于财政政策领域核心贡献（9分）。货币政策仅作为背景提及（欧元区成员身份），未研究货币政策工具或传导，故得2分。商业银行未涉及，得0分。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

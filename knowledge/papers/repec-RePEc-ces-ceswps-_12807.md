@@ -3,7 +3,7 @@ title: "Technological Lock-in Due to Environmental Taxation"
 paper_id: "repec:RePEc:ces:ceswps:_12807"
 source: "cesifo"
 published: "2026-01-01T00:00:00"
-score: 8.0
+score: 20.0
 tags: ["paper", "banking-fiscal-monetary-policy"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy"]
 - **作者**：Mireille Chiroleu-Assouline, Xavier Koch
 - **来源**：CESifo Working Paper Series
 - **发布时间**：2026-01-01
-- **相关度评分**：8.0
+- **相关度评分**：20.0
 - **DOI**：-
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：0.0/10
+- **财政政策**：2.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 2.0/10。论文研究环境税（排放税）对技术采用的影响，属于环境经济学和产业组织领域。财政政策领域仅因涉及税收工具而获得2分，但论文不研究政府预算、支出或债务等核心财政问题。商业银行和货币政策领域无实质关联。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

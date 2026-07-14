@@ -3,7 +3,7 @@ title: "ISLAMIC FINANCIAL INTERMEDIATION THE EMERGENCE OF A NEW MODEL"
 paper_id: "https://doi.org/10.13135/2421-2172/2880"
 source: "citation"
 published: "2018-10-01T00:00:00"
-score: 46.0
+score: 70.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Islamic Finance and Banking Studies", "Microfinance and Financial Inclusion"]
 ---
 
@@ -20,8 +20,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Islamic Finance and Banking S
 - **作者**：Salma Drissi, Khadija Angade
 - **来源**：Università degli Studi di Torino
 - **发布时间**：2018-10-01
-- **相关度评分**：46.0
+- **相关度评分**：70.0
 - **DOI**：[https://doi.org/10.13135/2421-2172/2880](https://doi.org/10.13135/2421-2172/2880)
+
+## 相关性评分
+
+- **商业银行**：7.0/10（最高匹配）
+- **货币政策**：2.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 7.0/10。论文主要研究伊斯兰银行的金融中介功能，属于商业银行领域，核心主题是金融中介、银行风险、银行特征，与商业银行高度相关。货币政策仅作为背景提及，无实质研究；财政政策未涉及。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

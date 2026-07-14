@@ -3,7 +3,7 @@ title: "财政周期性与债务可持续性：来自一个多世纪数据的证
 paper_id: "https://doi.org/10.1002/ijfe.70259"
 source: "openalex"
 published: "2026-07-12T00:00:00"
-score: 61.0
+score: 90.0
 tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policies and Political Economy", "Global Financial Crisis and Policies", "Monetary Policy and Economic Impact"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Fiscal Policies and Political
 - **作者**：Christos Chrysanthakopoulos, Franciscos Koutentakis, Athanasios Tagkalakis
 - **来源**：International Journal of Finance & Economics
 - **发布时间**：2026-07-12
-- **相关度评分**：61.0
+- **相关度评分**：90.0
 - **DOI**：[https://doi.org/10.1002/ijfe.70259](https://doi.org/10.1002/ijfe.70259)
+
+## 相关性评分
+
+- **商业银行**：0.0/10
+- **货币政策**：2.0/10
+- **财政政策**：9.0/10（最高匹配）
+- **评分依据**：论文摘要
+
+> 最高匹配领域：财政政策 9.0/10。commercial_banking: 论文完全不涉及商业银行、信贷供给或银行监管，得0分。monetary_policy: 论文提及高通胀和低实际利率环境作为宏观条件，但未研究货币政策工具、传导或政策含义，仅作为背景，得2分。fiscal_policy: 论文核心研究财政政策周期性（cyclicality）和债务可持续性，使用财政数据（primary balances、public debt），直接属于财政政策领域，得9分。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

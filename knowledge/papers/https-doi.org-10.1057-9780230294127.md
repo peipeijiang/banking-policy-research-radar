@@ -3,7 +3,7 @@ title: "21世纪的金融中介"
 paper_id: "https://doi.org/10.1057/9780230294127"
 source: "citation"
 published: "2001-01-01T00:00:00"
-score: 105.0
+score: 20.0
 tags: ["paper", "banking-fiscal-monetary-policy", "State Capitalism and Financial Governance"]
 ---
 
@@ -22,8 +22,17 @@ tags: ["paper", "banking-fiscal-monetary-policy", "State Capitalism and Financia
 - **作者**：Zuhayr Mikdashi
 - **来源**：Palgrave Macmillan UK eBooks
 - **发布时间**：2001-01-01
-- **相关度评分**：105.0
+- **相关度评分**：20.0
 - **DOI**：[https://doi.org/10.1057/9780230294127](https://doi.org/10.1057/9780230294127)
+
+## 相关性评分
+
+- **商业银行**：2.0/10（最高匹配）
+- **货币政策**：1.0/10
+- **财政政策**：1.0/10
+- **评分依据**：论文摘要
+
+> 最高匹配领域：商业银行 2.0/10。论文标题和摘要仅提及金融中介和全球金融，但未具体涉及商业银行、货币政策或财政政策的核心主题。摘要过于笼统，无法判断具体研究问题、方法或结果。因此，三个领域的评分均较低，最高为商业银行领域的2分，仅因金融中介与银行相关。
 
 <details open>
 <summary><strong>中文摘要</strong></summary>

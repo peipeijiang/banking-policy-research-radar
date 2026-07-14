@@ -7,10 +7,10 @@ on:
         description: 'Number of analyzed papers to resend'
         required: false
         default: '5'
-      batch_date:
-        description: 'Only resend a batch from YYYY-MM-DD; blank uses latest eligible batch'
+      recent_days:
+        description: 'Only include papers published within the latest N days'
         required: false
-        default: ''
+        default: '30'
 
 jobs:
   resend:
@@ -36,9 +36,8 @@ jobs:
         run: |
           python scripts/resend_last_notification.py \
             --top '${{ inputs.top }}' \
-            --batch-date '${{ inputs.batch_date }}' \
-            --full-text-only \
-            --allow-fewer
+            --recent-days '${{ inputs.recent_days }}' \
+            --full-text-only
         env:
           DINGTALK_WEBHOOK_URL: ${{ secrets.DINGTALK_WEBHOOK_URL }}
           DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}

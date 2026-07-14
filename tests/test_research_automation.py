@@ -27,7 +27,12 @@ from sources.search_agent import SearchAgent
 from sources.worldbank_source import WorldBankSource
 from sync_feedback import parse_events, parse_feedback
 from rescore_history import SCORING_VERSION, apply_score, build_scoring_evidence
-from resend_last_wechat import build_result, select_latest_complete_batch
+from resend_last_wechat import (
+    build_recent_result,
+    build_result,
+    select_latest_complete_batch,
+    select_recent_full_text,
+)
 from notifications.notifier import NotifierAgent, RunResult, WebhookNotifier
 
 
@@ -76,6 +81,45 @@ class ResearchAutomationTests(unittest.TestCase):
         self.assertEqual([paper["paper_id"] for paper in result.top_papers], ["full"])
         self.assertEqual(result.total_analyzed, 1)
         self.assertIn("仅全文", result.run_timestamp)
+
+    def test_recent_resend_excludes_old_papers_and_prefers_direct_sources(self):
+        def paper(paper_id, published, source, score=70):
+            return {
+                "paper_id": paper_id,
+                "title": paper_id,
+                "source": source,
+                "score": score,
+                "qualified": True,
+                "published_date": published,
+                "analysis": {"_analysis_basis": "full_text", "summary": "Full"},
+            }
+
+        records = [
+            paper("old-high-score", "1996-02-01", "citation", 100),
+            paper("repository-high-score", "2026-07-13", "openalex", 99),
+            paper("arxiv-one", "2026-07-12", "arxiv", 80),
+            paper("bis-one", "2026-07-11", "bis", 70),
+            paper("ecb-one", "2026-07-10", "ecb", 60),
+            paper("imf-one", "2026-07-09", "imf", 50),
+            paper("oecd-one", "2026-07-08", "oecd", 40),
+        ]
+
+        selected = select_recent_full_text(
+            records, 5, recent_days=30, as_of_date=datetime(2026, 7, 14).date()
+        )
+        result = build_recent_result(
+            selected, 30, as_of_date=datetime(2026, 7, 14).date()
+        )
+
+        self.assertNotIn("old-high-score", [item["paper_id"] for item in selected])
+        self.assertNotIn("repository-high-score", [item["paper_id"] for item in selected])
+        self.assertEqual(len(selected), 5)
+        self.assertEqual(result.summary_mode, "curated")
+        overview_agent = NotifierAgent.__new__(NotifierAgent)
+        overview_agent.settings = SimpleNamespace(RESEARCH_FIELD_NAME="测试")
+        overview = overview_agent._format_wechat_overview(result)
+        self.assertIn("近 30 天全文精选 **5** 篇", overview)
+        self.assertNotIn("抓取 **5**", overview)
 
     def test_historical_rescore_prefers_abstract_then_existing_analysis(self):
         evidence, basis = build_scoring_evidence(

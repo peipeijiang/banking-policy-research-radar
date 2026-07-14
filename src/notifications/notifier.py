@@ -132,6 +132,8 @@ class RunResult:
     error_message: Optional[str] = None
     top_papers: List[Dict[str, Any]] = field(default_factory=list)
     token_usage: Dict[str, Any] = field(default_factory=dict)
+    summary_mode: str = "run"
+    summary_label: str = ""
 
 
 @dataclass
@@ -567,11 +569,17 @@ class NotifierAgent:
         )
         source_lines = []
         for source in sorted(result.papers_by_source):
-            source_lines.append(
-                f"> `{source.upper()}` 抓取 **{result.papers_by_source[source]}** | "
-                f"及格 **{result.qualified_by_source.get(source, 0)}** | "
-                f"分析 **{result.analyzed_by_source.get(source, 0)}**"
-            )
+            if result.summary_mode == "curated":
+                source_lines.append(
+                    f"> `{source.upper()}` 精选 **{result.papers_by_source[source]}** | "
+                    f"全文 **{result.analyzed_by_source.get(source, 0)}**"
+                )
+            else:
+                source_lines.append(
+                    f"> `{source.upper()}` 抓取 **{result.papers_by_source[source]}** | "
+                    f"及格 **{result.qualified_by_source.get(source, 0)}** | "
+                    f"分析 **{result.analyzed_by_source.get(source, 0)}**"
+                )
         token_line = ""
         total_tokens = (result.token_usage or {}).get("total")
         if total_tokens:
@@ -593,11 +601,21 @@ class NotifierAgent:
                     "\n<font color=\"warning\">存在未获取正文的论文，"
                     "对应卡片已标记证据限制。</font>"
                 )
+        if result.summary_mode == "curated":
+            summary_line = (
+                f"> {result.summary_label or '全文精选'} **{len(result.top_papers)}** 篇 · "
+                f"全文深读 **{full_text_count}** 篇"
+            )
+        else:
+            summary_line = (
+                f"> 抓取 **{result.total_papers_fetched}** 篇 · "
+                f"及格 **{result.total_qualified}** 篇 · "
+                f"深度分析 **{result.total_analyzed}** 篇{token_line}{basis_line}"
+            )
         return (
             f"## {field_name}每日研究\n"
             f"<font color=\"info\">运行成功</font> · {result.run_timestamp}\n\n"
-            f"> 抓取 **{result.total_papers_fetched}** 篇 · 及格 **{result.total_qualified}** 篇 · "
-            f"深度分析 **{result.total_analyzed}** 篇{token_line}{basis_line}\n\n"
+            f"{summary_line}\n\n"
             + "\n".join(source_lines)
             + f"\n\n随后发送 Top {len(result.top_papers)} 单篇研究卡片。"
         )

@@ -9,7 +9,7 @@ import os
 import sys
 import time
 from collections import Counter
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 
@@ -42,6 +42,99 @@ def _is_analyzed(record: dict, full_text_only: bool = False) -> bool:
     if not record.get("qualified") or not analysis:
         return False
     return not full_text_only or analysis.get("_analysis_basis") == "full_text"
+
+
+TRUSTED_DIRECT_SOURCES = {
+    "arxiv",
+    "bis",
+    "ecb",
+    "federal_reserve",
+    "bank_of_canada",
+    "bank_of_england",
+    "imf",
+    "oecd",
+    "adb",
+    "bundesbank",
+    "banque_de_france",
+    "philadelphia_fed",
+    "worldbank",
+}
+
+
+def _published_date(record: dict) -> date | None:
+    value = str(record.get("published_date") or "").split("T", 1)[0]
+    try:
+        return date.fromisoformat(value)
+    except ValueError:
+        return None
+
+
+def _trusted_source(record: dict) -> bool:
+    source = str(record.get("source") or "").lower()
+    journal = str(record.get("journal") or "").lower()
+    return source in TRUSTED_DIRECT_SOURCES or "arxiv" in journal
+
+
+def select_recent_full_text(
+    records: list[dict],
+    top_n: int,
+    *,
+    recent_days: int = 30,
+    as_of_date: date | None = None,
+) -> list[dict]:
+    """Select recent full-text papers, preferring direct authoritative sources."""
+    today = as_of_date or date.today()
+    cutoff = today - timedelta(days=recent_days)
+    candidates = []
+    seen_titles = set()
+    for record in records:
+        published = _published_date(record)
+        title_key = " ".join(str(record.get("title") or "").lower().split())
+        if (
+            not _is_analyzed(record, full_text_only=True)
+            or not published
+            or published < cutoff
+            or published > today
+            or not title_key
+            or title_key in seen_titles
+        ):
+            continue
+        seen_titles.add(title_key)
+        candidates.append(record)
+
+    candidates.sort(
+        key=lambda item: (
+            _trusted_source(item),
+            float((item.get("personalization") or {}).get("personalized_score") or item.get("score") or 0),
+            _published_date(item) or date.min,
+        ),
+        reverse=True,
+    )
+    if len(candidates) < top_n:
+        raise SystemExit(
+            f"Only {len(candidates)} qualified full-text papers were published in the "
+            f"last {recent_days} days; {top_n} required"
+        )
+    return candidates[:top_n]
+
+
+def build_recent_result(
+    selected: list[dict], recent_days: int, as_of_date: date | None = None
+) -> RunResult:
+    sources = Counter(str(item.get("source") or "unknown") for item in selected)
+    today = as_of_date or date.today()
+    return RunResult(
+        run_timestamp=f"{today.isoformat()}（近期全文精选）",
+        total_papers_fetched=len(selected),
+        papers_by_source=dict(sources),
+        qualified_by_source=dict(sources),
+        analyzed_by_source=dict(sources),
+        total_qualified=len(selected),
+        total_analyzed=len(selected),
+        top_papers=selected,
+        summary_mode="curated",
+        summary_label=f"近 {recent_days} 天全文精选",
+    )
 
 
 def select_latest_complete_batch(
@@ -122,6 +215,12 @@ def main() -> int:
     parser.add_argument("--full-text-only", action="store_true")
     parser.add_argument("--batch-date", default="", help="Batch date in YYYY-MM-DD")
     parser.add_argument(
+        "--recent-days",
+        type=int,
+        default=0,
+        help="Select across batches from papers published in the last N days",
+    )
+    parser.add_argument(
         "--allow-fewer",
         action="store_true",
         help="Send all eligible papers when fewer than --top are available",
@@ -137,16 +236,20 @@ def main() -> int:
         raise SystemExit("Set WECHAT_WEBHOOK_URL or pass --webhook-url")
 
     records = load_records(args.index)
-    key, batch = select_latest_complete_batch(
-        records,
-        args.top,
-        full_text_only=args.full_text_only,
-        batch_date=args.batch_date,
-        allow_fewer=args.allow_fewer,
-    )
-    result = build_result(
-        key, batch, args.top, full_text_only=args.full_text_only
-    )
+    if args.recent_days > 0:
+        selected = select_recent_full_text(records, args.top, recent_days=args.recent_days)
+        result = build_recent_result(selected, args.recent_days)
+    else:
+        key, batch = select_latest_complete_batch(
+            records,
+            args.top,
+            full_text_only=args.full_text_only,
+            batch_date=args.batch_date,
+            allow_fewer=args.allow_fewer,
+        )
+        result = build_result(
+            key, batch, args.top, full_text_only=args.full_text_only
+        )
     formatter = NotifierAgent.__new__(NotifierAgent)
     formatter.settings = settings
     messages = [formatter._format_wechat_overview(result)]

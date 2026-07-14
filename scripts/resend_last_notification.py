@@ -47,10 +47,13 @@ def main() -> int:
         parser.error("--top must be at least 1")
 
     records = load_records(args.index)
-    if args.recent_days > 0:
-        selected = select_recent_full_text(records, args.top, recent_days=args.recent_days)
-        result = build_recent_result(selected, args.recent_days)
-        selection_label = f"recent {args.recent_days} days"
+    recent_days = args.recent_days
+    if not recent_days and args.full_text_only and args.allow_fewer:
+        recent_days = 30
+    if recent_days > 0:
+        selected = select_recent_full_text(records, args.top, recent_days=recent_days)
+        result = build_recent_result(selected, recent_days)
+        selection_label = f"recent {recent_days} days"
     else:
         key, batch = select_latest_complete_batch(
             records,

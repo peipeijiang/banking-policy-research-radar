@@ -6,10 +6,20 @@
       "arxiv": 120,
       "openalex": 60,
       "institutional": 40,
-      "repec": 33,
+      "repec": 48,
       "worldbank": 20,
       "dblp": 30
     }
+  },
+  "quality_filters": {
+    "require_full_text": true,
+    "full_text_only_notifications": true
+  },
+  "citation_discovery": {
+    "enabled": true,
+    "max_results": 20,
+    "max_age_days": 90,
+    "include_seed_references": false
   },
   "data_sources": {
     "enabled": [
@@ -69,11 +79,6 @@
           "name": "ecb",
           "display_name": "ECB Working Papers",
           "url": "https://www.ecb.europa.eu/rss/wppub.html"
-        },
-        {
-          "name": "bis",
-          "display_name": "BIS Working Papers",
-          "url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
         },
         {
           "name": "federal_reserve",
@@ -148,6 +153,41 @@
           "name": "philadelphia_fed",
           "display_name": "Federal Reserve Bank of Philadelphia Working Papers",
           "url": "https://ideas.repec.org/s/fip/fedpwp.html"
+        },
+        {
+          "name": "ecb_repec",
+          "display_name": "ECB Working Paper Series",
+          "url": "https://ideas.repec.org/s/ecb/ecbwps.html"
+        },
+        {
+          "name": "bis_working_papers",
+          "display_name": "BIS Working Papers",
+          "url": "https://ideas.repec.org/s/bis/biswps.html"
+        },
+        {
+          "name": "bundesbank",
+          "display_name": "Deutsche Bundesbank Discussion Papers",
+          "url": "https://ideas.repec.org/s/zbw/bubdps.html"
+        },
+        {
+          "name": "banque_de_france",
+          "display_name": "Banque de France Working Papers",
+          "url": "https://ideas.repec.org/s/bfr/banfra.html"
+        },
+        {
+          "name": "banco_de_espana",
+          "display_name": "Banco de Espana Working Papers",
+          "url": "https://ideas.repec.org/s/bde/wpaper.html"
+        },
+        {
+          "name": "riksbank",
+          "display_name": "Sveriges Riksbank Working Paper Series",
+          "url": "https://ideas.repec.org/s/hhs/rbnkwp.html"
+        },
+        {
+          "name": "rba",
+          "display_name": "RBA Research Discussion Papers",
+          "url": "https://ideas.repec.org/s/rba/rbardp.html"
         }
       ]
     },

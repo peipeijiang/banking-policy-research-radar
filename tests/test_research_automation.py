@@ -506,6 +506,21 @@ class ResearchAutomationTests(unittest.TestCase):
         result = resolver.from_openalex_locations(paper)
         self.assertEqual(result["provider"], "institutional_or_author_repository")
 
+    def test_openalex_doi_landing_page_is_not_treated_as_pdf(self):
+        resolver = OpenAccessResolver()
+        paper = SimpleNamespace(
+            open_access_candidates=[{
+                "landing_page_url": "https://doi.org/10.3386/w1234",
+                "pdf_url": "https://doi.org/10.3386/w1234",
+                "source": "Working Paper Index",
+                "source_type": "repository",
+                "license": None,
+            }]
+        )
+        resolver._pdf_from_public_page = Mock(return_value=None)
+
+        self.assertIsNone(resolver.from_openalex_locations(paper))
+
     def test_openreview_exact_title_returns_public_pdf(self):
         resolver = OpenAccessResolver()
         response = Mock()
@@ -777,6 +792,43 @@ class ResearchAutomationTests(unittest.TestCase):
             result = CitationDiscovery(openalex, index).discover(set(), max_total=1)
             self.assertEqual(len(result), 1)
             self.assertEqual(result[0].discovery["relation"], "related_to_seed")
+
+    def test_citation_discovery_rejects_old_papers_and_seed_references(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            index = Path(tmp) / "index.jsonl"
+            seed = {
+                "paper_id": "seed", "title": "Seed", "score": 90, "qualified": True,
+                "openalex_id": "W1", "related_works": ["W2"], "referenced_works": ["W3"]
+            }
+            index.write_text(json.dumps(seed) + "\n")
+            old = PaperMetadata(
+                paper_id="old", source="citation", title="Old", authors=[], abstract="",
+                published_date=datetime(2010, 1, 1), url="https://openalex.org/W2", openalex_id="W2"
+            )
+            reference = PaperMetadata(
+                paper_id="reference", source="citation", title="Reference", authors=[], abstract="",
+                published_date=datetime.now(), url="https://openalex.org/W3", openalex_id="W3"
+            )
+            openalex = Mock()
+            openalex.lookup_by_ids.side_effect = lambda ids: {
+                key: value for key, value in {"W2": old, "W3": reference}.items() if key in ids
+            }
+            openalex.find_recent_citing.return_value = []
+            openalex.is_processed.return_value = False
+
+            result = CitationDiscovery(
+                openalex, index, max_age_days=90, include_seed_references=False
+            ).discover(set())
+
+            self.assertEqual(result, [])
+
+    def test_pdf_access_rejects_doi_landing_page(self):
+        paper = PaperMetadata(
+            paper_id="doi", source="citation", title="Paper", authors=[], abstract="",
+            published_date=datetime.now(), url="https://doi.org/10.1/test",
+            pdf_url="https://doi.org/10.3386/w1234",
+        )
+        self.assertFalse(paper.has_pdf_access())
 
     def test_weekly_evidence_audit_requires_two_papers_for_observation(self):
         with tempfile.TemporaryDirectory() as tmp:

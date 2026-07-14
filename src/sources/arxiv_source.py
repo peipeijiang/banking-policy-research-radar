@@ -266,6 +266,12 @@ class ArxivSource(BasePaperSource):
                                 pdf_url=result.pdf_url,
                                 doi=result.doi,
                                 categories=list(result.categories) if result.categories else [],
+                                arxiv_id=re.sub(r"v\d+$", "", paper_id),
+                                arxiv_url=result.entry_id,
+                                fulltext_provenance={
+                                    "provider": "arxiv",
+                                    "pdf_url": result.pdf_url,
+                                },
                             )
                             all_papers[paper_id] = metadata
                             count += 1

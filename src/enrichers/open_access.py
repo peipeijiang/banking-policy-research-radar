@@ -31,6 +31,15 @@ class OpenAccessResolver:
     def _title_key(title: str) -> str:
         return re.sub(r"[^a-z0-9]+", "", (title or "").lower())
 
+    @staticmethod
+    def _looks_like_pdf(url: str) -> bool:
+        if not url:
+            return False
+        return bool(
+            re.search(r"\.pdf(?:$|[?#])", url, re.I)
+            or re.search(r"/(?:pdf|download)(?:$|[/?#])", url, re.I)
+        )
+
     def _pdf_from_public_page(self, page_url: str) -> Optional[str]:
         """Find a directly linked PDF on an author or institutional repository page."""
         if not page_url or not page_url.startswith(("http://", "https://")):
@@ -51,7 +60,7 @@ class OpenAccessResolver:
 
     def from_openalex_locations(self, paper) -> Optional[Dict]:
         for location in paper.open_access_candidates:
-            if location.get("pdf_url"):
+            if self._looks_like_pdf(location.get("pdf_url")):
                 return self._result(
                     location["pdf_url"], "openalex_repository", license=location.get("license"),
                     source=location.get("source"),

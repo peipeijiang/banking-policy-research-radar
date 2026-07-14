@@ -57,6 +57,12 @@ class Settings(BaseSettings):
     MAX_RESULTS: int = 100  # 单次搜索的最大返回结果数
     SEARCH_DAYS: int = 7  # 搜索最近N天的论文
     TARGET_DOMAINS: List[str] = ["quant-ph"]  # 目标领域列表
+    REQUIRE_FULL_TEXT: bool = False  # 仅处理具备可验证全文入口的论文
+    FULL_TEXT_ONLY_NOTIFICATIONS: bool = False  # 通知仅展示实际完成全文解析的论文
+    CITATION_DISCOVERY_ENABLED: bool = True
+    CITATION_MAX_RESULTS: int = 60
+    CITATION_MAX_AGE_DAYS: int = 365
+    CITATION_INCLUDE_SEED_REFERENCES: bool = True
 
     # ==================== 数据源配置 ====================
     ENABLED_SOURCES: List[str] = ["arxiv"]  # 启用的数据源列表
@@ -309,6 +315,28 @@ class Settings(BaseSettings):
                 self.SEARCH_DAYS = settings.get("search_days", self.SEARCH_DAYS)
                 self.MAX_RESULTS = settings.get("max_results", self.MAX_RESULTS)
                 self.MAX_RESULTS_PER_SOURCE = settings.get("max_results_per_source", {})
+
+            quality = config.get("quality_filters") or {}
+            self.REQUIRE_FULL_TEXT = quality.get(
+                "require_full_text", self.REQUIRE_FULL_TEXT
+            )
+            self.FULL_TEXT_ONLY_NOTIFICATIONS = quality.get(
+                "full_text_only_notifications", self.FULL_TEXT_ONLY_NOTIFICATIONS
+            )
+
+            citation = config.get("citation_discovery") or {}
+            self.CITATION_DISCOVERY_ENABLED = citation.get(
+                "enabled", self.CITATION_DISCOVERY_ENABLED
+            )
+            self.CITATION_MAX_RESULTS = citation.get(
+                "max_results", self.CITATION_MAX_RESULTS
+            )
+            self.CITATION_MAX_AGE_DAYS = citation.get(
+                "max_age_days", self.CITATION_MAX_AGE_DAYS
+            )
+            self.CITATION_INCLUDE_SEED_REFERENCES = citation.get(
+                "include_seed_references", self.CITATION_INCLUDE_SEED_REFERENCES
+            )
 
             # 加载目标领域
             if "target_domains" in config:

@@ -305,8 +305,7 @@ class SearchAgent:
 
                 traceback.print_exc()
 
-        self._resolve_missing_arxiv_versions(results)
-        self._resolve_missing_open_access(results)
+        self.resolve_fulltext(results)
         results = self._deduplicate_across_sources(results)
 
         # 统计
@@ -314,6 +313,12 @@ class SearchAgent:
         logger.info(f">>> 总计抓取 {total} 篇论文，来自 {len(results)} 个数据源")
 
         return results
+
+    def resolve_fulltext(self, results: Dict[str, List[PaperMetadata]]) -> int:
+        """Resolve lawful full text for a newly discovered group of papers."""
+        return self._resolve_missing_arxiv_versions(results) + self._resolve_missing_open_access(
+            results
+        )
 
     def _resolve_missing_arxiv_versions(self, results: Dict[str, List[PaperMetadata]]) -> int:
         """Actively search ArXiv for papers whose upstream metadata has no PDF."""

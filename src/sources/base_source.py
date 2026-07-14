@@ -6,6 +6,7 @@
 
 import json
 import logging
+import re
 import threading
 from abc import ABC, abstractmethod
 from dataclasses import dataclass, field
@@ -54,9 +55,20 @@ class PaperMetadata:
     fulltext_provenance: Dict[str, Any] = field(default_factory=dict)
 
     def has_pdf_access(self) -> bool:
-        """是否可以下载PDF进行深度分析"""
-        # 优先使用原始PDF链接，否则使用arXiv PDF
-        return (self.pdf_url is not None and self.pdf_url != "") or self.arxiv_id is not None
+        """Whether metadata points to a credible downloadable full-text file."""
+        if self.arxiv_id:
+            return True
+        if self.fulltext_provenance and self.fulltext_provenance.get("pdf_url"):
+            return True
+        if self.source == "arxiv" and self.pdf_url:
+            return True
+        return bool(
+            self.pdf_url
+            and (
+                re.search(r"\.pdf(?:$|[?#])", self.pdf_url, re.I)
+                or re.search(r"/(?:pdf|download)(?:$|[/?#])", self.pdf_url, re.I)
+            )
+        )
 
     def get_arxiv_pdf_url(self) -> Optional[str]:
         """获取arXiv PDF下载链接"""

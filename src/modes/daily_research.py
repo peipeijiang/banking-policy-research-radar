@@ -119,7 +119,7 @@ def _deep_analyze_single_paper(paper_info, analysis_agent):
         title=paper_info["title"],
         pdf_url=pdf_url,
         abstract=paper_info["abstract"],
-        fallback_to_abstract=True,
+        fallback_to_abstract=not settings.REQUIRE_FULL_TEXT,
     )
 
     if analysis:
@@ -252,17 +252,36 @@ class DailyResearchPipeline:
                 return fetch_fail_result
 
             openalex_source = search_agent.get_source("openalex")
-            if openalex_source:
+            if openalex_source and settings.CITATION_DISCOVERY_ENABLED:
                 existing_ids = {
                     paper.paper_id for papers in papers_by_source.values() for paper in papers
                 }
                 try:
-                    citation_papers = CitationDiscovery(openalex_source).discover(existing_ids)
+                    citation_papers = CitationDiscovery(
+                        openalex_source,
+                        max_age_days=settings.CITATION_MAX_AGE_DAYS,
+                        include_seed_references=settings.CITATION_INCLUDE_SEED_REFERENCES,
+                    ).discover(existing_ids, max_total=settings.CITATION_MAX_RESULTS)
                     if citation_papers:
                         papers_by_source["citation"] = citation_papers
+                        search_agent.resolve_fulltext({"citation": citation_papers})
                         logger.info(f">>> 引用关系扩展发现 {len(citation_papers)} 篇候选论文")
                 except Exception as exc:
                     logger.warning(f"引用关系扩展失败，继续常规流程: {exc}")
+
+            if settings.REQUIRE_FULL_TEXT:
+                before_fulltext_filter = sum(len(papers) for papers in papers_by_source.values())
+                papers_by_source = {
+                    source: [paper for paper in papers if paper.has_pdf_access()]
+                    for source, papers in papers_by_source.items()
+                }
+                papers_by_source = {
+                    source: papers for source, papers in papers_by_source.items() if papers
+                }
+                retained = sum(len(papers) for papers in papers_by_source.values())
+                logger.info(
+                    f">>> 正文准入过滤: {before_fulltext_filter} -> {retained} 篇（仅保留可验证全文）"
+                )
 
             total_papers_count = sum(len(papers) for papers in papers_by_source.values())
 
@@ -616,6 +635,12 @@ class DailyResearchPipeline:
             for source, scored_papers in scored_papers_by_source.items():
                 for p in scored_papers:
                     metadata = p["paper_metadata"]
+                    analysis = notification_analysis.get(p["paper_id"])
+                    if (
+                        settings.FULL_TEXT_ONLY_NOTIFICATIONS
+                        and (analysis or {}).get("_analysis_basis") != "full_text"
+                    ):
+                        continue
                     all_scored_flat.append(
                         {
                             "title": p["title"],
@@ -624,7 +649,7 @@ class DailyResearchPipeline:
                             "source": source,
                             "tldr": p["score_response"].tldr,
                             "url": p["url"],
-                            "analysis": notification_analysis.get(p["paper_id"]),
+                            "analysis": analysis,
                             "code_repositories": metadata.code_repositories,
                             "arxiv_id": metadata.arxiv_id,
                             "arxiv_url": metadata.arxiv_url,

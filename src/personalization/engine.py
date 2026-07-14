@@ -319,7 +319,8 @@ class PersonalizationEngine:
             row["personalization"] = detail
             if self.mode == "live":
                 row["score_response"].total_score = personalized
-                row["score_response"].is_qualified = personalized >= row["score_response"].passing_score
+                if not getattr(row["score_response"], "domain_scores", {}):
+                    row["score_response"].is_qualified = personalized >= row["score_response"].passing_score
                 row["score_response"].reasoning += f"；个性化调整 {adjustment:+.1f}"
 
     def _mmr(self, candidates: List[Dict[str, Any]], top_n: int) -> List[Dict[str, Any]]:

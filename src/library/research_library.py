@@ -256,11 +256,18 @@ class ResearchLibrary:
 
                 paper = row["paper_metadata"]
                 score = row["score_response"]
+                domain_scores = getattr(score, "domain_scores", {})
+                matched_domain = getattr(score, "matched_domain", None)
                 record = paper.to_dict()
                 record.update(
                     {
                         "source": source,
                         "score": score.total_score,
+                        "domain_scores": domain_scores,
+                        "matched_domain": matched_domain,
+                        "matched_domain_label": settings.DOMAIN_KEYWORD_GROUPS.get(
+                            matched_domain or "", {}
+                        ).get("label"),
                         "qualified": score.is_qualified,
                         "tldr": score.tldr,
                         "abstract_cn": row.get("abstract_cn", ""),

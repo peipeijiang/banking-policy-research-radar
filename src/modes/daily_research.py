@@ -646,6 +646,13 @@ class DailyResearchPipeline:
                             "title": p["title"],
                             "paper_id": p["paper_id"],
                             "score": p["score_response"].total_score,
+                            "domain_scores": p["score_response"].domain_scores,
+                            "matched_domain": p["score_response"].matched_domain,
+                            "matched_domain_label": (
+                                settings.DOMAIN_KEYWORD_GROUPS.get(
+                                    p["score_response"].matched_domain or "", {}
+                                ).get("label")
+                            ),
                             "source": source,
                             "tldr": p["score_response"].tldr,
                             "url": p["url"],

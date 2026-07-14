@@ -57,6 +57,8 @@ class Settings(BaseSettings):
     MAX_RESULTS: int = 100  # 单次搜索的最大返回结果数
     SEARCH_DAYS: int = 7  # 搜索最近N天的论文
     TARGET_DOMAINS: List[str] = ["quant-ph"]  # 目标领域列表
+    DOMAIN_KEYWORD_GROUPS: Dict[str, Dict[str, Any]] = {}
+    DOMAIN_PASSING_SCORE: float = 6.0
     REQUIRE_FULL_TEXT: bool = False  # 仅处理具备可验证全文入口的论文
     FULL_TEXT_ONLY_NOTIFICATIONS: bool = False  # 通知仅展示实际完成全文解析的论文
     CITATION_DISCOVERY_ENABLED: bool = True
@@ -382,6 +384,11 @@ class Settings(BaseSettings):
             if "keywords" in config:
                 kw_config = config["keywords"]
 
+                self.DOMAIN_KEYWORD_GROUPS = kw_config.get("domain_groups", {})
+                self.DOMAIN_PASSING_SCORE = float(
+                    kw_config.get("domain_passing_score", self.DOMAIN_PASSING_SCORE)
+                )
+
                 # 主要关键词
                 if "primary_keywords" in kw_config:
                     pk = kw_config["primary_keywords"]
@@ -703,9 +710,9 @@ class Settings(BaseSettings):
         返回:
             float: 及格分数
         """
-        return (
-            self.PASSING_SCORE_BASE + self.PASSING_SCORE_WEIGHT_COEFFICIENT * total_keyword_weight
-        )
+        if self.DOMAIN_KEYWORD_GROUPS:
+            return self.DOMAIN_PASSING_SCORE * 10
+        return self.PASSING_SCORE_BASE + self.PASSING_SCORE_WEIGHT_COEFFICIENT * total_keyword_weight
 
     def ensure_directories(self):
         """

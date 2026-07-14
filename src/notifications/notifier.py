@@ -696,6 +696,25 @@ class NotifierAgent:
         links = " · ".join(link for link in (report_link, original_link) if link)
         feedback = self._feedback_links(paper)
         venue, publication_type, published_date, discovery_source = self._publication_metadata(paper)
+        domain_scores = paper.get("domain_scores") or {}
+        domain_labels = {
+            "commercial_banking": "商业银行",
+            "monetary_policy": "货币政策",
+            "fiscal_policy": "财政政策",
+        }
+        domain_line = ""
+        if domain_scores:
+            matched_label = paper.get("matched_domain_label") or domain_labels.get(
+                paper.get("matched_domain"), paper.get("matched_domain", "")
+            )
+            score_parts = [
+                f"{domain_labels.get(key, key)} {float(value):.1f}"
+                for key, value in domain_scores.items()
+            ]
+            domain_line = (
+                f"\n<font color=\"info\">命中领域：{matched_label}</font> · "
+                + " / ".join(score_parts)
+            )
         base_header = f"## {index}/{total} · {title}\n"
         if title != original_title:
             base_header += f"> {original_title}\n\n"
@@ -707,6 +726,7 @@ class NotifierAgent:
             f"<font color=\"{'info' if basis == 'full_text' else 'warning'}\">{level}</font> · "
             f"基础分 **{paper.get('score', 0):.1f}**\n"
             f"<font color=\"comment\">发现渠道：{discovery_source}</font>"
+            f"{domain_line}"
         )
         if basis_warning:
             base_header += f"\n\n> **证据限制**：{basis_warning}"

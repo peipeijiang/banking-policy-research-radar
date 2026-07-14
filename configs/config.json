@@ -37,14 +37,19 @@
     "openalex": {
       "search_terms": [
         "commercial banking",
-        "bank lending",
-        "bank regulation",
-        "monetary policy",
-        "central banking",
-        "inflation",
-        "interest rates",
-        "fiscal policy",
-        "public debt",
+        "bank lending credit supply",
+        "bank capital liquidity regulation",
+        "bank risk financial stability",
+        "deposit funding bank runs",
+        "monetary policy transmission",
+        "inflation expectations",
+        "policy interest rate",
+        "quantitative easing tightening",
+        "central bank communication forward guidance",
+        "fiscal policy government spending multiplier",
+        "tax policy public finance",
+        "public debt debt sustainability",
+        "sovereign risk fiscal rules",
         "fiscal-monetary policy interaction"
       ]
     },
@@ -217,29 +222,65 @@
     ]
   },
   "keywords": {
+    "domain_passing_score": 6.0,
+    "domain_groups": {
+      "commercial_banking": {
+        "label": "商业银行",
+        "description": "商业银行、信贷供给、金融中介、银行监管与风险管理，以及银行体系稳定性。一般资本市场研究只有在银行或信贷中介是主要研究对象时才属于本领域。",
+        "keywords": [
+          "commercial banking", "bank lending", "credit supply", "credit allocation",
+          "financial intermediation", "bank capital", "capital adequacy", "Basel regulation",
+          "bank liquidity", "liquidity coverage ratio", "net stable funding ratio",
+          "bank funding", "deposits", "bank runs", "interbank market", "credit risk",
+          "non-performing loans", "bank supervision", "stress testing", "deposit insurance",
+          "bank competition", "net interest margin", "bank profitability", "SME lending",
+          "mortgage lending", "macroprudential policy", "systemic banking risk"
+        ]
+      },
+      "monetary_policy": {
+        "label": "货币政策",
+        "description": "中央银行为实现价格与宏观稳定而实施的政策、工具、传导渠道和预期管理。仅讨论通胀现象但不研究货币政策含义时不应获得核心分。",
+        "keywords": [
+          "monetary policy", "central banking", "policy interest rate", "monetary transmission",
+          "bank lending channel", "interest rate pass-through", "inflation", "inflation expectations",
+          "price stability", "quantitative easing", "quantitative tightening", "asset purchases",
+          "forward guidance", "central bank communication", "reserve requirements", "money supply",
+          "yield curve control", "exchange rate channel", "monetary policy rules", "Taylor rule",
+          "unconventional monetary policy", "central bank balance sheet", "CBDC monetary policy"
+        ]
+      },
+      "fiscal_policy": {
+        "label": "财政政策",
+        "description": "政府收入、支出、预算、债务及其宏观经济影响，包括财政制度、财政空间和主权风险。一般公共管理研究只有在财政工具或宏观财政结果是主线时才属于本领域。",
+        "keywords": [
+          "fiscal policy", "government spending", "public expenditure", "fiscal multiplier",
+          "tax policy", "taxation", "public revenue", "budget deficit", "fiscal balance",
+          "public debt", "debt sustainability", "sovereign debt", "sovereign risk", "fiscal rules",
+          "fiscal space", "public investment", "government transfers", "subsidies",
+          "automatic stabilizers", "fiscal stimulus", "fiscal consolidation", "austerity",
+          "local government debt", "fiscal federalism", "fiscal-monetary interaction",
+          "bank-sovereign nexus"
+        ]
+      }
+    },
     "primary_keywords": {
       "weight": 1.0,
       "keywords": [
         "commercial banking",
-        "bank lending",
-        "bank risk management",
-        "bank regulation",
-        "financial intermediation",
+        "bank lending and credit supply",
+        "bank regulation and supervision",
+        "bank capital liquidity and risk",
+        "financial intermediation and stability",
         "monetary policy",
-        "central banking",
-        "interest rates",
-        "inflation",
-        "quantitative easing",
+        "monetary policy transmission",
+        "inflation and inflation expectations",
+        "interest rates and central bank communication",
+        "unconventional monetary policy",
         "fiscal policy",
-        "government spending",
+        "government spending and fiscal multiplier",
         "taxation",
-        "public debt",
-        "fiscal-monetary interaction",
-        "macroprudential policy",
-        "financial stability",
-        "credit cycle",
-        "bank capital",
-        "liquidity regulation"
+        "public debt and debt sustainability",
+        "fiscal-monetary interaction"
       ]
     },
     "enable_reference_extraction": false,

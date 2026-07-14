@@ -7,7 +7,7 @@ import fitz  # pymupdf
 from typing import Optional, Dict, Any, List
 from pathlib import Path
 from openai import OpenAI
-from pydantic import BaseModel, ValidationError
+from pydantic import BaseModel, Field, ValidationError
 from tenacity import retry, stop_after_attempt, wait_exponential, before_sleep_log
 
 from config import settings
@@ -45,6 +45,8 @@ class WeightedScoreResponse(BaseModel):
     reasoning: str
     tldr: str
     extracted_keywords: List[str]
+    domain_scores: Dict[str, float] = Field(default_factory=dict)
+    matched_domain: Optional[str] = None
 
 
 class Stage2Response(BaseModel):
@@ -300,6 +302,8 @@ class AnalysisAgent:
         total_weight = sum(keywords_dict.values())
         passing_score = settings.calculate_passing_score(total_weight)
 
+        domain_groups = settings.DOMAIN_KEYWORD_GROUPS
+
         # 构建关键词列表字符串
         keywords_list = "\n".join(
             [f"  - {kw} (权重: {weight:.1f})" for kw, weight in keywords_dict.items()]
@@ -308,7 +312,55 @@ class AnalysisAgent:
         # 构建专家作者列表字符串
         expert_authors_str = ", ".join(settings.EXPERT_AUTHORS) if settings.EXPERT_AUTHORS else "无"
 
-        prompt = f"""你是一名学术论文评审专家。请基于以下关键词对论文进行相关性评分，并提取论文信息。
+        if domain_groups:
+            domain_lines = []
+            for domain_id, config in domain_groups.items():
+                examples = "、".join(config.get("keywords", []))
+                domain_lines.append(
+                    f"- {domain_id}（{config.get('label', domain_id)}）："
+                    f"{config.get('description', '')}\n  主题示例：{examples}"
+                )
+            domains_text = "\n".join(domain_lines)
+            domain_keys = ", ".join(f'"{key}": 0.0' for key in domain_groups)
+            prompt = f"""你是一名经济金融学术论文评审专家。请独立判断论文与三个研究领域的核心相关度。
+
+研究背景:
+{settings.RESEARCH_CONTEXT if settings.RESEARCH_CONTEXT else "通用学术研究"}
+
+领域定义:
+{domains_text}
+
+论文信息:
+标题: {title}
+作者: {authors}
+摘要: {abstract}
+
+请分别给每个领域评 0-10 分：
+- 0-2：没有实质关系
+- 3-4：仅作为背景或间接提及
+- 5：有实质关联，但不是论文主线
+- 6-7：论文的主要研究问题、方法或结果直接属于该领域
+- 8-10：该领域是论文核心贡献
+
+重要规则:
+- 三个领域独立评分，不要求论文同时覆盖多个领域。
+- 只要任意一个领域达到 {settings.DOMAIN_PASSING_SCORE:.1f}，论文即可通过。
+- 不要因为出现“银行、通胀、政府”等单个词就给高分，必须判断研究问题本身。
+- 一般资本市场论文若不研究银行或信贷中介，商业银行领域不得高于 4 分。
+- 仅描述通胀但不研究货币政策工具、传导或政策含义，货币政策领域不得高于 5 分。
+- 一般公共管理论文若不研究预算、税收、支出或债务，财政政策领域不得高于 4 分。
+
+输出 JSON:
+{{
+  "domain_scores": {{{domain_keys}}},
+  "expert_authors_found": [],
+  "reasoning": "逐领域说明评分依据，并指出最高匹配领域",
+  "tldr": "一句话总结研究问题、方法和主要结果",
+  "extracted_keywords": ["5-8个论文自身的英文关键词"]
+}}
+"""
+        else:
+            prompt = f"""你是一名学术论文评审专家。请基于以下关键词对论文进行相关性评分，并提取论文信息。
 
 研究背景:
 {settings.RESEARCH_CONTEXT if settings.RESEARCH_CONTEXT else "通用学术研究"}
@@ -372,6 +424,8 @@ class AnalysisAgent:
             reasoning = data.get("reasoning", "无详细理由")
             tldr = data.get("tldr", "无摘要")
             extracted_keywords = data.get("extracted_keywords", [])
+            domain_scores = {}
+            matched_domain = None
 
             # 计算加权总分
             weighted_score = sum(
@@ -383,14 +437,25 @@ class AnalysisAgent:
             if settings.ENABLE_AUTHOR_BONUS and expert_authors_found:
                 author_bonus = len(expert_authors_found) * settings.AUTHOR_BONUS_POINTS
 
-            # 计算总分
-            total_score = weighted_score + author_bonus
-
-            # 判断是否及格
-            is_qualified = total_score >= passing_score
+            if domain_groups:
+                raw_domain_scores = data.get("domain_scores") or {}
+                domain_scores = {
+                    domain_id: max(0.0, min(10.0, float(raw_domain_scores.get(domain_id, 0))))
+                    for domain_id in domain_groups
+                }
+                matched_domain = max(domain_scores, key=domain_scores.get)
+                strongest_domain_score = domain_scores[matched_domain]
+                total_score = strongest_domain_score * 10
+                is_qualified = strongest_domain_score >= settings.DOMAIN_PASSING_SCORE
+                matched_label = domain_groups[matched_domain].get("label", matched_domain)
+                reasoning = f"最高匹配领域：{matched_label} {strongest_domain_score:.1f}/10。{reasoning}"
+            else:
+                total_score = weighted_score + author_bonus
+                is_qualified = total_score >= passing_score
 
             logger.info(
-                f"论文评分完成 [{title[:50]}]: 总分={total_score:.1f}, 及格分={passing_score:.1f}, {'✅及格' if is_qualified else '❌未及格'}"
+                f"论文评分完成 [{title[:50]}]: 总分={total_score:.1f}, 及格分={passing_score:.1f}, "
+                f"命中领域={matched_domain or 'legacy'}, {'✅及格' if is_qualified else '❌未及格'}"
             )
 
             return WeightedScoreResponse(
@@ -403,6 +468,8 @@ class AnalysisAgent:
                 reasoning=reasoning,
                 tldr=tldr,
                 extracted_keywords=extracted_keywords,
+                domain_scores=domain_scores,
+                matched_domain=matched_domain,
             )
 
         except Exception as e:
@@ -422,6 +489,8 @@ class AnalysisAgent:
                 reasoning=f"评分失败: {str(e)}",
                 tldr="评分失败，无法生成摘要",
                 extracted_keywords=[],
+                domain_scores={domain_id: 0.0 for domain_id in domain_groups},
+                matched_domain=None,
             )
 
     # ======================================================================

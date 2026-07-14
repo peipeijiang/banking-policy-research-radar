@@ -14,6 +14,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
 from enrichers.github_code import GitHubCodeEnricher
 from enrichers.open_access import OpenAccessResolver
+from agents.analysis_agent import AnalysisAgent
+from config import settings
 from library.feedback import FeedbackStore
 from library.research_library import ResearchLibrary
 from library.evidence_builder import build_evidence_pack, audit_weekly_digest
@@ -28,6 +30,35 @@ from notifications.notifier import NotifierAgent, RunResult, WebhookNotifier
 
 
 class ResearchAutomationTests(unittest.TestCase):
+    def test_domain_scoring_passes_when_one_domain_is_core(self):
+        groups = {
+            "commercial_banking": {"label": "商业银行", "keywords": ["bank lending"]},
+            "monetary_policy": {"label": "货币政策", "keywords": ["policy rate"]},
+            "fiscal_policy": {"label": "财政政策", "keywords": ["public debt"]},
+        }
+        agent = AnalysisAgent.__new__(AnalysisAgent)
+        agent._call_cheap_llm = Mock(return_value=json.dumps({
+            "domain_scores": {
+                "commercial_banking": 2.0,
+                "monetary_policy": 7.2,
+                "fiscal_policy": 1.0,
+            },
+            "expert_authors_found": [],
+            "reasoning": "货币政策传导是主要研究问题。",
+            "tldr": "研究政策利率传导。",
+            "extracted_keywords": ["monetary policy transmission"],
+        }))
+        with unittest.mock.patch.object(settings, "DOMAIN_KEYWORD_GROUPS", groups), \
+             unittest.mock.patch.object(settings, "DOMAIN_PASSING_SCORE", 6.0):
+            result = agent.score_paper_with_keywords(
+                "Policy Rate Transmission", "Researcher", "We estimate policy transmission.", {}
+            )
+
+        self.assertTrue(result.is_qualified)
+        self.assertEqual(result.passing_score, 60.0)
+        self.assertEqual(result.total_score, 72.0)
+        self.assertEqual(result.matched_domain, "monetary_policy")
+
     def test_search_agent_marks_repec_history_in_repec_owner(self):
         agent = SearchAgent.__new__(SearchAgent)
         repec = Mock()

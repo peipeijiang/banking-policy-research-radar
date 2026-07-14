@@ -602,39 +602,49 @@ class Reporter:
                 parts.append(f'<div class="analysis-content"><p>{self._hm(abstract)}</p></div></details>')
 
             # 评分详情（可折叠）
-            if sr.keyword_scores:
+            if sr.keyword_scores or sr.domain_scores:
                 parts.append("<details><summary>评分详情</summary>")
                 parts.append('<div class="analysis-content">')
-                parts.append(
-                    '<table style="width:100%;border-collapse:collapse;font-size:0.85em;">'
-                )
-                parts.append(
-                    '<tr style="border-bottom:2px solid var(--color-border);">'
-                    '<th style="text-align:left;padding:4px 8px;">关键词</th>'
-                    '<th style="text-align:center;padding:4px 8px;">权重</th>'
-                    '<th style="text-align:center;padding:4px 8px;">相关度</th>'
-                    '<th style="text-align:center;padding:4px 8px;">得分</th></tr>'
-                )
-                for kw, score in sr.keyword_scores.items():
-                    weight = keywords_dict.get(kw, 0)
-                    weighted = score * weight
+                if sr.domain_scores:
+                    parts.append("<p><strong>领域相关度</strong></p><ul>")
+                    for domain_id, score in sr.domain_scores.items():
+                        domain = settings.DOMAIN_KEYWORD_GROUPS.get(domain_id, {})
+                        label = domain.get("label", domain_id)
+                        matched = "（命中）" if domain_id == sr.matched_domain else ""
+                        parts.append(f"<li>{h(label)}: {score:.1f}/10 {matched}</li>")
+                    parts.append("</ul>")
+                if sr.keyword_scores:
+                    parts.append("<p><strong>关键词相关度</strong></p>")
                     parts.append(
-                        f'<tr style="border-bottom:1px solid var(--color-border);">'
-                        f'<td style="padding:4px 8px;">{h(kw)}</td>'
-                        f'<td style="text-align:center;padding:4px 8px;">{weight:.1f}</td>'
-                        f'<td style="text-align:center;padding:4px 8px;">{score:.1f}/10</td>'
-                        f'<td style="text-align:center;padding:4px 8px;">{weighted:.1f}</td></tr>'
+                        '<table style="width:100%;border-collapse:collapse;font-size:0.85em;">'
                     )
-                if sr.author_bonus > 0:
-                    experts = ", ".join(sr.expert_authors_found)
                     parts.append(
-                        f'<tr style="border-bottom:1px solid var(--color-border);">'
-                        f'<td style="padding:4px 8px;">作者加分</td>'
-                        f'<td style="text-align:center;padding:4px 8px;">-</td>'
-                        f'<td style="text-align:center;padding:4px 8px;">+{sr.author_bonus:.1f}</td>'
-                        f'<td style="text-align:center;padding:4px 8px;">专家: {h(experts)}</td></tr>'
+                        '<tr style="border-bottom:2px solid var(--color-border);">'
+                        '<th style="text-align:left;padding:4px 8px;">关键词</th>'
+                        '<th style="text-align:center;padding:4px 8px;">权重</th>'
+                        '<th style="text-align:center;padding:4px 8px;">相关度</th>'
+                        '<th style="text-align:center;padding:4px 8px;">得分</th></tr>'
                     )
-                parts.append("</table>")
+                    for kw, score in sr.keyword_scores.items():
+                        weight = keywords_dict.get(kw, 0)
+                        weighted = score * weight
+                        parts.append(
+                            f'<tr style="border-bottom:1px solid var(--color-border);">'
+                            f'<td style="padding:4px 8px;">{h(kw)}</td>'
+                            f'<td style="text-align:center;padding:4px 8px;">{weight:.1f}</td>'
+                            f'<td style="text-align:center;padding:4px 8px;">{score:.1f}/10</td>'
+                            f'<td style="text-align:center;padding:4px 8px;">{weighted:.1f}</td></tr>'
+                        )
+                    if sr.author_bonus > 0:
+                        experts = ", ".join(sr.expert_authors_found)
+                        parts.append(
+                            f'<tr style="border-bottom:1px solid var(--color-border);">'
+                            f'<td style="padding:4px 8px;">作者加分</td>'
+                            f'<td style="text-align:center;padding:4px 8px;">-</td>'
+                            f'<td style="text-align:center;padding:4px 8px;">+{sr.author_bonus:.1f}</td>'
+                            f'<td style="text-align:center;padding:4px 8px;">专家: {h(experts)}</td></tr>'
+                        )
+                    parts.append("</table>")
                 if sr.reasoning:
                     parts.append(
                         f'<p style="margin-top:8px;"><strong>评分理由:</strong> {h(sr.reasoning)}</p>'

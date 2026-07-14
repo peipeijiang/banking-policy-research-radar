@@ -158,6 +158,8 @@ class AbstractOriginalRenderer(BaseModuleRenderer):
     """原文摘要渲染器"""
 
     def render(self, data: Dict[str, Any], config: Dict[str, Any]) -> List[str]:
+        from config import settings
+
         if not self.is_enabled(config):
             return []
 
@@ -283,6 +285,8 @@ class ScoringRenderer(BaseModuleRenderer):
     """评分结果渲染器"""
 
     def render(self, data: Dict[str, Any], config: Dict[str, Any]) -> List[str]:
+        from config import settings
+
         if not self.is_enabled(config):
             return []
 
@@ -305,6 +309,20 @@ class ScoringRenderer(BaseModuleRenderer):
 
         if show_details:
             detail_lines = []
+
+            if score_resp.domain_scores:
+                domain_rows = []
+                for domain_id, score in score_resp.domain_scores.items():
+                    domain = settings.DOMAIN_KEYWORD_GROUPS.get(domain_id, {})
+                    label_text = domain.get("label", domain_id)
+                    status = "命中" if domain_id == score_resp.matched_domain else ""
+                    domain_rows.append((label_text, f"{score:.1f}/10", status))
+                detail_lines.extend(
+                    self.format_helper.format_as_table(
+                        domain_rows, ["研究领域", "相关度", "判定"]
+                    )
+                )
+                detail_lines.append("")
 
             if fmt == "table":
                 # 表格格式

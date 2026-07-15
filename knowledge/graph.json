@@ -1191,6 +1191,106 @@
     "repec:RePEc:bfr:banfra:1051": {
       "title": "Les effets macroéconomiques de l’encadrement de l’endettement des ménages : une approche mésoéconométrique",
       "paper_id": "repec:RePEc:bfr:banfra:1051"
+    },
+    "2607.13002v1": {
+      "title": "Shared Bidding Algorithms and Competition: Evidence from Electricity Markets",
+      "paper_id": "2607.13002v1"
+    },
+    "2607.12414v1": {
+      "title": "Beyond Consistent Scenarios: Deriving Indirect Influence, Transition Resistance, and Adjustment Dynamics",
+      "paper_id": "2607.12414v1"
+    },
+    "2607.12345v1": {
+      "title": "Forecasting Inflation with Microdata: An Adaptive Machine Learning Approach",
+      "paper_id": "2607.12345v1"
+    },
+    "2607.11935v1": {
+      "title": "Eigenvector rotation precedes eigenvalue-based early-warning signals: a TVP-Kalman approach to detecting critical transitions",
+      "paper_id": "2607.11935v1"
+    },
+    "2607.12629v1": {
+      "title": "Bivariate Isotonic Regression by Dynamic Programming",
+      "paper_id": "2607.12629v1"
+    },
+    "2607.12622v1": {
+      "title": "Orthogonal Integrated Conditional Moment Tests for Treatment Effect Heterogeneity",
+      "paper_id": "2607.12622v1"
+    },
+    "2607.12568v1": {
+      "title": "Interpreting (and testing) factor loadings",
+      "paper_id": "2607.12568v1"
+    },
+    "2607.12299v1": {
+      "title": "Q-SCM: A Quantum-Sequential Choice Model for Driver Mental State Evolution",
+      "paper_id": "2607.12299v1"
+    },
+    "2607.12219v1": {
+      "title": "Partial Identification with Multiple Nonlinear Measurements of a Latent Regressor",
+      "paper_id": "2607.12219v1"
+    },
+    "2607.11983v1": {
+      "title": "Removable Defects: The Economics and Limits of Deliberate Deficiency",
+      "paper_id": "2607.11983v1"
+    },
+    "2607.11961v1": {
+      "title": "KRAFT: A Transaction-Level Dataset for Korean Apartment Sales Integrated with Contextual Indicators",
+      "paper_id": "2607.11961v1"
+    },
+    "2607.11922v1": {
+      "title": "Modeling the Dynamic Relationship Between Brent Crude Oil Prices and the Nepal Stock Exchange: An Integrated Econometric and Explainable Machine Learning Approach",
+      "paper_id": "2607.11922v1"
+    },
+    "2607.12615v1": {
+      "title": "The Limits of Price Discrimination with a Bayesian Seller",
+      "paper_id": "2607.12615v1"
+    },
+    "2607.12371v1": {
+      "title": "First They Came for the Others: A Theory of Divide-and-Conquer",
+      "paper_id": "2607.12371v1"
+    },
+    "2607.12412v1": {
+      "title": "Choice at Finite Capacity: The Bounded Agent as an Information Channel and the Recovery of Walrasian Demand",
+      "paper_id": "2607.12412v1"
+    },
+    "2607.12205v1": {
+      "title": "A Unified Credit Expansion Theory on Housing Cycle: Causal Evidence for Within- and Cross-Metro Patterns in the Prior, Boom, Bust, and Recovery Periods",
+      "paper_id": "2607.12205v1"
+    },
+    "W4403531536": {
+      "title": "Anchoring of inflation expectations and the role of monetary policy and cost‐push factors",
+      "paper_id": "https://doi.org/10.1111/sjoe.70039"
+    },
+    "W7168159562": {
+      "title": "Market Structure, Conduct, and Performance of Indonesian Banking Industry",
+      "paper_id": "https://doi.org/10.14414//jbb.v15i02.5591"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp31~0e62e3849a.en.pdf": {
+      "title": "Geoeconomics and trade",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp31~0e62e3849a.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3254~34fda3bdcc.en.pdf": {
+      "title": "Tariffs, production networks, and spillovers: the case of a US-China trade war",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3254~34fda3bdcc.en.pdf"
+    },
+    "repec:RePEc:zbw:bubdps:341100": {
+      "title": "Geopolitical risk in the euro area: Measurement and transmission",
+      "paper_id": "repec:RePEc:zbw:bubdps:341100"
+    },
+    "repec:RePEc:zbw:bubdps:341099": {
+      "title": "When wording changes what we find: The impact of inflation expectations on spending",
+      "paper_id": "repec:RePEc:zbw:bubdps:341099"
+    },
+    "repec:RePEc:bfr:banfra:1047": {
+      "title": "The Impact of Floods on Firm Performance and Relocation",
+      "paper_id": "repec:RePEc:bfr:banfra:1047"
+    },
+    "repec:RePEc:bfr:banfra:1048": {
+      "title": "The Credit Channel of Acute vs Chronic Climate Change-Related Risk",
+      "paper_id": "repec:RePEc:bfr:banfra:1048"
+    },
+    "W7167636118": {
+      "title": "Impact of monetary policy on bank liquidity creation: Economic policy uncertainty channel",
+      "paper_id": "https://doi.org/10.1057/s41261-026-00340-2"
     }
   },
   "edges": [
@@ -23838,6 +23938,231 @@
       "from": "W1965770201",
       "to": "W3121222132",
       "type": "related"
+    },
+    {
+      "from": "W4403531536",
+      "to": "W2767177089",
+      "type": "related"
+    },
+    {
+      "from": "W4403531536",
+      "to": "W3124412586",
+      "type": "related"
+    },
+    {
+      "from": "W4403531536",
+      "to": "W3121989749",
+      "type": "related"
+    },
+    {
+      "from": "W4403531536",
+      "to": "W2108954098",
+      "type": "related"
+    },
+    {
+      "from": "W4403531536",
+      "to": "W3121133239",
+      "type": "related"
+    },
+    {
+      "from": "W4403531536",
+      "to": "W3021583619",
+      "type": "related"
+    },
+    {
+      "from": "W4403531536",
+      "to": "W2163551014",
+      "type": "related"
+    },
+    {
+      "from": "W4403531536",
+      "to": "W3168562685",
+      "type": "related"
+    },
+    {
+      "from": "W4403531536",
+      "to": "W3123338875",
+      "type": "related"
+    },
+    {
+      "from": "W4403531536",
+      "to": "W3023012265",
+      "type": "related"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W1963772190",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W1972338270",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W1990176981",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2024173182",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2024539880",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2024889806",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2025610165",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2071159757",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2097580026",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2110756643",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2134443358",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2144836007",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2157509893",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2168707962",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2326846768",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2754739319",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2765783119",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2964460132",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W2984282905",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W3021731726",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W3121735948",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W3121935849",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W3122861456",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W3123898423",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W3124364252",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W3124417970",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W3124914565",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W3126081245",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W3136080025",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W4213028157",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W4285137812",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W4386979926",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W4400503489",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W4401336627",
+      "type": "cites"
+    },
+    {
+      "from": "W7167636118",
+      "to": "W4401390054",
+      "type": "cites"
     }
   ]
 }

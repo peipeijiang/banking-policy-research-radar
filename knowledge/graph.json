@@ -880,10 +880,6 @@
       "title": "Fair Division with Binary Valuations: Characterizations",
       "paper_id": "2607.10064v1"
     },
-    "2607.11328v1": {
-      "title": "Strategic OTC market making with reputation feedback",
-      "paper_id": "2607.11328v1"
-    },
     "2607.10810v1": {
       "title": "Diachronic Sample Integration: Robust Tail-Risk Estimation with Generative Models",
       "paper_id": "2607.10810v1"
@@ -1192,10 +1188,6 @@
       "title": "Les effets macroéconomiques de l’encadrement de l’endettement des ménages : une approche mésoéconométrique",
       "paper_id": "repec:RePEc:bfr:banfra:1051"
     },
-    "2607.13002v1": {
-      "title": "Shared Bidding Algorithms and Competition: Evidence from Electricity Markets",
-      "paper_id": "2607.13002v1"
-    },
     "2607.12414v1": {
       "title": "Beyond Consistent Scenarios: Deriving Indirect Influence, Transition Resistance, and Adjustment Dynamics",
       "paper_id": "2607.12414v1"
@@ -1227,10 +1219,6 @@
     "2607.12219v1": {
       "title": "Partial Identification with Multiple Nonlinear Measurements of a Latent Regressor",
       "paper_id": "2607.12219v1"
-    },
-    "2607.11983v1": {
-      "title": "Removable Defects: The Economics and Limits of Deliberate Deficiency",
-      "paper_id": "2607.11983v1"
     },
     "2607.11961v1": {
       "title": "KRAFT: A Transaction-Level Dataset for Korean Apartment Sales Integrated with Contextual Indicators",
@@ -1291,6 +1279,106 @@
     "W7167636118": {
       "title": "Impact of monetary policy on bank liquidity creation: Economic policy uncertainty channel",
       "paper_id": "https://doi.org/10.1057/s41261-026-00340-2"
+    },
+    "2607.13607v1": {
+      "title": "Equilibrium stability as a driver of cooperation among Q-learners",
+      "paper_id": "2607.13607v1"
+    },
+    "2607.13844v1": {
+      "title": "Messy Research, Certification and the Monetization of Science",
+      "paper_id": "2607.13844v1"
+    },
+    "2607.13526v1": {
+      "title": "Mapping Diplomatic Representation in Europe, 1648-1715",
+      "paper_id": "2607.13526v1"
+    },
+    "2607.13002v2": {
+      "title": "Shared Bidding Algorithms and Competition: Evidence from Electricity Markets",
+      "paper_id": "2607.13002v2"
+    },
+    "2607.13916v1": {
+      "title": "Detecting unusual trading patterns on cryptocurrency exchanges by means of complexity measures",
+      "paper_id": "2607.13916v1"
+    },
+    "2607.13879v1": {
+      "title": "Global factors for local shocks in a data-scarce environment: with an application to regional fiscal multipliers in Italy",
+      "paper_id": "2607.13879v1"
+    },
+    "2607.13862v1": {
+      "title": "Estimation and Inference for Latent Dual Networks Using High-Dimensional IV Screening",
+      "paper_id": "2607.13862v1"
+    },
+    "2607.13759v1": {
+      "title": "Time preference effects in forecasting",
+      "paper_id": "2607.13759v1"
+    },
+    "2607.13564v1": {
+      "title": "Manipulation testing based on Benford's Law for discrete scores",
+      "paper_id": "2607.13564v1"
+    },
+    "2607.13314v1": {
+      "title": "Tabular Foundation Models for Discrete Choice Estimation",
+      "paper_id": "2607.13314v1"
+    },
+    "2607.13974v1": {
+      "title": "Revealed Attentional Interference",
+      "paper_id": "2607.13974v1"
+    },
+    "2607.11983v2": {
+      "title": "Removable Defects: The Economics and Limits of Deliberate Deficiency",
+      "paper_id": "2607.11983v2"
+    },
+    "2607.13670v1": {
+      "title": "Equilibrium Information Aggregation under Machine Learning",
+      "paper_id": "2607.13670v1"
+    },
+    "2607.13112v1": {
+      "title": "Anchored Geodesic Analysis for Multivariate Extremes",
+      "paper_id": "2607.13112v1"
+    },
+    "2607.11328v2": {
+      "title": "Strategic OTC market making with reputation feedback",
+      "paper_id": "2607.11328v2"
+    },
+    "2607.13968v1": {
+      "title": "Measuring Sentiment News with Transformer-Based Language Models",
+      "paper_id": "2607.13968v1"
+    },
+    "W7168129738": {
+      "title": "ECOSYSTEM-SPECIFIC MACROECONOMIC DYNAMICS OF ETHEREUM, BUILD AND BUILD, AND SOLANA IN INDONESIA",
+      "paper_id": "https://doi.org/10.24034/j25485024.y2026.v10.i1.7669"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3256~2bf448ead2.en.pdf": {
+      "title": "The changing geography of banking in CESEE. Branch closures outpace openings",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3256~2bf448ead2.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3255~7622aab746.en.pdf": {
+      "title": "Bank deposit pricing in the euro area",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3255~7622aab746.en.pdf"
+    },
+    "repec:RePEc:fip:fedlwp:103525": {
+      "title": "Geopolitical Distance and Targeted Trade: Evidence from Product-Level Export Controls",
+      "paper_id": "repec:RePEc:fip:fedlwp:103525"
+    },
+    "repec:RePEc:zbw:bubdps:340011": {
+      "title": "Geopolitical hybrid threats",
+      "paper_id": "repec:RePEc:zbw:bubdps:340011"
+    },
+    "repec:RePEc:zbw:bubdps:340012": {
+      "title": "How CCyBs travel – Internal capital markets & domestic borrowing",
+      "paper_id": "repec:RePEc:zbw:bubdps:340012"
+    },
+    "repec:RePEc:bfr:banfra:1046": {
+      "title": "On the Nature of Things: Designing Macroeconomic Scenarios of Nature-related risks for France",
+      "paper_id": "repec:RePEc:bfr:banfra:1046"
+    },
+    "repec:RePEc:bfr:banfra:1044": {
+      "title": "Re-estimated FR-BDF: New Features and an Assessment of Monetary Policy Tightening in France",
+      "paper_id": "repec:RePEc:bfr:banfra:1044"
+    },
+    "W7168173039": {
+      "title": "The impact of green lending on credit risk in Nepalese commercial banks",
+      "paper_id": "https://doi.org/10.1080/23311975.2026.2698753"
     }
   },
   "edges": [
@@ -24162,6 +24250,336 @@
     {
       "from": "W7167636118",
       "to": "W4401390054",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W129305155",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W1235160050",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W1517059950",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W1520529735",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W1965932263",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2020295374",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2024539880",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2046891351",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2067402622",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2108089027",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2111572992",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2112352537",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2123735241",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2150059822",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2160184254",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2171899379",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2223562046",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2259853171",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2482974280",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2547261810",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2557886108",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2561604936",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2573616078",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2774163887",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2790053918",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2804677512",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2808161882",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2896593619",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2898841243",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2901703855",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2917270694",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W2959922392",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W3003708407",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W3010444302",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W3026173563",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W3081717886",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W3122861456",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W3123282572",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W3124188010",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W3125250305",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W3126069388",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W3147694226",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W3167730443",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W3172033994",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4205584004",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4206608222",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4206962518",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4225984864",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4229977739",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4238081281",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4241352310",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4243164716",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4294612407",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4296311473",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4307442089",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4317568846",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4396749921",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4399263339",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4403947119",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4407279584",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4407557219",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4408243334",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4410044234",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4410552354",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W4411178099",
+      "type": "cites"
+    },
+    {
+      "from": "W7168173039",
+      "to": "W6906581752",
       "type": "cites"
     }
   ]

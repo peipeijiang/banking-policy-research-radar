@@ -1379,6 +1379,102 @@
     "W7168173039": {
       "title": "The impact of green lending on credit risk in Nepalese commercial banks",
       "paper_id": "https://doi.org/10.1080/23311975.2026.2698753"
+    },
+    "2607.15168v1": {
+      "title": "Indirect Variational Inference: Applications to Earnings Dynamics",
+      "paper_id": "2607.15168v1"
+    },
+    "2607.15134v1": {
+      "title": "Platform Choice, Trust, and Privacy in the Consumer AI Assistant Market",
+      "paper_id": "2607.15134v1"
+    },
+    "2607.15119v1": {
+      "title": "Thermodynamic theory of voting and EU elections",
+      "paper_id": "2607.15119v1"
+    },
+    "2607.14713v1": {
+      "title": "Does Multi-Agent Debate Improve AI Feedback on Research Papers?",
+      "paper_id": "2607.14713v1"
+    },
+    "2607.14585v1": {
+      "title": "Governing Artificial Intelligence: Public Preferences and Regulatory Options",
+      "paper_id": "2607.14585v1"
+    },
+    "2607.14446v1": {
+      "title": "Which Green Technology to Subsidize? Evidence from Electric Vehicles in South Korea",
+      "paper_id": "2607.14446v1"
+    },
+    "2607.14418v1": {
+      "title": "Adaptive Ad Load Design for Sponsored Search Markets: Evidence, Theory, and Deployment",
+      "paper_id": "2607.14418v1"
+    },
+    "2607.14825v1": {
+      "title": "Aggregation Bias in Proxy Measurement: Nighttime Lights and Local Economic Activity",
+      "paper_id": "2607.14825v1"
+    },
+    "2607.14414v1": {
+      "title": "Probability of worthwhile effect of monotone-response treatments",
+      "paper_id": "2607.14414v1"
+    },
+    "2607.14279v1": {
+      "title": "From Vector Autoregressions to AI-based Time Series Forecasting: A Review",
+      "paper_id": "2607.14279v1"
+    },
+    "2607.14274v1": {
+      "title": "Model Uncertainty under Non-Gaussian Errors: Bayesian Model Averaging and Selection in Stochastic Frontier Models",
+      "paper_id": "2607.14274v1"
+    },
+    "2607.14914v1": {
+      "title": "Stochastic ultimatum game: Spite-driven resource feedback fosters fairness",
+      "paper_id": "2607.14914v1"
+    },
+    "2607.14371v1": {
+      "title": "Supervised Fine-Tuning vs. In-Context Learning: An Equilibrium Analysis of LLM Personalization under Congestion",
+      "paper_id": "2607.14371v1"
+    },
+    "2607.14357v1": {
+      "title": "When Is Delegated Play Truthful? Within-Range Regret and the Trilemma of Aligned Delegation",
+      "paper_id": "2607.14357v1"
+    },
+    "2607.14373v1": {
+      "title": "A Noise-Robust Elicit-to-Optimize Framework for Distortion Riskmetrics via Inverse Reinforcement Learning",
+      "paper_id": "2607.14373v1"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/ifdp/hidden-leverage-in-nonfinancial-corporations.htm": {
+      "title": "IFDP Paper: Hidden Leverage in Nonfinancial Corporations",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/ifdp/hidden-leverage-in-nonfinancial-corporations.htm"
+    },
+    "repec:RePEc:oec:ecoaaa:1874-en": {
+      "title": "Assessing the gains from moving along the global value chain: Evidence from Costa Rica’s electronics sector",
+      "paper_id": "repec:RePEc:oec:ecoaaa:1874-en"
+    },
+    "repec:RePEc:ces:ceswps:_12834": {
+      "title": "Transport Mode and the Geography of Exchange Rate Pass-Through",
+      "paper_id": "repec:RePEc:ces:ceswps:_12834"
+    },
+    "repec:RePEc:ces:ceswps:_12835": {
+      "title": "Divergent Perceptions, Divergent Pay: Inflation and the Gender Wage Gap",
+      "paper_id": "repec:RePEc:ces:ceswps:_12835"
+    },
+    "repec:RePEc:fip:fedpwp:103530": {
+      "title": "The Dynamics of Ample Reserves",
+      "paper_id": "repec:RePEc:fip:fedpwp:103530"
+    },
+    "repec:RePEc:zbw:bubdps:340010": {
+      "title": "America first? The macroeconomic implications of punitive tariffs in a production network model",
+      "paper_id": "repec:RePEc:zbw:bubdps:340010"
+    },
+    "repec:RePEc:zbw:bubdps:339998": {
+      "title": "Monetary policy, fragility, and fund flows",
+      "paper_id": "repec:RePEc:zbw:bubdps:339998"
+    },
+    "repec:RePEc:bfr:banfra:1043": {
+      "title": "Beyond Borders, Within Societies: Inequality and the Global Transmission of US Monetary Policy",
+      "paper_id": "repec:RePEc:bfr:banfra:1043"
+    },
+    "repec:RePEc:bfr:banfra:1042": {
+      "title": "Sanctions Effectiveness, Development and Regime Type. Are Aid Suspensions and Economic Sanctions Alike?",
+      "paper_id": "repec:RePEc:bfr:banfra:1042"
     }
   },
   "edges": [

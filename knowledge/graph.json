@@ -1475,6 +1475,34 @@
     "repec:RePEc:bfr:banfra:1042": {
       "title": "Sanctions Effectiveness, Development and Regime Type. Are Aid Suspensions and Economic Sanctions Alike?",
       "paper_id": "repec:RePEc:bfr:banfra:1042"
+    },
+    "W7168969308": {
+      "title": "FROM TRADITIONAL BANKING TO FINTECH ECOSYSTEMS: PERFORMANCE IMPLICATIONS",
+      "paper_id": "https://doi.org/10.5281/zenodo.21387574"
+    },
+    "W7169177126": {
+      "title": "Scenario-Based Risk and Control Formulation for Electronic Banking Channels ATM and EDC in Indonesian Commercial Banks",
+      "paper_id": "https://doi.org/10.59261/jequi.v8i3.353"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/the-last-taxi-lcr-buffers-and-bank-liquidity-provision.htm": {
+      "title": "FEDS Paper: The Last Taxi: LCR Buffers and Bank Liquidity Provision",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/the-last-taxi-lcr-buffers-and-bank-liquidity-provision.htm"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/ifdp/transmission-growth-at-risk-how-foreign-financial-vulnerabilities-shape-u-s-growth-prospects.htm": {
+      "title": "IFDP Paper: Transmission Growth-at-Risk: How Foreign Financial Vulnerabilities Shape U.S. Growth Prospects",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/ifdp/transmission-growth-at-risk-how-foreign-financial-vulnerabilities-shape-u-s-growth-prospects.htm"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/demand-shocks-and-endogenous-uncertainty.htm": {
+      "title": "FEDS Paper: Demand Shocks and Endogenous Uncertainty",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/demand-shocks-and-endogenous-uncertainty.htm"
+    },
+    "repec:RePEc:ces:ceswps:_12833": {
+      "title": "Do Microenterprises Maximize Profits? A Nonrandomized Vegetable-Market Experiment in India",
+      "paper_id": "repec:RePEc:ces:ceswps:_12833"
+    },
+    "repec:RePEc:ces:ceswps:_12832": {
+      "title": "Sovereign Ratings and Risk Pricing, Agency Divergences in the European Union",
+      "paper_id": "repec:RePEc:ces:ceswps:_12832"
     }
   },
   "edges": [

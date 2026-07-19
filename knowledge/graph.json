@@ -1476,10 +1476,6 @@
       "title": "Sanctions Effectiveness, Development and Regime Type. Are Aid Suspensions and Economic Sanctions Alike?",
       "paper_id": "repec:RePEc:bfr:banfra:1042"
     },
-    "W7168969308": {
-      "title": "FROM TRADITIONAL BANKING TO FINTECH ECOSYSTEMS: PERFORMANCE IMPLICATIONS",
-      "paper_id": "https://doi.org/10.5281/zenodo.21387574"
-    },
     "W7169177126": {
       "title": "Scenario-Based Risk and Control Formulation for Electronic Banking Channels ATM and EDC in Indonesian Commercial Banks",
       "paper_id": "https://doi.org/10.59261/jequi.v8i3.353"
@@ -1503,6 +1499,30 @@
     "repec:RePEc:ces:ceswps:_12832": {
       "title": "Sovereign Ratings and Risk Pricing, Agency Divergences in the European Union",
       "paper_id": "repec:RePEc:ces:ceswps:_12832"
+    },
+    "W7168933917": {
+      "title": "FROM TRADITIONAL BANKING TO FINTECH ECOSYSTEMS: PERFORMANCE IMPLICATIONS",
+      "paper_id": "https://doi.org/10.5281/zenodo.21387575"
+    },
+    "W7168895037": {
+      "title": "Reframing Sustainable Development in Emerging Economies: An Integrated Analysis of Financial Capability, Inclusive Finance, and Social Connectedness in Nepal’s Banking Ecosystem",
+      "paper_id": "https://doi.org/10.3126/djis.v8i1.97222"
+    },
+    "W7169124901": {
+      "title": "A Meta-Analysis of the Economic Effects of Global Oil Price Shocks on the Philippine Economy",
+      "paper_id": "https://doi.org/10.33774/coe-2026-x3mt9"
+    },
+    "repec:RePEc:ces:ceswps:_12830": {
+      "title": "Taxing Wealth Unlocks Capital Gains: An Efficiency Rationale for Wealth Taxes",
+      "paper_id": "repec:RePEc:ces:ceswps:_12830"
+    },
+    "repec:RePEc:ces:ceswps:_12831": {
+      "title": "Local Opioid Exposure and Corporate Debt Structure",
+      "paper_id": "repec:RePEc:ces:ceswps:_12831"
+    },
+    "repec:RePEc:fip:fedfwp:103550": {
+      "title": "Prices and Monetary Policy: The Role of Financial Constraints",
+      "paper_id": "repec:RePEc:fip:fedfwp:103550"
     }
   },
   "edges": [

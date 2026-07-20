@@ -1523,6 +1523,50 @@
     "repec:RePEc:fip:fedfwp:103550": {
       "title": "Prices and Monetary Policy: The Role of Financial Constraints",
       "paper_id": "repec:RePEc:fip:fedfwp:103550"
+    },
+    "2607.15385v1": {
+      "title": "Algorithmic Intermediation and the International Transmission of U.S. Monetary Policy",
+      "paper_id": "2607.15385v1"
+    },
+    "2607.15506v1": {
+      "title": "Helping People Choose Careers in the Age of AI",
+      "paper_id": "2607.15506v1"
+    },
+    "2607.15381v1": {
+      "title": "Cheaper AI, More Informality? A Dual Labor Market Model for Developing Economies",
+      "paper_id": "2607.15381v1"
+    },
+    "2607.15363v1": {
+      "title": "Households with insufficient liquid assets: Consumption responses to income changes",
+      "paper_id": "2607.15363v1"
+    },
+    "2607.15382v1": {
+      "title": "mnorm: An R Package for Calculation and Differentiation of Conditional Multivariate Normal Densities and Probabilities",
+      "paper_id": "2607.15382v1"
+    },
+    "2607.15790v1": {
+      "title": "On the (Non-)Uniqueness of Random Non-Expected Utility",
+      "paper_id": "2607.15790v1"
+    },
+    "2607.15452v1": {
+      "title": "All Games Have Equilibria",
+      "paper_id": "2607.15452v1"
+    },
+    "2607.15317v1": {
+      "title": "Asymptotic fractional-order stochastic dominance with bounded relative risk aversion",
+      "paper_id": "2607.15317v1"
+    },
+    "W7169626493": {
+      "title": "Mortgage lending and the impact of financial volatility on the economy of Kazakhstan",
+      "paper_id": "https://doi.org/10.46914/1562-2959-2026-1-2-442-458"
+    },
+    "repec:RePEc:ces:ceswps:_12829": {
+      "title": "Machine Learning and Liquidity Dynamics in European Stock Markets",
+      "paper_id": "repec:RePEc:ces:ceswps:_12829"
+    },
+    "repec:RePEc:ces:ceswps:_12828": {
+      "title": "Environmental Taxation and Financial Frictions in Green Lending",
+      "paper_id": "repec:RePEc:ces:ceswps:_12828"
     }
   },
   "edges": [
@@ -24724,6 +24768,41 @@
     {
       "from": "W7168173039",
       "to": "W6906581752",
+      "type": "cites"
+    },
+    {
+      "from": "W7169626493",
+      "to": "W1985651093",
+      "type": "cites"
+    },
+    {
+      "from": "W7169626493",
+      "to": "W2963643995",
+      "type": "cites"
+    },
+    {
+      "from": "W7169626493",
+      "to": "W3160344176",
+      "type": "cites"
+    },
+    {
+      "from": "W7169626493",
+      "to": "W3167074810",
+      "type": "cites"
+    },
+    {
+      "from": "W7169626493",
+      "to": "W4225980158",
+      "type": "cites"
+    },
+    {
+      "from": "W7169626493",
+      "to": "W4297563753",
+      "type": "cites"
+    },
+    {
+      "from": "W7169626493",
+      "to": "W4387542084",
       "type": "cites"
     }
   ]

@@ -1567,6 +1567,126 @@
     "repec:RePEc:ces:ceswps:_12828": {
       "title": "Environmental Taxation and Financial Frictions in Green Lending",
       "paper_id": "repec:RePEc:ces:ceswps:_12828"
+    },
+    "2607.17649v1": {
+      "title": "Ageing in which place? Spatial analytical framework for evaluating ageing-in-place practices",
+      "paper_id": "2607.17649v1"
+    },
+    "2607.17827v1": {
+      "title": "A Gate-and-Menu Theory of Collective Tourism Brand Value",
+      "paper_id": "2607.17827v1"
+    },
+    "2607.17640v1": {
+      "title": "A Digital Twin-Based Method for Evaluating Local Collective Tariffs in Distribution-Level Energy Systems",
+      "paper_id": "2607.17640v1"
+    },
+    "2607.17633v1": {
+      "title": "Social Integration and Housing Behaviours of Immigrants: Evidence from Singapore's Public Housing Market",
+      "paper_id": "2607.17633v1"
+    },
+    "2607.17073v1": {
+      "title": "Faithful Decoding",
+      "paper_id": "2607.17073v1"
+    },
+    "2607.16622v1": {
+      "title": "Proof-of-Stake Dynamics: The Elusive Price Anchor and Endogenous Volatility Harvesting",
+      "paper_id": "2607.16622v1"
+    },
+    "2607.18225v1": {
+      "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
+      "paper_id": "2607.18225v1"
+    },
+    "2607.17926v1": {
+      "title": "Engineering Social Networks: How Initial Group Assignment Shapes Student Social Interactions",
+      "paper_id": "2607.17926v1"
+    },
+    "2607.17478v1": {
+      "title": "Identification and Inference with Machine-Learned Instruments",
+      "paper_id": "2607.17478v1"
+    },
+    "2607.17451v1": {
+      "title": "A Variance-Based Test for Heterogeneous Treatment Effects",
+      "paper_id": "2607.17451v1"
+    },
+    "2607.17378v1": {
+      "title": "Econometrics with Pre-Trained Embeddings for Unstructured Data",
+      "paper_id": "2607.17378v1"
+    },
+    "2607.17275v1": {
+      "title": "Two Gaussians, Too Many: A bootstrap-based approach to assess identifiability in non-Gaussian structural Vector Autoregressions",
+      "paper_id": "2607.17275v1"
+    },
+    "2607.16991v1": {
+      "title": "Compositional Synthetic Controls",
+      "paper_id": "2607.16991v1"
+    },
+    "2607.16982v1": {
+      "title": "When and How to Pilot: Design Rules for Two-Wave Experiments",
+      "paper_id": "2607.16982v1"
+    },
+    "2607.16605v1": {
+      "title": "Kernel Minimum Distance Estimation and Testing with Conditional Moment Restrictions: A Unified Framework",
+      "paper_id": "2607.16605v1"
+    },
+    "2607.18139v1": {
+      "title": "1-out-of-5 Maximin-Share Allocations Always Exist for Four Agents",
+      "paper_id": "2607.18139v1"
+    },
+    "2607.17968v1": {
+      "title": "Equilibrium Play Without Mutual Knowledge of Rationality",
+      "paper_id": "2607.17968v1"
+    },
+    "2607.17741v1": {
+      "title": "Observable Consequences of Mental Accounting",
+      "paper_id": "2607.17741v1"
+    },
+    "2607.16952v1": {
+      "title": "Belief Identification in Populations",
+      "paper_id": "2607.16952v1"
+    },
+    "2607.17316v1": {
+      "title": "Rationalizing Boltzmann Rationality: An Axiomatic Characterization of Entropy-Regularized Policies",
+      "paper_id": "2607.17316v1"
+    },
+    "2607.16640v1": {
+      "title": "Organization Design for Complex Worlds",
+      "paper_id": "2607.16640v1"
+    },
+    "2607.16343v1": {
+      "title": "When Pricing Agents Meet Buying Agents: Personalized Pricing and Verifiable Trust",
+      "paper_id": "2607.16343v1"
+    },
+    "2607.17381v1": {
+      "title": "Determining Insolvency Regions in Banks: A Stochastic Dynamic Approach Integrating Liquidity and Credit Risk",
+      "paper_id": "2607.17381v1"
+    },
+    "2607.16935v1": {
+      "title": "Robust Control for Marked Point Processes under Transition-Rate Uncertainty",
+      "paper_id": "2607.16935v1"
+    },
+    "2607.16601v1": {
+      "title": "The conditional higher moment risk measure: second-order asymptotics with FGM contagion",
+      "paper_id": "2607.16601v1"
+    },
+    "2607.16801v1": {
+      "title": "A Practical Guide to Simulating Correlated Binary Outcomes",
+      "paper_id": "2607.16801v1"
+    },
+    "W7169653254": {
+      "title": "Credit Risk Identification and Loan Portfolio Quality in Uganda’s Commercial Banking Sector: The Moderating Effect of Adverse Selection",
+      "paper_id": "https://doi.org/10.37284/ijfa.5.1.5372"
+    },
+    "worldbank:40117841": {
+      "title": "Cheap Energy Might Not Be Enough : A Trade Model of AI Compute Services",
+      "paper_id": "worldbank:40117841"
+    },
+    "worldbank:40117877": {
+      "title": "Stanley Fischer Memorial Lecture : Public Debt and Central Banks — The World Bank Group ABCDE Conference\n",
+      "paper_id": "worldbank:40117877"
+    },
+    "worldbank:40117861": {
+      "title": "Regularization and the Formation of Social Capital : Evidence from Forced Migrants in Colombia",
+      "paper_id": "worldbank:40117861"
     }
   },
   "edges": [

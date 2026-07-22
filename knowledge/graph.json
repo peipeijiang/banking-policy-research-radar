@@ -1687,6 +1687,62 @@
     "worldbank:40117861": {
       "title": "Regularization and the Formation of Social Capital : Evidence from Forced Migrants in Colombia",
       "paper_id": "worldbank:40117861"
+    },
+    "2607.18795v1": {
+      "title": "Measuring AI innovation with trademark data",
+      "paper_id": "2607.18795v1"
+    },
+    "2607.18677v1": {
+      "title": "The Price of Quietness: How a Pandemic Affects City Dwellers' Response to Road Traffic Noise",
+      "paper_id": "2607.18677v1"
+    },
+    "2607.18676v1": {
+      "title": "Noise Pollution and Household Sustainability: An Economic Approach",
+      "paper_id": "2607.18676v1"
+    },
+    "2607.18623v1": {
+      "title": "Dead Reckoning: Counting Your Customers Who Never Say Goodbye",
+      "paper_id": "2607.18623v1"
+    },
+    "2607.18866v1": {
+      "title": "Optimizing Regret",
+      "paper_id": "2607.18866v1"
+    },
+    "2607.18601v1": {
+      "title": "Robust Signal Maximization in Spillover Experiments",
+      "paper_id": "2607.18601v1"
+    },
+    "2607.19140v1": {
+      "title": "Market tallies: minimal information for efficient trade",
+      "paper_id": "2607.19140v1"
+    },
+    "2607.19014v1": {
+      "title": "A Coordination Theory of NHS Whistleblowing Failure",
+      "paper_id": "2607.19014v1"
+    },
+    "2607.18735v1": {
+      "title": "Curriculum design in the age of AI",
+      "paper_id": "2607.18735v1"
+    },
+    "2607.18815v1": {
+      "title": "Cloud failure and cyber insurance: calibration of stress scenarios and diversification",
+      "paper_id": "2607.18815v1"
+    },
+    "2607.18509v1": {
+      "title": "When Trade Produces Knowledge: Dynamic Pricing, Bilateral Learning, and Trust",
+      "paper_id": "2607.18509v1"
+    },
+    "2607.18616v1": {
+      "title": "Prediction of bank transaction fraud using TabNet an adaptive deep learning architecture",
+      "paper_id": "2607.18616v1"
+    },
+    "2607.19005v1": {
+      "title": "Observable Matrix Dynamics of Stocks",
+      "paper_id": "2607.19005v1"
+    },
+    "W7169800148": {
+      "title": "CB-SentiLex: An Auditable Weak-Supervision Framework for Central Bank Stance Detection with a Bangladesh Bank Benchmark",
+      "paper_id": "https://doi.org/10.21203/rs.3.rs-10346609/v1"
     }
   },
   "edges": [

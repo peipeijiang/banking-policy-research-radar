@@ -1736,13 +1736,81 @@
       "title": "Prediction of bank transaction fraud using TabNet an adaptive deep learning architecture",
       "paper_id": "2607.18616v1"
     },
-    "2607.19005v1": {
-      "title": "Observable Matrix Dynamics of Stocks",
-      "paper_id": "2607.19005v1"
-    },
     "W7169800148": {
       "title": "CB-SentiLex: An Auditable Weak-Supervision Framework for Central Bank Stance Detection with a Bangladesh Bank Benchmark",
       "paper_id": "https://doi.org/10.21203/rs.3.rs-10346609/v1"
+    },
+    "2607.20365v1": {
+      "title": "Licensing and Innovation Regimes in Pharmaceutical R&D",
+      "paper_id": "2607.20365v1"
+    },
+    "2607.20068v1": {
+      "title": "Catastrophic disruption cascades driven by the nonlinearity of systemic risk",
+      "paper_id": "2607.20068v1"
+    },
+    "2607.19929v1": {
+      "title": "Bounded Attention and Attenuated Elasticities",
+      "paper_id": "2607.19929v1"
+    },
+    "2607.19562v1": {
+      "title": "The Direct and Indirect Effects of Genetics and Education",
+      "paper_id": "2607.19562v1"
+    },
+    "2607.20156v1": {
+      "title": "Identifying Treatment and Spillover Effects with Control-Based and Forecast-Based Counterfactuals",
+      "paper_id": "2607.20156v1"
+    },
+    "2607.19925v1": {
+      "title": "Efficient difference-in-differences estimation under partial interference with incremental propensity score policies",
+      "paper_id": "2607.19925v1"
+    },
+    "2607.19908v1": {
+      "title": "Treatment Geometry and Causal Identification with Earth Observation Data",
+      "paper_id": "2607.19908v1"
+    },
+    "2607.19644v1": {
+      "title": "A Fixed-Effects Causal Forest for Staggered Adoption, with an Application to Medicaid Expansion",
+      "paper_id": "2607.19644v1"
+    },
+    "2607.19625v1": {
+      "title": "Estimating Network Spillovers under Dense Measurement Error",
+      "paper_id": "2607.19625v1"
+    },
+    "2607.19558v1": {
+      "title": "Profiling and Endogenous Valuation",
+      "paper_id": "2607.19558v1"
+    },
+    "2607.19422v1": {
+      "title": "Aggregate models of liquidity-profit dynamics",
+      "paper_id": "2607.19422v1"
+    },
+    "2607.20343v1": {
+      "title": "Model Risk via Signature-Induced Optimal Transport",
+      "paper_id": "2607.20343v1"
+    },
+    "2607.20093v1": {
+      "title": "Retail Trader's Ruin: An Anatomy of Popular Signal Failure",
+      "paper_id": "2607.20093v1"
+    },
+    "2607.19005v2": {
+      "title": "Observable Matrix Dynamics of Stocks",
+      "paper_id": "2607.19005v2"
+    },
+    "W7169849114": {
+      "title": "Credit Risk Assessment and Loan Portfolio Quality in Uganda’s Commercial Banking Sector: The Moderating Effect of Adverse Selection",
+      "paper_id": "https://doi.org/10.37284/eajbe.9.3.5392"
+    },
+    "W7169766399": {
+      "title": "From Training to Service-Quality Behavior: The Moderating Role of Employee Engagement in Frontline Banking",
+      "paper_id": "https://doi.org/10.4038/jhrmp.v11i4.81"
+    },
+    "W7169759713": {
+      "title": "Globalisation as a catalyst or constraint: evaluating the effectiveness of anti-money laundering and counter-terrorism financing strategies in Sri Lanka",
+      "paper_id": "https://doi.org/10.4038/sljer.v13i2.259"
+    },
+    "W7169807593": {
+      "title": "Rational Inattention in Government Bond Auctions: Evidence from Yield Spreads in Armenian Treasury Auctions",
+      "paper_id": "https://doi.org/10.3390/jrfm19070532"
     }
   },
   "edges": [
@@ -24979,6 +25047,121 @@
     {
       "from": "W7169626493",
       "to": "W4387542084",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W158557872",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W1494498837",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W1522889714",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W1972190631",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W1972764827",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W2004539030",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W2096577823",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W2139800451",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W2152904780",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W2883565370",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W2888912427",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W2948985631",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W3123511238",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W3125002868",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W4220920024",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W4238337041",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W4323041051",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W4401028631",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W4401591782",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W4402516890",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W4404328551",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W4406243353",
+      "type": "cites"
+    },
+    {
+      "from": "W7169807593",
+      "to": "W4406650451",
       "type": "cites"
     }
   ]

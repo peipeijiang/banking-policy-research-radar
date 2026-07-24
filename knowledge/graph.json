@@ -1708,10 +1708,6 @@
       "title": "Optimizing Regret",
       "paper_id": "2607.18866v1"
     },
-    "2607.18601v1": {
-      "title": "Robust Signal Maximization in Spillover Experiments",
-      "paper_id": "2607.18601v1"
-    },
     "2607.19140v1": {
       "title": "Market tallies: minimal information for efficient trade",
       "paper_id": "2607.19140v1"
@@ -1751,10 +1747,6 @@
     "2607.19929v1": {
       "title": "Bounded Attention and Attenuated Elasticities",
       "paper_id": "2607.19929v1"
-    },
-    "2607.19562v1": {
-      "title": "The Direct and Indirect Effects of Genetics and Education",
-      "paper_id": "2607.19562v1"
     },
     "2607.20156v1": {
       "title": "Identifying Treatment and Spillover Effects with Control-Based and Forecast-Based Counterfactuals",
@@ -1811,6 +1803,86 @@
     "W7169807593": {
       "title": "Rational Inattention in Government Bond Auctions: Evidence from Yield Spreads in Armenian Treasury Auctions",
       "paper_id": "https://doi.org/10.3390/jrfm19070532"
+    },
+    "2607.21534v1": {
+      "title": "Generative AI Availability, Grades, and Student Satisfaction at a Large University",
+      "paper_id": "2607.21534v1"
+    },
+    "2607.21512v1": {
+      "title": "Group boarding for airplanes: benchmarking static policies and optimizing dynamic assignment with deep reinforcement learning",
+      "paper_id": "2607.21512v1"
+    },
+    "2607.21459v1": {
+      "title": "The Evolution of Digital Search: From Blue Links to Delegated Decision-Making",
+      "paper_id": "2607.21459v1"
+    },
+    "2607.21285v1": {
+      "title": "Electricity demand has not become more price-responsive despite ninety years of technological change",
+      "paper_id": "2607.21285v1"
+    },
+    "2607.21268v1": {
+      "title": "pAI-Econ-claude: A Gated Human-in-the-Loop Multi-Agent Architecture for AI-Assisted Economic Theory Development",
+      "paper_id": "2607.21268v1"
+    },
+    "2607.21048v1": {
+      "title": "Accelerating fossil gas independence in Europe",
+      "paper_id": "2607.21048v1"
+    },
+    "2607.20807v1": {
+      "title": "Execution and Evaluation: A New Occupational Measure and Long-Run Employment Gradients",
+      "paper_id": "2607.20807v1"
+    },
+    "2607.20781v1": {
+      "title": "The Human-AI Substitution Principle: When will you be replaced by AI in your organization?",
+      "paper_id": "2607.20781v1"
+    },
+    "2607.20667v1": {
+      "title": "Good Guys With Guns? The Relationship Between Legal Firearm Ownership and Firearm Deaths and Crime in Canada",
+      "paper_id": "2607.20667v1"
+    },
+    "2607.19562v2": {
+      "title": "The Direct and Indirect Effects of Genetics and Education",
+      "paper_id": "2607.19562v2"
+    },
+    "2607.21413v1": {
+      "title": "Stochastic Potential Choices and Outcomes",
+      "paper_id": "2607.21413v1"
+    },
+    "2607.21323v1": {
+      "title": "Uniformly Consistent Semi-nonparametric Demand Estimation with Micro-Data",
+      "paper_id": "2607.21323v1"
+    },
+    "2607.21312v1": {
+      "title": "Using Pre-Trends for Inference in Difference-in-Differences",
+      "paper_id": "2607.21312v1"
+    },
+    "2607.21044v1": {
+      "title": "Trust by Context, Not by Design? A Quantitative Study of Data Donation Willingness for Open-Source Civic AI in Switzerland",
+      "paper_id": "2607.21044v1"
+    },
+    "2607.18601v2": {
+      "title": "Robust Signal Maximization in Spillover Experiments",
+      "paper_id": "2607.18601v2"
+    },
+    "2607.20343v2": {
+      "title": "Path-Space Model Risk via Signature-Induced Optimal Transport",
+      "paper_id": "2607.20343v2"
+    },
+    "worldbank:40118607": {
+      "title": "The Long-Run Impacts of Protected Areas on Income, Birds, and Tourism in South Africa",
+      "paper_id": "worldbank:40118607"
+    },
+    "repec:RePEc:ces:ceswps:_12852": {
+      "title": "Do Markets Deliver? Competition and Choice in European Healthcare Markets",
+      "paper_id": "repec:RePEc:ces:ceswps:_12852"
+    },
+    "repec:RePEc:ces:ceswps:_12853": {
+      "title": "A Regressive Shock? The Distributional Consequences of Middle East Conflict-Driven Inflation for German Households",
+      "paper_id": "repec:RePEc:ces:ceswps:_12853"
+    },
+    "repec:RePEc:fip:fedpwp:103578": {
+      "title": "Inference Based on Scale, Label, and Economic Restrictions",
+      "paper_id": "repec:RePEc:fip:fedpwp:103578"
     }
   },
   "edges": [

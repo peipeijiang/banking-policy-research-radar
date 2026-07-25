@@ -1883,6 +1883,42 @@
     "repec:RePEc:fip:fedpwp:103578": {
       "title": "Inference Based on Scale, Label, and Economic Restrictions",
       "paper_id": "repec:RePEc:fip:fedpwp:103578"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3258~46133509d4.en.pdf": {
+      "title": "Import tariff transmission in a production network",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3258~46133509d4.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3257~92e2d05000.en.pdf": {
+      "title": "The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital buffer using a parsimonious agent-based framework",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3257~92e2d05000.en.pdf"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-26/": {
+      "title": "From Stress to Strategy: How Banks Balance the Scales",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-26/"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-25/": {
+      "title": "Time-Inconsistent Manager Incentives and Capital Formation",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-25/"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-28/": {
+      "title": "Balancing Act: Monetary Policy Responses to Natural Disasters",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-28/"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-27/": {
+      "title": "Monetary Policy in an AI-Driven Two-Speed Economy",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-27/"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-24/": {
+      "title": "Seeing the Economy through Colored Glasses: Partisanship in Macro and (not in) Micro Expectations",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-24/"
+    },
+    "repec:RePEc:ces:ceswps:_12851": {
+      "title": "The Price of Regulatory Risk in Housing Markets: Evidence from Berlin",
+      "paper_id": "repec:RePEc:ces:ceswps:_12851"
+    },
+    "repec:RePEc:ces:ceswps:_12850": {
+      "title": "Expert Inflation Preferences and the Evaluation of Monetary Policy",
+      "paper_id": "repec:RePEc:ces:ceswps:_12850"
     }
   },
   "edges": [

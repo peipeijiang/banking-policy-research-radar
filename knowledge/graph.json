@@ -1919,6 +1919,18 @@
     "repec:RePEc:ces:ceswps:_12850": {
       "title": "Expert Inflation Preferences and the Evaluation of Monetary Policy",
       "paper_id": "repec:RePEc:ces:ceswps:_12850"
+    },
+    "W7167037157": {
+      "title": "Monetary Policy Challenges in a Volatile World",
+      "paper_id": "https://doi.org/10.34989/sap-2026-34"
+    },
+    "repec:RePEc:ces:ceswps:_12849": {
+      "title": "Belief Disagreement, Instability, and Uncertainty under Stochastic Recall",
+      "paper_id": "repec:RePEc:ces:ceswps:_12849"
+    },
+    "repec:RePEc:ces:ceswps:_12848": {
+      "title": "Trust but Verify: Benchmarking Gallup World Poll Employment Data Against the EU-Labour Force Survey",
+      "paper_id": "repec:RePEc:ces:ceswps:_12848"
     }
   },
   "edges": [

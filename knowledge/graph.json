@@ -1931,6 +1931,82 @@
     "repec:RePEc:ces:ceswps:_12848": {
       "title": "Trust but Verify: Benchmarking Gallup World Poll Employment Data Against the EU-Labour Force Survey",
       "paper_id": "repec:RePEc:ces:ceswps:_12848"
+    },
+    "2607.22110v1": {
+      "title": "Measuring inequality and social stratification with Lorenz curvature",
+      "paper_id": "2607.22110v1"
+    },
+    "2607.22006v1": {
+      "title": "Unfit for stranding assessment: a panel-scale multimodal-LLM audit of building-decarbonisation disclosure (BeDA)",
+      "paper_id": "2607.22006v1"
+    },
+    "2607.21826v1": {
+      "title": "Are cryptocurrencies real financial bubbles? Evidence from quantitative analyses",
+      "paper_id": "2607.21826v1"
+    },
+    "2607.22511v1": {
+      "title": "CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference",
+      "paper_id": "2607.22511v1"
+    },
+    "2607.22028v1": {
+      "title": "To what extent can long-differencing capture climate adaptation?",
+      "paper_id": "2607.22028v1"
+    },
+    "2607.22440v1": {
+      "title": "Nonlinear Boosting with Multiple Testing in High-Dimensional Generalised Linear Models with Binary Responses",
+      "paper_id": "2607.22440v1"
+    },
+    "2607.21914v1": {
+      "title": "Interventional Score Geometry for Causal Inference",
+      "paper_id": "2607.21914v1"
+    },
+    "2607.21807v1": {
+      "title": "Partial Identification with Auxiliary Moment Restrictions",
+      "paper_id": "2607.21807v1"
+    },
+    "2607.22317v1": {
+      "title": "Latent Fragility and Clustered Withdrawals in Dynamic Banks Runs",
+      "paper_id": "2607.22317v1"
+    },
+    "2607.21898v1": {
+      "title": "Strategic Exit and Unilateral Control",
+      "paper_id": "2607.21898v1"
+    },
+    "2607.21851v1": {
+      "title": "A Revelation Principle for Rationalizability",
+      "paper_id": "2607.21851v1"
+    },
+    "2607.21805v1": {
+      "title": "Natural Invariant Measures for Chaotic Game Dynamics: Finding Order in Chaos",
+      "paper_id": "2607.21805v1"
+    },
+    "2607.21765v1": {
+      "title": "Screening with Product Mismatch",
+      "paper_id": "2607.21765v1"
+    },
+    "2607.21687v1": {
+      "title": "Optimal Surplus Management for Insurers under Stochastic Interest Rates and Jump-Driven Liabilities",
+      "paper_id": "2607.21687v1"
+    },
+    "2607.22459v1": {
+      "title": "Settlement Infrastructure, Inside Money Elasticity, and the Network Economics of Distributed Ledger Technology",
+      "paper_id": "2607.22459v1"
+    },
+    "W7170818124": {
+      "title": "Monetary policy transmission in Türkiye under complex external conditions: a multi-method assessment (SVAR-ARDL-LP, 2008–2025)",
+      "paper_id": "https://doi.org/10.1186/s43093-026-00921-7"
+    },
+    "W7171214230": {
+      "title": "Developing a Competency-Based Risk Management Framework for the Ethiopian Commercial Banking Industry",
+      "paper_id": "https://doi.org/10.5281/zenodo.21545871"
+    },
+    "repec:RePEc:ces:ceswps:_12847": {
+      "title": "Behavioral Environmental Economics",
+      "paper_id": "repec:RePEc:ces:ceswps:_12847"
+    },
+    "repec:RePEc:ces:ceswps:_12846": {
+      "title": "Clause and Effect: Theory and Field Experimental Evidence on Noncompete Clauses",
+      "paper_id": "repec:RePEc:ces:ceswps:_12846"
     }
   },
   "edges": [
@@ -25282,6 +25358,121 @@
     {
       "from": "W7169807593",
       "to": "W4406650451",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W197943412",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W1531363332",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W1966910378",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W1970901442",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W2050815921",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W2058044512",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W2095364399",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W2097580026",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W2117178635",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W2135860498",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W2842157622",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W2940839150",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W3003633127",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W3088550547",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W3127125247",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W3153035093",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W3175539830",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W3184269748",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W3184457404",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W4281481441",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W4282023525",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W4378086563",
+      "type": "cites"
+    },
+    {
+      "from": "W7170818124",
+      "to": "W4383878139",
       "type": "cites"
     }
   ]

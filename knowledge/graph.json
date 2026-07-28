@@ -1744,10 +1744,6 @@
       "title": "Catastrophic disruption cascades driven by the nonlinearity of systemic risk",
       "paper_id": "2607.20068v1"
     },
-    "2607.19929v1": {
-      "title": "Bounded Attention and Attenuated Elasticities",
-      "paper_id": "2607.19929v1"
-    },
     "2607.20156v1": {
       "title": "Identifying Treatment and Spillover Effects with Control-Based and Forecast-Based Counterfactuals",
       "paper_id": "2607.20156v1"
@@ -1839,10 +1835,6 @@
     "2607.20667v1": {
       "title": "Good Guys With Guns? The Relationship Between Legal Firearm Ownership and Firearm Deaths and Crime in Canada",
       "paper_id": "2607.20667v1"
-    },
-    "2607.19562v2": {
-      "title": "The Direct and Indirect Effects of Genetics and Education",
-      "paper_id": "2607.19562v2"
     },
     "2607.21413v1": {
       "title": "Stochastic Potential Choices and Outcomes",
@@ -1968,10 +1960,6 @@
       "title": "Latent Fragility and Clustered Withdrawals in Dynamic Banks Runs",
       "paper_id": "2607.22317v1"
     },
-    "2607.21898v1": {
-      "title": "Strategic Exit and Unilateral Control",
-      "paper_id": "2607.21898v1"
-    },
     "2607.21851v1": {
       "title": "A Revelation Principle for Rationalizability",
       "paper_id": "2607.21851v1"
@@ -1996,10 +1984,6 @@
       "title": "Monetary policy transmission in Türkiye under complex external conditions: a multi-method assessment (SVAR-ARDL-LP, 2008–2025)",
       "paper_id": "https://doi.org/10.1186/s43093-026-00921-7"
     },
-    "W7171214230": {
-      "title": "Developing a Competency-Based Risk Management Framework for the Ethiopian Commercial Banking Industry",
-      "paper_id": "https://doi.org/10.5281/zenodo.21545871"
-    },
     "repec:RePEc:ces:ceswps:_12847": {
       "title": "Behavioral Environmental Economics",
       "paper_id": "repec:RePEc:ces:ceswps:_12847"
@@ -2007,6 +1991,146 @@
     "repec:RePEc:ces:ceswps:_12846": {
       "title": "Clause and Effect: Theory and Field Experimental Evidence on Noncompete Clauses",
       "paper_id": "repec:RePEc:ces:ceswps:_12846"
+    },
+    "2607.24389v1": {
+      "title": "How to Disrupt a Market",
+      "paper_id": "2607.24389v1"
+    },
+    "2607.24372v1": {
+      "title": "Randomness in large language models: What researchers need to know (and report)",
+      "paper_id": "2607.24372v1"
+    },
+    "2607.24175v1": {
+      "title": "A World of Ginis",
+      "paper_id": "2607.24175v1"
+    },
+    "2607.23733v1": {
+      "title": "AI Strategy: How to Choose What AI Product to Implement",
+      "paper_id": "2607.23733v1"
+    },
+    "2607.23426v1": {
+      "title": "Do Carbon Price Forecasts Improve Compliance Procurement? Evidence from European Union Allowances",
+      "paper_id": "2607.23426v1"
+    },
+    "2607.23424v1": {
+      "title": "Wrong and More Confident: A Field Experiment on Language Models Taking a Graduate Economics Exam",
+      "paper_id": "2607.23424v1"
+    },
+    "2607.23325v1": {
+      "title": "Happy Birthday? Age Labels, Search Criteria, and Matching from Dating to Marriage",
+      "paper_id": "2607.23325v1"
+    },
+    "2607.23313v1": {
+      "title": "Agentic AI Orchestration of Heterogeneous Economic Models for Rapid, Multi-scenario Analysis of Energy Crises",
+      "paper_id": "2607.23313v1"
+    },
+    "2607.23303v1": {
+      "title": "Ranking-based competitive balance measures in Formula One",
+      "paper_id": "2607.23303v1"
+    },
+    "2607.23161v1": {
+      "title": "Risk Aversion in the Small and in the Large: Beyond Arrow-Pratt A Wiener Chaos Hierarchy of Dynamic Risk Premia",
+      "paper_id": "2607.23161v1"
+    },
+    "2607.19929v2": {
+      "title": "Bounded Attention and Attenuated Elasticities",
+      "paper_id": "2607.19929v2"
+    },
+    "2607.19562v3": {
+      "title": "The Direct and Indirect Effects of Genetics and Education",
+      "paper_id": "2607.19562v3"
+    },
+    "2607.24472v1": {
+      "title": "Debiased Machine Learning: Identification, Estimation, and Shape Constraints",
+      "paper_id": "2607.24472v1"
+    },
+    "2607.24143v1": {
+      "title": "Inference on counterfactual distributions using martingale posteriors",
+      "paper_id": "2607.24143v1"
+    },
+    "2607.23744v1": {
+      "title": "Robust estimation of the autocorrelation function via forward ratios",
+      "paper_id": "2607.23744v1"
+    },
+    "2607.23660v1": {
+      "title": "Systemic Methodological Dysfunction in Statistical Research for Clinical Decisions",
+      "paper_id": "2607.23660v1"
+    },
+    "2607.23585v1": {
+      "title": "The One-Period Kyle (1985) Model Has a Unique Equilibrium: A Monotone Gaussian Bayes inverse-rigidity theorem",
+      "paper_id": "2607.23585v1"
+    },
+    "2607.23370v1": {
+      "title": "Bitcoin Price Direction Prediction via Regime-Aware Multi-Modal Fusion of Social Sentiment and Technical Features",
+      "paper_id": "2607.23370v1"
+    },
+    "2607.23254v1": {
+      "title": "Towards Optimal Estimators for Randomized Control Trials",
+      "paper_id": "2607.23254v1"
+    },
+    "2607.23174v1": {
+      "title": "Do decisions about outliers and influential effects matter? Evidence from 358 behavioral science meta-analyses",
+      "paper_id": "2607.23174v1"
+    },
+    "2607.22896v1": {
+      "title": "Attenuated Heterogeneity in Fixed-Effects Causal Forests, and a Cross-Fitted Correction",
+      "paper_id": "2607.22896v1"
+    },
+    "2607.23367v1": {
+      "title": "Fair Division with Strictly Increasing Valuations: A Tight Threshold for Two-Agent EF1 and PO",
+      "paper_id": "2607.23367v1"
+    },
+    "2607.22846v1": {
+      "title": "What should the encroaching supplier do?: A Stackelberg Game Approach",
+      "paper_id": "2607.22846v1"
+    },
+    "2607.23310v1": {
+      "title": "Online Fair Division with Budget Constraints",
+      "paper_id": "2607.23310v1"
+    },
+    "2607.23360v1": {
+      "title": "Low-Rank Payoffs and Limit Uniqueness in Global Games",
+      "paper_id": "2607.23360v1"
+    },
+    "2607.23131v1": {
+      "title": "Public Goods Game on Complex Networks: the interplay between conformity and topology",
+      "paper_id": "2607.23131v1"
+    },
+    "2607.23222v1": {
+      "title": "Do Preferences Matter in Balanced Task Allocation?",
+      "paper_id": "2607.23222v1"
+    },
+    "2607.24410v1": {
+      "title": "The Fundamental Structure of Risk: From Characteristics to Covariance",
+      "paper_id": "2607.24410v1"
+    },
+    "2607.21898v2": {
+      "title": "Strategic Exit and Unilateral Control",
+      "paper_id": "2607.21898v2"
+    },
+    "2607.24150v1": {
+      "title": "Approximation of stochastic insurer balance-sheet results using signatures of economic scenarios",
+      "paper_id": "2607.24150v1"
+    },
+    "W7171316912": {
+      "title": "Estimation of Monetary Policy Transmission Channels in Pakistan: A VAR Analysis of the Interest Rate, Credit, Exchange Rate, and Asset Price Channels",
+      "paper_id": "https://doi.org/10.5281/zenodo.21588670"
+    },
+    "W7171196746": {
+      "title": "Developing a Competency-Based Risk Management Framework for the Ethiopian Commercial Banking Industry",
+      "paper_id": "https://doi.org/10.5281/zenodo.21545870"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3260~7f05446cac.en.pdf": {
+      "title": "The effects of a large energy price shock on bank credit",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3260~7f05446cac.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3259~ca31e19d1b.en.pdf": {
+      "title": "Central banks, debt managers, and specialness in the Bund repo market",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3259~ca31e19d1b.en.pdf"
+    },
+    "worldbank:40119056": {
+      "title": "Selection or More Capital ? Experimental Evidence on High-Growth Entrepreneurs in Kenya\n",
+      "paper_id": "worldbank:40119056"
     }
   },
   "edges": [

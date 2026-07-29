@@ -1800,10 +1800,6 @@
       "title": "Rational Inattention in Government Bond Auctions: Evidence from Yield Spreads in Armenian Treasury Auctions",
       "paper_id": "https://doi.org/10.3390/jrfm19070532"
     },
-    "2607.21534v1": {
-      "title": "Generative AI Availability, Grades, and Student Satisfaction at a Large University",
-      "paper_id": "2607.21534v1"
-    },
     "2607.21512v1": {
       "title": "Group boarding for airplanes: benchmarking static policies and optimizing dynamic assignment with deep reinforcement learning",
       "paper_id": "2607.21512v1"
@@ -1839,10 +1835,6 @@
     "2607.21413v1": {
       "title": "Stochastic Potential Choices and Outcomes",
       "paper_id": "2607.21413v1"
-    },
-    "2607.21323v1": {
-      "title": "Uniformly Consistent Semi-nonparametric Demand Estimation with Micro-Data",
-      "paper_id": "2607.21323v1"
     },
     "2607.21312v1": {
       "title": "Using Pre-Trends for Inference in Difference-in-Differences",
@@ -2112,10 +2104,6 @@
       "title": "Approximation of stochastic insurer balance-sheet results using signatures of economic scenarios",
       "paper_id": "2607.24150v1"
     },
-    "W7171316912": {
-      "title": "Estimation of Monetary Policy Transmission Channels in Pakistan: A VAR Analysis of the Interest Rate, Credit, Exchange Rate, and Asset Price Channels",
-      "paper_id": "https://doi.org/10.5281/zenodo.21588670"
-    },
     "W7171196746": {
       "title": "Developing a Competency-Based Risk Management Framework for the Ethiopian Commercial Banking Industry",
       "paper_id": "https://doi.org/10.5281/zenodo.21545870"
@@ -2131,6 +2119,74 @@
     "worldbank:40119056": {
       "title": "Selection or More Capital ? Experimental Evidence on High-Growth Entrepreneurs in Kenya\n",
       "paper_id": "worldbank:40119056"
+    },
+    "2607.26034v1": {
+      "title": "Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment",
+      "paper_id": "2607.26034v1"
+    },
+    "2607.25472v1": {
+      "title": "Algorithm-Driven Information Similarity and Collective Action: An Experimental Study",
+      "paper_id": "2607.25472v1"
+    },
+    "2607.21534v2": {
+      "title": "Generative AI Availability, Grades, and Student Satisfaction at a Large University",
+      "paper_id": "2607.21534v2"
+    },
+    "2607.24879v1": {
+      "title": "Generative Artificial Intelligence in Scientific Research: Individual Benefits, Collective Risks, and a Framework for Responsible Research with AI",
+      "paper_id": "2607.24879v1"
+    },
+    "2607.25416v1": {
+      "title": "From dense grids to valid inference: Accounting for regularization bias in nonparametric random coefficient models",
+      "paper_id": "2607.25416v1"
+    },
+    "2607.25074v1": {
+      "title": "Spectral Truncation in Synthetic Control",
+      "paper_id": "2607.25074v1"
+    },
+    "2607.21323v2": {
+      "title": "Uniformly Consistent Semi-nonparametric Demand Estimation with Micro-Data",
+      "paper_id": "2607.21323v2"
+    },
+    "2607.25942v1": {
+      "title": "General Theory of Relational Primacy",
+      "paper_id": "2607.25942v1"
+    },
+    "2607.25677v1": {
+      "title": "Open-ended innovation in zero-sum games",
+      "paper_id": "2607.25677v1"
+    },
+    "2607.24970v1": {
+      "title": "Asymptotic Equivalence of Immediate and Deferred Acceptance",
+      "paper_id": "2607.24970v1"
+    },
+    "2607.25019v1": {
+      "title": "Interactive Alignment",
+      "paper_id": "2607.25019v1"
+    },
+    "2607.25258v1": {
+      "title": "Robust Hedging Valuation Adjustment for Deep Hedging Policies under Market Frictions",
+      "paper_id": "2607.25258v1"
+    },
+    "W7171382243": {
+      "title": "The Strategic Integrated Fund Management Model (SIFMM): Driving Financial Stability in Emerging Banking Sectors",
+      "paper_id": "https://doi.org/10.5281/zenodo.21618006"
+    },
+    "W7171456851": {
+      "title": "Artificial Intelligence Governance and Banking Regulatory Compliance: A Multiple-Case Study of Commercial Banks in Uganda",
+      "paper_id": "https://doi.org/10.55220/2576-6821.v10.1341"
+    },
+    "W7171307640": {
+      "title": "Estimation of Monetary Policy Transmission Channels in Pakistan: A VAR Analysis of the Interest Rate, Credit, Exchange Rate, and Asset Price Channels",
+      "paper_id": "https://doi.org/10.5281/zenodo.21588669"
+    },
+    "W7164303931": {
+      "title": "被吞噬的M1:交易货币M1的结构性损耗与传导机制测度 The Devoured M1: Structural Loss and Transmission Mechanism of Transaction Money M1",
+      "paper_id": "https://doi.org/10.5281/zenodo.20647454"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3261~cc4bd5eabc.en.pdf": {
+      "title": "The Paris Agreement ten years later: Navigating climate uncertainty and tipping points",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3261~cc4bd5eabc.en.pdf"
     }
   },
   "edges": [

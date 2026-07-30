@@ -2168,10 +2168,6 @@
       "title": "Robust Hedging Valuation Adjustment for Deep Hedging Policies under Market Frictions",
       "paper_id": "2607.25258v1"
     },
-    "W7171382243": {
-      "title": "The Strategic Integrated Fund Management Model (SIFMM): Driving Financial Stability in Emerging Banking Sectors",
-      "paper_id": "https://doi.org/10.5281/zenodo.21618006"
-    },
     "W7171456851": {
       "title": "Artificial Intelligence Governance and Banking Regulatory Compliance: A Multiple-Case Study of Commercial Banks in Uganda",
       "paper_id": "https://doi.org/10.55220/2576-6821.v10.1341"
@@ -2180,13 +2176,77 @@
       "title": "Estimation of Monetary Policy Transmission Channels in Pakistan: A VAR Analysis of the Interest Rate, Credit, Exchange Rate, and Asset Price Channels",
       "paper_id": "https://doi.org/10.5281/zenodo.21588669"
     },
-    "W7164303931": {
-      "title": "被吞噬的M1:交易货币M1的结构性损耗与传导机制测度 The Devoured M1: Structural Loss and Transmission Mechanism of Transaction Money M1",
-      "paper_id": "https://doi.org/10.5281/zenodo.20647454"
-    },
     "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3261~cc4bd5eabc.en.pdf": {
       "title": "The Paris Agreement ten years later: Navigating climate uncertainty and tipping points",
       "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3261~cc4bd5eabc.en.pdf"
+    },
+    "2607.26109v1": {
+      "title": "The Attention-Directing Ability of Teams",
+      "paper_id": "2607.26109v1"
+    },
+    "2607.27142v1": {
+      "title": "How Divorce Reforms Induced Married Couples to Supply More Labor",
+      "paper_id": "2607.27142v1"
+    },
+    "2607.26366v1": {
+      "title": "Specification Testing for Dyadic Regression Models",
+      "paper_id": "2607.26366v1"
+    },
+    "2607.26960v1": {
+      "title": "A Simple Robust Procedure in Instrumental Variables Regression",
+      "paper_id": "2607.26960v1"
+    },
+    "2607.26288v1": {
+      "title": "The Innate Economic Preferences of Language Models",
+      "paper_id": "2607.26288v1"
+    },
+    "2607.26091v1": {
+      "title": "The Evolutionary Dynamics of AI, Politicization, Contestation, and Trust in Science Funding",
+      "paper_id": "2607.26091v1"
+    },
+    "2607.26559v1": {
+      "title": "Characterizing Von Neumann-Morgenstern Stable Sets in Infinite Sets",
+      "paper_id": "2607.26559v1"
+    },
+    "2607.26327v1": {
+      "title": "The Last Costly Signal: How Generative AI Collapses Competence Signaling and Why Liability Sustains Markets for Expert Services",
+      "paper_id": "2607.26327v1"
+    },
+    "2607.26859v1": {
+      "title": "No Data Is Not No Risk: Visibility Aware Graph-Based Inference of Business Conduct Risk",
+      "paper_id": "2607.26859v1"
+    },
+    "W7171554004": {
+      "title": "E-Human Resource Management Impact on Employee Job Satisfaction: The Mediating Role of Leadership Styles. The Case Study of the Commercial Banking Industry of Jordan",
+      "paper_id": "https://doi.org/10.37394/232015.2026.22.66"
+    },
+    "W7171378555": {
+      "title": "The Strategic Integrated Fund Management Model (SIFMM): Driving Financial Stability in Emerging Banking Sectors",
+      "paper_id": "https://doi.org/10.5281/zenodo.21618007"
+    },
+    "W7171522044": {
+      "title": "The impact of the Fed's interest rate hikes from 2023 to 2025 on financing for small and medium-sized enterprises in the United States",
+      "paper_id": "https://doi.org/10.54254/2977-5701/2026.35733"
+    },
+    "W7171379583": {
+      "title": "Credit Interest Rates, GDP Growth, and the Efficiency and Stability of Commercial Banks in Lebanon: A Conceptual Analysis of Macro-Financial Transmission under Sovereign Distress",
+      "paper_id": "https://doi.org/10.63939/jies.tgzxhm03"
+    },
+    "W7171406558": {
+      "title": "Asymmetric Transmission of Monetary Policy Shocks in the Euro Area: Evidence from a Panel VAR Analysis",
+      "paper_id": "https://doi.org/10.3390/economies14080294"
+    },
+    "W7171413901": {
+      "title": "被吞噬的M1:交易货币M1的结构性损耗与传导机制测度 The Devoured M1: Structural Loss and Transmission Mechanism of Transaction Money M1",
+      "paper_id": "https://doi.org/10.5281/zenodo.21629761"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3262~7169a94638.en.pdf": {
+      "title": "A SPOT in the dark: using AI to assess financial stability risks",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3262~7169a94638.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf": {
+      "title": "Threshold endogeneity in vector autoregressions: reassessing monetary state dependence",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf"
     }
   },
   "edges": [
@@ -25653,6 +25713,316 @@
     {
       "from": "W7170818124",
       "to": "W4383878139",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W4162929",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W188807262",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W1829308418",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W2082652894",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W2615380713",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W3029141304",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W3178970907",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W4214808956",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W4226313397",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W4377037143",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W4385702018",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W4388021912",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W4402280853",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W4404611468",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W4404620854",
+      "type": "cites"
+    },
+    {
+      "from": "W7171554004",
+      "to": "W4407834313",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W1528857264",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W1588189399",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W1967159293",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W1973399956",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W1990176981",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W2108089027",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W2157509893",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W2159096632",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W2590767792",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W2749885587",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W2954808508",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W3012440800",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W3110503169",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W3121433632",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W3121626226",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W3121935849",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W3123325515",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W3124057053",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W3124170885",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W3124417970",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W3125465412",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W4242453793",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W4250462528",
+      "type": "cites"
+    },
+    {
+      "from": "W7171379583",
+      "to": "W4292229879",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W2015106170",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W2028851351",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W2055612643",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W2056687719",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W2080478897",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W2117631730",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W2117848702",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W2264825150",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W2269767074",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W2485880533",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W2784791315",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W2802144357",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W2970052481",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W3122641103",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W3122813519",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W3122925388",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W3123094642",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W3125407328",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W3125887460",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W3136038698",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W4206936659",
+      "type": "cites"
+    },
+    {
+      "from": "W7171406558",
+      "to": "W4296984367",
       "type": "cites"
     }
   ]

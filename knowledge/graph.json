@@ -2208,10 +2208,6 @@
       "title": "Characterizing Von Neumann-Morgenstern Stable Sets in Infinite Sets",
       "paper_id": "2607.26559v1"
     },
-    "2607.26327v1": {
-      "title": "The Last Costly Signal: How Generative AI Collapses Competence Signaling and Why Liability Sustains Markets for Expert Services",
-      "paper_id": "2607.26327v1"
-    },
     "2607.26859v1": {
       "title": "No Data Is Not No Risk: Visibility Aware Graph-Based Inference of Business Conduct Risk",
       "paper_id": "2607.26859v1"
@@ -2247,6 +2243,142 @@
     "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf": {
       "title": "Threshold endogeneity in vector autoregressions: reassessing monetary state dependence",
       "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf"
+    },
+    "2607.28378v1": {
+      "title": "Do Crises Increase Parochial Behavior? Evidence from Donations During Covid",
+      "paper_id": "2607.28378v1"
+    },
+    "2607.28371v1": {
+      "title": "Stop Premature Obsolescence: LessTrash, Fewer Working Hours, Same Pay",
+      "paper_id": "2607.28371v1"
+    },
+    "2607.28230v1": {
+      "title": "Boundary-Induced Apparent Risk Aversion in Nonergodic Multiplicative Growth",
+      "paper_id": "2607.28230v1"
+    },
+    "2607.28348v1": {
+      "title": "Economics and Epidemics: Evidence from an Estimated Spatial Econ-SIR Model",
+      "paper_id": "2607.28348v1"
+    },
+    "2607.28222v1": {
+      "title": "Voice AI in Firms: A Natural Field Experiment on Automated Job Interviews",
+      "paper_id": "2607.28222v1"
+    },
+    "2607.28133v1": {
+      "title": "AI Sycophancy and Decisions",
+      "paper_id": "2607.28133v1"
+    },
+    "2607.27996v1": {
+      "title": "Downsian Competition for the Myerson Value",
+      "paper_id": "2607.27996v1"
+    },
+    "2607.27584v1": {
+      "title": "Who heeds the call to conserve in an energy emergency? Evidence from smart thermostat data",
+      "paper_id": "2607.27584v1"
+    },
+    "2607.27569v1": {
+      "title": "Consuming Values",
+      "paper_id": "2607.27569v1"
+    },
+    "2607.27553v1": {
+      "title": "Using Large Language Models for Idea Generation in Innovation",
+      "paper_id": "2607.27553v1"
+    },
+    "2607.27544v1": {
+      "title": "Lucky or Good? Outcome Noise, Effective Sample Size, and the Attribution of Skill",
+      "paper_id": "2607.27544v1"
+    },
+    "2607.27548v1": {
+      "title": "Explaining the Macroeconomic Inertia Puzzle",
+      "paper_id": "2607.27548v1"
+    },
+    "2607.26560v1": {
+      "title": "Emission-Forecasting-Based Spatial-Temporal Carbon Response: A Multi-Agent Attention-Enhanced Deep Learning Framework",
+      "paper_id": "2607.26560v1"
+    },
+    "2607.23424v2": {
+      "title": "Wrong and More Confident: A Field Experiment on Large Language Models Taking a Graduate Economics Exam",
+      "paper_id": "2607.23424v2"
+    },
+    "2607.28294v1": {
+      "title": "Bootstrap inference in autoregressive duration models",
+      "paper_id": "2607.28294v1"
+    },
+    "2607.28291v1": {
+      "title": "Linear Estimation of Structural and Causal Effects for Nonseparable Panel Data",
+      "paper_id": "2607.28291v1"
+    },
+    "2607.28131v1": {
+      "title": "Nonfundamentalness or missing information ? Evidence from causal-noncausal VARs in macro-finance",
+      "paper_id": "2607.28131v1"
+    },
+    "2607.27505v1": {
+      "title": "Single-Network Finite-Sample Inference in Strategic Network Formation Models",
+      "paper_id": "2607.27505v1"
+    },
+    "2607.27485v1": {
+      "title": "Energy Market and Carbon Emission Spillovers in Critical Minerals Investment: A Dynamic Connectedness Approach",
+      "paper_id": "2607.27485v1"
+    },
+    "2607.28023v1": {
+      "title": "Scaling, Lock-In, and Proxy Compliance: A Political Economy of Responsible AI",
+      "paper_id": "2607.28023v1"
+    },
+    "2607.27817v1": {
+      "title": "Reversing Reserve Logic: Optimal Holdback in Local Allocation under Scalable Entry",
+      "paper_id": "2607.27817v1"
+    },
+    "2607.27638v1": {
+      "title": "Racing to Ruin",
+      "paper_id": "2607.27638v1"
+    },
+    "2607.27239v1": {
+      "title": "Reference Dependence and the Structure of the WTA/WTP Gap",
+      "paper_id": "2607.27239v1"
+    },
+    "2607.26327v2": {
+      "title": "The Last Costly Signal: How Generative AI Collapses Competence Signaling and Why Liability Sustains Markets for Expert Services",
+      "paper_id": "2607.26327v2"
+    },
+    "2607.27238v1": {
+      "title": "A Theory of Reference-Dependent Utility",
+      "paper_id": "2607.27238v1"
+    },
+    "2607.28215v1": {
+      "title": "Almost stochastic dominance via optimal transport",
+      "paper_id": "2607.28215v1"
+    },
+    "2607.27814v1": {
+      "title": "Pricing and Semi-static Hedging of Green Pay-as-produced Power Purchase Agreements",
+      "paper_id": "2607.27814v1"
+    },
+    "2607.27611v1": {
+      "title": "AWARE-FX: An Auditable Knowledge-Guided AI System for Measuring Corporate Foreign-Exchange Hedging Disclosure",
+      "paper_id": "2607.27611v1"
+    },
+    "2607.27461v1": {
+      "title": "Are Three Matrices All You Need To Beat the Market? Observable Matrix Dynamics for Portfolio Optimization",
+      "paper_id": "2607.27461v1"
+    },
+    "2607.27859v1": {
+      "title": "ZAPs: A Reward Attribution Framework for DeFi Ecosystems with Adversarial-Robust Scoring via Parallel Anomaly Ensemble Detection",
+      "paper_id": "2607.27859v1"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3264~bcba0c01e5.en.pdf": {
+      "title": "Subjective earnings and employment dynamics",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3264~bcba0c01e5.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3265~cde079e4dc.en.pdf": {
+      "title": "Let the tree decide: FABART. A non-parametric factor model for nonlinear oil shock transmission",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3265~cde079e4dc.en.pdf"
+    },
+    "repec:RePEc:ces:ceswps:_12874": {
+      "title": "Moral Characters: Social Media and Elections in the US",
+      "paper_id": "repec:RePEc:ces:ceswps:_12874"
+    },
+    "repec:RePEc:ces:ceswps:_12873": {
+      "title": "Legal Threats and Online Dissent: Evidence from Social Media Regulation in Turkey",
+      "paper_id": "repec:RePEc:ces:ceswps:_12873"
     }
   },
   "edges": [

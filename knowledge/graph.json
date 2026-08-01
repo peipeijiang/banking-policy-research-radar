@@ -2379,6 +2379,38 @@
     "repec:RePEc:ces:ceswps:_12873": {
       "title": "Legal Threats and Online Dissent: Evidence from Social Media Regulation in Turkey",
       "paper_id": "repec:RePEc:ces:ceswps:_12873"
+    },
+    "W7171778105": {
+      "title": "Determinants of Dividend Payout Policy in Ethiopian Private Banks and Insurance Companies: A Systematic Review and Narrative Synthesis",
+      "paper_id": "https://doi.org/10.21203/rs.3.rs-10053036/v1"
+    },
+    "W7171720049": {
+      "title": "Monetary Policy Transmission to Household Credit: Evidence from Uganda’s Credit Registry Data",
+      "paper_id": "https://doi.org/10.1057/s41308-026-00324-2"
+    },
+    "W7171848930": {
+      "title": "The Relationship Between LPR, Bank Interest Rate and Real Estate Prices in Shanghai",
+      "paper_id": "https://doi.org/10.62051/ijgem.v10n7.01"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/credit-surfaces-and-economic-uncertainty.htm": {
+      "title": "FEDS Paper: Credit Surfaces and Economic Uncertainty",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/credit-surfaces-and-economic-uncertainty.htm"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/measuring-macroeconomic-atars-a-framework-with-scarring-effects.htm": {
+      "title": "FEDS Paper: Measuring Macroeconomic Stars: A Framework with Scarring Effects",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/measuring-macroeconomic-atars-a-framework-with-scarring-effects.htm"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/how-firms-form-beliefs-and-the-implications-for-inflation.htm": {
+      "title": "FEDS Paper: How Firms Form Beliefs and the Implications for Inflation",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/how-firms-form-beliefs-and-the-implications-for-inflation.htm"
+    },
+    "repec:RePEc:ces:ceswps:_12872": {
+      "title": "Carbon Crediting When Better Measurement Is Not Enough",
+      "paper_id": "repec:RePEc:ces:ceswps:_12872"
+    },
+    "repec:RePEc:ces:ceswps:_12871": {
+      "title": "The Economic Impacts of Hurricanes on Fisheries in the United States",
+      "paper_id": "repec:RePEc:ces:ceswps:_12871"
     }
   },
   "edges": [
@@ -26155,6 +26187,341 @@
     {
       "from": "W7171406558",
       "to": "W4296984367",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W1585500105",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W1981401757",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W2024215468",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W2025610165",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W2051605905",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W2065601052",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W2123343520",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W2151823353",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W2752617332",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W2901724277",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W2990648940",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W3022903699",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W3118615836",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W3122295706",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W3123062155",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W3124114405",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W3124789870",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W3124844774",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W3137008435",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W4212774471",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W4235281276",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W4391410915",
+      "type": "cites"
+    },
+    {
+      "from": "W7171778105",
+      "to": "W4403764698",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W1896612598",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W2057009456",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W2094368311",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W2098471783",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W2107940899",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W2116663683",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W2134443358",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W2135860498",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W2146142289",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W2249307993",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W2264825150",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W2890414418",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W2902726044",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W2922444182",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W2945253738",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W2981691127",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W3008416904",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W3021518359",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W3115238631",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W3117248626",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W3122259252",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W3123541727",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W3124356542",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W3125175487",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W3125488036",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W3125537090",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W3125608585",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W3150546480",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W3160798473",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W3175794576",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W3195674269",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W4214651995",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W4230789874",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W4245805169",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W4360603176",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W4368373622",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W4387910589",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W4390870030",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W4391507549",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W4408151232",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W4409839124",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W4410967691",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W4411893193",
+      "type": "cites"
+    },
+    {
+      "from": "W7171720049",
+      "to": "W7117483213",
       "type": "cites"
     }
   ]

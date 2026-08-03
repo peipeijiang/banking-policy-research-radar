@@ -2419,6 +2419,114 @@
     "repec:RePEc:ces:ceswps:_12870": {
       "title": "Religious Upbringing and Adult Human Development: Longitudinal Evidence from 22 Study Sites",
       "paper_id": "repec:RePEc:ces:ceswps:_12870"
+    },
+    "2607.29380v1": {
+      "title": "The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise",
+      "paper_id": "2607.29380v1"
+    },
+    "2607.29572v1": {
+      "title": "Artificial Intelligence: Supply-Chain Chokepoints and the Reach of Industrial Policy",
+      "paper_id": "2607.29572v1"
+    },
+    "2607.29371v1": {
+      "title": "Unintended Consequences of Sanitation Investment: Negative Externalities on Water Quality and Health in India",
+      "paper_id": "2607.29371v1"
+    },
+    "2607.29210v1": {
+      "title": "The Collapse of Human Capital Ladders in Recessions",
+      "paper_id": "2607.29210v1"
+    },
+    "2607.28842v1": {
+      "title": "University as a Melting Pot: Long-term Effects of Internationalization",
+      "paper_id": "2607.28842v1"
+    },
+    "2607.29162v1": {
+      "title": "Geography in Online Capital Allocation: Evidence from Equity-Based Crowdfunding",
+      "paper_id": "2607.29162v1"
+    },
+    "2607.28790v1": {
+      "title": "Arbitrage and rents in European long-term transmission rights",
+      "paper_id": "2607.28790v1"
+    },
+    "2607.28820v1": {
+      "title": "What's in a Queue? An Experimental Study of Job Ordering, Autonomy and Queue Visibility",
+      "paper_id": "2607.28820v1"
+    },
+    "2607.28780v1": {
+      "title": "Optimizing Monetization Strategies for Generative AI Firms: Implications for Search Engagement",
+      "paper_id": "2607.28780v1"
+    },
+    "2607.29532v1": {
+      "title": "Robust Instrumental Variables: Sharp Rates and Inference under Adversarial Contamination",
+      "paper_id": "2607.29532v1"
+    },
+    "2607.29527v1": {
+      "title": "TerraNova: A Foundation Model for the Anthropocene",
+      "paper_id": "2607.29527v1"
+    },
+    "2607.29442v1": {
+      "title": "Microstructural Foundations of Rough Noise",
+      "paper_id": "2607.29442v1"
+    },
+    "2607.29281v1": {
+      "title": "Producing Policy Recommendations: from Statistical Decision Theory to Empirical Practice",
+      "paper_id": "2607.29281v1"
+    },
+    "2607.29215v1": {
+      "title": "Conditional projection methods for large-scale Bayesian VARs",
+      "paper_id": "2607.29215v1"
+    },
+    "2607.28981v1": {
+      "title": "Distance Profile Embedding for Independence and Conditional Independence Testing of Random Objects",
+      "paper_id": "2607.28981v1"
+    },
+    "2607.29518v1": {
+      "title": "The Targeted-Loss Exposure Frontier in Auctions",
+      "paper_id": "2607.29518v1"
+    },
+    "2607.29420v1": {
+      "title": "Shadow-score auctions for execution incentives",
+      "paper_id": "2607.29420v1"
+    },
+    "2607.29139v1": {
+      "title": "The Role of Precedence Order in Matching with Multi-Criteria Admissions",
+      "paper_id": "2607.29139v1"
+    },
+    "2607.29080v1": {
+      "title": "Rawlsian equity: a new notion of fairness for the assignment problem",
+      "paper_id": "2607.29080v1"
+    },
+    "2607.28925v1": {
+      "title": "Learning Optimal Dynamic Matching via Graph Neural Networks",
+      "paper_id": "2607.28925v1"
+    },
+    "2607.28921v1": {
+      "title": "Information Aggregation and Social Networks: Responsiveness and Overturning",
+      "paper_id": "2607.28921v1"
+    },
+    "2607.28821v1": {
+      "title": "Local Global Games and Network Common Learning",
+      "paper_id": "2607.28821v1"
+    },
+    "2607.28847v1": {
+      "title": "Effort-Centric Fairness in Lending Decisions",
+      "paper_id": "2607.28847v1"
+    },
+    "W7172021583": {
+      "title": "MONETARY POLICY SHOCKS AND CRYPTOCURRENCY RETURNS: EVIDENCE FROM A STRUCTURAL VAR-X ANALYSIS",
+      "paper_id": "https://doi.org/10.18092/ulikidince.1855106"
+    },
+    "W7172131802": {
+      "title": "The Zero-Equity Constraint in Monetary Systems",
+      "paper_id": "https://doi.org/10.5281/zenodo.21724371"
+    },
+    "repec:RePEc:ces:ceswps:_12868": {
+      "title": "MICHELE: The Computation of Healthy Life Expectancy from Mortality Schedules",
+      "paper_id": "repec:RePEc:ces:ceswps:_12868"
+    },
+    "repec:RePEc:ces:ceswps:_12867": {
+      "title": "Healthy Life Expectancy for Individuals",
+      "paper_id": "repec:RePEc:ces:ceswps:_12867"
     }
   },
   "edges": [
@@ -26530,6 +26638,96 @@
     {
       "from": "W7171720049",
       "to": "W7117483213",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W1663622626",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W1954685264",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W2060506333",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W2067094520",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W2944796125",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W3048753459",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W3124669489",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W3124933125",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W4212771973",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W4280640691",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W4283692857",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W4385631116",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W4407809369",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W4409342875",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W4412470827",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W4412587062",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W4414589903",
+      "type": "cites"
+    },
+    {
+      "from": "W7172021583",
+      "to": "W7116962995",
       "type": "cites"
     }
   ]

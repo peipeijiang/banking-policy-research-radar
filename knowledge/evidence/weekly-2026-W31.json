@@ -1,0 +1,741 @@
+{
+  "generated_at": "2026-08-03T04:24:39.831073",
+  "papers": [
+    {
+      "paper_ref": "P01",
+      "paper_id": "https://doi.org/10.3390/economies14080294",
+      "title": "Asymmetric Transmission of Monetary Policy Shocks in the Euro Area: Evidence from a Panel VAR Analysis",
+      "url": "https://doi.org/10.3390/economies14080294",
+      "topics": [
+        "Monetary Policy and Economic Impact",
+        "Italy: Economic History and Contemporary Issues",
+        "Global Financial Crisis and Policies"
+      ],
+      "score": 90.0,
+      "discovery": {},
+      "claim_ids": [
+        "P01-C01",
+        "P01-C02"
+      ]
+    },
+    {
+      "paper_ref": "P02",
+      "paper_id": "https://doi.org/10.1186/s43093-026-00921-7",
+      "title": "Monetary policy transmission in Türkiye under complex external conditions: a multi-method assessment (SVAR-ARDL-LP, 2008–2025)",
+      "url": "https://doi.org/10.1186/s43093-026-00921-7",
+      "topics": [
+        "Monetary Policy and Economic Impact",
+        "Market Dynamics and Volatility",
+        "Banking stability, regulation, efficiency"
+      ],
+      "score": 85.0,
+      "discovery": {},
+      "claim_ids": [
+        "P02-C01",
+        "P02-C02"
+      ]
+    },
+    {
+      "paper_ref": "P03",
+      "paper_id": "https://doi.org/10.5281/zenodo.21545870",
+      "title": "Developing a Competency-Based Risk Management Framework for the Ethiopian Commercial Banking Industry",
+      "url": "https://doi.org/10.5281/zenodo.21545870",
+      "topics": [
+        "Competency Development and Evaluation",
+        "Risk Management in Financial Firms",
+        "Insurance and Financial Risk Management"
+      ],
+      "score": 85.0,
+      "discovery": {},
+      "claim_ids": [
+        "P03-C01",
+        "P03-C02"
+      ]
+    },
+    {
+      "paper_ref": "P04",
+      "paper_id": "https://doi.org/10.5281/zenodo.21618007",
+      "title": "The Strategic Integrated Fund Management Model (SIFMM): Driving Financial Stability in Emerging Banking Sectors",
+      "url": "https://doi.org/10.5281/zenodo.21618007",
+      "topics": [
+        "Banking stability, regulation, efficiency",
+        "Sustainable Finance and Green Bonds",
+        "Global Financial Regulation and Crises"
+      ],
+      "score": 85.0,
+      "discovery": {},
+      "claim_ids": [
+        "P04-C01",
+        "P04-C02"
+      ]
+    },
+    {
+      "paper_ref": "P05",
+      "paper_id": "2607.22317v1",
+      "title": "Latent Fragility and Clustered Withdrawals in Dynamic Banks Runs",
+      "url": "http://arxiv.org/abs/2607.22317v1",
+      "topics": [],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P05-C01",
+        "P05-C02"
+      ]
+    },
+    {
+      "paper_ref": "P06",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3260~7f05446cac.en.pdf",
+      "title": "The effects of a large energy price shock on bank credit",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3260~7f05446cac.en.pdf",
+      "topics": [],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P06-C01",
+        "P06-C02"
+      ]
+    },
+    {
+      "paper_ref": "P07",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3259~ca31e19d1b.en.pdf",
+      "title": "Central banks, debt managers, and specialness in the Bund repo market",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3259~ca31e19d1b.en.pdf",
+      "topics": [],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P07-C01",
+        "P07-C02"
+      ]
+    },
+    {
+      "paper_ref": "P08",
+      "paper_id": "https://doi.org/10.55220/2576-6821.v10.1341",
+      "title": "Artificial Intelligence Governance and Banking Regulatory Compliance: A Multiple-Case Study of Commercial Banks in Uganda",
+      "url": "https://doi.org/10.55220/2576-6821.v10.1341",
+      "topics": [
+        "FinTech, Crowdfunding, Digital Finance",
+        "Ethics and Social Impacts of AI",
+        "COVID-19 Digital Contact Tracing"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P08-C01",
+        "P08-C02"
+      ]
+    },
+    {
+      "paper_ref": "P09",
+      "paper_id": "https://doi.org/10.5281/zenodo.21588669",
+      "title": "Estimation of Monetary Policy Transmission Channels in Pakistan: A VAR Analysis of the Interest Rate, Credit, Exchange Rate, and Asset Price Channels",
+      "url": "https://doi.org/10.5281/zenodo.21588669",
+      "topics": [
+        "Monetary Policy and Economic Impact",
+        "Banking stability, regulation, efficiency",
+        "Economic and Business Studies"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P09-C01",
+        "P09-C02"
+      ]
+    },
+    {
+      "paper_ref": "P10",
+      "paper_id": "https://doi.org/10.63939/jies.tgzxhm03",
+      "title": "Credit Interest Rates, GDP Growth, and the Efficiency and Stability of Commercial Banks in Lebanon: A Conceptual Analysis of Macro-Financial Transmission under Sovereign Distress",
+      "url": "https://doi.org/10.63939/jies.tgzxhm03",
+      "topics": [
+        "Banking stability, regulation, efficiency",
+        "Islamic Finance and Banking Studies",
+        "Middle East Politics and Society"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P10-C01",
+        "P10-C02"
+      ]
+    },
+    {
+      "paper_ref": "P11",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf",
+      "title": "Threshold endogeneity in vector autoregressions: reassessing monetary state dependence",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf",
+      "topics": [],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P11-C01",
+        "P11-C02"
+      ]
+    },
+    {
+      "paper_ref": "P12",
+      "paper_id": "https://doi.org/10.1057/s41308-026-00324-2",
+      "title": "Monetary Policy Transmission to Household Credit: Evidence from Uganda’s Credit Registry Data",
+      "url": "https://doi.org/10.1057/s41308-026-00324-2",
+      "topics": [
+        "Microfinance and Financial Inclusion",
+        "Banking stability, regulation, efficiency",
+        "Monetary Policy and Economic Impact"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P12-C01",
+        "P12-C02"
+      ]
+    },
+    {
+      "paper_ref": "P13",
+      "paper_id": "https://doi.org/10.62051/ijgem.v10n7.01",
+      "title": "The Relationship Between LPR, Bank Interest Rate and Real Estate Prices in Shanghai",
+      "url": "https://doi.org/10.62051/ijgem.v10n7.01",
+      "topics": [
+        "Housing Market and Economics",
+        "Banking stability, regulation, efficiency",
+        "Monetary Policy and Economic Impact"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P13-C01",
+        "P13-C02"
+      ]
+    },
+    {
+      "paper_ref": "P14",
+      "paper_id": "https://doi.org/10.18092/ulikidince.1855106",
+      "title": "MONETARY POLICY SHOCKS AND CRYPTOCURRENCY RETURNS: EVIDENCE FROM A STRUCTURAL VAR-X ANALYSIS",
+      "url": "https://doi.org/10.18092/ulikidince.1855106",
+      "topics": [
+        "Blockchain Technology Applications and Security",
+        "Market Dynamics and Volatility",
+        "Digital Transformation in Financial Services"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P14-C01",
+        "P14-C02"
+      ]
+    },
+    {
+      "paper_ref": "P15",
+      "paper_id": "https://doi.org/10.54254/2977-5701/2026.35733",
+      "title": "The impact of the Fed's interest rate hikes from 2023 to 2025 on financing for small and medium-sized enterprises in the United States",
+      "url": "https://doi.org/10.54254/2977-5701/2026.35733",
+      "topics": [
+        "Banking stability, regulation, efficiency",
+        "Monetary Policy and Economic Impact",
+        "COVID-19 Pandemic Impacts"
+      ],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P15-C01",
+        "P15-C02"
+      ]
+    },
+    {
+      "paper_ref": "P16",
+      "paper_id": "https://doi.org/10.5281/zenodo.21629761",
+      "title": "被吞噬的M1:交易货币M1的结构性损耗与传导机制测度 The Devoured M1: Structural Loss and Transmission Mechanism of Transaction Money M1",
+      "url": "https://doi.org/10.5281/zenodo.21629761",
+      "topics": [
+        "Global Political and Economic Relations",
+        "FinTech, Crowdfunding, Digital Finance",
+        "Monetary Policy and Economic Impact"
+      ],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P16-C01",
+        "P16-C02"
+      ]
+    },
+    {
+      "paper_ref": "P17",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/how-firms-form-beliefs-and-the-implications-for-inflation.htm",
+      "title": "FEDS Paper: How Firms Form Beliefs and the Implications for Inflation",
+      "url": "https://www.federalreserve.gov/econres/feds/how-firms-form-beliefs-and-the-implications-for-inflation.htm",
+      "topics": [],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P17-C01",
+        "P17-C02"
+      ]
+    },
+    {
+      "paper_ref": "P18",
+      "paper_id": "2607.28847v1",
+      "title": "Effort-Centric Fairness in Lending Decisions",
+      "url": "http://arxiv.org/abs/2607.28847v1",
+      "topics": [],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P18-C01",
+        "P18-C02"
+      ]
+    },
+    {
+      "paper_ref": "P19",
+      "paper_id": "2607.27548v1",
+      "title": "Explaining the Macroeconomic Inertia Puzzle",
+      "url": "http://arxiv.org/abs/2607.27548v1",
+      "topics": [],
+      "score": 60.0,
+      "discovery": {},
+      "claim_ids": [
+        "P19-C01",
+        "P19-C02"
+      ]
+    },
+    {
+      "paper_ref": "P20",
+      "paper_id": "2607.28131v1",
+      "title": "Nonfundamentalness or missing information ? Evidence from causal-noncausal VARs in macro-finance",
+      "url": "http://arxiv.org/abs/2607.28131v1",
+      "topics": [],
+      "score": 60.0,
+      "discovery": {},
+      "claim_ids": [
+        "P20-C01",
+        "P20-C02"
+      ]
+    },
+    {
+      "paper_ref": "P21",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/measuring-macroeconomic-atars-a-framework-with-scarring-effects.htm",
+      "title": "FEDS Paper: Measuring Macroeconomic Stars: A Framework with Scarring Effects",
+      "url": "https://www.federalreserve.gov/econres/feds/measuring-macroeconomic-atars-a-framework-with-scarring-effects.htm",
+      "topics": [],
+      "score": 60.0,
+      "discovery": {},
+      "claim_ids": [
+        "P21-C01",
+        "P21-C02"
+      ]
+    },
+    {
+      "paper_ref": "P22",
+      "paper_id": "https://doi.org/10.5281/zenodo.21724371",
+      "title": "The Zero-Equity Constraint in Monetary Systems",
+      "url": "https://doi.org/10.5281/zenodo.21724371",
+      "topics": [
+        "Economic Theory and Policy",
+        "Economic theories and models",
+        "Economic, financial, and policy analysis"
+      ],
+      "score": 60.0,
+      "discovery": {},
+      "claim_ids": [
+        "P22-C01",
+        "P22-C02"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "P01-C01",
+      "paper_id": "https://doi.org/10.3390/economies14080294",
+      "paper_ref": "P01",
+      "kind": "paper_summary",
+      "text": "使用贝叶斯面板VAR和高频识别方法，研究欧元区核心、外围和中东欧国家货币政策冲击传导的非对称性，发现传导存在结构性异质性和体制依赖性。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.3390/economies14080294"
+    },
+    {
+      "claim_id": "P01-C02",
+      "paper_id": "https://doi.org/10.3390/economies14080294",
+      "paper_ref": "P01",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.3390/economies14080294"
+    },
+    {
+      "claim_id": "P02-C01",
+      "paper_id": "https://doi.org/10.1186/s43093-026-00921-7",
+      "paper_ref": "P02",
+      "kind": "paper_summary",
+      "text": "该论文采用SVAR、ARDL和局部投影方法，评估土耳其2008-2025年货币政策传导机制的有效性，发现信贷渠道最显著，汇率渠道短暂，价格效应弱，且传导具有状态依赖性。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.1186/s43093-026-00921-7"
+    },
+    {
+      "claim_id": "P02-C02",
+      "paper_id": "https://doi.org/10.1186/s43093-026-00921-7",
+      "paper_ref": "P02",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.1186/s43093-026-00921-7"
+    },
+    {
+      "claim_id": "P03-C01",
+      "paper_id": "https://doi.org/10.5281/zenodo.21545870",
+      "paper_ref": "P03",
+      "kind": "paper_summary",
+      "text": "该研究采用混合方法，开发并验证了一个基于能力的风险管理框架，发现六种能力维度显著影响埃塞俄比亚商业银行的风险管理有效性，其中风险信息与技术能力是最强预测因子。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.5281/zenodo.21545870"
+    },
+    {
+      "claim_id": "P03-C02",
+      "paper_id": "https://doi.org/10.5281/zenodo.21545870",
+      "paper_ref": "P03",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.5281/zenodo.21545870"
+    },
+    {
+      "claim_id": "P04-C01",
+      "paper_id": "https://doi.org/10.5281/zenodo.21618007",
+      "paper_ref": "P04",
+      "kind": "paper_summary",
+      "text": "该论文通过混合方法研究埃塞俄比亚商业银行的金融稳定性，提出并验证了战略综合资金管理模型（SIFMM），发现内部资金管理能力是稳定性的关键驱动因素，而监管变量通过内部制度控制间接影响。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.5281/zenodo.21618007"
+    },
+    {
+      "claim_id": "P04-C02",
+      "paper_id": "https://doi.org/10.5281/zenodo.21618007",
+      "paper_ref": "P04",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.5281/zenodo.21618007"
+    },
+    {
+      "claim_id": "P05-C01",
+      "paper_id": "2607.22317v1",
+      "paper_ref": "P05",
+      "kind": "paper_summary",
+      "text": "利用平均场博弈框架研究银行挤兑的动态模型，发现即使存款人受到渐进异质性冲击，提款仍会聚集发生，机制是潜在脆弱性导致挤兑倾向存款人积累并同时退出。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2607.22317v1"
+    },
+    {
+      "claim_id": "P05-C02",
+      "paper_id": "2607.22317v1",
+      "paper_ref": "P05",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2607.22317v1"
+    },
+    {
+      "claim_id": "P06-C01",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3260~7f05446cac.en.pdf",
+      "paper_ref": "P06",
+      "kind": "paper_summary",
+      "text": "利用俄乌战争后能源价格冲击，通过高能耗与低能耗企业对比，发现银行对高能耗企业信贷下降、利率上升、条件收紧，且风险较高的企业受影响更大。",
+      "location": "AI paper-level summary",
+      "source_url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3260~7f05446cac.en.pdf"
+    },
+    {
+      "claim_id": "P06-C02",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3260~7f05446cac.en.pdf",
+      "paper_ref": "P06",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3260~7f05446cac.en.pdf"
+    },
+    {
+      "claim_id": "P07-C01",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3259~ca31e19d1b.en.pdf",
+      "paper_ref": "P07",
+      "kind": "paper_summary",
+      "text": "论文利用2015-2024年高频交易数据，分析欧洲央行资产购买和德国债务管理机构操作对德国国债回购利率特殊性的影响，发现央行购买压低回购利率，而债务管理机构回购借贷缓解稀缺性，但受市场分割和设施设计限制。",
+      "location": "AI paper-level summary",
+      "source_url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3259~ca31e19d1b.en.pdf"
+    },
+    {
+      "claim_id": "P07-C02",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3259~ca31e19d1b.en.pdf",
+      "paper_ref": "P07",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3259~ca31e19d1b.en.pdf"
+    },
+    {
+      "claim_id": "P08-C01",
+      "paper_id": "https://doi.org/10.55220/2576-6821.v10.1341",
+      "paper_ref": "P08",
+      "kind": "paper_summary",
+      "text": "通过乌干达商业银行多案例研究，探讨AI治理与银行监管合规的关系，发现内部治理碎片化、缺乏本地算法审计协议及央行监管缺口，建议发布基于风险的AI治理指南并设立独立算法监督委员会。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.55220/2576-6821.v10.1341"
+    },
+    {
+      "claim_id": "P08-C02",
+      "paper_id": "https://doi.org/10.55220/2576-6821.v10.1341",
+      "paper_ref": "P08",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.55220/2576-6821.v10.1341"
+    },
+    {
+      "claim_id": "P09-C01",
+      "paper_id": "https://doi.org/10.5281/zenodo.21588669",
+      "paper_ref": "P09",
+      "kind": "paper_summary",
+      "text": "使用VAR模型估计巴基斯坦的货币政策传导渠道，包括利率、信贷、汇率和资产价格渠道。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.5281/zenodo.21588669"
+    },
+    {
+      "claim_id": "P09-C02",
+      "paper_id": "https://doi.org/10.5281/zenodo.21588669",
+      "paper_ref": "P09",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.5281/zenodo.21588669"
+    },
+    {
+      "claim_id": "P10-C01",
+      "paper_id": "https://doi.org/10.63939/jies.tgzxhm03",
+      "paper_ref": "P10",
+      "kind": "paper_summary",
+      "text": "论文通过概念框架分析黎巴嫩商业银行在主权危机下，信贷利率和GDP增长如何影响银行效率与稳定性，强调主权-银行关联，并提出财政、货币、治理等协调改革建议。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.63939/jies.tgzxhm03"
+    },
+    {
+      "claim_id": "P10-C02",
+      "paper_id": "https://doi.org/10.63939/jies.tgzxhm03",
+      "paper_ref": "P10",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.63939/jies.tgzxhm03"
+    },
+    {
+      "claim_id": "P11-C01",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf",
+      "paper_ref": "P11",
+      "kind": "paper_summary",
+      "text": "提出内生阈值VAR方法解决阈值变量与冲击的同期依赖问题，应用于货币政策传导，避免线性VAR的谜题，估计体制依赖的牺牲比率。",
+      "location": "AI paper-level summary",
+      "source_url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf"
+    },
+    {
+      "claim_id": "P11-C02",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf",
+      "paper_ref": "P11",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf"
+    },
+    {
+      "claim_id": "P12-C01",
+      "paper_id": "https://doi.org/10.1057/s41308-026-00324-2",
+      "paper_ref": "P12",
+      "kind": "paper_summary",
+      "text": "利用乌干达信贷登记数据，研究货币政策对家庭信贷的传导，发现货币政策通过银行信贷渠道影响家庭贷款。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.1057/s41308-026-00324-2"
+    },
+    {
+      "claim_id": "P12-C02",
+      "paper_id": "https://doi.org/10.1057/s41308-026-00324-2",
+      "paper_ref": "P12",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.1057/s41308-026-00324-2"
+    },
+    {
+      "claim_id": "P13-C01",
+      "paper_id": "https://doi.org/10.62051/ijgem.v10n7.01",
+      "paper_ref": "P13",
+      "kind": "paper_summary",
+      "text": "基于2001-2024年上海数据，实证分析LPR和传统银行贷款利率对房价的影响，发现两者均有负向作用且LPR影响更强、时滞更短，并存在协同效应。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.62051/ijgem.v10n7.01"
+    },
+    {
+      "claim_id": "P13-C02",
+      "paper_id": "https://doi.org/10.62051/ijgem.v10n7.01",
+      "paper_ref": "P13",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.62051/ijgem.v10n7.01"
+    },
+    {
+      "claim_id": "P14-C01",
+      "paper_id": "https://doi.org/10.18092/ulikidince.1855106",
+      "paper_ref": "P14",
+      "kind": "paper_summary",
+      "text": "使用SVAR-X模型分析2020-2025年美联储利率冲击对五种加密货币收益的短期影响，发现冲击效应显著但短暂且异质。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.18092/ulikidince.1855106"
+    },
+    {
+      "claim_id": "P14-C02",
+      "paper_id": "https://doi.org/10.18092/ulikidince.1855106",
+      "paper_ref": "P14",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.18092/ulikidince.1855106"
+    },
+    {
+      "claim_id": "P15-C01",
+      "paper_id": "https://doi.org/10.54254/2977-5701/2026.35733",
+      "paper_ref": "P15",
+      "kind": "paper_summary",
+      "text": "本文运用货币政策传导理论，通过文献整理、官方数据收集和案例分析，研究2023-2025年美联储加息对美国中小企业融资的影响，发现加息显著提高借贷成本并收紧信贷，且影响存在行业、规模和地区差异及政策滞后效应。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.54254/2977-5701/2026.35733"
+    },
+    {
+      "claim_id": "P15-C02",
+      "paper_id": "https://doi.org/10.54254/2977-5701/2026.35733",
+      "paper_ref": "P15",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.54254/2977-5701/2026.35733"
+    },
+    {
+      "claim_id": "P16-C01",
+      "paper_id": "https://doi.org/10.5281/zenodo.21629761",
+      "paper_ref": "P16",
+      "kind": "paper_summary",
+      "text": "本文构建T1-T2-T3交易层级框架，引入M1灭失系数修正交易方程，利用中国省级面板数据实证发现债务利息消耗率显著提升M1灭失率，并通过四重传导渠道抑制民间投资，为疏通货币政策传导和优化债务治理提供量化工具。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.5281/zenodo.21629761"
+    },
+    {
+      "claim_id": "P16-C02",
+      "paper_id": "https://doi.org/10.5281/zenodo.21629761",
+      "paper_ref": "P16",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.5281/zenodo.21629761"
+    },
+    {
+      "claim_id": "P17-C01",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/how-firms-form-beliefs-and-the-implications-for-inflation.htm",
+      "paper_ref": "P17",
+      "kind": "paper_summary",
+      "text": "利用美国企业调查数据，研究企业成本预测的形成机制，并分析其对通胀和货币政策传导的影响。",
+      "location": "AI paper-level summary",
+      "source_url": "https://www.federalreserve.gov/econres/feds/how-firms-form-beliefs-and-the-implications-for-inflation.htm"
+    },
+    {
+      "claim_id": "P17-C02",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/how-firms-form-beliefs-and-the-implications-for-inflation.htm",
+      "paper_ref": "P17",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://www.federalreserve.gov/econres/feds/how-firms-form-beliefs-and-the-implications-for-inflation.htm"
+    },
+    {
+      "claim_id": "P18-C01",
+      "paper_id": "2607.28847v1",
+      "paper_ref": "P18",
+      "kind": "paper_summary",
+      "text": "提出一种以努力为中心的公平性框架，衡量被拒绝申请人为获得批准所需的最小加权成本，并通过正则化减少群体间努力差距，同时控制信贷风险。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2607.28847v1"
+    },
+    {
+      "claim_id": "P18-C02",
+      "paper_id": "2607.28847v1",
+      "paper_ref": "P18",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2607.28847v1"
+    },
+    {
+      "claim_id": "P19-C01",
+      "paper_id": "2607.27548v1",
+      "paper_ref": "P19",
+      "kind": "paper_summary",
+      "text": "论文通过将调查预期嵌入异质性主体模型，提出预期不完美推断导致宏观经济惯性的新理论，并指出惯性货币政策规则和延迟财政赤字融资会延长传导时滞。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2607.27548v1"
+    },
+    {
+      "claim_id": "P19-C02",
+      "paper_id": "2607.27548v1",
+      "paper_ref": "P19",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2607.27548v1"
+    },
+    {
+      "claim_id": "P20-C01",
+      "paper_id": "2607.28131v1",
+      "paper_ref": "P20",
+      "kind": "paper_summary",
+      "text": "本文提出一种因子滤波混合因果-非因果VARX方法，用于区分非因果动态是源于非基本性还是遗漏信息，并应用于Stock-Watson货币政策SVAR，发现滤波后非因果成分消失，且消除了价格之谜。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2607.28131v1"
+    },
+    {
+      "claim_id": "P20-C02",
+      "paper_id": "2607.28131v1",
+      "paper_ref": "P20",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2607.28131v1"
+    },
+    {
+      "claim_id": "P21-C01",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/measuring-macroeconomic-atars-a-framework-with-scarring-effects.htm",
+      "paper_ref": "P21",
+      "kind": "paper_summary",
+      "text": "本文扩展了趋势-周期分解框架，纳入疤痕效应，发现商业周期波动更多由趋势内生变动吸收，导致活动缺口路径改变，对货币政策有重要启示。",
+      "location": "AI paper-level summary",
+      "source_url": "https://www.federalreserve.gov/econres/feds/measuring-macroeconomic-atars-a-framework-with-scarring-effects.htm"
+    },
+    {
+      "claim_id": "P21-C02",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/measuring-macroeconomic-atars-a-framework-with-scarring-effects.htm",
+      "paper_ref": "P21",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://www.federalreserve.gov/econres/feds/measuring-macroeconomic-atars-a-framework-with-scarring-effects.htm"
+    },
+    {
+      "claim_id": "P22-C01",
+      "paper_id": "https://doi.org/10.5281/zenodo.21724371",
+      "paper_ref": "P22",
+      "kind": "paper_summary",
+      "text": "论文提出货币作为可转让价值索取权的本体论，推导出总金融权益为零，并统一解释国家货币和银行货币，强调税收作为货币赎回机制。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.5281/zenodo.21724371"
+    },
+    {
+      "claim_id": "P22-C02",
+      "paper_id": "https://doi.org/10.5281/zenodo.21724371",
+      "paper_ref": "P22",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.5281/zenodo.21724371"
+    }
+  ]
+}

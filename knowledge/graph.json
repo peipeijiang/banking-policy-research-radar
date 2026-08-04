@@ -2252,10 +2252,6 @@
       "title": "Stop Premature Obsolescence: LessTrash, Fewer Working Hours, Same Pay",
       "paper_id": "2607.28371v1"
     },
-    "2607.28230v1": {
-      "title": "Boundary-Induced Apparent Risk Aversion in Nonergodic Multiplicative Growth",
-      "paper_id": "2607.28230v1"
-    },
     "2607.28348v1": {
       "title": "Economics and Epidemics: Evidence from an Estimated Spatial Econ-SIR Model",
       "paper_id": "2607.28348v1"
@@ -2516,10 +2512,6 @@
       "title": "MONETARY POLICY SHOCKS AND CRYPTOCURRENCY RETURNS: EVIDENCE FROM A STRUCTURAL VAR-X ANALYSIS",
       "paper_id": "https://doi.org/10.18092/ulikidince.1855106"
     },
-    "W7172131802": {
-      "title": "The Zero-Equity Constraint in Monetary Systems",
-      "paper_id": "https://doi.org/10.5281/zenodo.21724371"
-    },
     "repec:RePEc:ces:ceswps:_12868": {
       "title": "MICHELE: The Computation of Healthy Life Expectancy from Mortality Schedules",
       "paper_id": "repec:RePEc:ces:ceswps:_12868"
@@ -2527,6 +2519,218 @@
     "repec:RePEc:ces:ceswps:_12867": {
       "title": "Healthy Life Expectancy for Individuals",
       "paper_id": "repec:RePEc:ces:ceswps:_12867"
+    },
+    "2608.02398v1": {
+      "title": "Profitability of Open-Source Software Product Development",
+      "paper_id": "2608.02398v1"
+    },
+    "2608.02102v1": {
+      "title": "Navigating the skill diversity frontier: How skill complexity explains worker resilience",
+      "paper_id": "2608.02102v1"
+    },
+    "2608.01607v1": {
+      "title": "AI Financial Advice: Supply, Demand, and Life Cycle Implications",
+      "paper_id": "2608.01607v1"
+    },
+    "2608.01540v1": {
+      "title": "Do people rely on ChatGPT more than their peers to detect deepfake news?",
+      "paper_id": "2608.01540v1"
+    },
+    "2608.01432v1": {
+      "title": "A New Theory of Value for Post-AGI Economics",
+      "paper_id": "2608.01432v1"
+    },
+    "2608.01212v1": {
+      "title": "Do Humans Bargain Differently with AI? Evidence from Alternating-Offer Games",
+      "paper_id": "2608.01212v1"
+    },
+    "2608.01181v1": {
+      "title": "Talking to Digital Twins: Selective Disclosure and Belief Measurement in Financial Social Media",
+      "paper_id": "2608.01181v1"
+    },
+    "2608.01010v1": {
+      "title": "Import dependence and per capita production are main determinants of economies' food supply robustness under production shocks",
+      "paper_id": "2608.01010v1"
+    },
+    "2608.00988v1": {
+      "title": "Exactly solvable model for the diffusive price-dynamics paradox under long-range correlated market-order flow",
+      "paper_id": "2608.00988v1"
+    },
+    "2608.00886v1": {
+      "title": "Joint Optimization of Human Headcount and Stochastic AI Resource Capacity",
+      "paper_id": "2608.00886v1"
+    },
+    "2608.00818v1": {
+      "title": "The Scaling Paradox in Human-AI Collaboration",
+      "paper_id": "2608.00818v1"
+    },
+    "2608.00580v1": {
+      "title": "Publication bias and p-hacking in the effect of COVID-19 on learning",
+      "paper_id": "2608.00580v1"
+    },
+    "2608.00567v1": {
+      "title": "Optimal Inflation Rate: A Meta-Analysis",
+      "paper_id": "2608.00567v1"
+    },
+    "2608.00328v1": {
+      "title": "Global coal trade is resilient to maritime chokepoints",
+      "paper_id": "2608.00328v1"
+    },
+    "2607.28230v2": {
+      "title": "Boundary-Induced Apparent Risk Aversion in Nonergodic Multiplicative Growth",
+      "paper_id": "2607.28230v2"
+    },
+    "2607.27553v2": {
+      "title": "AI and Its Impact on Creativity and Diversity: An Empirical Study of LLM-Generated Product Ideas",
+      "paper_id": "2607.27553v2"
+    },
+    "2608.02539v1": {
+      "title": "A Simple Approximation to the Distribution of the Ridge Regression Estimator",
+      "paper_id": "2608.02539v1"
+    },
+    "2608.02311v1": {
+      "title": "AI Governance for Institutional Readiness in Finance",
+      "paper_id": "2608.02311v1"
+    },
+    "2608.02055v1": {
+      "title": "High-Dimensional Panel Data Models with Interactive Fixed Effects: Beyond the Linear Case",
+      "paper_id": "2608.02055v1"
+    },
+    "2608.01544v1": {
+      "title": "Measuring Product Quality Using Images: The CLIP Q-Score and an Application to Real Estate",
+      "paper_id": "2608.01544v1"
+    },
+    "2608.01421v1": {
+      "title": "Regression with Observational Multilayered Network Data",
+      "paper_id": "2608.01421v1"
+    },
+    "2608.01415v1": {
+      "title": "Estimating Peer Influence in Multilayer Networks",
+      "paper_id": "2608.01415v1"
+    },
+    "2608.01405v1": {
+      "title": "Estimating Social Effects with Randomized and Observational Network Data",
+      "paper_id": "2608.01405v1"
+    },
+    "2608.01137v1": {
+      "title": "Double Machine Learning with High-dimensional Interactive Fixed Effects",
+      "paper_id": "2608.01137v1"
+    },
+    "2608.00772v1": {
+      "title": "Monotone Response for Random Objects",
+      "paper_id": "2608.00772v1"
+    },
+    "2608.00336v1": {
+      "title": "Measurement Error and Peer Effects in Networks",
+      "paper_id": "2608.00336v1"
+    },
+    "2608.00262v1": {
+      "title": "A Structural Matrix Autoregression Framework for International Spillovers",
+      "paper_id": "2608.00262v1"
+    },
+    "2608.00136v1": {
+      "title": "A Nonparametric Test for Cross-Unit Spillovers",
+      "paper_id": "2608.00136v1"
+    },
+    "2608.02293v1": {
+      "title": "Dynamic Traffic Allocation for Revenue Maximization on Creator Economy Platform",
+      "paper_id": "2608.02293v1"
+    },
+    "2608.02479v1": {
+      "title": "Robust Scale-Free Auctions",
+      "paper_id": "2608.02479v1"
+    },
+    "2608.01967v1": {
+      "title": "Second-Order Potentials for Finite Games: Existence, Characterisation, and Game Decomposition",
+      "paper_id": "2608.01967v1"
+    },
+    "2608.01591v1": {
+      "title": "One-Shot Pricing for Hands-Off-the-Wheel Advertising Markets",
+      "paper_id": "2608.01591v1"
+    },
+    "2608.01554v1": {
+      "title": "P-Bubbles, Q-Bubbles, and Risk Premia",
+      "paper_id": "2608.01554v1"
+    },
+    "2608.01515v1": {
+      "title": "The Set of Correlated Equilibrium Payoffs for a Fixed Information Structure Need Not Be Closed",
+      "paper_id": "2608.01515v1"
+    },
+    "2608.01480v1": {
+      "title": "Sweet Little Lies: Strategic Deception in AI Emotional Support Chatbots",
+      "paper_id": "2608.01480v1"
+    },
+    "2608.01228v1": {
+      "title": "Individual Fairness in Budget Aggregation",
+      "paper_id": "2608.01228v1"
+    },
+    "2608.01406v1": {
+      "title": "Algorithmic collusion under asynchronous price updating",
+      "paper_id": "2608.01406v1"
+    },
+    "2608.00729v1": {
+      "title": "On the Sparsity of Optimal Information Structures",
+      "paper_id": "2608.00729v1"
+    },
+    "2608.00517v1": {
+      "title": "Exact Budget Balance via Payment-Rule Ambiguity: Incentive Preservation, Transfer Capacity, and Participation",
+      "paper_id": "2608.00517v1"
+    },
+    "2608.00334v1": {
+      "title": "Pure-Strategy Equilibrium in the Generalized First-Price Auction",
+      "paper_id": "2608.00334v1"
+    },
+    "2608.00151v1": {
+      "title": "Optimising for Flourishing: Flourishing Metrics and Return on Flourishing as Success Criteria for Artificial Intelligence and Post-AGI Economic Systems",
+      "paper_id": "2608.00151v1"
+    },
+    "2608.02002v1": {
+      "title": "Hawkes-Driven OTC Market Making: Volterra-Riccati Approximation",
+      "paper_id": "2608.02002v1"
+    },
+    "2608.01294v1": {
+      "title": "An Information-Geometric Framework for Bayesian Credit Risk Monitoring",
+      "paper_id": "2608.01294v1"
+    },
+    "2608.01494v1": {
+      "title": "Conformal Kelly: Conformal Prediction Intervals as the Scale in Fractional Kelly Position Sizing",
+      "paper_id": "2608.01494v1"
+    },
+    "2608.01208v1": {
+      "title": "Climate-Dyna Deep Hedging for XVAs: Model-Based Reinforcement Learning, Residual Climate HVA, and Hedge-Instrument Discovery",
+      "paper_id": "2608.01208v1"
+    },
+    "2608.00647v1": {
+      "title": "Axient: On-Chain Credit and Loss Allocation for Leveraged Event Markets: A Venue-Agnostic Protocol for Traders, Credit Providers, Market Makers, and Liquidation Backstops",
+      "paper_id": "2608.00647v1"
+    },
+    "2608.00631v1": {
+      "title": "Axient: Debt-Free Finality for Leveraged Binary Event Markets",
+      "paper_id": "2608.00631v1"
+    },
+    "2608.00127v1": {
+      "title": "Drawdown Risk Beyond Brownian Motion: A Monte-Carlo Framework, Non-Gaussian Extensions, and Long Memory",
+      "paper_id": "2608.00127v1"
+    },
+    "2608.02475v1": {
+      "title": "Methodology for Modelling Token Economies and Performing Event Impact Analysis with DeTEcT",
+      "paper_id": "2608.02475v1"
+    },
+    "2608.00761v1": {
+      "title": "AI and Exchange Rate Predictability",
+      "paper_id": "2608.00761v1"
+    },
+    "2608.00858v1": {
+      "title": "Data-Driven Measures of High-Frequency Trading",
+      "paper_id": "2608.00858v1"
+    },
+    "W7117414626": {
+      "title": "The Zero-Equity Constraint in Monetary Systems",
+      "paper_id": "https://doi.org/10.5281/zenodo.18065333"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3266~e62e35205b.en.pdf": {
+      "title": "The transmission of shocks across sectors and the dynamics of sectoral prices",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3266~e62e35205b.en.pdf"
     }
   },
   "edges": [

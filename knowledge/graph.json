@@ -2460,14 +2460,6 @@
       "title": "TerraNova: A Foundation Model for the Anthropocene",
       "paper_id": "2607.29527v1"
     },
-    "2607.29442v1": {
-      "title": "Microstructural Foundations of Rough Noise",
-      "paper_id": "2607.29442v1"
-    },
-    "2607.29281v1": {
-      "title": "Producing Policy Recommendations: from Statistical Decision Theory to Empirical Practice",
-      "paper_id": "2607.29281v1"
-    },
     "2607.29215v1": {
       "title": "Conditional projection methods for large-scale Bayesian VARs",
       "paper_id": "2607.29215v1"
@@ -2536,10 +2528,6 @@
       "title": "Do people rely on ChatGPT more than their peers to detect deepfake news?",
       "paper_id": "2608.01540v1"
     },
-    "2608.01432v1": {
-      "title": "A New Theory of Value for Post-AGI Economics",
-      "paper_id": "2608.01432v1"
-    },
     "2608.01212v1": {
       "title": "Do Humans Bargain Differently with AI? Evidence from Alternating-Offer Games",
       "paper_id": "2608.01212v1"
@@ -2571,10 +2559,6 @@
     "2608.00567v1": {
       "title": "Optimal Inflation Rate: A Meta-Analysis",
       "paper_id": "2608.00567v1"
-    },
-    "2608.00328v1": {
-      "title": "Global coal trade is resilient to maritime chokepoints",
-      "paper_id": "2608.00328v1"
     },
     "2607.28230v2": {
       "title": "Boundary-Induced Apparent Risk Aversion in Nonergodic Multiplicative Growth",
@@ -2680,10 +2664,6 @@
       "title": "Pure-Strategy Equilibrium in the Generalized First-Price Auction",
       "paper_id": "2608.00334v1"
     },
-    "2608.00151v1": {
-      "title": "Optimising for Flourishing: Flourishing Metrics and Return on Flourishing as Success Criteria for Artificial Intelligence and Post-AGI Economic Systems",
-      "paper_id": "2608.00151v1"
-    },
     "2608.02002v1": {
       "title": "Hawkes-Driven OTC Market Making: Volterra-Riccati Approximation",
       "paper_id": "2608.02002v1"
@@ -2728,9 +2708,145 @@
       "title": "The Zero-Equity Constraint in Monetary Systems",
       "paper_id": "https://doi.org/10.5281/zenodo.18065333"
     },
-    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3266~e62e35205b.en.pdf": {
+    "2608.03716v1": {
+      "title": "Synthetic supply networks",
+      "paper_id": "2608.03716v1"
+    },
+    "2608.03703v1": {
+      "title": "Preying on Leveraged ETFs",
+      "paper_id": "2608.03703v1"
+    },
+    "2608.03596v1": {
+      "title": "Transnational political violence in African borderlands",
+      "paper_id": "2608.03596v1"
+    },
+    "2608.03570v1": {
+      "title": "Cities and political violence in West Africa",
+      "paper_id": "2608.03570v1"
+    },
+    "2608.03504v1": {
+      "title": "Stochastic Choice with Advertising",
+      "paper_id": "2608.03504v1"
+    },
+    "2608.03221v1": {
+      "title": "Digital State Capacity",
+      "paper_id": "2608.03221v1"
+    },
+    "2608.03153v1": {
+      "title": "Does the Gender Wage Gap Originate at Labor Market Entry? Evidence from South Korea",
+      "paper_id": "2608.03153v1"
+    },
+    "2608.02854v1": {
+      "title": "Preference robust distortion risk measures",
+      "paper_id": "2608.02854v1"
+    },
+    "2608.02817v1": {
+      "title": "Reviving Micro Real Rigidities: The Importance of Demand Shocks",
+      "paper_id": "2608.02817v1"
+    },
+    "2608.02800v1": {
+      "title": "Raising Rivals' Costs on Hybrid Platforms: The Complementarity of Fees and Self-Preferencing",
+      "paper_id": "2608.02800v1"
+    },
+    "2608.02666v1": {
+      "title": "Rebuilding Startups: An Empirical Study on Remote Work and Skill Complementarity",
+      "paper_id": "2608.02666v1"
+    },
+    "2608.01432v2": {
+      "title": "A New Theory of Value for Post-AGI Economics",
+      "paper_id": "2608.01432v2"
+    },
+    "2608.00328v2": {
+      "title": "Global coal trade is resilient to maritime chokepoints",
+      "paper_id": "2608.00328v2"
+    },
+    "2608.02651v1": {
+      "title": "Delegated Monitoring in Public-Private Sector Credit Programs: Underinvestment, Overinvestment, and the Design of Subsidized Lending",
+      "paper_id": "2608.02651v1"
+    },
+    "2608.03881v1": {
+      "title": "Difference-in-differences with \"bad controls\"",
+      "paper_id": "2608.03881v1"
+    },
+    "2608.03847v1": {
+      "title": "Identification and Information after Nuisance Projection",
+      "paper_id": "2608.03847v1"
+    },
+    "2608.03773v1": {
+      "title": "Testing for Smooth Structural Change in Cointegrated Systems",
+      "paper_id": "2608.03773v1"
+    },
+    "2608.03486v1": {
+      "title": "A fully nonlinear structural vector autoregressive model identified via independent innovation analysis",
+      "paper_id": "2608.03486v1"
+    },
+    "2608.02943v1": {
+      "title": "Bandwidth-Free Inference for Recursive Nonlinear Impulse Response Functions",
+      "paper_id": "2608.02943v1"
+    },
+    "2608.02909v1": {
+      "title": "When Predictions Become Regressors: A Split-Sample Correction for Biases in Downstream Inference",
+      "paper_id": "2608.02909v1"
+    },
+    "2607.29442v2": {
+      "title": "Microstructural Foundations of Rough Noise",
+      "paper_id": "2607.29442v2"
+    },
+    "2607.29281v2": {
+      "title": "Producing Policy Recommendations: from Statistical Decision Theory to Empirical Practice",
+      "paper_id": "2607.29281v2"
+    },
+    "2608.03788v1": {
+      "title": "When Does Party Convergence Persist under Alienation-Based Abstention?",
+      "paper_id": "2608.03788v1"
+    },
+    "2608.03719v1": {
+      "title": "Effort without Evidence",
+      "paper_id": "2608.03719v1"
+    },
+    "2608.03230v1": {
+      "title": "Stable Matching with Payoff Guarantees",
+      "paper_id": "2608.03230v1"
+    },
+    "2608.03114v1": {
+      "title": "Optimal Liability Design for Medical AI",
+      "paper_id": "2608.03114v1"
+    },
+    "2608.00151v2": {
+      "title": "Optimising for Flourishing: Flourishing Metrics and Return on Flourishing as Success Criteria for Artificial Intelligence and Post-AGI Economic Systems",
+      "paper_id": "2608.00151v2"
+    },
+    "2608.03466v1": {
+      "title": "A unifying perspective on the collapse to the mean for law-invariant functionals",
+      "paper_id": "2608.03466v1"
+    },
+    "W7172286346": {
+      "title": "Why Does Central Bank Credibility Weaken without Collapsing? Evidence from Shifting Monetary Policy Priorities",
+      "paper_id": "https://doi.org/10.21203/rs.3.rs-10450203/v1"
+    },
+    "W7172334604": {
+      "title": "An Empirical Analysis of the Impact of Non-Performing Loan Ratios on the Profitability of Commercial Banks in Nepal",
+      "paper_id": "https://doi.org/10.52783/ijept.824"
+    },
+    "W7171874357": {
+      "title": "Framing effects in inflation expectation surveys: Evidence from a randomized field experiment",
+      "paper_id": "https://doi.org/10.1016/j.jbef.2026.101233"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3268~2149ee18e6.en.pdf": {
+      "title": "Severity over quantity. Drivers of supervisory capital add-ons in internal ratings-based models",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3268~2149ee18e6.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3267~db61249945.en.pdf": {
+      "title": "On-the-job search in Europe and the U.S.: precautionary vs. job ladder motives",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3267~db61249945.en.pdf"
+    },
+    "worldbank:40120512": {
+      "title": "How Public Financial Management Shapes Education and Health Outcomes : A Configurational Perspective",
+      "paper_id": "worldbank:40120512"
+    },
+    "repec:RePEc:ecb:ecbwps:20263266": {
       "title": "The transmission of shocks across sectors and the dynamics of sectoral prices",
-      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3266~e62e35205b.en.pdf"
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263266"
     }
   },
   "edges": [
@@ -26932,6 +27048,151 @@
     {
       "from": "W7172021583",
       "to": "W7116962995",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W1994009959",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W2003451358",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W2023307547",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W2030775385",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W2046257934",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W2054100112",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W2116259019",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W2157562165",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W2511436804",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W2733755964",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W2797391917",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W2808380598",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W2886144911",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W2889616835",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W3122474515",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W3179513234",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W4309617492",
+      "type": "cites"
+    },
+    {
+      "from": "W7172286346",
+      "to": "W4362557413",
+      "type": "cites"
+    },
+    {
+      "from": "W7171874357",
+      "to": "W2036523333",
+      "type": "cites"
+    },
+    {
+      "from": "W7171874357",
+      "to": "W2096452841",
+      "type": "cites"
+    },
+    {
+      "from": "W7171874357",
+      "to": "W2131866357",
+      "type": "cites"
+    },
+    {
+      "from": "W7171874357",
+      "to": "W3125293137",
+      "type": "cites"
+    },
+    {
+      "from": "W7171874357",
+      "to": "W4241653265",
+      "type": "cites"
+    },
+    {
+      "from": "W7171874357",
+      "to": "W4292157289",
+      "type": "cites"
+    },
+    {
+      "from": "W7171874357",
+      "to": "W4318486441",
+      "type": "cites"
+    },
+    {
+      "from": "W7171874357",
+      "to": "W4407021259",
+      "type": "cites"
+    },
+    {
+      "from": "W7171874357",
+      "to": "W4411135631",
+      "type": "cites"
+    },
+    {
+      "from": "W7171874357",
+      "to": "W7115927673",
+      "type": "cites"
+    },
+    {
+      "from": "W7171874357",
+      "to": "W7126409673",
       "type": "cites"
     }
   ]

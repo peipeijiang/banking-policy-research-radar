@@ -2832,14 +2832,6 @@
       "title": "Framing effects in inflation expectation surveys: Evidence from a randomized field experiment",
       "paper_id": "https://doi.org/10.1016/j.jbef.2026.101233"
     },
-    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3268~2149ee18e6.en.pdf": {
-      "title": "Severity over quantity. Drivers of supervisory capital add-ons in internal ratings-based models",
-      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3268~2149ee18e6.en.pdf"
-    },
-    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3267~db61249945.en.pdf": {
-      "title": "On-the-job search in Europe and the U.S.: precautionary vs. job ladder motives",
-      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3267~db61249945.en.pdf"
-    },
     "worldbank:40120512": {
       "title": "How Public Financial Management Shapes Education and Health Outcomes : A Configurational Perspective",
       "paper_id": "worldbank:40120512"
@@ -2847,6 +2839,118 @@
     "repec:RePEc:ecb:ecbwps:20263266": {
       "title": "The transmission of shocks across sectors and the dynamics of sectoral prices",
       "paper_id": "repec:RePEc:ecb:ecbwps:20263266"
+    },
+    "2608.04925v1": {
+      "title": "From Long to Short: How Interest Rates Shape Life Insurance Markets",
+      "paper_id": "2608.04925v1"
+    },
+    "2608.04977v1": {
+      "title": "The Role of Risk Sharing in Attenuating Business Cycles Within Currency Unions",
+      "paper_id": "2608.04977v1"
+    },
+    "2608.04409v1": {
+      "title": "Quantifying Different Gains from Trade in Quality",
+      "paper_id": "2608.04409v1"
+    },
+    "2608.04198v1": {
+      "title": "Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment",
+      "paper_id": "2608.04198v1"
+    },
+    "2608.05017v1": {
+      "title": "Algorithm-Driven SVARs: Navigating the Wilderness of Big Data",
+      "paper_id": "2608.05017v1"
+    },
+    "2608.04983v1": {
+      "title": "A Pairwise Differencing Distribution Regression Approach for Network Models",
+      "paper_id": "2608.04983v1"
+    },
+    "2608.04664v1": {
+      "title": "Soft-Noncrossing Bayesian Panel Quantile Regression for Measuring Climate Tail Risk",
+      "paper_id": "2608.04664v1"
+    },
+    "2608.04839v1": {
+      "title": "Exact Inference in Fixed-Effect Regressions with Concentrated Identifying Variation",
+      "paper_id": "2608.04839v1"
+    },
+    "2608.04631v1": {
+      "title": "Clustered Local Projections for Short and Ultra-Short Time Series -- A Hierarchical Bayesian Framework",
+      "paper_id": "2608.04631v1"
+    },
+    "2608.04629v1": {
+      "title": "Drivers of Success: A Bayesian State-Space Model to Disentangling Latent Driver and Constructor Abilities in Formula One",
+      "paper_id": "2608.04629v1"
+    },
+    "2608.04469v1": {
+      "title": "Generalized Impulse Responses of Portfolio Default Probabilities: A Modular Framework with an Application to Geopolitical Risk",
+      "paper_id": "2608.04469v1"
+    },
+    "2608.04208v1": {
+      "title": "Estimating Heterogeneity in Travel Mode Choice Shifts with Causal Forests",
+      "paper_id": "2608.04208v1"
+    },
+    "2608.05043v1": {
+      "title": "Decision Making Under Multidimensional Risk",
+      "paper_id": "2608.05043v1"
+    },
+    "2608.04162v1": {
+      "title": "Correlation Matrices in High Dimensions: The Elliptope as a Sample-Correlation Ensemble",
+      "paper_id": "2608.04162v1"
+    },
+    "2608.05015v1": {
+      "title": "Revealed Rationality: Label-Free Evaluation and Regularization from Representation Theorems",
+      "paper_id": "2608.05015v1"
+    },
+    "2608.04973v1": {
+      "title": "Quantum Bayes Correlated Equilibrium and the Comparison of Quantum Information Structures in Games",
+      "paper_id": "2608.04973v1"
+    },
+    "2608.04332v1": {
+      "title": "Informational Content of Auction Prices",
+      "paper_id": "2608.04332v1"
+    },
+    "2608.04787v1": {
+      "title": "Defensive Pessimism: Growth, Culture, and the Survival of Evidence",
+      "paper_id": "2608.04787v1"
+    },
+    "2608.04276v1": {
+      "title": "The Fallback as Signal: Preserved Human Skill, Liability, and Competence Signaling in Credence-Good Markets under Improving AI",
+      "paper_id": "2608.04276v1"
+    },
+    "2608.04987v1": {
+      "title": "Portfolio Allocation under Heterogeneous Scales and Multifractality",
+      "paper_id": "2608.04987v1"
+    },
+    "2608.04929v1": {
+      "title": "Open Information: A Defining Perspective on Web Datasets for Carbon Pricing",
+      "paper_id": "2608.04929v1"
+    },
+    "2608.04547v1": {
+      "title": "Attributing Differences Between Forecast Runs to Input Changes, With Applications to CCAR and CECL Exercises",
+      "paper_id": "2608.04547v1"
+    },
+    "2608.04305v1": {
+      "title": "Adaptive Finite-Budget Training for CVaR Risk-Aware Q-Learning",
+      "paper_id": "2608.04305v1"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3269~2e2e110338.en.pdf": {
+      "title": "Forecasting the euro area job vacancy rate with earnings calls data",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3269~2e2e110338.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3270~4eb87cfa17.en.pdf": {
+      "title": "MuSE: a multiple macro-financial scenario simulation engine for stress testing",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3270~4eb87cfa17.en.pdf"
+    },
+    "repec:RePEc:fip:fedpwp:103596": {
+      "title": "ForeComp: An R Package for Comparing Predictive Accuracy Using Fixed-Smoothing Asymptotics",
+      "paper_id": "repec:RePEc:fip:fedpwp:103596"
+    },
+    "repec:RePEc:ecb:ecbwps:20263267": {
+      "title": "On-the-job search in Europe and the U.S.: precautionary vs. job ladder motives",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263267"
+    },
+    "repec:RePEc:ecb:ecbwps:20263268": {
+      "title": "Severity over quantity. Drivers of supervisory capital add-ons in internal ratings-based models",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263268"
     }
   },
   "edges": [

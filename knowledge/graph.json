@@ -2932,14 +2932,6 @@
       "title": "Adaptive Finite-Budget Training for CVaR Risk-Aware Q-Learning",
       "paper_id": "2608.04305v1"
     },
-    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3269~2e2e110338.en.pdf": {
-      "title": "Forecasting the euro area job vacancy rate with earnings calls data",
-      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3269~2e2e110338.en.pdf"
-    },
-    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3270~4eb87cfa17.en.pdf": {
-      "title": "MuSE: a multiple macro-financial scenario simulation engine for stress testing",
-      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3270~4eb87cfa17.en.pdf"
-    },
     "repec:RePEc:fip:fedpwp:103596": {
       "title": "ForeComp: An R Package for Comparing Predictive Accuracy Using Fixed-Smoothing Asymptotics",
       "paper_id": "repec:RePEc:fip:fedpwp:103596"
@@ -2951,6 +2943,98 @@
     "repec:RePEc:ecb:ecbwps:20263268": {
       "title": "Severity over quantity. Drivers of supervisory capital add-ons in internal ratings-based models",
       "paper_id": "repec:RePEc:ecb:ecbwps:20263268"
+    },
+    "2608.05636v1": {
+      "title": "Benefits of Shifting Passenger Traffic from Air to Rail: A Case Study of California High-Speed Rail",
+      "paper_id": "2608.05636v1"
+    },
+    "2608.06134v1": {
+      "title": "Large-Market Discipline in Combinatorial Double Auctions: No Assembly, Bundle Selection, and Complementarities",
+      "paper_id": "2608.06134v1"
+    },
+    "2608.05211v1": {
+      "title": "Legal aid eligibility and court outcomes: a design-based double-machine-learning approach",
+      "paper_id": "2608.05211v1"
+    },
+    "2608.06116v1": {
+      "title": "Bartlett Couplings of the Onion and Vine LKJ Samplers",
+      "paper_id": "2608.06116v1"
+    },
+    "2608.05676v1": {
+      "title": "Risk in a Data-Rich Model",
+      "paper_id": "2608.05676v1"
+    },
+    "2608.06053v1": {
+      "title": "Fixed-Effect Saturation Is Not Weak Identification: Certifying Inference under Measurement Error",
+      "paper_id": "2608.06053v1"
+    },
+    "2608.06327v1": {
+      "title": "There Ain't No Such Thing as a Free Equilibrium",
+      "paper_id": "2608.06327v1"
+    },
+    "2608.06152v1": {
+      "title": "Stochastic Choice with Distribution-Dependent Preferences",
+      "paper_id": "2608.06152v1"
+    },
+    "2608.06092v1": {
+      "title": "Strategic Heterogeneity: Welfare Gains from Secession and Immigration",
+      "paper_id": "2608.06092v1"
+    },
+    "2608.05969v1": {
+      "title": "The Institutional Window: Occupation- and Jurisdiction-Specific Calibration of Liability Signaling for Preserved Human Fallback Capability",
+      "paper_id": "2608.05969v1"
+    },
+    "2608.05444v1": {
+      "title": "A Costly-information Foundation for Psychometric Curves",
+      "paper_id": "2608.05444v1"
+    },
+    "2608.05380v1": {
+      "title": "Rational Learning One Step Off the Path",
+      "paper_id": "2608.05380v1"
+    },
+    "2608.05379v1": {
+      "title": "Catastrophic Attention Preferences",
+      "paper_id": "2608.05379v1"
+    },
+    "2608.05355v1": {
+      "title": "Tâtonnement and Price Setting in General Equilibrium",
+      "paper_id": "2608.05355v1"
+    },
+    "2608.05991v1": {
+      "title": "Knowledge-Optimising Investment Decisions with Informative Datasets",
+      "paper_id": "2608.05991v1"
+    },
+    "2608.05367v1": {
+      "title": "Counterfactual Analysis via Large Language Models",
+      "paper_id": "2608.05367v1"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3271~99b37f6d9a.en.pdf": {
+      "title": "Financial frictions across the production network and the transmission of monetary policy",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3271~99b37f6d9a.en.pdf"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/inflation-uncertainty-and-endogenous-planning-horizons.htm": {
+      "title": "FEDS Paper: Inflation Uncertainty and Endogenous Planning Horizons",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/inflation-uncertainty-and-endogenous-planning-horizons.htm"
+    },
+    "worldbank:40120973": {
+      "title": "Gender Gaps in Pay and Advancement within Firms : Evidence from Ethiopia’s Financial Sector",
+      "paper_id": "worldbank:40120973"
+    },
+    "repec:RePEc:ces:ceswps:_12899": {
+      "title": "The Economic Consequences of Insecure Property Rights",
+      "paper_id": "repec:RePEc:ces:ceswps:_12899"
+    },
+    "repec:RePEc:ces:ceswps:_12898": {
+      "title": "Measuring Rally Effects Under Authoritarianism: Evidence from Russia’s War in Ukraine",
+      "paper_id": "repec:RePEc:ces:ceswps:_12898"
+    },
+    "repec:RePEc:ecb:ecbwps:20263269": {
+      "title": "Forecasting the euro area job vacancy rate with earnings calls data",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263269"
+    },
+    "repec:RePEc:ecb:ecbwps:20263270": {
+      "title": "MuSE: a multiple macro-financial scenario simulation engine for stress testing",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263270"
     }
   },
   "edges": [

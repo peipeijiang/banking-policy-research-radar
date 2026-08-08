@@ -3035,6 +3035,18 @@
     "repec:RePEc:ecb:ecbwps:20263270": {
       "title": "MuSE: a multiple macro-financial scenario simulation engine for stress testing",
       "paper_id": "repec:RePEc:ecb:ecbwps:20263270"
+    },
+    "repec:RePEc:ces:ceswps:_12897": {
+      "title": "Alternative Insurance: Gig Work and Social Insurance Participation",
+      "paper_id": "repec:RePEc:ces:ceswps:_12897"
+    },
+    "repec:RePEc:ces:ceswps:_12896": {
+      "title": "The Inflationary Effects of the El Niño-Southern Oscillation",
+      "paper_id": "repec:RePEc:ces:ceswps:_12896"
+    },
+    "repec:RePEc:fip:fedpwp:103607": {
+      "title": "Spreading Out Across Expanding Idea Space",
+      "paper_id": "repec:RePEc:fip:fedpwp:103607"
     }
   },
   "edges": [

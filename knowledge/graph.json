@@ -3047,6 +3047,22 @@
     "repec:RePEc:fip:fedpwp:103607": {
       "title": "Spreading Out Across Expanding Idea Space",
       "paper_id": "repec:RePEc:fip:fedpwp:103607"
+    },
+    "W7172377228": {
+      "title": "Macroeconomic Determinants of Investment Credit in Indonesia: Evidence from the ARDL Bounds Testing Approach",
+      "paper_id": "https://doi.org/10.18860/cauchy.v11i2.42713"
+    },
+    "W7201863566": {
+      "title": "Inflation Unpacked: Breaking Down the Key Components Using a Neural Phillips Curve",
+      "paper_id": "https://doi.org/10.22004/ag.econ.406292"
+    },
+    "repec:RePEc:ces:ceswps:_12895": {
+      "title": "Teachers and Inequality in Student Performance - Estimating Value Added and Sorting Under Endogenous Mobility",
+      "paper_id": "repec:RePEc:ces:ceswps:_12895"
+    },
+    "repec:RePEc:ces:ceswps:_12894": {
+      "title": "Bidding for the Cloud: Fiscal Competition and the Socialization of Infrastructure Costs",
+      "paper_id": "repec:RePEc:ces:ceswps:_12894"
     }
   },
   "edges": [

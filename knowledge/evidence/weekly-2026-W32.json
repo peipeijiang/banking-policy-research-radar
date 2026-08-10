@@ -1,0 +1,700 @@
+{
+  "generated_at": "2026-08-10T03:07:45.753091",
+  "papers": [
+    {
+      "paper_ref": "P01",
+      "paper_id": "https://doi.org/10.18092/ulikidince.1855106",
+      "title": "MONETARY POLICY SHOCKS AND CRYPTOCURRENCY RETURNS: EVIDENCE FROM A STRUCTURAL VAR-X ANALYSIS",
+      "url": "https://doi.org/10.18092/ulikidince.1855106",
+      "topics": [
+        "Blockchain Technology Applications and Security",
+        "Market Dynamics and Volatility",
+        "Digital Transformation in Financial Services"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P01-C01",
+        "P01-C02"
+      ]
+    },
+    {
+      "paper_ref": "P02",
+      "paper_id": "2608.00567v1",
+      "title": "Optimal Inflation Rate: A Meta-Analysis",
+      "url": "http://arxiv.org/abs/2608.00567v1",
+      "topics": [],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P02-C01",
+        "P02-C02"
+      ]
+    },
+    {
+      "paper_ref": "P03",
+      "paper_id": "https://doi.org/10.21203/rs.3.rs-10450203/v1",
+      "title": "Why Does Central Bank Credibility Weaken without Collapsing? Evidence from Shifting Monetary Policy Priorities",
+      "url": "https://doi.org/10.21203/rs.3.rs-10450203/v1",
+      "topics": [
+        "Monetary Policy and Economic Impact",
+        "Global Financial Crisis and Policies",
+        "Banking stability, regulation, efficiency"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P03-C01",
+        "P03-C02"
+      ]
+    },
+    {
+      "paper_ref": "P04",
+      "paper_id": "https://doi.org/10.52783/ijept.824",
+      "title": "An Empirical Analysis of the Impact of Non-Performing Loan Ratios on the Profitability of Commercial Banks in Nepal",
+      "url": "https://doi.org/10.52783/ijept.824",
+      "topics": [
+        "Banking stability, regulation, efficiency",
+        "Working Capital and Financial Performance",
+        "Corporate Governance and Financial Management"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P04-C01",
+        "P04-C02"
+      ]
+    },
+    {
+      "paper_ref": "P05",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263268",
+      "title": "Severity over quantity. Drivers of supervisory capital add-ons in internal ratings-based models",
+      "url": "https://ideas.repec.org/p/ecb/ecbwps/20263268.html",
+      "topics": [],
+      "score": 80.0,
+      "discovery": {
+        "provider": "IDEAS/RePEc",
+        "series_url": "https://ideas.repec.org/s/ecb/ecbwps.html",
+        "free_download": true,
+        "date_precision": "month"
+      },
+      "claim_ids": [
+        "P05-C01",
+        "P05-C02"
+      ]
+    },
+    {
+      "paper_ref": "P06",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3271~99b37f6d9a.en.pdf",
+      "title": "Financial frictions across the production network and the transmission of monetary policy",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3271~99b37f6d9a.en.pdf",
+      "topics": [],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P06-C01",
+        "P06-C02"
+      ]
+    },
+    {
+      "paper_ref": "P07",
+      "paper_id": "https://doi.org/10.22004/ag.econ.406292",
+      "title": "Inflation Unpacked: Breaking Down the Key Components Using a Neural Phillips Curve",
+      "url": "https://doi.org/10.22004/ag.econ.406292",
+      "topics": [
+        "Monetary Policy and Economic Impact",
+        "Stock Market Forecasting Methods",
+        "Global Financial Crisis and Policies"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P07-C01",
+        "P07-C02"
+      ]
+    },
+    {
+      "paper_ref": "P08",
+      "paper_id": "https://doi.org/10.14738/abr.1408.12056",
+      "title": "Misperceptions about Monetary Policy and a Self-Confirming Inflation Trap: Can Opposition to Interest Rate Hikes Prolong Inflation?",
+      "url": "https://doi.org/10.14738/abr.1408.12056",
+      "topics": [
+        "Monetary Policy and Economic Impact",
+        "Italy: Economic History and Contemporary Issues",
+        "Economic Theory and Policy"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P08-C01",
+        "P08-C02"
+      ]
+    },
+    {
+      "paper_ref": "P09",
+      "paper_id": "2607.28847v1",
+      "title": "Effort-Centric Fairness in Lending Decisions",
+      "url": "http://arxiv.org/abs/2607.28847v1",
+      "topics": [],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P09-C01",
+        "P09-C02"
+      ]
+    },
+    {
+      "paper_ref": "P10",
+      "paper_id": "https://doi.org/10.5281/zenodo.18065333",
+      "title": "The Zero-Equity Constraint in Monetary Systems",
+      "url": "https://doi.org/10.5281/zenodo.18065333",
+      "topics": [
+        "Economic Theory and Policy",
+        "Economic Theory and Institutions",
+        "Economic, financial, and policy analysis"
+      ],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P10-C01",
+        "P10-C02"
+      ]
+    },
+    {
+      "paper_ref": "P11",
+      "paper_id": "2608.02651v1",
+      "title": "Delegated Monitoring in Public-Private Sector Credit Programs: Underinvestment, Overinvestment, and the Design of Subsidized Lending",
+      "url": "http://arxiv.org/abs/2608.02651v1",
+      "topics": [],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P11-C01",
+        "P11-C02"
+      ]
+    },
+    {
+      "paper_ref": "P12",
+      "paper_id": "worldbank:40120512",
+      "title": "How Public Financial Management Shapes Education and Health Outcomes : A Configurational Perspective",
+      "url": "https://documents.worldbank.org/curated/en/099742208042637761",
+      "topics": [],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P12-C01",
+        "P12-C02"
+      ]
+    },
+    {
+      "paper_ref": "P13",
+      "paper_id": "2608.05017v1",
+      "title": "Algorithm-Driven SVARs: Navigating the Wilderness of Big Data",
+      "url": "http://arxiv.org/abs/2608.05017v1",
+      "topics": [],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P13-C01",
+        "P13-C02"
+      ]
+    },
+    {
+      "paper_ref": "P14",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263270",
+      "title": "MuSE: a multiple macro-financial scenario simulation engine for stress testing",
+      "url": "https://ideas.repec.org/p/ecb/ecbwps/20263270.html",
+      "topics": [],
+      "score": 70.0,
+      "discovery": {
+        "provider": "IDEAS/RePEc",
+        "series_url": "https://ideas.repec.org/s/ecb/ecbwps.html",
+        "free_download": true,
+        "date_precision": "month"
+      },
+      "claim_ids": [
+        "P14-C01",
+        "P14-C02"
+      ]
+    },
+    {
+      "paper_ref": "P15",
+      "paper_id": "2608.07251v1",
+      "title": "Reading Copom's Tone: A Weighted LLM Framework for Hawkish-Dovish Sentiment, Forward Guidance, and Uncertainty",
+      "url": "http://arxiv.org/abs/2608.07251v1",
+      "topics": [],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P15-C01",
+        "P15-C02"
+      ]
+    },
+    {
+      "paper_ref": "P16",
+      "paper_id": "2608.01294v1",
+      "title": "An Information-Geometric Framework for Bayesian Credit Risk Monitoring",
+      "url": "http://arxiv.org/abs/2608.01294v1",
+      "topics": [],
+      "score": 60.0,
+      "discovery": {},
+      "claim_ids": [
+        "P16-C01",
+        "P16-C02"
+      ]
+    },
+    {
+      "paper_ref": "P17",
+      "paper_id": "2608.00761v1",
+      "title": "AI and Exchange Rate Predictability",
+      "url": "http://arxiv.org/abs/2608.00761v1",
+      "topics": [],
+      "score": 60.0,
+      "discovery": {},
+      "claim_ids": [
+        "P17-C01",
+        "P17-C02"
+      ]
+    },
+    {
+      "paper_ref": "P18",
+      "paper_id": "2608.02817v1",
+      "title": "Reviving Micro Real Rigidities: The Importance of Demand Shocks",
+      "url": "http://arxiv.org/abs/2608.02817v1",
+      "topics": [],
+      "score": 60.0,
+      "discovery": {},
+      "claim_ids": [
+        "P18-C01",
+        "P18-C02"
+      ]
+    },
+    {
+      "paper_ref": "P19",
+      "paper_id": "https://doi.org/10.1016/j.jbef.2026.101233",
+      "title": "Framing effects in inflation expectation surveys: Evidence from a randomized field experiment",
+      "url": "https://doi.org/10.1016/j.jbef.2026.101233",
+      "topics": [
+        "Survey Methodology and Nonresponse",
+        "Advanced Causal Inference Techniques",
+        "Economic and Environmental Valuation"
+      ],
+      "score": 60.0,
+      "discovery": {},
+      "claim_ids": [
+        "P19-C01",
+        "P19-C02"
+      ]
+    },
+    {
+      "paper_ref": "P20",
+      "paper_id": "worldbank:40120973",
+      "title": "Gender Gaps in Pay and Advancement within Firms : Evidence from Ethiopia’s Financial Sector",
+      "url": "https://documents.worldbank.org/curated/en/099214408062616143",
+      "topics": [],
+      "score": 60.0,
+      "discovery": {},
+      "claim_ids": [
+        "P20-C01",
+        "P20-C02"
+      ]
+    },
+    {
+      "paper_ref": "P21",
+      "paper_id": "https://doi.org/10.18860/cauchy.v11i2.42713",
+      "title": "Macroeconomic Determinants of Investment Credit in Indonesia: Evidence from the ARDL Bounds Testing Approach",
+      "url": "https://doi.org/10.18860/cauchy.v11i2.42713",
+      "topics": [
+        "Working Capital and Financial Performance",
+        "COVID-19 Pandemic Impacts",
+        "Financial Analysis and Corporate Governance"
+      ],
+      "score": 60.0,
+      "discovery": {},
+      "claim_ids": [
+        "P21-C01",
+        "P21-C02"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "P01-C01",
+      "paper_id": "https://doi.org/10.18092/ulikidince.1855106",
+      "paper_ref": "P01",
+      "kind": "paper_summary",
+      "text": "使用SVAR-X模型分析2020-2025年美联储利率冲击对五种加密货币收益的短期影响，发现冲击效应显著但短暂且异质。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.18092/ulikidince.1855106"
+    },
+    {
+      "claim_id": "P01-C02",
+      "paper_id": "https://doi.org/10.18092/ulikidince.1855106",
+      "paper_ref": "P01",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.18092/ulikidince.1855106"
+    },
+    {
+      "claim_id": "P02-C01",
+      "paper_id": "2608.00567v1",
+      "paper_ref": "P02",
+      "kind": "paper_summary",
+      "text": "该论文通过元分析777个估计值，发现最优长期通胀率约为0.6%，低于多数央行的2%目标，并分析了文献分歧的来源。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2608.00567v1"
+    },
+    {
+      "claim_id": "P02-C02",
+      "paper_id": "2608.00567v1",
+      "paper_ref": "P02",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2608.00567v1"
+    },
+    {
+      "claim_id": "P03-C01",
+      "paper_id": "https://doi.org/10.21203/rs.3.rs-10450203/v1",
+      "paper_ref": "P03",
+      "kind": "paper_summary",
+      "text": "研究中央银行可信度为何减弱但不崩溃，基于货币政策优先级的转变，属于货币政策领域。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.21203/rs.3.rs-10450203/v1"
+    },
+    {
+      "claim_id": "P03-C02",
+      "paper_id": "https://doi.org/10.21203/rs.3.rs-10450203/v1",
+      "paper_ref": "P03",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.21203/rs.3.rs-10450203/v1"
+    },
+    {
+      "claim_id": "P04-C01",
+      "paper_id": "https://doi.org/10.52783/ijept.824",
+      "paper_ref": "P04",
+      "kind": "paper_summary",
+      "text": "该论文通过回归分析尼泊尔十家商业银行2023-2025年数据，发现不良贷款率与资产收益率显著负相关，强调信用风险管理对银行盈利的重要性。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.52783/ijept.824"
+    },
+    {
+      "claim_id": "P04-C02",
+      "paper_id": "https://doi.org/10.52783/ijept.824",
+      "paper_ref": "P04",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.52783/ijept.824"
+    },
+    {
+      "claim_id": "P05-C01",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263268",
+      "paper_ref": "P05",
+      "kind": "paper_summary",
+      "text": "本文研究银行内部评级模型中监管资本附加的驱动因素，发现少数高严重性缺陷导致大部分额外风险加权资产，并提出改进监管效率的建议。",
+      "location": "AI paper-level summary",
+      "source_url": "https://ideas.repec.org/p/ecb/ecbwps/20263268.html"
+    },
+    {
+      "claim_id": "P05-C02",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263268",
+      "paper_ref": "P05",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://ideas.repec.org/p/ecb/ecbwps/20263268.html"
+    },
+    {
+      "claim_id": "P06-C01",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3271~99b37f6d9a.en.pdf",
+      "paper_ref": "P06",
+      "kind": "paper_summary",
+      "text": "本文通过多部门一般均衡模型，发现生产网络中的间接金融摩擦会放大货币政策的产出和价格效应，且主要通过下游需求渠道起作用。",
+      "location": "AI paper-level summary",
+      "source_url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3271~99b37f6d9a.en.pdf"
+    },
+    {
+      "claim_id": "P06-C02",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3271~99b37f6d9a.en.pdf",
+      "paper_ref": "P06",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3271~99b37f6d9a.en.pdf"
+    },
+    {
+      "claim_id": "P07-C01",
+      "paper_id": "https://doi.org/10.22004/ag.econ.406292",
+      "paper_ref": "P07",
+      "kind": "paper_summary",
+      "text": "该研究使用半球神经网络（HNN）在菲律宾新凯恩斯菲利普斯曲线框架下分解通胀的驱动因素，为货币政策提供可解释的指标。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.22004/ag.econ.406292"
+    },
+    {
+      "claim_id": "P07-C02",
+      "paper_id": "https://doi.org/10.22004/ag.econ.406292",
+      "paper_ref": "P07",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.22004/ag.econ.406292"
+    },
+    {
+      "claim_id": "P08-C01",
+      "paper_id": "https://doi.org/10.14738/abr.1408.12056",
+      "paper_ref": "P08",
+      "kind": "paper_summary",
+      "text": "本文构建动态模型，研究公众误认为加息会推高通胀的误解如何削弱紧缩政策效果，并可能导致自我确认的通胀陷阱。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.14738/abr.1408.12056"
+    },
+    {
+      "claim_id": "P08-C02",
+      "paper_id": "https://doi.org/10.14738/abr.1408.12056",
+      "paper_ref": "P08",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.14738/abr.1408.12056"
+    },
+    {
+      "claim_id": "P09-C01",
+      "paper_id": "2607.28847v1",
+      "paper_ref": "P09",
+      "kind": "paper_summary",
+      "text": "提出一种以努力为中心的公平性框架，衡量被拒绝申请人为获得批准所需的最小加权成本，并通过正则化减少群体间努力差距，同时控制信贷风险。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2607.28847v1"
+    },
+    {
+      "claim_id": "P09-C02",
+      "paper_id": "2607.28847v1",
+      "paper_ref": "P09",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2607.28847v1"
+    },
+    {
+      "claim_id": "P10-C01",
+      "paper_id": "https://doi.org/10.5281/zenodo.18065333",
+      "paper_ref": "P10",
+      "kind": "paper_summary",
+      "text": "论文提出货币作为可转让价值索取权的本体论，推导出总金融权益为零，并统一解释国家货币和银行货币，强调税收的赎回作用。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.5281/zenodo.18065333"
+    },
+    {
+      "claim_id": "P10-C02",
+      "paper_id": "https://doi.org/10.5281/zenodo.18065333",
+      "paper_ref": "P10",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.5281/zenodo.18065333"
+    },
+    {
+      "claim_id": "P11-C01",
+      "paper_id": "2608.02651v1",
+      "paper_ref": "P11",
+      "kind": "paper_summary",
+      "text": "本文构建机制设计模型，分析公私合作信贷项目中委托监督导致的投资不足与过度投资扭曲，并利用SBA数据验证模型预测。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2608.02651v1"
+    },
+    {
+      "claim_id": "P11-C02",
+      "paper_id": "2608.02651v1",
+      "paper_ref": "P11",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2608.02651v1"
+    },
+    {
+      "claim_id": "P12-C01",
+      "paper_id": "worldbank:40120512",
+      "paper_ref": "P12",
+      "kind": "paper_summary",
+      "text": "该论文使用模糊集定性比较分析，研究公共财政管理绩效、部门支出和治理环境如何共同影响教育和健康结果，发现预算执行可信度是关键机制。",
+      "location": "AI paper-level summary",
+      "source_url": "https://documents.worldbank.org/curated/en/099742208042637761"
+    },
+    {
+      "claim_id": "P12-C02",
+      "paper_id": "worldbank:40120512",
+      "paper_ref": "P12",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://documents.worldbank.org/curated/en/099742208042637761"
+    },
+    {
+      "claim_id": "P13-C01",
+      "paper_id": "2608.05017v1",
+      "paper_ref": "P13",
+      "kind": "paper_summary",
+      "text": "该论文开发了一种算法驱动的SVAR方法，用于从大数据中自动选择信息集，并应用于识别住房信贷和货币政策冲击，发现信用利差渠道在货币政策传导中起重要作用。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2608.05017v1"
+    },
+    {
+      "claim_id": "P13-C02",
+      "paper_id": "2608.05017v1",
+      "paper_ref": "P13",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2608.05017v1"
+    },
+    {
+      "claim_id": "P14-C01",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263270",
+      "paper_ref": "P14",
+      "kind": "paper_summary",
+      "text": "本文设计了一个多国宏观金融压力情景模拟引擎（MuSE），用于自上而下的压力测试，并评估欧元区银行在多种不利情景下的资本消耗。",
+      "location": "AI paper-level summary",
+      "source_url": "https://ideas.repec.org/p/ecb/ecbwps/20263270.html"
+    },
+    {
+      "claim_id": "P14-C02",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263270",
+      "paper_ref": "P14",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://ideas.repec.org/p/ecb/ecbwps/20263270.html"
+    },
+    {
+      "claim_id": "P15-C01",
+      "paper_id": "2608.07251v1",
+      "paper_ref": "P15",
+      "kind": "paper_summary",
+      "text": "该论文提出一个加权LLM框架，用于量化巴西Copom声明的鹰鸽语气、前瞻指引和不确定性，并描述其统计特征。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2608.07251v1"
+    },
+    {
+      "claim_id": "P15-C02",
+      "paper_id": "2608.07251v1",
+      "paper_ref": "P15",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2608.07251v1"
+    },
+    {
+      "claim_id": "P16-C01",
+      "paper_id": "2608.01294v1",
+      "paper_ref": "P16",
+      "kind": "paper_summary",
+      "text": "提出一个基于信息几何的贝叶斯框架，用于银行信贷风险监测，通过后验分布和Fisher信息度量来刻画借款人风险。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2608.01294v1"
+    },
+    {
+      "claim_id": "P16-C02",
+      "paper_id": "2608.01294v1",
+      "paper_ref": "P16",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2608.01294v1"
+    },
+    {
+      "claim_id": "P17-C01",
+      "paper_id": "2608.00761v1",
+      "paper_ref": "P17",
+      "kind": "paper_summary",
+      "text": "利用生成式AI（ChatGPT和DeepSeek）基于经济基本面预测汇率，发现AI生成的基本面强度具有横截面预测能力，交易策略夏普比率超过0.7，且泰勒规则是重要机制。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2608.00761v1"
+    },
+    {
+      "claim_id": "P17-C02",
+      "paper_id": "2608.00761v1",
+      "paper_ref": "P17",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2608.00761v1"
+    },
+    {
+      "claim_id": "P18-C01",
+      "paper_id": "2608.02817v1",
+      "paper_ref": "P18",
+      "kind": "paper_summary",
+      "text": "本文通过嵌入非CES需求系统到菜单成本模型，利用企业层面数据校准需求曲率和生产率过程，重新审视微观实际刚性作为货币非中性的来源，并匹配微观定价和成本传导等矩条件。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2608.02817v1"
+    },
+    {
+      "claim_id": "P18-C02",
+      "paper_id": "2608.02817v1",
+      "paper_ref": "P18",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2608.02817v1"
+    },
+    {
+      "claim_id": "P19-C01",
+      "paper_id": "https://doi.org/10.1016/j.jbef.2026.101233",
+      "paper_ref": "P19",
+      "kind": "paper_summary",
+      "text": "通过随机实地实验，发现开放式问题导致更高的通胀预期，表明调查设计影响通胀预期测量，对央行数据解读有启示。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.1016/j.jbef.2026.101233"
+    },
+    {
+      "claim_id": "P19-C02",
+      "paper_id": "https://doi.org/10.1016/j.jbef.2026.101233",
+      "paper_ref": "P19",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.1016/j.jbef.2026.101233"
+    },
+    {
+      "claim_id": "P20-C01",
+      "paper_id": "worldbank:40120973",
+      "paper_ref": "P20",
+      "kind": "paper_summary",
+      "text": "利用埃塞俄比亚最大商业银行的行政数据，研究性别在薪酬和晋升方面的差距，发现女性在薪酬和领导职位上存在显著劣势，且这些差距并非源于教育、经验或绩效差异，而是与晋升机会和灵活性限制有关。",
+      "location": "AI paper-level summary",
+      "source_url": "https://documents.worldbank.org/curated/en/099214408062616143"
+    },
+    {
+      "claim_id": "P20-C02",
+      "paper_id": "worldbank:40120973",
+      "paper_ref": "P20",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://documents.worldbank.org/curated/en/099214408062616143"
+    },
+    {
+      "claim_id": "P21-C01",
+      "paper_id": "https://doi.org/10.18860/cauchy.v11i2.42713",
+      "paper_ref": "P21",
+      "kind": "paper_summary",
+      "text": "该论文利用ARDL模型研究印尼投资信贷的宏观决定因素，发现长期均衡存在但各变量长期影响不显著，短期汇率影响最大。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.18860/cauchy.v11i2.42713"
+    },
+    {
+      "claim_id": "P21-C02",
+      "paper_id": "https://doi.org/10.18860/cauchy.v11i2.42713",
+      "paper_ref": "P21",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.18860/cauchy.v11i2.42713"
+    }
+  ]
+}

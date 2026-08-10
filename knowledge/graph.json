@@ -2840,10 +2840,6 @@
       "title": "The transmission of shocks across sectors and the dynamics of sectoral prices",
       "paper_id": "repec:RePEc:ecb:ecbwps:20263266"
     },
-    "2608.04925v1": {
-      "title": "From Long to Short: How Interest Rates Shape Life Insurance Markets",
-      "paper_id": "2608.04925v1"
-    },
     "2608.04977v1": {
       "title": "The Role of Risk Sharing in Attenuating Business Cycles Within Currency Unions",
       "paper_id": "2608.04977v1"
@@ -2871,10 +2867,6 @@
     "2608.04839v1": {
       "title": "Exact Inference in Fixed-Effect Regressions with Concentrated Identifying Variation",
       "paper_id": "2608.04839v1"
-    },
-    "2608.04631v1": {
-      "title": "Clustered Local Projections for Short and Ultra-Short Time Series -- A Hierarchical Bayesian Framework",
-      "paper_id": "2608.04631v1"
     },
     "2608.04629v1": {
       "title": "Drivers of Success: A Bayesian State-Space Model to Disentangling Latent Driver and Constructor Abilities in Formula One",
@@ -3063,6 +3055,82 @@
     "repec:RePEc:ces:ceswps:_12894": {
       "title": "Bidding for the Cloud: Fiscal Competition and the Socialization of Infrastructure Costs",
       "paper_id": "repec:RePEc:ces:ceswps:_12894"
+    },
+    "2608.07400v1": {
+      "title": "FinRank: An Evidence-Grounded Benchmark for Financial Question Answering and Retrieval over SEC Filings",
+      "paper_id": "2608.07400v1"
+    },
+    "2608.07251v1": {
+      "title": "Reading Copom's Tone: A Weighted LLM Framework for Hawkish-Dovish Sentiment, Forward Guidance, and Uncertainty",
+      "paper_id": "2608.07251v1"
+    },
+    "2608.07011v1": {
+      "title": "Linguistic Pattern Based Optimization of Economic and Spatial Uniformity Criteria in Facility Layout Problems",
+      "paper_id": "2608.07011v1"
+    },
+    "2608.07208v1": {
+      "title": "Measuring Concept Content in Text from LLM Activations: ESG Evidence from Concept Vectors and Linear Probes",
+      "paper_id": "2608.07208v1"
+    },
+    "2608.06842v1": {
+      "title": "Tabular Foundation Models and the Unity of Economic Behaviour",
+      "paper_id": "2608.06842v1"
+    },
+    "2608.06584v1": {
+      "title": "Two Types of Tertiarization: Household Demand, Production Networks, and the Rise of Services",
+      "paper_id": "2608.06584v1"
+    },
+    "2608.04925v2": {
+      "title": "From Long to Short: How Interest Rates Shape Life Insurance Markets",
+      "paper_id": "2608.04925v2"
+    },
+    "2608.06528v1": {
+      "title": "Capacity Markets for Large Loads under Supply-Chain Constraints",
+      "paper_id": "2608.06528v1"
+    },
+    "2608.07162v1": {
+      "title": "Estimating and Testing Kinks in Panel Data Models",
+      "paper_id": "2608.07162v1"
+    },
+    "2608.06427v1": {
+      "title": "Adversarial Causal Intervention Falsification",
+      "paper_id": "2608.06427v1"
+    },
+    "2608.07298v1": {
+      "title": "Revealed Default Under Choice Overload",
+      "paper_id": "2608.07298v1"
+    },
+    "2608.04631v2": {
+      "title": "Clustered Local Projections for Short and Ultra-Short Time Series -- A Hierarchical Bayesian Framework",
+      "paper_id": "2608.04631v2"
+    },
+    "2608.07098v1": {
+      "title": "Auditing Algorithmic Collusion from Strategy Graphs",
+      "paper_id": "2608.07098v1"
+    },
+    "2608.07022v1": {
+      "title": "Acceptant Expansions of Path-Independent Choice Rules",
+      "paper_id": "2608.07022v1"
+    },
+    "2608.06623v1": {
+      "title": "Auction Design with a Bit of Information",
+      "paper_id": "2608.06623v1"
+    },
+    "2608.07122v1": {
+      "title": "Lambda-quantiles under the microscope",
+      "paper_id": "2608.07122v1"
+    },
+    "W7201862336": {
+      "title": "Misperceptions about Monetary Policy and a Self-Confirming Inflation Trap: Can Opposition to Interest Rate Hikes Prolong Inflation?",
+      "paper_id": "https://doi.org/10.14738/abr.1408.12056"
+    },
+    "repec:RePEc:ces:ceswps:_12893": {
+      "title": "Communities of Commerce: The Legacy of Chinese Immigration on Java",
+      "paper_id": "repec:RePEc:ces:ceswps:_12893"
+    },
+    "repec:RePEc:ces:ceswps:_12892": {
+      "title": "Financing the Scalable Stage: Technology, Donations, and Earned Revenue in the Performing Arts",
+      "paper_id": "repec:RePEc:ces:ceswps:_12892"
     }
   },
   "edges": [

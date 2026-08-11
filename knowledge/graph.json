@@ -2904,10 +2904,6 @@
       "title": "Defensive Pessimism: Growth, Culture, and the Survival of Evidence",
       "paper_id": "2608.04787v1"
     },
-    "2608.04276v1": {
-      "title": "The Fallback as Signal: Preserved Human Skill, Liability, and Competence Signaling in Credence-Good Markets under Improving AI",
-      "paper_id": "2608.04276v1"
-    },
     "2608.04987v1": {
       "title": "Portfolio Allocation under Heterogeneous Scales and Multifractality",
       "paper_id": "2608.04987v1"
@@ -2971,10 +2967,6 @@
     "2608.06092v1": {
       "title": "Strategic Heterogeneity: Welfare Gains from Secession and Immigration",
       "paper_id": "2608.06092v1"
-    },
-    "2608.05969v1": {
-      "title": "The Institutional Window: Occupation- and Jurisdiction-Specific Calibration of Liability Signaling for Preserved Human Fallback Capability",
-      "paper_id": "2608.05969v1"
     },
     "2608.05444v1": {
       "title": "A Costly-information Foundation for Psychometric Curves",
@@ -3131,6 +3123,154 @@
     "repec:RePEc:ces:ceswps:_12892": {
       "title": "Financing the Scalable Stage: Technology, Donations, and Earned Revenue in the Performing Arts",
       "paper_id": "repec:RePEc:ces:ceswps:_12892"
+    },
+    "2608.08934v1": {
+      "title": "Political Power-Sharing, Firm Entry, and Economic Growth: Evidence from Multiple Elected Representatives",
+      "paper_id": "2608.08934v1"
+    },
+    "2608.09642v1": {
+      "title": "Beyond headcount and human capital: The Effective Cognitive Population as a decomposable capacity unit for AI-era planning",
+      "paper_id": "2608.09642v1"
+    },
+    "2608.08851v1": {
+      "title": "Estimated Demand for Mega-Constellation Internet Service",
+      "paper_id": "2608.08851v1"
+    },
+    "2608.08690v1": {
+      "title": "Price Responses of Rwandan Tungsten Exports under Conflict Minerals Regulation",
+      "paper_id": "2608.08690v1"
+    },
+    "2608.08437v1": {
+      "title": "AI and the Research Team",
+      "paper_id": "2608.08437v1"
+    },
+    "2608.07819v1": {
+      "title": "The friendship paradox: Causal evidence of its behavioral consequences",
+      "paper_id": "2608.07819v1"
+    },
+    "2608.07588v1": {
+      "title": "Workplace dependence in urban economies",
+      "paper_id": "2608.07588v1"
+    },
+    "2608.09686v1": {
+      "title": "Generalized AKM: Flexible Controls and Interactions in Wage Decompositions",
+      "paper_id": "2608.09686v1"
+    },
+    "2608.09612v1": {
+      "title": "Local conformal prediction for individual causal effects",
+      "paper_id": "2608.09612v1"
+    },
+    "2608.09441v1": {
+      "title": "From Rating Factors to Crash Mechanisms: A Multiscale Causal DAG Framework Linking Motor Insurance and Road Safety",
+      "paper_id": "2608.09441v1"
+    },
+    "2608.09219v1": {
+      "title": "Asymmetries in Peer Effects",
+      "paper_id": "2608.09219v1"
+    },
+    "2608.09213v1": {
+      "title": "A Comparison of High-Dimensional Variable Selection Procedures for Electricity Spot Price Forecasting",
+      "paper_id": "2608.09213v1"
+    },
+    "2608.09027v1": {
+      "title": "Asymptotics for Treatment Choice with Partial Identification",
+      "paper_id": "2608.09027v1"
+    },
+    "2608.08750v1": {
+      "title": "Stationary Errors and Quantile Regression in Short Panels",
+      "paper_id": "2608.08750v1"
+    },
+    "2608.08170v1": {
+      "title": "Beyond the Grid: Cost, Carbon, and Capital Requirements of On-Site Power Technologies for AI Data Centers",
+      "paper_id": "2608.08170v1"
+    },
+    "2608.08047v1": {
+      "title": "Partial Homogeneity in Staggered Difference-in-Differences",
+      "paper_id": "2608.08047v1"
+    },
+    "2608.07601v1": {
+      "title": "A framework for assessing value and heterogeneity, illustrated using an early model of population screening with a multi-cancer early detection test",
+      "paper_id": "2608.07601v1"
+    },
+    "2608.09739v1": {
+      "title": "Associative Networks in Decision Making",
+      "paper_id": "2608.09739v1"
+    },
+    "2608.09409v1": {
+      "title": "Information for nothing and authority for free",
+      "paper_id": "2608.09409v1"
+    },
+    "2608.09232v1": {
+      "title": "Coalitional bargaining with transfers",
+      "paper_id": "2608.09232v1"
+    },
+    "2608.08897v1": {
+      "title": "Voting Method Synthesis on an Infinite Domain: A Possibility Theorem for Positive Involvement",
+      "paper_id": "2608.08897v1"
+    },
+    "2608.08395v1": {
+      "title": "From Product Search to Preference Articulation: The Economics of Agentic Commerce",
+      "paper_id": "2608.08395v1"
+    },
+    "2608.08310v1": {
+      "title": "Category of strategic games and presheaf corresponding solution concepts or welfare criteria",
+      "paper_id": "2608.08310v1"
+    },
+    "2608.08268v1": {
+      "title": "Learning under Opponent Unawareness in Linear-Quadratic Stochastic Games",
+      "paper_id": "2608.08268v1"
+    },
+    "2608.08240v1": {
+      "title": "A Fair Objective for Human-Empowerment-Preserving AI: Desiderata, Design, and Likely Behavioral Consequences",
+      "paper_id": "2608.08240v1"
+    },
+    "2608.08136v1": {
+      "title": "College Admissions with Scholarship",
+      "paper_id": "2608.08136v1"
+    },
+    "2608.07918v1": {
+      "title": "A Note on Market Segmentation and Bertrand Competition",
+      "paper_id": "2608.07918v1"
+    },
+    "2608.05969v2": {
+      "title": "The Institutional Window: Occupation- and Jurisdiction-Specific Calibration of Liability Signaling for Preserved Human Fallback Capability",
+      "paper_id": "2608.05969v2"
+    },
+    "2608.04276v2": {
+      "title": "The Fallback as Signal: Preserved Human Skill, Liability, and Competence Signaling in Credence-Good Markets under Improving AI",
+      "paper_id": "2608.04276v2"
+    },
+    "2608.09456v1": {
+      "title": "Climate-Conditioned Cascade Modeling for Multi-Peril Reinsurance: Analysis and Controlled Numerical Applications",
+      "paper_id": "2608.09456v1"
+    },
+    "2608.09087v1": {
+      "title": "Joint Lyapunov Certificates for K-Agent Generative AI Governance: Stochastic Stability, Emergent Ensemble Risk, and Zero-Knowledge Governance Attestation",
+      "paper_id": "2608.09087v1"
+    },
+    "2608.09069v1": {
+      "title": "Telemetry and Concealment in Self-Adapting Generative AI: Logging Architecture, Adversarial Model Hiding, and the Limits of Detection",
+      "paper_id": "2608.09069v1"
+    },
+    "2608.08634v1": {
+      "title": "Can Open-Weight Models Compete on Financial Text Comprehension?",
+      "paper_id": "2608.08634v1"
+    },
+    "2608.08197v1": {
+      "title": "Self-Explaining Segment Trees: A KPI-Conditioned Segmentation Framework for Business Analytics with Node-Level Explanation via Recursive Subspace Partitioning",
+      "paper_id": "2608.08197v1"
+    },
+    "W7196946412": {
+      "title": "Simple Determinants of Commercial Bank Failures",
+      "paper_id": "https://doi.org/10.34917/40601201"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf": {
+      "title": "Monetary policy and the rigidity of firm employment expectations",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf"
+    },
+    "worldbank:40121664": {
+      "title": "Understanding the Impact of Multi-Nodal Urban Systems on Thailand's Urban Economies : Insights from a Dynamic Recursive Spatial General Equilibrium Model",
+      "paper_id": "worldbank:40121664"
     }
   },
   "edges": [

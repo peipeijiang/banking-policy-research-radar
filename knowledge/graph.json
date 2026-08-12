@@ -2704,10 +2704,6 @@
       "title": "Data-Driven Measures of High-Frequency Trading",
       "paper_id": "2608.00858v1"
     },
-    "W7117414626": {
-      "title": "The Zero-Equity Constraint in Monetary Systems",
-      "paper_id": "https://doi.org/10.5281/zenodo.18065333"
-    },
     "2608.03716v1": {
       "title": "Synthetic supply networks",
       "paper_id": "2608.03716v1"
@@ -2899,10 +2895,6 @@
     "2608.04332v1": {
       "title": "Informational Content of Auction Prices",
       "paper_id": "2608.04332v1"
-    },
-    "2608.04787v1": {
-      "title": "Defensive Pessimism: Growth, Culture, and the Survival of Evidence",
-      "paper_id": "2608.04787v1"
     },
     "2608.04987v1": {
       "title": "Portfolio Allocation under Heterogeneous Scales and Multifractality",
@@ -3104,10 +3096,6 @@
       "title": "Acceptant Expansions of Path-Independent Choice Rules",
       "paper_id": "2608.07022v1"
     },
-    "2608.06623v1": {
-      "title": "Auction Design with a Bit of Information",
-      "paper_id": "2608.06623v1"
-    },
     "2608.07122v1": {
       "title": "Lambda-quantiles under the microscope",
       "paper_id": "2608.07122v1"
@@ -3248,10 +3236,6 @@
       "title": "Joint Lyapunov Certificates for K-Agent Generative AI Governance: Stochastic Stability, Emergent Ensemble Risk, and Zero-Knowledge Governance Attestation",
       "paper_id": "2608.09087v1"
     },
-    "2608.09069v1": {
-      "title": "Telemetry and Concealment in Self-Adapting Generative AI: Logging Architecture, Adversarial Model Hiding, and the Limits of Detection",
-      "paper_id": "2608.09069v1"
-    },
     "2608.08634v1": {
       "title": "Can Open-Weight Models Compete on Financial Text Comprehension?",
       "paper_id": "2608.08634v1"
@@ -3271,6 +3255,126 @@
     "worldbank:40121664": {
       "title": "Understanding the Impact of Multi-Nodal Urban Systems on Thailand's Urban Economies : Insights from a Dynamic Recursive Spatial General Equilibrium Model",
       "paper_id": "worldbank:40121664"
+    },
+    "2608.10596v1": {
+      "title": "A Note on the Identification Step in \"A Semistructural Methodology for Policy Counterfactuals\"",
+      "paper_id": "2608.10596v1"
+    },
+    "2608.11134v1": {
+      "title": "Mastering Stochastic OLG Models in Continuous Time",
+      "paper_id": "2608.11134v1"
+    },
+    "2608.09882v1": {
+      "title": "Environmental and Economic Implications of Artificial Intelligence Data Centers in the United States",
+      "paper_id": "2608.09882v1"
+    },
+    "2608.10336v1": {
+      "title": "A Multinomial Probit Model for Asymmetric Choice Responses",
+      "paper_id": "2608.10336v1"
+    },
+    "2608.10294v1": {
+      "title": "Testing Sign Agreement",
+      "paper_id": "2608.10294v1"
+    },
+    "2608.10177v1": {
+      "title": "Graph-Laplacian Variance Estimators for Finely Stratified Experiments",
+      "paper_id": "2608.10177v1"
+    },
+    "2608.09837v1": {
+      "title": "Bias-robust causal inference for panel data",
+      "paper_id": "2608.09837v1"
+    },
+    "2608.09812v1": {
+      "title": "Optimal Experimental Design and Estimation when Potential Outcomes are Bounded",
+      "paper_id": "2608.09812v1"
+    },
+    "2608.11112v1": {
+      "title": "Pricing Intelligence: Task-Based Learning and Labor Displacement in the AI Economy",
+      "paper_id": "2608.11112v1"
+    },
+    "2608.10883v1": {
+      "title": "Two Moments for Risk-Monotone Additive Statistics",
+      "paper_id": "2608.10883v1"
+    },
+    "2608.10478v1": {
+      "title": "Optimal Sequential Assignment with Capacity Constrained Verification",
+      "paper_id": "2608.10478v1"
+    },
+    "2608.10274v1": {
+      "title": "Exploration and Stopping",
+      "paper_id": "2608.10274v1"
+    },
+    "2608.09894v1": {
+      "title": "Competitive mediator games and urban CAV routing markets",
+      "paper_id": "2608.09894v1"
+    },
+    "2608.06623v2": {
+      "title": "Auction Design with a Bit of Information",
+      "paper_id": "2608.06623v2"
+    },
+    "2608.09984v1": {
+      "title": "Efficiency Adjustments Break the Logarithmic Rank Barrier",
+      "paper_id": "2608.09984v1"
+    },
+    "2608.04787v2": {
+      "title": "Defensive Pessimism: Growth, Culture, and the Survival of Evidence",
+      "paper_id": "2608.04787v2"
+    },
+    "2608.10788v1": {
+      "title": "The Triadic Stress Index in Financial Markets",
+      "paper_id": "2608.10788v1"
+    },
+    "2608.09859v1": {
+      "title": "Nash Peer-to-Peer Insurance Bargaining under Price Fairness and Coalitional Stability",
+      "paper_id": "2608.09859v1"
+    },
+    "2608.09069v2": {
+      "title": "Telemetry and Concealment in Self-Adapting Generative AI: Logging Architecture, Adversarial Model Hiding, and the Limits of Detection",
+      "paper_id": "2608.09069v2"
+    },
+    "W7202102852": {
+      "title": "Advancing and Strengthening Interest Rate Risk Management Practices and Priority Areas in Commercial Banking",
+      "paper_id": "openalex:W7202102852"
+    },
+    "W7202126426": {
+      "title": "The Zero-Equity Constraint in Monetary Systems",
+      "paper_id": "https://doi.org/10.5281/zenodo.21729855"
+    },
+    "W7202118986": {
+      "title": "总量隐形、住户显形:不动产抵押品非对称效应的识别 Hidden at the Aggregate Level, Visible in the Household Sector: Identifying the Asymmetric Effects of Real Estate Collateral",
+      "paper_id": "https://doi.org/10.5281/zenodo.21874428"
+    },
+    "W7202130273": {
+      "title": "总量隐形、住户显形:不动产抵押品非对称效应的识别",
+      "paper_id": "https://doi.org/10.5281/zenodo.21874290"
+    },
+    "W7164510968": {
+      "title": "财政公信力与抵押品陷阱:一个内生货币创造的视角 Collateral Constraints, Fiscal Credit Enhancement and Endogenous Money Creation: Theoretical Framework, Case Validation and Policy Calibration",
+      "paper_id": "https://doi.org/10.5281/zenodo.20653022"
+    },
+    "W7201863321": {
+      "title": "Transmission mechanisms in behavioral macroeconomic models",
+      "paper_id": "https://doi.org/10.1016/j.iref.2026.105685"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3273~292f21a541.en.pdf": {
+      "title": "Can structural reforms unleash private investment?",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3273~292f21a541.en.pdf"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/cre-development-potential-and-the-selection-of-opportunity-zones.htm": {
+      "title": "FEDS Paper: CRE Development Potential and the Selection of Opportunity Zones",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/cre-development-potential-and-the-selection-of-opportunity-zones.htm"
+    },
+    "repec:RePEc:fip:fedfwp:103630": {
+      "title": "Will AI Intensify or Weaken Market Competition?",
+      "paper_id": "repec:RePEc:fip:fedfwp:103630"
+    },
+    "repec:RePEc:fip:fedfwp:103631": {
+      "title": "Reaching for Duration",
+      "paper_id": "repec:RePEc:fip:fedfwp:103631"
+    },
+    "repec:RePEc:fip:fedlwp:103629": {
+      "title": "The Erosion of Public Capital in Portugal",
+      "paper_id": "repec:RePEc:fip:fedlwp:103629"
     }
   },
   "edges": [
@@ -27617,6 +27721,176 @@
     {
       "from": "W7171874357",
       "to": "W7126409673",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W1540757224",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W1596940648",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W2030691535",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W2039262746",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W2062649741",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W2149530077",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W2163287545",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W2185580901",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W2233394530",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W2253894436",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W2294838456",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W2888912427",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W2903876532",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W2919518154",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W2951976482",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W2972399502",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W3008812743",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W3037939330",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W3048067950",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W3121733203",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W3121782043",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W3123395896",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W3125254852",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W3125450854",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W3135901118",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W3157251905",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W4211186395",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W4240123593",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W4311173097",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W4380785145",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W4398474591",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W4402291066",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W4403265659",
+      "type": "cites"
+    },
+    {
+      "from": "W7201863321",
+      "to": "W4412427149",
       "type": "cites"
     }
   ]

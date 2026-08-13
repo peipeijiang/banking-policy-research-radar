@@ -3340,17 +3340,9 @@
       "title": "The Zero-Equity Constraint in Monetary Systems",
       "paper_id": "https://doi.org/10.5281/zenodo.21729855"
     },
-    "W7202118986": {
-      "title": "总量隐形、住户显形:不动产抵押品非对称效应的识别 Hidden at the Aggregate Level, Visible in the Household Sector: Identifying the Asymmetric Effects of Real Estate Collateral",
-      "paper_id": "https://doi.org/10.5281/zenodo.21874428"
-    },
     "W7202130273": {
       "title": "总量隐形、住户显形:不动产抵押品非对称效应的识别",
       "paper_id": "https://doi.org/10.5281/zenodo.21874290"
-    },
-    "W7164510968": {
-      "title": "财政公信力与抵押品陷阱:一个内生货币创造的视角 Collateral Constraints, Fiscal Credit Enhancement and Endogenous Money Creation: Theoretical Framework, Case Validation and Policy Calibration",
-      "paper_id": "https://doi.org/10.5281/zenodo.20653022"
     },
     "W7201863321": {
       "title": "Transmission mechanisms in behavioral macroeconomic models",
@@ -3375,6 +3367,102 @@
     "repec:RePEc:fip:fedlwp:103629": {
       "title": "The Erosion of Public Capital in Portugal",
       "paper_id": "repec:RePEc:fip:fedlwp:103629"
+    },
+    "2608.12236v1": {
+      "title": "How Organizations Use AI: Evidence from ChatGPT",
+      "paper_id": "2608.12236v1"
+    },
+    "2608.12281v1": {
+      "title": "Oil price shocks reveal unequal capacities for mobility adaptation",
+      "paper_id": "2608.12281v1"
+    },
+    "2608.11626v1": {
+      "title": "Organizational Technology Ladders: Remote Work and Generative AI Adoption",
+      "paper_id": "2608.11626v1"
+    },
+    "2608.12143v1": {
+      "title": "Robustness over efficiency in climate coalitions: a bistable model and a map of architectures",
+      "paper_id": "2608.12143v1"
+    },
+    "2608.11404v1": {
+      "title": "Technology interactions reshape the economics of China's coal power decarbonization",
+      "paper_id": "2608.11404v1"
+    },
+    "2608.11371v1": {
+      "title": "Do People Follow AI Advice? Evidence from a Pension Portfolio Choice Experiment",
+      "paper_id": "2608.11371v1"
+    },
+    "2608.11464v1": {
+      "title": "Estimating the perturbed utility route choice model with trip-level data",
+      "paper_id": "2608.11464v1"
+    },
+    "2608.11784v1": {
+      "title": "Coarsening Latent-Class Probabilities: Directional Distortion and Coverage Loss",
+      "paper_id": "2608.11784v1"
+    },
+    "2608.11682v1": {
+      "title": "A Solution to the Roommate Problem",
+      "paper_id": "2608.11682v1"
+    },
+    "2608.11710v1": {
+      "title": "How to Beat FCFS",
+      "paper_id": "2608.11710v1"
+    },
+    "2608.11497v1": {
+      "title": "Diversity as Majorization",
+      "paper_id": "2608.11497v1"
+    },
+    "2608.11500v1": {
+      "title": "Strengthening Full Justified Representation: Efficient Verification and Computation",
+      "paper_id": "2608.11500v1"
+    },
+    "2608.11266v1": {
+      "title": "Bank Run Exposure in a Paycheck-to-Paycheck Economy with Loss-Averse Depositors",
+      "paper_id": "2608.11266v1"
+    },
+    "2608.12023v1": {
+      "title": "Sectoral inter-dependencies drive the loss of structural balance in signed financial networks",
+      "paper_id": "2608.12023v1"
+    },
+    "2608.11344v1": {
+      "title": "Governing Agentic AI in FinTech",
+      "paper_id": "2608.11344v1"
+    },
+    "W7202211485": {
+      "title": "Technology Adoption and Financial Sector Development in Liberia: Institutional Evidence and a Long-Run ARDL Analysis",
+      "paper_id": "https://doi.org/10.21203/rs.3.rs-10646989/v1"
+    },
+    "W7202199082": {
+      "title": "Impact of Credit Risk Management on the Financial Performance of Commercial Banks",
+      "paper_id": "https://doi.org/10.5281/zenodo.21888270"
+    },
+    "W7202166032": {
+      "title": "ORGANIZATIONAL CULTURE IN COMMERCIAL BANKS AND JOB SATISFACTION AMONG MILLENNIAL EMPLOYEES: THE ROLE OF WORK-LIFE BALANCE AS MODERATOR",
+      "paper_id": "https://doi.org/10.5281/zenodo.21889004"
+    },
+    "W7164337134": {
+      "title": "总量隐形、住户显形:不动产抵押品非对称效应的识别",
+      "paper_id": "https://doi.org/10.5281/zenodo.20647413"
+    },
+    "W7202128450": {
+      "title": "财政公信力与抵押品陷阱:一个内生货币创造的视角 Collateral Constraints, Fiscal Credit Enhancement and Endogenous Money Creation: Theoretical Framework, Case Validation and Policy Calibration",
+      "paper_id": "https://doi.org/10.5281/zenodo.21874700"
+    },
+    "W7164407500": {
+      "title": "总量隐形、住户显形:不动产抵押品非对称效应的识别 Hidden at the Aggregate Level, Visible in the Household Sector: Identifying the Asymmetric Effects of Real Estate Collateral",
+      "paper_id": "https://doi.org/10.5281/zenodo.20647970"
+    },
+    "W7202156977": {
+      "title": "Global Risk and Sustainable Investment Performance Nexus in Indonesia: A Vector Autoregressive Approach",
+      "paper_id": "https://doi.org/10.21203/rs.3.rs-10465214/v1"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/government-bond-backed-repo-markets-between-resilience-and-vulnerability.htm": {
+      "title": "FEDS Paper: Government bond-backed repo markets: between resilience and vulnerability",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/government-bond-backed-repo-markets-between-resilience-and-vulnerability.htm"
+    },
+    "W7202146471": {
+      "title": "Mengukur Struktur Alokasi Dana Pihak Ketiga melalui Rasio Dana Non-Intermediasi",
+      "paper_id": "https://doi.org/10.69693/ijim.v4i3.2167"
     }
   },
   "edges": [
@@ -27891,6 +27979,221 @@
     {
       "from": "W7201863321",
       "to": "W4412427149",
+      "type": "cites"
+    },
+    {
+      "from": "W7202211485",
+      "to": "W1496447382",
+      "type": "cites"
+    },
+    {
+      "from": "W7202211485",
+      "to": "W1966910378",
+      "type": "cites"
+    },
+    {
+      "from": "W7202211485",
+      "to": "W2037821590",
+      "type": "cites"
+    },
+    {
+      "from": "W7202211485",
+      "to": "W2055686677",
+      "type": "cites"
+    },
+    {
+      "from": "W7202211485",
+      "to": "W2071434239",
+      "type": "cites"
+    },
+    {
+      "from": "W7202211485",
+      "to": "W2522189868",
+      "type": "cites"
+    },
+    {
+      "from": "W7202211485",
+      "to": "W2606526208",
+      "type": "cites"
+    },
+    {
+      "from": "W7202211485",
+      "to": "W3122509291",
+      "type": "cites"
+    },
+    {
+      "from": "W7202211485",
+      "to": "W4223889837",
+      "type": "cites"
+    },
+    {
+      "from": "W7202211485",
+      "to": "W4248620206",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W2537172349",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W2947626232",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W3044042843",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W3169902909",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4200217580",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4295409654",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4310092906",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4384827448",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4388109837",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4390453229",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4391143208",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4391536891",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4394602730",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4394603515",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4394747839",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4400403335",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4401511825",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4404012871",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4404490092",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4409636239",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4410065373",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4410619716",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4411117596",
+      "type": "cites"
+    },
+    {
+      "from": "W7202156977",
+      "to": "W4414584168",
+      "type": "cites"
+    },
+    {
+      "from": "W7202146471",
+      "to": "W1527195132",
+      "type": "cites"
+    },
+    {
+      "from": "W7202146471",
+      "to": "W2024539880",
+      "type": "cites"
+    },
+    {
+      "from": "W7202146471",
+      "to": "W2117483525",
+      "type": "cites"
+    },
+    {
+      "from": "W7202146471",
+      "to": "W2582665202",
+      "type": "cites"
+    },
+    {
+      "from": "W7202146471",
+      "to": "W2954857166",
+      "type": "cites"
+    },
+    {
+      "from": "W7202146471",
+      "to": "W3033693216",
+      "type": "cites"
+    },
+    {
+      "from": "W7202146471",
+      "to": "W4406980678",
+      "type": "cites"
+    },
+    {
+      "from": "W7202146471",
+      "to": "W4411620561",
+      "type": "cites"
+    },
+    {
+      "from": "W7202146471",
+      "to": "W7162769618",
       "type": "cites"
     }
   ]

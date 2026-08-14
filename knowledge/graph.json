@@ -3284,10 +3284,6 @@
       "title": "Bias-robust causal inference for panel data",
       "paper_id": "2608.09837v1"
     },
-    "2608.09812v1": {
-      "title": "Optimal Experimental Design and Estimation when Potential Outcomes are Bounded",
-      "paper_id": "2608.09812v1"
-    },
     "2608.11112v1": {
       "title": "Pricing Intelligence: Task-Based Learning and Labor Displacement in the AI Economy",
       "paper_id": "2608.11112v1"
@@ -3424,21 +3420,9 @@
       "title": "Sectoral inter-dependencies drive the loss of structural balance in signed financial networks",
       "paper_id": "2608.12023v1"
     },
-    "2608.11344v1": {
-      "title": "Governing Agentic AI in FinTech",
-      "paper_id": "2608.11344v1"
-    },
     "W7202211485": {
       "title": "Technology Adoption and Financial Sector Development in Liberia: Institutional Evidence and a Long-Run ARDL Analysis",
       "paper_id": "https://doi.org/10.21203/rs.3.rs-10646989/v1"
-    },
-    "W7202199082": {
-      "title": "Impact of Credit Risk Management on the Financial Performance of Commercial Banks",
-      "paper_id": "https://doi.org/10.5281/zenodo.21888270"
-    },
-    "W7202166032": {
-      "title": "ORGANIZATIONAL CULTURE IN COMMERCIAL BANKS AND JOB SATISFACTION AMONG MILLENNIAL EMPLOYEES: THE ROLE OF WORK-LIFE BALANCE AS MODERATOR",
-      "paper_id": "https://doi.org/10.5281/zenodo.21889004"
     },
     "W7164337134": {
       "title": "总量隐形、住户显形:不动产抵押品非对称效应的识别",
@@ -3463,6 +3447,98 @@
     "W7202146471": {
       "title": "Mengukur Struktur Alokasi Dana Pihak Ketiga melalui Rasio Dana Non-Intermediasi",
       "paper_id": "https://doi.org/10.69693/ijim.v4i3.2167"
+    },
+    "2608.13466v1": {
+      "title": "Learning about Treatment Effects in Panels under Unknown Interference",
+      "paper_id": "2608.13466v1"
+    },
+    "2608.12667v1": {
+      "title": "Does life-satisfaction inequality measure societal inequality? A focal-value-rounding critique",
+      "paper_id": "2608.12667v1"
+    },
+    "2608.13224v1": {
+      "title": "Parameter Identification in Autoregressions under Discrete Sampling or Temporal Aggregation",
+      "paper_id": "2608.13224v1"
+    },
+    "2608.13431v1": {
+      "title": "Measuring the Arrow of Time: Identification, Estimation, and Inference for Directional Structure in Multivariate Time Series",
+      "paper_id": "2608.13431v1"
+    },
+    "2608.13152v1": {
+      "title": "Estimation of distribution functions, their jumps and interval probabilities under measurement error",
+      "paper_id": "2608.13152v1"
+    },
+    "2608.12589v1": {
+      "title": "Supervised Mixed-Frequency Learning for Macro-Financial Forecasting When Factors are Weak",
+      "paper_id": "2608.12589v1"
+    },
+    "2608.09812v2": {
+      "title": "Optimal Experimental Design and Estimation when Potential Outcomes are Bounded",
+      "paper_id": "2608.09812v2"
+    },
+    "2608.09027v2": {
+      "title": "Local Asymptotics for Treatment Choice with Partial Identification",
+      "paper_id": "2608.09027v2"
+    },
+    "2608.13327v1": {
+      "title": "Breaking the Chain: Division Norms and Criminal Deterrence",
+      "paper_id": "2608.13327v1"
+    },
+    "2608.13001v1": {
+      "title": "Incidence Bimatrix Games",
+      "paper_id": "2608.13001v1"
+    },
+    "2608.12818v1": {
+      "title": "Schedule equilibria",
+      "paper_id": "2608.12818v1"
+    },
+    "2608.12558v1": {
+      "title": "Algorithm Transparency and Search Manipulation: Steering vs. Persuasion",
+      "paper_id": "2608.12558v1"
+    },
+    "2608.12538v1": {
+      "title": "Training AI For When Humans Will Use It",
+      "paper_id": "2608.12538v1"
+    },
+    "2608.12411v1": {
+      "title": "Theory of Household Portfolio Choice: Pitfalls in Applications of the Collective Model",
+      "paper_id": "2608.12411v1"
+    },
+    "2608.13056v1": {
+      "title": "Simulating Stress Laws under Extremal Dependence: Characterizing What Generative Models Must Preserve",
+      "paper_id": "2608.13056v1"
+    },
+    "2608.12634v1": {
+      "title": "The Price of Permission: Classification Uncertainty in Constrained Capital Markets",
+      "paper_id": "2608.12634v1"
+    },
+    "2608.11344v2": {
+      "title": "Governing Agentic AI in FinTech",
+      "paper_id": "2608.11344v2"
+    },
+    "W7202183534": {
+      "title": "Impact of Credit Risk Management on the Financial Performance of Commercial Banks",
+      "paper_id": "https://doi.org/10.5281/zenodo.21888269"
+    },
+    "W7202291558": {
+      "title": "Evaluating the Effectiveness of Credit Risk Management Practices in the Commercial Banks of Paro Dzongkhag",
+      "paper_id": "https://doi.org/10.70527/ewjbss.v14i.230"
+    },
+    "W7202197735": {
+      "title": "ORGANIZATIONAL CULTURE IN COMMERCIAL BANKS AND JOB SATISFACTION AMONG MILLENNIAL EMPLOYEES: THE ROLE OF WORK-LIFE BALANCE AS MODERATOR",
+      "paper_id": "https://doi.org/10.5281/zenodo.21889005"
+    },
+    "W7202170792": {
+      "title": "Central Bank Digital Currencies and Financial Stability in Nigeria: Evidence from the Enaira",
+      "paper_id": "https://doi.org/10.56201/ijbfr.vol.12.no7.2026.pg14.22"
+    },
+    "W7202214255": {
+      "title": "Money Supply and Economic Growth",
+      "paper_id": "https://doi.org/10.56201/ijefm.v11.no7.2026.pg53.76"
+    },
+    "W7202265752": {
+      "title": "Debt Structure, Firm Characteristics, and Stock Market Returns: A Panel Analysis of Emerging Economies",
+      "paper_id": "https://doi.org/10.5281/zenodo.21900131"
     }
   },
   "edges": [

@@ -3536,9 +3536,37 @@
       "title": "Money Supply and Economic Growth",
       "paper_id": "https://doi.org/10.56201/ijefm.v11.no7.2026.pg53.76"
     },
-    "W7202265752": {
+    "W7202244214": {
+      "title": "Excess Liquidity, Moral Hazard, and Credit Risk in Indonesian Commercial Banks",
+      "paper_id": "https://doi.org/10.59188/eduvest.v6i8.53230"
+    },
+    "W7166277274": {
+      "title": "The IS Governance Trilemma in Open Banking: When Data Sovereignty, Platform Openness, and Regulatory Compliance Cannot Coexist",
+      "paper_id": "openalex:W7166277274"
+    },
+    "W7202295067": {
+      "title": "Oil Price Shocks, Monetary Policy Transmission and Exchange Rate Stability in Nigeria",
+      "paper_id": "https://doi.org/10.56201/ijefm.v11.no7.2026.pg297.304"
+    },
+    "W7202376328": {
+      "title": "The Economic Benefits of Currency Competition in the Digital Age",
+      "paper_id": "https://doi.org/10.61173/dpwavs12"
+    },
+    "W7129597315": {
+      "title": "Macroeconomic effects of formal adoption of inflation targeting",
+      "paper_id": "https://doi.org/10.1111/ecin.70081"
+    },
+    "W7202256299": {
       "title": "Debt Structure, Firm Characteristics, and Stock Market Returns: A Panel Analysis of Emerging Economies",
-      "paper_id": "https://doi.org/10.5281/zenodo.21900131"
+      "paper_id": "https://doi.org/10.5281/zenodo.21900130"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/ifdp/occupational-complexity-capital-skill-complementarity-and-the-evolution-of-u-s-wage-inequality.htm": {
+      "title": "IFDP Paper: Occupational Complexity, Capital-Skill Complementarity, and the Evolution of U.S. Wage Inequality: A Quantitative Analysis",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/ifdp/occupational-complexity-capital-skill-complementarity-and-the-evolution-of-u-s-wage-inequality.htm"
+    },
+    "repec:RePEc:fip:fedpwp:103638": {
+      "title": "Zoning and the American Suburb",
+      "paper_id": "repec:RePEc:fip:fedpwp:103638"
     }
   },
   "edges": [

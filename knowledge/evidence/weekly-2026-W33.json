@@ -1,0 +1,944 @@
+{
+  "generated_at": "2026-08-17T02:15:03.243243",
+  "papers": [
+    {
+      "paper_ref": "P01",
+      "paper_id": "https://doi.org/10.14738/abr.1408.12056",
+      "title": "Misperceptions about Monetary Policy and a Self-Confirming Inflation Trap: Can Opposition to Interest Rate Hikes Prolong Inflation?",
+      "url": "https://doi.org/10.14738/abr.1408.12056",
+      "topics": [
+        "Monetary Policy and Economic Impact",
+        "Italy: Economic History and Contemporary Issues",
+        "Economic Theory and Policy"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P01-C01",
+        "P01-C02"
+      ]
+    },
+    {
+      "paper_ref": "P02",
+      "paper_id": "https://doi.org/10.34917/40601201",
+      "title": "Simple Determinants of Commercial Bank Failures",
+      "url": "https://oasis.library.unlv.edu/econ_ug_papers/12",
+      "topics": [
+        "Banking stability, regulation, efficiency",
+        "Financial Distress and Bankruptcy Prediction",
+        "Efficiency Analysis Using DEA"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P02-C01",
+        "P02-C02"
+      ]
+    },
+    {
+      "paper_ref": "P03",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf",
+      "title": "Monetary policy and the rigidity of firm employment expectations",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf",
+      "topics": [],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P03-C01",
+        "P03-C02"
+      ]
+    },
+    {
+      "paper_ref": "P04",
+      "paper_id": "openalex:W7202102852",
+      "title": "Advancing and Strengthening Interest Rate Risk Management Practices and Priority Areas in Commercial Banking",
+      "url": "http://eprints.umsida.ac.id/16910/1/CAJITMF_Advancing%2Band%2BStrengthening.pdf",
+      "topics": [
+        "Economic and Industrial Development",
+        "Sustainability and Innovation in Business",
+        "Energy and Environmental Sustainability"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P04-C01",
+        "P04-C02"
+      ]
+    },
+    {
+      "paper_ref": "P05",
+      "paper_id": "https://doi.org/10.5281/zenodo.21874290",
+      "title": "总量隐形、住户显形:不动产抵押品非对称效应的识别",
+      "url": "https://doi.org/10.5281/zenodo.21874290",
+      "topics": [
+        "Financial Literacy, Pension, Retirement Analysis",
+        "Banking stability, regulation, efficiency",
+        "Housing, Finance, and Neoliberalism"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P05-C01",
+        "P05-C02"
+      ]
+    },
+    {
+      "paper_ref": "P06",
+      "paper_id": "https://doi.org/10.1016/j.iref.2026.105685",
+      "title": "Transmission mechanisms in behavioral macroeconomic models",
+      "url": "https://doi.org/10.1016/j.iref.2026.105685",
+      "topics": [
+        "Economic theories and models",
+        "Game Theory and Applications",
+        "Complex Systems and Time Series Analysis"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P06-C01",
+        "P06-C02"
+      ]
+    },
+    {
+      "paper_ref": "P07",
+      "paper_id": "repec:RePEc:fip:fedfwp:103631",
+      "title": "Reaching for Duration",
+      "url": "https://ideas.repec.org/p/fip/fedfwp/103631.html",
+      "topics": [],
+      "score": 80.0,
+      "discovery": {
+        "provider": "IDEAS/RePEc",
+        "series_url": "https://ideas.repec.org/s/fip/fedfwp.html",
+        "free_download": true,
+        "date_precision": "day"
+      },
+      "claim_ids": [
+        "P07-C01",
+        "P07-C02"
+      ]
+    },
+    {
+      "paper_ref": "P08",
+      "paper_id": "repec:RePEc:fip:fedlwp:103629",
+      "title": "The Erosion of Public Capital in Portugal",
+      "url": "https://ideas.repec.org/p/fip/fedlwp/103629.html",
+      "topics": [],
+      "score": 80.0,
+      "discovery": {
+        "provider": "IDEAS/RePEc",
+        "series_url": "https://ideas.repec.org/s/fip/fedlwp.html",
+        "free_download": true,
+        "date_precision": "day"
+      },
+      "claim_ids": [
+        "P08-C01",
+        "P08-C02"
+      ]
+    },
+    {
+      "paper_ref": "P09",
+      "paper_id": "https://doi.org/10.5281/zenodo.20647413",
+      "title": "总量隐形、住户显形:不动产抵押品非对称效应的识别",
+      "url": "https://doi.org/10.5281/zenodo.20647413",
+      "topics": [
+        "Regional Development and Environment",
+        "Regional resilience and development",
+        "Medical Research and Treatments"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P09-C01",
+        "P09-C02"
+      ]
+    },
+    {
+      "paper_ref": "P10",
+      "paper_id": "https://doi.org/10.5281/zenodo.21874700",
+      "title": "财政公信力与抵押品陷阱:一个内生货币创造的视角 Collateral Constraints, Fiscal Credit Enhancement and Endogenous Money Creation: Theoretical Framework, Case Validation and Policy Calibration",
+      "url": "https://doi.org/10.5281/zenodo.21874700",
+      "topics": [
+        "Economic theories and models",
+        "Banking stability, regulation, efficiency",
+        "China's Socioeconomic Reforms and Governance"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P10-C01",
+        "P10-C02"
+      ]
+    },
+    {
+      "paper_ref": "P11",
+      "paper_id": "https://doi.org/10.5281/zenodo.20647970",
+      "title": "总量隐形、住户显形:不动产抵押品非对称效应的识别 Hidden at the Aggregate Level, Visible in the Household Sector: Identifying the Asymmetric Effects of Real Estate Collateral",
+      "url": "https://doi.org/10.5281/zenodo.20647970",
+      "topics": [
+        "Housing Market and Economics",
+        "Spatial and Panel Data Analysis",
+        "Financial Distress and Bankruptcy Prediction"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P11-C01",
+        "P11-C02"
+      ]
+    },
+    {
+      "paper_ref": "P12",
+      "paper_id": "https://doi.org/10.69693/ijim.v4i3.2167",
+      "title": "Mengukur Struktur Alokasi Dana Pihak Ketiga melalui Rasio Dana Non-Intermediasi",
+      "url": "https://doi.org/10.69693/ijim.v4i3.2167",
+      "topics": [
+        "Islamic Finance and Communication",
+        "Financial Analysis and Corporate Governance",
+        "Corporate Governance and Financial Management"
+      ],
+      "score": 80.0,
+      "discovery": {
+        "channel": "citation_expansion",
+        "relation": "cites_seed",
+        "seed_paper_id": "https://doi.org/10.1093/rfs/hhn104",
+        "seed_title": "Bank Liquidity Creation",
+        "seed_score": 90.0
+      },
+      "claim_ids": [
+        "P12-C01",
+        "P12-C02"
+      ]
+    },
+    {
+      "paper_ref": "P13",
+      "paper_id": "https://doi.org/10.5281/zenodo.21888269",
+      "title": "Impact of Credit Risk Management on the Financial Performance of Commercial Banks",
+      "url": "https://doi.org/10.5281/zenodo.21888269",
+      "topics": [
+        "Banking stability, regulation, efficiency",
+        "Corporate Governance and Financial Management",
+        "Financial Distress and Bankruptcy Prediction"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P13-C01",
+        "P13-C02"
+      ]
+    },
+    {
+      "paper_ref": "P14",
+      "paper_id": "https://doi.org/10.70527/ewjbss.v14i.230",
+      "title": "Evaluating the Effectiveness of Credit Risk Management Practices in the Commercial Banks of Paro Dzongkhag",
+      "url": "https://doi.org/10.70527/ewjbss.v14i.230",
+      "topics": [
+        "Financial Distress and Bankruptcy Prediction",
+        "Banking stability, regulation, efficiency",
+        "Credit Risk and Financial Regulations"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P14-C01",
+        "P14-C02"
+      ]
+    },
+    {
+      "paper_ref": "P15",
+      "paper_id": "https://doi.org/10.56201/ijefm.v11.no7.2026.pg53.76",
+      "title": "Money Supply and Economic Growth",
+      "url": "https://doi.org/10.56201/ijefm.v11.no7.2026.pg53.76",
+      "topics": [
+        "Monetary Policy and Economic Impact",
+        "Economic Growth and Development",
+        "Fiscal Policy and Economic Growth"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P15-C01",
+        "P15-C02"
+      ]
+    },
+    {
+      "paper_ref": "P16",
+      "paper_id": "https://doi.org/10.59188/eduvest.v6i8.53230",
+      "title": "Excess Liquidity, Moral Hazard, and Credit Risk in Indonesian Commercial Banks",
+      "url": "https://doi.org/10.59188/eduvest.v6i8.53230",
+      "topics": [
+        "Banking stability, regulation, efficiency",
+        "Working Capital and Financial Performance",
+        "Islamic Finance and Banking Studies"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P16-C01",
+        "P16-C02"
+      ]
+    },
+    {
+      "paper_ref": "P17",
+      "paper_id": "https://doi.org/10.56201/ijefm.v11.no7.2026.pg297.304",
+      "title": "Oil Price Shocks, Monetary Policy Transmission and Exchange Rate Stability in Nigeria",
+      "url": "https://doi.org/10.56201/ijefm.v11.no7.2026.pg297.304",
+      "topics": [
+        "Market Dynamics and Volatility",
+        "Natural Resources and Economic Development",
+        "Monetary Policy and Economic Impact"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P17-C01",
+        "P17-C02"
+      ]
+    },
+    {
+      "paper_ref": "P18",
+      "paper_id": "https://doi.org/10.1016/j.cbrev.2026.100269",
+      "title": "Monetary policy transmission and household debt dynamics: Evidence from wavelet quantile regression (WQR) and wavelet quantile correlation (WQC) analysis",
+      "url": "https://doi.org/10.1016/j.cbrev.2026.100269",
+      "topics": [
+        "Financial Literacy, Pension, Retirement Analysis",
+        "Monetary Policy and Economic Impact",
+        "Banking stability, regulation, efficiency"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P18-C01",
+        "P18-C02"
+      ]
+    },
+    {
+      "paper_ref": "P19",
+      "paper_id": "2608.07251v1",
+      "title": "Reading Copom's Tone: A Weighted LLM Framework for Hawkish-Dovish Sentiment, Forward Guidance, and Uncertainty",
+      "url": "http://arxiv.org/abs/2608.07251v1",
+      "topics": [],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P19-C01",
+        "P19-C02"
+      ]
+    },
+    {
+      "paper_ref": "P20",
+      "paper_id": "https://doi.org/10.5281/zenodo.21729855",
+      "title": "The Zero-Equity Constraint in Monetary Systems",
+      "url": "https://doi.org/10.5281/zenodo.21729855",
+      "topics": [
+        "Economic theories and models",
+        "Economic Theory and Policy",
+        "Taxation and Compliance Studies"
+      ],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P20-C01",
+        "P20-C02"
+      ]
+    },
+    {
+      "paper_ref": "P21",
+      "paper_id": "2608.11266v1",
+      "title": "Bank Run Exposure in a Paycheck-to-Paycheck Economy with Loss-Averse Depositors",
+      "url": "http://arxiv.org/abs/2608.11266v1",
+      "topics": [],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P21-C01",
+        "P21-C02"
+      ]
+    },
+    {
+      "paper_ref": "P22",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/government-bond-backed-repo-markets-between-resilience-and-vulnerability.htm",
+      "title": "FEDS Paper: Government bond-backed repo markets: between resilience and vulnerability",
+      "url": "https://www.federalreserve.gov/econres/feds/government-bond-backed-repo-markets-between-resilience-and-vulnerability.htm",
+      "topics": [],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P22-C01",
+        "P22-C02"
+      ]
+    },
+    {
+      "paper_ref": "P23",
+      "paper_id": "https://doi.org/10.61173/dpwavs12",
+      "title": "The Economic Benefits of Currency Competition in the Digital Age",
+      "url": "https://doi.org/10.61173/dpwavs12",
+      "topics": [
+        "Blockchain Technology Applications and Security",
+        "Economic Growth and Development",
+        "Banking stability, regulation, efficiency"
+      ],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P23-C01",
+        "P23-C02"
+      ]
+    },
+    {
+      "paper_ref": "P24",
+      "paper_id": "https://doi.org/10.1111/ecin.70081",
+      "title": "Macroeconomic effects of formal adoption of inflation targeting",
+      "url": "https://doi.org/10.1111/ecin.70081",
+      "topics": [
+        "Monetary Policy and Economic Impact",
+        "Economic Growth and Development",
+        "Digital Platforms and Economics"
+      ],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P24-C01",
+        "P24-C02"
+      ]
+    },
+    {
+      "paper_ref": "P25",
+      "paper_id": "https://doi.org/10.61173/1jd7z640",
+      "title": "Does Big Data Adoption Enhance Competitive Advantage in Commercial Banking?",
+      "url": "https://doi.org/10.61173/1jd7z640",
+      "topics": [
+        "Big Data and Business Intelligence",
+        "FinTech, Crowdfunding, Digital Finance",
+        "Big Data Technologies and Applications"
+      ],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P25-C01",
+        "P25-C02"
+      ]
+    },
+    {
+      "paper_ref": "P26",
+      "paper_id": "https://doi.org/10.51878/cendekia.v6i4.14441",
+      "title": "ANALISIS MEKANISME TRANSMISI KEBIJAKAN MONETER TERHADAP INFLASI DI INDONESIA TAHUN 2019–2024: STUDI LITERATUR BERDASARKAN DATA BANK INDONESIA DAN BPS",
+      "url": "https://doi.org/10.51878/cendekia.v6i4.14441",
+      "topics": [
+        "Financial Analysis and Corporate Governance",
+        "Economic Growth and Fiscal Policies",
+        "Islamic Finance and Communication"
+      ],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P26-C01",
+        "P26-C02"
+      ]
+    },
+    {
+      "paper_ref": "P27",
+      "paper_id": "https://doi.org/10.56201/ijbfr.vol.12.no7.2026.pg14.22",
+      "title": "Central Bank Digital Currencies and Financial Stability in Nigeria: Evidence from the Enaira",
+      "url": "https://doi.org/10.56201/ijbfr.vol.12.no7.2026.pg14.22",
+      "topics": [
+        "Microfinance and Financial Inclusion",
+        "Economic Growth and Development",
+        "Banking stability, regulation, efficiency"
+      ],
+      "score": 60.0,
+      "discovery": {},
+      "claim_ids": [
+        "P27-C01",
+        "P27-C02"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "P01-C01",
+      "paper_id": "https://doi.org/10.14738/abr.1408.12056",
+      "paper_ref": "P01",
+      "kind": "paper_summary",
+      "text": "本文构建动态模型，研究公众误认为加息会推高通胀的误解如何削弱紧缩政策效果，并可能导致自我确认的通胀陷阱。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.14738/abr.1408.12056"
+    },
+    {
+      "claim_id": "P01-C02",
+      "paper_id": "https://doi.org/10.14738/abr.1408.12056",
+      "paper_ref": "P01",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.14738/abr.1408.12056"
+    },
+    {
+      "claim_id": "P02-C01",
+      "paper_id": "https://doi.org/10.34917/40601201",
+      "paper_ref": "P02",
+      "kind": "paper_summary",
+      "text": "使用logit模型研究1959-2025年美国商业银行失败的内外部决定因素，发现CAMELS指标是主要决定因素，并验证了'大而不能倒'现象和货币政策的影响。",
+      "location": "AI paper-level summary",
+      "source_url": "https://oasis.library.unlv.edu/econ_ug_papers/12"
+    },
+    {
+      "claim_id": "P02-C02",
+      "paper_id": "https://doi.org/10.34917/40601201",
+      "paper_ref": "P02",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://oasis.library.unlv.edu/econ_ug_papers/12"
+    },
+    {
+      "claim_id": "P03-C01",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf",
+      "paper_ref": "P03",
+      "kind": "paper_summary",
+      "text": "利用德国调查数据和高频货币政策意外，研究货币政策冲击对企业就业预期的即时和动态影响，发现紧缩性冲击导致就业预期持续下调，且金融约束企业反应更大。",
+      "location": "AI paper-level summary",
+      "source_url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf"
+    },
+    {
+      "claim_id": "P03-C02",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf",
+      "paper_ref": "P03",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf"
+    },
+    {
+      "claim_id": "P04-C01",
+      "paper_id": "openalex:W7202102852",
+      "paper_ref": "P04",
+      "kind": "paper_summary",
+      "text": "本文分析商业银行利率风险管理实践，运用GAP分析、久期分析和衍生工具，并提出改进建议，以增强银行财务稳定。",
+      "location": "AI paper-level summary",
+      "source_url": "http://eprints.umsida.ac.id/16910/1/CAJITMF_Advancing%2Band%2BStrengthening.pdf"
+    },
+    {
+      "claim_id": "P04-C02",
+      "paper_id": "openalex:W7202102852",
+      "paper_ref": "P04",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://eprints.umsida.ac.id/16910/1/CAJITMF_Advancing%2Band%2BStrengthening.pdf"
+    },
+    {
+      "claim_id": "P05-C01",
+      "paper_id": "https://doi.org/10.5281/zenodo.21874290",
+      "paper_ref": "P05",
+      "kind": "paper_summary",
+      "text": "本文利用中国2008-2025年分部门信贷数据，通过NARDL等模型识别不动产抵押品对信贷的非对称影响，发现抵押品渠道在住户部门显形，总量层面隐形，并量化了非对称乘数。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.5281/zenodo.21874290"
+    },
+    {
+      "claim_id": "P05-C02",
+      "paper_id": "https://doi.org/10.5281/zenodo.21874290",
+      "paper_ref": "P05",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.5281/zenodo.21874290"
+    },
+    {
+      "claim_id": "P06-C01",
+      "paper_id": "https://doi.org/10.1016/j.iref.2026.105685",
+      "paper_ref": "P06",
+      "kind": "paper_summary",
+      "text": "本文在包含手到嘴家庭和动物精神的TANK新凯恩斯模型中重新评估货币政策传导，发现家庭构成影响传导强度，且动物精神渠道可降低福利损失。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.1016/j.iref.2026.105685"
+    },
+    {
+      "claim_id": "P06-C02",
+      "paper_id": "https://doi.org/10.1016/j.iref.2026.105685",
+      "paper_ref": "P06",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.1016/j.iref.2026.105685"
+    },
+    {
+      "claim_id": "P07-C01",
+      "paper_id": "repec:RePEc:fip:fedfwp:103631",
+      "paper_ref": "P07",
+      "kind": "paper_summary",
+      "text": "利用美国商业银行历史数据，发现银行期限错配自1980年代中期以来增长三倍，与利率和期限溢价下降同步，模型和实证表明银行为了盈利而延长资产久期，量化宽松可能加剧这一行为并增加金融不稳定。",
+      "location": "AI paper-level summary",
+      "source_url": "https://ideas.repec.org/p/fip/fedfwp/103631.html"
+    },
+    {
+      "claim_id": "P07-C02",
+      "paper_id": "repec:RePEc:fip:fedfwp:103631",
+      "paper_ref": "P07",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://ideas.repec.org/p/fip/fedfwp/103631.html"
+    },
+    {
+      "claim_id": "P08-C01",
+      "paper_id": "repec:RePEc:fip:fedlwp:103629",
+      "paper_ref": "P08",
+      "kind": "paper_summary",
+      "text": "本文记录葡萄牙公共资本存量自2013年以来的下降，并评估其对GDP和劳动生产率的影响，发现资本下降可能使2026年人均GDP降低0.7-5.3%。",
+      "location": "AI paper-level summary",
+      "source_url": "https://ideas.repec.org/p/fip/fedlwp/103629.html"
+    },
+    {
+      "claim_id": "P08-C02",
+      "paper_id": "repec:RePEc:fip:fedlwp:103629",
+      "paper_ref": "P08",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://ideas.repec.org/p/fip/fedlwp/103629.html"
+    },
+    {
+      "claim_id": "P09-C01",
+      "paper_id": "https://doi.org/10.5281/zenodo.20647413",
+      "paper_ref": "P09",
+      "kind": "paper_summary",
+      "text": "本文利用中国2008-2025年分部门信贷数据，通过NARDL等模型识别不动产抵押品渠道的非对称效应，发现总量层面抵押品渠道隐形，但住户部门显著且非对称，企业部门脱钩，并探讨了机制和政策含义。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.5281/zenodo.20647413"
+    },
+    {
+      "claim_id": "P09-C02",
+      "paper_id": "https://doi.org/10.5281/zenodo.20647413",
+      "paper_ref": "P09",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.5281/zenodo.20647413"
+    },
+    {
+      "claim_id": "P10-C01",
+      "paper_id": "https://doi.org/10.5281/zenodo.21874700",
+      "paper_ref": "P10",
+      "kind": "paper_summary",
+      "text": "本文基于内生货币理论，构建财政公信力-抵押率-信贷结构-货币效率框架，论证财政增信通过风险分担和抵押品扩容激活内生信用创造，并量化财政收益覆盖倍数，为财政货币政策协同提供政策锚点。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.5281/zenodo.21874700"
+    },
+    {
+      "claim_id": "P10-C02",
+      "paper_id": "https://doi.org/10.5281/zenodo.21874700",
+      "paper_ref": "P10",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.5281/zenodo.21874700"
+    },
+    {
+      "claim_id": "P11-C01",
+      "paper_id": "https://doi.org/10.5281/zenodo.20647970",
+      "paper_ref": "P11",
+      "kind": "paper_summary",
+      "text": "本文利用中国2008-2025年分部门信贷数据，识别不动产抵押品渠道在住户部门显形、总量隐形的非对称效应，并量化其强度及机制。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.5281/zenodo.20647970"
+    },
+    {
+      "claim_id": "P11-C02",
+      "paper_id": "https://doi.org/10.5281/zenodo.20647970",
+      "paper_ref": "P11",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.5281/zenodo.20647970"
+    },
+    {
+      "claim_id": "P12-C01",
+      "paper_id": "https://doi.org/10.69693/ijim.v4i3.2167",
+      "paper_ref": "P12",
+      "kind": "paper_summary",
+      "text": "本文提出非中介资金比率（RDNI）作为LDR的补充指标，利用2000-2025年印尼银行业数据，分析第三方资金在非中介资产中的配置趋势，发现长期上升趋势，并讨论其对金融中介和伊斯兰金融的启示。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.69693/ijim.v4i3.2167"
+    },
+    {
+      "claim_id": "P12-C02",
+      "paper_id": "https://doi.org/10.69693/ijim.v4i3.2167",
+      "paper_ref": "P12",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.69693/ijim.v4i3.2167"
+    },
+    {
+      "claim_id": "P13-C01",
+      "paper_id": "https://doi.org/10.5281/zenodo.21888269",
+      "paper_ref": "P13",
+      "kind": "paper_summary",
+      "text": "该论文使用2014-2023年15家商业银行的面板数据，通过固定效应模型分析信用风险管理指标对银行盈利能力（ROA和ROE）的影响，发现不良贷款率与盈利能力负相关，而资本充足率和拨备覆盖率与盈利能力正相关。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.5281/zenodo.21888269"
+    },
+    {
+      "claim_id": "P13-C02",
+      "paper_id": "https://doi.org/10.5281/zenodo.21888269",
+      "paper_ref": "P13",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.5281/zenodo.21888269"
+    },
+    {
+      "claim_id": "P14-C01",
+      "paper_id": "https://doi.org/10.70527/ewjbss.v14i.230",
+      "paper_ref": "P14",
+      "kind": "paper_summary",
+      "text": "该研究通过问卷调查评估不丹帕罗宗商业银行业的信用风险管理实践的有效性，发现整体有效但预警系统和员工培训有待改进。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.70527/ewjbss.v14i.230"
+    },
+    {
+      "claim_id": "P14-C02",
+      "paper_id": "https://doi.org/10.70527/ewjbss.v14i.230",
+      "paper_ref": "P14",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.70527/ewjbss.v14i.230"
+    },
+    {
+      "claim_id": "P15-C01",
+      "paper_id": "https://doi.org/10.56201/ijefm.v11.no7.2026.pg53.76",
+      "paper_ref": "P15",
+      "kind": "paper_summary",
+      "text": "该研究利用ARDL模型分析1982-2023年尼日利亚广义货币供应量、通胀率和利率对实际GDP增长的影响，发现货币供应量对增长有显著正效应，而通胀和利率影响不显著。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.56201/ijefm.v11.no7.2026.pg53.76"
+    },
+    {
+      "claim_id": "P15-C02",
+      "paper_id": "https://doi.org/10.56201/ijefm.v11.no7.2026.pg53.76",
+      "paper_ref": "P15",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.56201/ijefm.v11.no7.2026.pg53.76"
+    },
+    {
+      "claim_id": "P16-C01",
+      "paper_id": "https://doi.org/10.59188/eduvest.v6i8.53230",
+      "paper_ref": "P16",
+      "kind": "paper_summary",
+      "text": "本文利用印尼46家上市银行2015-2024年面板数据，采用SYS-GMM方法，发现流动性创造和流动性风险显著增加不良贷款率，支持道德风险假说，而央行政策变量影响不显著。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.59188/eduvest.v6i8.53230"
+    },
+    {
+      "claim_id": "P16-C02",
+      "paper_id": "https://doi.org/10.59188/eduvest.v6i8.53230",
+      "paper_ref": "P16",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.59188/eduvest.v6i8.53230"
+    },
+    {
+      "claim_id": "P17-C01",
+      "paper_id": "https://doi.org/10.56201/ijefm.v11.no7.2026.pg297.304",
+      "paper_ref": "P17",
+      "kind": "paper_summary",
+      "text": "该论文利用ARDL和NARDL模型研究全球石油价格冲击对尼日利亚货币政策传导渠道和汇率稳定的影响，发现石油出口国和进口国存在非对称效应，并建议央行将油价纳入预测模型。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.56201/ijefm.v11.no7.2026.pg297.304"
+    },
+    {
+      "claim_id": "P17-C02",
+      "paper_id": "https://doi.org/10.56201/ijefm.v11.no7.2026.pg297.304",
+      "paper_ref": "P17",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.56201/ijefm.v11.no7.2026.pg297.304"
+    },
+    {
+      "claim_id": "P18-C01",
+      "paper_id": "https://doi.org/10.1016/j.cbrev.2026.100269",
+      "paper_ref": "P18",
+      "kind": "paper_summary",
+      "text": "该研究利用小波分位数回归和相关分析，探讨美国货币政策（利率和货币供应量）对家庭债务的动态影响，发现利率上调在长期抑制高杠杆家庭债务，而货币供应增加则普遍推高债务。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.1016/j.cbrev.2026.100269"
+    },
+    {
+      "claim_id": "P18-C02",
+      "paper_id": "https://doi.org/10.1016/j.cbrev.2026.100269",
+      "paper_ref": "P18",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.1016/j.cbrev.2026.100269"
+    },
+    {
+      "claim_id": "P19-C01",
+      "paper_id": "2608.07251v1",
+      "paper_ref": "P19",
+      "kind": "paper_summary",
+      "text": "该论文提出一个加权LLM框架，用于量化巴西Copom声明的鹰鸽语气、前瞻指引和不确定性，并描述其统计特征。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2608.07251v1"
+    },
+    {
+      "claim_id": "P19-C02",
+      "paper_id": "2608.07251v1",
+      "paper_ref": "P19",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2608.07251v1"
+    },
+    {
+      "claim_id": "P20-C01",
+      "paper_id": "https://doi.org/10.5281/zenodo.21729855",
+      "paper_ref": "P20",
+      "kind": "paper_summary",
+      "text": "论文提出货币本体论，将货币视为转移性索取权，并推导出零权益恒等式，统一了国家货币和银行货币的框架。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.5281/zenodo.21729855"
+    },
+    {
+      "claim_id": "P20-C02",
+      "paper_id": "https://doi.org/10.5281/zenodo.21729855",
+      "paper_ref": "P20",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.5281/zenodo.21729855"
+    },
+    {
+      "claim_id": "P21-C01",
+      "paper_id": "2608.11266v1",
+      "paper_ref": "P21",
+      "kind": "paper_summary",
+      "text": "该论文构建了一个包含损失厌恶存款人的行为模型，研究发薪日经济中的银行挤兑风险，并通过Call Report数据实证检验了银行挤兑暴露的驱动因素。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2608.11266v1"
+    },
+    {
+      "claim_id": "P21-C02",
+      "paper_id": "2608.11266v1",
+      "paper_ref": "P21",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2608.11266v1"
+    },
+    {
+      "claim_id": "P22-C01",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/government-bond-backed-repo-markets-between-resilience-and-vulnerability.htm",
+      "paper_ref": "P22",
+      "kind": "paper_summary",
+      "text": "该论文综述了政府债券回购市场的脆弱性，分析了其流动性提供与压力传导的双重特征，并讨论了监管改革和央行干预的影响。",
+      "location": "AI paper-level summary",
+      "source_url": "https://www.federalreserve.gov/econres/feds/government-bond-backed-repo-markets-between-resilience-and-vulnerability.htm"
+    },
+    {
+      "claim_id": "P22-C02",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/government-bond-backed-repo-markets-between-resilience-and-vulnerability.htm",
+      "paper_ref": "P22",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://www.federalreserve.gov/econres/feds/government-bond-backed-repo-markets-between-resilience-and-vulnerability.htm"
+    },
+    {
+      "claim_id": "P23-C01",
+      "paper_id": "https://doi.org/10.61173/dpwavs12",
+      "paper_ref": "P23",
+      "kind": "paper_summary",
+      "text": "本文通过分析加密货币、稳定币和CBDC的竞争，论证货币竞争能促进政府财政和货币政策纪律，锚定通胀预期，并增强政策空间，从而带来经济收益。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.61173/dpwavs12"
+    },
+    {
+      "claim_id": "P23-C02",
+      "paper_id": "https://doi.org/10.61173/dpwavs12",
+      "paper_ref": "P23",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.61173/dpwavs12"
+    },
+    {
+      "claim_id": "P24-C01",
+      "paper_id": "https://doi.org/10.1111/ecin.70081",
+      "paper_ref": "P24",
+      "kind": "paper_summary",
+      "text": "该论文使用合成控制法评估正式采纳通胀目标制对通胀、增长和通胀预期锚定的影响，发现早期采纳者效果显著，但近期采纳者仅在约一半案例中成功。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.1111/ecin.70081"
+    },
+    {
+      "claim_id": "P24-C02",
+      "paper_id": "https://doi.org/10.1111/ecin.70081",
+      "paper_ref": "P24",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.1111/ecin.70081"
+    },
+    {
+      "claim_id": "P25-C01",
+      "paper_id": "https://doi.org/10.61173/1jd7z640",
+      "paper_ref": "P25",
+      "kind": "paper_summary",
+      "text": "本文通过文献综述探讨商业银行采用大数据对竞争优势的影响，发现大数据能提升绩效但需组织准备，属于商业银行领域。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.61173/1jd7z640"
+    },
+    {
+      "claim_id": "P25-C02",
+      "paper_id": "https://doi.org/10.61173/1jd7z640",
+      "paper_ref": "P25",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.61173/1jd7z640"
+    },
+    {
+      "claim_id": "P26-C01",
+      "paper_id": "https://doi.org/10.51878/cendekia.v6i4.14441",
+      "paper_ref": "P26",
+      "kind": "paper_summary",
+      "text": "该论文通过文献研究分析2019-2024年印度尼西亚货币政策传导机制（特别是利率渠道）对通胀的影响，发现利率渠道在稳定通胀中发挥重要作用。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.51878/cendekia.v6i4.14441"
+    },
+    {
+      "claim_id": "P26-C02",
+      "paper_id": "https://doi.org/10.51878/cendekia.v6i4.14441",
+      "paper_ref": "P26",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.51878/cendekia.v6i4.14441"
+    },
+    {
+      "claim_id": "P27-C01",
+      "paper_id": "https://doi.org/10.56201/ijbfr.vol.12.no7.2026.pg14.22",
+      "paper_ref": "P27",
+      "kind": "paper_summary",
+      "text": "该研究使用Toda-Yamamoto因果检验，基于尼日利亚2021-2025年季度数据，发现eNaira交易量、交易额和钱包采用对金融稳定（以不良贷款率衡量）无显著因果影响，但交易量对钱包采用有弱因果证据。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.56201/ijbfr.vol.12.no7.2026.pg14.22"
+    },
+    {
+      "claim_id": "P27-C02",
+      "paper_id": "https://doi.org/10.56201/ijbfr.vol.12.no7.2026.pg14.22",
+      "paper_ref": "P27",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.56201/ijbfr.vol.12.no7.2026.pg14.22"
+    }
+  ]
+}

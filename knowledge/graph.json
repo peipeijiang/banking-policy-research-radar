@@ -3376,10 +3376,6 @@
       "title": "Organizational Technology Ladders: Remote Work and Generative AI Adoption",
       "paper_id": "2608.11626v1"
     },
-    "2608.12143v1": {
-      "title": "Robustness over efficiency in climate coalitions: a bistable model and a map of architectures",
-      "paper_id": "2608.12143v1"
-    },
     "2608.11404v1": {
       "title": "Technology interactions reshape the economics of China's coal power decarbonization",
       "paper_id": "2608.11404v1"
@@ -3488,10 +3484,6 @@
       "title": "Incidence Bimatrix Games",
       "paper_id": "2608.13001v1"
     },
-    "2608.12818v1": {
-      "title": "Schedule equilibria",
-      "paper_id": "2608.12818v1"
-    },
     "2608.12558v1": {
       "title": "Algorithm Transparency and Search Manipulation: Steering vs. Persuasion",
       "paper_id": "2608.12558v1"
@@ -3587,6 +3579,46 @@
     "W7202378184": {
       "title": "Analysis of the Dynamic Co-movement Mechanism Between Cryptocurrencies and Traditional Assets",
       "paper_id": "https://doi.org/10.61173/b5jcq871"
+    },
+    "2608.14760v1": {
+      "title": "The Price of Submission",
+      "paper_id": "2608.14760v1"
+    },
+    "2608.14930v1": {
+      "title": "A Neurofinance Framework for Subjective Temporal Perception, Risk, and Investment Behavior",
+      "paper_id": "2608.14930v1"
+    },
+    "2608.12143v2": {
+      "title": "Robustness over efficiency in climate coalitions: a bistable model and a map of architectures",
+      "paper_id": "2608.12143v2"
+    },
+    "2608.15339v1": {
+      "title": "Learning Sequential Mobility Choice: A Review of Route and Activity Choice through Inverse Reinforcement and Imitation Learning",
+      "paper_id": "2608.15339v1"
+    },
+    "2608.15333v1": {
+      "title": "Optimal Control Variates for Survey Sampling and Causal Inference",
+      "paper_id": "2608.15333v1"
+    },
+    "2608.15631v1": {
+      "title": "Non-obvious Manipulability with Groups in Shapley-Scarf Housing Markets",
+      "paper_id": "2608.15631v1"
+    },
+    "2608.12818v2": {
+      "title": "Schedule equilibria",
+      "paper_id": "2608.12818v2"
+    },
+    "2608.15212v1": {
+      "title": "Is the medium the message? Social disclosure channels and firm risk",
+      "paper_id": "2608.15212v1"
+    },
+    "2608.15447v1": {
+      "title": "Detecting Money Laundering in Rwandan Mobile Money: A Machine Learning Framework",
+      "paper_id": "2608.15447v1"
+    },
+    "2608.15097v1": {
+      "title": "Pricing Temperature-Index Insurance under Long Memory and Stochastic Time Change",
+      "paper_id": "2608.15097v1"
     }
   },
   "edges": [

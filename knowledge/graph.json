@@ -3596,10 +3596,6 @@
       "title": "Learning Sequential Mobility Choice: A Review of Route and Activity Choice through Inverse Reinforcement and Imitation Learning",
       "paper_id": "2608.15339v1"
     },
-    "2608.15333v1": {
-      "title": "Optimal Control Variates for Survey Sampling and Causal Inference",
-      "paper_id": "2608.15333v1"
-    },
     "2608.15631v1": {
       "title": "Non-obvious Manipulability with Groups in Shapley-Scarf Housing Markets",
       "paper_id": "2608.15631v1"
@@ -3619,6 +3615,134 @@
     "2608.15097v1": {
       "title": "Pricing Temperature-Index Insurance under Long Memory and Stochastic Time Change",
       "paper_id": "2608.15097v1"
+    },
+    "2608.18069v1": {
+      "title": "Revisiting the Intra-Team Communication Method to Elicit Level-k Reasoning in Beauty Contests and 11-20 Games",
+      "paper_id": "2608.18069v1"
+    },
+    "2608.17624v1": {
+      "title": "Governing Delegation to Generative Artificial Intelligence: Human Direction, Work-Related Orientation, and Modes of Use",
+      "paper_id": "2608.17624v1"
+    },
+    "2608.17436v1": {
+      "title": "The Long-Term Effects of British and French Colonization in Africa on Trust in Traditional Leaders",
+      "paper_id": "2608.17436v1"
+    },
+    "2608.17312v1": {
+      "title": "Reputation and institutional certification as complementary trust mechanisms in a single online market",
+      "paper_id": "2608.17312v1"
+    },
+    "2608.17111v1": {
+      "title": "Stranded credentials: how a skill-signaling market absorbed generative AI",
+      "paper_id": "2608.17111v1"
+    },
+    "2608.16849v1": {
+      "title": "Targeting Support Using Job Seekers' Biases: A Randomized Experiment",
+      "paper_id": "2608.16849v1"
+    },
+    "2608.16827v1": {
+      "title": "Biases-Informed Job Search Guidance: Characterization, Implications, and Targeting Support",
+      "paper_id": "2608.16827v1"
+    },
+    "2608.15981v1": {
+      "title": "The Geography of Research: The Trade-Off Between Knowledge Production and Access",
+      "paper_id": "2608.15981v1"
+    },
+    "2608.18057v1": {
+      "title": "The Limits of Experimental Design: Covariate Balance Beyond Low Dimension",
+      "paper_id": "2608.18057v1"
+    },
+    "2608.15876v1": {
+      "title": "The Yeoman's Portfolio: Measuring Historical Risk Preferences Using Crop Choice",
+      "paper_id": "2608.15876v1"
+    },
+    "2608.16867v1": {
+      "title": "Trading Scope for Credibility in Difference-in-Differences",
+      "paper_id": "2608.16867v1"
+    },
+    "2608.16708v1": {
+      "title": "Quantile restrictions, revealed rankings, and the limits of multinomial choice",
+      "paper_id": "2608.16708v1"
+    },
+    "2608.16468v1": {
+      "title": "Estimation and Inference for Peer Effects under Conditional Random Assignment",
+      "paper_id": "2608.16468v1"
+    },
+    "2608.16325v1": {
+      "title": "The Best Are Always the Best: COVID-19 Lockdown Stringency and the Dispersion of Olympic Medal Outcomes",
+      "paper_id": "2608.16325v1"
+    },
+    "2608.16312v1": {
+      "title": "Regional advantage in rugby sevens: Is there a home effect when nobody is home?",
+      "paper_id": "2608.16312v1"
+    },
+    "2608.15840v1": {
+      "title": "How Many Samples Are Needed to Determine Causal Direction? Sharp Minimax Bounds for Bivariate LiNGAM",
+      "paper_id": "2608.15840v1"
+    },
+    "2608.15333v2": {
+      "title": "Optimal Control Variates for Survey Sampling and Causal Inference",
+      "paper_id": "2608.15333v2"
+    },
+    "2608.17766v1": {
+      "title": "Does the grand coalition form? Persistence, arrival, and the role of the sharing rule in a dynamic process of nested binding agreements",
+      "paper_id": "2608.17766v1"
+    },
+    "2608.17446v1": {
+      "title": "Searchable Menus",
+      "paper_id": "2608.17446v1"
+    },
+    "2608.17363v1": {
+      "title": "Conservation of Short-term Flows: Signed Optimal Transport",
+      "paper_id": "2608.17363v1"
+    },
+    "2608.17273v1": {
+      "title": "Bayesian Signaling and Entry Decisions under Uncertain Market Conditions",
+      "paper_id": "2608.17273v1"
+    },
+    "2608.16869v1": {
+      "title": "The New Mathematics of Democracy",
+      "paper_id": "2608.16869v1"
+    },
+    "2608.16599v1": {
+      "title": "Social Learning with Selective Sampling",
+      "paper_id": "2608.16599v1"
+    },
+    "2608.16699v1": {
+      "title": "Learning to Price with Persuasion",
+      "paper_id": "2608.16699v1"
+    },
+    "2608.14464v2": {
+      "title": "A distance-based theory of lottery complexity",
+      "paper_id": "2608.14464v2"
+    },
+    "2608.14173v2": {
+      "title": "Acquiring irrelevant information as a commitment",
+      "paper_id": "2608.14173v2"
+    },
+    "2608.18022v1": {
+      "title": "Entropic Value-at-Risk portfolio optimization for tempered stable Lévy processes",
+      "paper_id": "2608.18022v1"
+    },
+    "2608.17715v1": {
+      "title": "Communicating Credit Risk with Large Language Models: Evaluation of Explanations from Standard and Alternative Data-Based Models",
+      "paper_id": "2608.17715v1"
+    },
+    "2608.17481v1": {
+      "title": "A generic nonparametric value-at-risk estimator for high dimensions",
+      "paper_id": "2608.17481v1"
+    },
+    "2608.16856v1": {
+      "title": "zLend: A Dual-Scope Cash-Flow Reconstruction Framework for On-Chain Credit Underwriting",
+      "paper_id": "2608.16856v1"
+    },
+    "repec:RePEc:ces:ceswps:_12925": {
+      "title": "AI Persuasion and Financial-Decision Making: Experimental Evidence on Dominated Investment Choices",
+      "paper_id": "repec:RePEc:ces:ceswps:_12925"
+    },
+    "repec:RePEc:ces:ceswps:_12924": {
+      "title": "Comparisons",
+      "paper_id": "repec:RePEc:ces:ceswps:_12924"
     }
   },
   "edges": [

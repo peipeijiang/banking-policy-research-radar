@@ -3807,6 +3807,62 @@
     "repec:RePEc:ces:ceswps:_12923": {
       "title": "Access to Standards, Access to Markets: ISO Access, Quality Infrastructure, and International Trade",
       "paper_id": "repec:RePEc:ces:ceswps:_12923"
+    },
+    "2608.19944v1": {
+      "title": "A Privacy Budgeting Framework for Online Experimentation",
+      "paper_id": "2608.19944v1"
+    },
+    "2608.19634v1": {
+      "title": "Curvature-Calibrated Quasi-Bayesian Updating for Moment-Restricted Models",
+      "paper_id": "2608.19634v1"
+    },
+    "2608.20074v1": {
+      "title": "Characterizations of continuous adequate objective functions for ordinal or interval scaled data",
+      "paper_id": "2608.20074v1"
+    },
+    "2608.19897v1": {
+      "title": "The Order of Binary Experiments under Endogenous Stopping",
+      "paper_id": "2608.19897v1"
+    },
+    "2608.19846v1": {
+      "title": "Random Cap: Optimal Informationally Robust Delegation",
+      "paper_id": "2608.19846v1"
+    },
+    "2608.19474v1": {
+      "title": "Monotone Allocations without Single-Crossing: When to Bunch and When to Jump",
+      "paper_id": "2608.19474v1"
+    },
+    "2608.20304v1": {
+      "title": "Calibration-Induced Degeneracy in LLM Financial Forecasting: An Audit-Trailed Case Study on Next-Day Market Risk",
+      "paper_id": "2608.20304v1"
+    },
+    "2608.20179v1": {
+      "title": "Dynamic Portfolio Optimization under CVaR Constraints",
+      "paper_id": "2608.20179v1"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3274~c747d7b2d0.en.pdf": {
+      "title": "Banks’ funding structures and pass-through in the euro area",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3274~c747d7b2d0.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3275~9c3ff58aae.en.pdf": {
+      "title": "Hidden in the aggregate: the cyclicality of EU labour force participation",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3275~9c3ff58aae.en.pdf"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/beyond-the-unemployment-rate-a-structural-labor-market-indicator.htm": {
+      "title": "FEDS Paper: Beyond the Unemployment Rate: A Structural Labor Market Indicator",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/beyond-the-unemployment-rate-a-structural-labor-market-indicator.htm"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/08/staff-working-paper-2026-29/": {
+      "title": "Time Use and Consumption Expenditures",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/08/staff-working-paper-2026-29/"
+    },
+    "repec:RePEc:ces:ceswps:_12920": {
+      "title": "Inflation Targeting and Zero Lower Bound Risk: Cross-Country Evidence",
+      "paper_id": "repec:RePEc:ces:ceswps:_12920"
+    },
+    "repec:RePEc:ces:ceswps:_12921": {
+      "title": "Financial Inclusion and Electricity Uptake",
+      "paper_id": "repec:RePEc:ces:ceswps:_12921"
     }
   },
   "edges": [

@@ -3808,10 +3808,6 @@
       "title": "Access to Standards, Access to Markets: ISO Access, Quality Infrastructure, and International Trade",
       "paper_id": "repec:RePEc:ces:ceswps:_12923"
     },
-    "2608.19944v1": {
-      "title": "A Privacy Budgeting Framework for Online Experimentation",
-      "paper_id": "2608.19944v1"
-    },
     "2608.19634v1": {
       "title": "Curvature-Calibrated Quasi-Bayesian Updating for Moment-Restricted Models",
       "paper_id": "2608.19634v1"
@@ -3888,10 +3884,6 @@
       "title": "Long-Run Inflation and Financial Panics",
       "paper_id": "repec:RePEc:ces:ceswps:_12918"
     },
-    "W7203871051": {
-      "title": "Strategic Capabilities and Performance of Commercial Banks in Kenya: An Empirical Assessment",
-      "paper_id": "https://doi.org/10.5281/zenodo.22042401"
-    },
     "W7203855918": {
       "title": "Pass-through and bias in South Africa's household inflation expectations",
       "paper_id": "https://doi.org/10.71587/emxw4p88"
@@ -3907,6 +3899,50 @@
     "W7203823481": {
       "title": "Determinants of sustainable growth rate of commercial banks in ethiopia: evidence from panel data analysis (2005–2023)",
       "paper_id": "https://doi.org/10.1007/s43546-026-01319-x"
+    },
+    "2608.21274v1": {
+      "title": "Recommendation Quality and the Concentration of Consumption: Experimental Evidence from Netflix",
+      "paper_id": "2608.21274v1"
+    },
+    "2608.21130v1": {
+      "title": "A Synthetic Benchmark Dataset with Endogenous Marketing Spend for Validating Marketing Mix Models",
+      "paper_id": "2608.21130v1"
+    },
+    "2608.21128v1": {
+      "title": "Structural Estimation of Marketing Mix Model Parameters from Geo-Experiments",
+      "paper_id": "2608.21128v1"
+    },
+    "2608.20698v1": {
+      "title": "Priority Transparency, Admission Chances, and Information Acquisition in School Choice",
+      "paper_id": "2608.20698v1"
+    },
+    "2608.21334v1": {
+      "title": "Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories",
+      "paper_id": "2608.21334v1"
+    },
+    "2608.20779v1": {
+      "title": "Candidate Set Size and Voting Behavior: A Front-Door Approach to Causal Moderation",
+      "paper_id": "2608.20779v1"
+    },
+    "2608.19944v2": {
+      "title": "A Privacy Budgeting Framework for Online Experimentation",
+      "paper_id": "2608.19944v2"
+    },
+    "2608.20982v1": {
+      "title": "Surrender runs",
+      "paper_id": "2608.20982v1"
+    },
+    "2608.20766v1": {
+      "title": "Certified Learning and Equilibrium Implementation under Opaque Partial Commitment",
+      "paper_id": "2608.20766v1"
+    },
+    "W7203860754": {
+      "title": "Strategic Capabilities and Performance of Commercial Banks in Kenya: An Empirical Assessment",
+      "paper_id": "https://doi.org/10.5281/zenodo.22042402"
+    },
+    "W7204001366": {
+      "title": "Macroeconomic Democracy as a Framework for Long-Term Growth: Resolving r>g Dynamics Within the Model of Cooperativism",
+      "paper_id": "https://doi.org/10.5281/zenodo.22058181"
     }
   },
   "edges": [

@@ -3820,10 +3820,6 @@
       "title": "The Order of Binary Experiments under Endogenous Stopping",
       "paper_id": "2608.19897v1"
     },
-    "2608.19846v1": {
-      "title": "Random Cap: Optimal Informationally Robust Delegation",
-      "paper_id": "2608.19846v1"
-    },
     "2608.19474v1": {
       "title": "Monotone Allocations without Single-Crossing: When to Bunch and When to Jump",
       "paper_id": "2608.19474v1"
@@ -3940,9 +3936,125 @@
       "title": "Strategic Capabilities and Performance of Commercial Banks in Kenya: An Empirical Assessment",
       "paper_id": "https://doi.org/10.5281/zenodo.22042402"
     },
-    "W7204001366": {
+    "2608.23524v1": {
+      "title": "The Measurement Revolution? Credible Measurement and Inference in the Age of AI",
+      "paper_id": "2608.23524v1"
+    },
+    "2608.23369v1": {
+      "title": "Culture and constitutional compliance",
+      "paper_id": "2608.23369v1"
+    },
+    "2608.22697v1": {
+      "title": "Does Rank Still Matter? Position Bias When AI Agents Shop on Our Behalf",
+      "paper_id": "2608.22697v1"
+    },
+    "2608.23051v1": {
+      "title": "Female Nomination and Party Vote Share in US Gubernatorial Elections",
+      "paper_id": "2608.23051v1"
+    },
+    "2608.21691v1": {
+      "title": "Contextual Visual Distinctiveness in Online Product Search",
+      "paper_id": "2608.21691v1"
+    },
+    "2608.21843v1": {
+      "title": "Debt relief and remittances can offset foreign aid cuts for most countries, but some remain locked out",
+      "paper_id": "2608.21843v1"
+    },
+    "2608.23508v1": {
+      "title": "Testing selection on observables in parametric models with refreshment samples",
+      "paper_id": "2608.23508v1"
+    },
+    "2608.23420v1": {
+      "title": "Systematic Bias in Green Patent Classification: Silent Green and False Green",
+      "paper_id": "2608.23420v1"
+    },
+    "2608.23315v1": {
+      "title": "Classification testing: A new framework for drawing qualitative conclusions from quantitative estimates",
+      "paper_id": "2608.23315v1"
+    },
+    "2608.23257v1": {
+      "title": "How Replicable Are Statistically Significant Findings?",
+      "paper_id": "2608.23257v1"
+    },
+    "2608.23064v1": {
+      "title": "Sequentially valid inference for probabilistic inflation forecasts",
+      "paper_id": "2608.23064v1"
+    },
+    "2608.22957v1": {
+      "title": "Identification and Inference for Causal Effects in Extremes under General Conditions",
+      "paper_id": "2608.22957v1"
+    },
+    "2608.22706v1": {
+      "title": "Double/Debiased Machine Learning for Functional-Form-Robust Spatial Autoregression",
+      "paper_id": "2608.22706v1"
+    },
+    "2608.22608v1": {
+      "title": "Estimating Pathway Treatment Effects in the Presence of Intermediate Events with Multi-State Data",
+      "paper_id": "2608.22608v1"
+    },
+    "2608.22605v1": {
+      "title": "Closed-form estimation and uniform inference in additively separable triangular models with a nonseparable first stage",
+      "paper_id": "2608.22605v1"
+    },
+    "2608.22499v1": {
+      "title": "Fixed-$T$ Dynamic Spatial Panel Model with Common Shocks",
+      "paper_id": "2608.22499v1"
+    },
+    "2608.22286v1": {
+      "title": "Uniform Inference on Quantile Effects under Network Interference",
+      "paper_id": "2608.22286v1"
+    },
+    "2608.22002v1": {
+      "title": "Uniformly Valid Inference Under Interactive and High-Dimensional Constraints",
+      "paper_id": "2608.22002v1"
+    },
+    "2608.21619v1": {
+      "title": "Exact Rejection Sampling for Non-Gaussian State Space Models",
+      "paper_id": "2608.21619v1"
+    },
+    "2608.23407v1": {
+      "title": "Optimal Grading: A Unified Approach",
+      "paper_id": "2608.23407v1"
+    },
+    "2608.22694v1": {
+      "title": "Outcome Disclosure and Temporal Refinement in Multi-Battle Team Contests",
+      "paper_id": "2608.22694v1"
+    },
+    "2608.22371v1": {
+      "title": "On Deterministic Optimal Mechanisms in a Two-Item Setting for Distributions with Nondecreasing Density",
+      "paper_id": "2608.22371v1"
+    },
+    "2608.22234v1": {
+      "title": "Learning to Agree under Pseudo-Reciprocity",
+      "paper_id": "2608.22234v1"
+    },
+    "2608.19846v2": {
+      "title": "Random Cap: Optimal Informationally Robust Delegation",
+      "paper_id": "2608.19846v2"
+    },
+    "2608.23274v1": {
+      "title": "The Physical Crash Frontier: What Finite Option Quotes Can and Cannot Reveal",
+      "paper_id": "2608.23274v1"
+    },
+    "2608.21506v1": {
+      "title": "What Quantitative Risk Modellers Can Learn from Durkheim's Study of Suicide",
+      "paper_id": "2608.21506v1"
+    },
+    "2608.22852v1": {
+      "title": "Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron",
+      "paper_id": "2608.22852v1"
+    },
+    "2608.22497v1": {
+      "title": "Reflexivity from Hierarchical Causality",
+      "paper_id": "2608.22497v1"
+    },
+    "W7203991540": {
       "title": "Macroeconomic Democracy as a Framework for Long-Term Growth: Resolving r>g Dynamics Within the Model of Cooperativism",
-      "paper_id": "https://doi.org/10.5281/zenodo.22058181"
+      "paper_id": "https://doi.org/10.5281/zenodo.22058180"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/characterizing-the-conditional-pricing-kernel-a-new-approach.htm": {
+      "title": "FEDS Paper: Characterizing the Conditional Pricing Kernel: A New Approach",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/characterizing-the-conditional-pricing-kernel-a-new-approach.htm"
     }
   },
   "edges": [

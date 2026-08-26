@@ -3964,10 +3964,6 @@
       "title": "Testing selection on observables in parametric models with refreshment samples",
       "paper_id": "2608.23508v1"
     },
-    "2608.23420v1": {
-      "title": "Systematic Bias in Green Patent Classification: Silent Green and False Green",
-      "paper_id": "2608.23420v1"
-    },
     "2608.23315v1": {
       "title": "Classification testing: A new framework for drawing qualitative conclusions from quantitative estimates",
       "paper_id": "2608.23315v1"
@@ -4048,13 +4044,141 @@
       "title": "Reflexivity from Hierarchical Causality",
       "paper_id": "2608.22497v1"
     },
-    "W7203991540": {
-      "title": "Macroeconomic Democracy as a Framework for Long-Term Growth: Resolving r>g Dynamics Within the Model of Cooperativism",
-      "paper_id": "https://doi.org/10.5281/zenodo.22058180"
-    },
     "federal_reserve:https://www.federalreserve.gov/econres/feds/characterizing-the-conditional-pricing-kernel-a-new-approach.htm": {
       "title": "FEDS Paper: Characterizing the Conditional Pricing Kernel: A New Approach",
       "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/characterizing-the-conditional-pricing-kernel-a-new-approach.htm"
+    },
+    "2608.24851v1": {
+      "title": "Learning Whom to Trust : Decision-Generated Credibility in Social Learning",
+      "paper_id": "2608.24851v1"
+    },
+    "2608.24670v1": {
+      "title": "AI worsens climate change, integrated assessment shows",
+      "paper_id": "2608.24670v1"
+    },
+    "2608.24457v1": {
+      "title": "Participation, selection and indicative bidding in auctions with costly entry",
+      "paper_id": "2608.24457v1"
+    },
+    "2608.24468v1": {
+      "title": "Dynamics of the Currency Composition of Central Bank Reserves",
+      "paper_id": "2608.24468v1"
+    },
+    "2608.23914v1": {
+      "title": "Groundwater Management: Combating the Sinking Feeling",
+      "paper_id": "2608.23914v1"
+    },
+    "2608.24811v1": {
+      "title": "How does hazard exposure influence job choice? Evaluating time-dependent tradeoffs between salary and hazard risks",
+      "paper_id": "2608.24811v1"
+    },
+    "2608.24362v1": {
+      "title": "Dynamic Discrete Choice and Inverse Reinforcement Learning: Inferring Preferences and Beliefs From Human Behavior",
+      "paper_id": "2608.24362v1"
+    },
+    "2608.23988v1": {
+      "title": "Estimation of Random-Coefficient Dynamic Panel Data Models with a Fixed T",
+      "paper_id": "2608.23988v1"
+    },
+    "2608.23925v1": {
+      "title": "Repairing Locally Misspecified GMM: An Empirical Bayes Approach",
+      "paper_id": "2608.23925v1"
+    },
+    "2608.23796v1": {
+      "title": "Accelerating the Adoption of Residential Solar Power Systems: Policy Analysis using a Dynamic Structural Model",
+      "paper_id": "2608.23796v1"
+    },
+    "2608.23732v1": {
+      "title": "Principal Component Analysis for a Mix of Stationary and Nonstationary Variables",
+      "paper_id": "2608.23732v1"
+    },
+    "2608.23420v2": {
+      "title": "Systematic Bias in Green Patent Classification: Silent Green and False Green",
+      "paper_id": "2608.23420v2"
+    },
+    "2608.22890v1": {
+      "title": "Randomization tests for model specification in causal inference under network interference",
+      "paper_id": "2608.22890v1"
+    },
+    "2608.21334v2": {
+      "title": "Across-Design Uncertainty in Short Pricing Panels: Inference and Identification",
+      "paper_id": "2608.21334v2"
+    },
+    "2608.24774v1": {
+      "title": "The Paradox of Strategic Altruism",
+      "paper_id": "2608.24774v1"
+    },
+    "2608.24600v1": {
+      "title": "Fair Allocation with Optional Selling",
+      "paper_id": "2608.24600v1"
+    },
+    "2608.24560v1": {
+      "title": "Contagious Ambiguity",
+      "paper_id": "2608.24560v1"
+    },
+    "2608.24129v1": {
+      "title": "A Case for Competition in Information Provision",
+      "paper_id": "2608.24129v1"
+    },
+    "2608.24062v1": {
+      "title": "Rating Manipulation: Credibility Inversion and Audit Leakage",
+      "paper_id": "2608.24062v1"
+    },
+    "2608.23781v1": {
+      "title": "Directional Revision under Two-Horizon Deliberation: A Revealed-Preference Analysis",
+      "paper_id": "2608.23781v1"
+    },
+    "2608.24871v1": {
+      "title": "NatPar: Natural Parametric Modeling",
+      "paper_id": "2608.24871v1"
+    },
+    "2608.24582v1": {
+      "title": "$\\texttt{findr}$: Transparent and Fair Credit Risk Decisions through Semi-Structured Regressions",
+      "paper_id": "2608.24582v1"
+    },
+    "2608.23944v1": {
+      "title": "Bulk Phase Transition and Edge Behavior in Temporally Correlated Random Matrices",
+      "paper_id": "2608.23944v1"
+    },
+    "W7204044945": {
+      "title": "The Transaction-Driven Performance of SSE Composite Index from year 2022 to 2024",
+      "paper_id": "https://doi.org/10.70114/ahmer.2026.5.1.p43"
+    },
+    "W7203976484": {
+      "title": "Macroeconomic Democracy as a Framework for Long-Term Growth: Resolving r>g Dynamics Within the Model of Cooperativism",
+      "paper_id": "https://doi.org/10.5281/zenodo.22058245"
+    },
+    "W7204089804": {
+      "title": "An Integrated SECM–SEFSC–Fourier Framework for Debt, Okun's Law, Inflation, Harvey's Term Structure, Bonds, and Financial Markets Through 2036",
+      "paper_id": "https://doi.org/10.5281/zenodo.22059437"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3277~46bd788158.en.pdf": {
+      "title": "Learning probability of default and stress testing",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3277~46bd788158.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3276~3ba8565a13.en.pdf": {
+      "title": "When the Crowd Speaks: AI-based retail investor sentiment indicator with Reddit data",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3276~3ba8565a13.en.pdf"
+    },
+    "repec:RePEc:boe:boeewp:023541": {
+      "title": "Capital gains taxation and asset price volatility",
+      "paper_id": "repec:RePEc:boe:boeewp:023541"
+    },
+    "repec:RePEc:boe:boeewp:023542": {
+      "title": "Productivity and inflation dynamics",
+      "paper_id": "repec:RePEc:boe:boeewp:023542"
+    },
+    "repec:RePEc:ris:adbewp:023539": {
+      "title": "The Role of Remittances in Household Resilience to Extreme Weather in the Kyrgyz Republic: Evidence from Panel Data",
+      "paper_id": "repec:RePEc:ris:adbewp:023539"
+    },
+    "repec:RePEc:ces:ceswps:_12949": {
+      "title": "Trade Fragmentation, International Cartels, and Welfare: How Does Domestic Market Structure Matter?",
+      "paper_id": "repec:RePEc:ces:ceswps:_12949"
+    },
+    "repec:RePEc:ces:ceswps:_12948": {
+      "title": "Perceived Protection: Tariff Spillovers to Product Substitutes in the Used Car Market",
+      "paper_id": "repec:RePEc:ces:ceswps:_12948"
     }
   },
   "edges": [

@@ -4148,10 +4148,6 @@
       "title": "Macroeconomic Democracy as a Framework for Long-Term Growth: Resolving r>g Dynamics Within the Model of Cooperativism",
       "paper_id": "https://doi.org/10.5281/zenodo.22058245"
     },
-    "W7204089804": {
-      "title": "An Integrated SECM–SEFSC–Fourier Framework for Debt, Okun's Law, Inflation, Harvey's Term Structure, Bonds, and Financial Markets Through 2036",
-      "paper_id": "https://doi.org/10.5281/zenodo.22059437"
-    },
     "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3277~46bd788158.en.pdf": {
       "title": "Learning probability of default and stress testing",
       "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3277~46bd788158.en.pdf"
@@ -4179,6 +4175,70 @@
     "repec:RePEc:ces:ceswps:_12948": {
       "title": "Perceived Protection: Tariff Spillovers to Product Substitutes in the Used Car Market",
       "paper_id": "repec:RePEc:ces:ceswps:_12948"
+    },
+    "2608.25972v1": {
+      "title": "The Dynamic Trade-Off of Dual-Class Shares",
+      "paper_id": "2608.25972v1"
+    },
+    "2608.25678v1": {
+      "title": "Normative boundaries of AI in scientific work: Evidence from PhD researchers",
+      "paper_id": "2608.25678v1"
+    },
+    "2608.25923v1": {
+      "title": "Efficient tensor bases for pairwise comparisons",
+      "paper_id": "2608.25923v1"
+    },
+    "2608.25488v1": {
+      "title": "Social Network Structure, Wealth, and Wealth Inequality Across Cultures",
+      "paper_id": "2608.25488v1"
+    },
+    "2608.25901v1": {
+      "title": "Cross-Section Estimation of Long-Run Relations Using Time-Compressed Data",
+      "paper_id": "2608.25901v1"
+    },
+    "2608.25814v1": {
+      "title": "Nonparametric Bayesian Inference for Partially Identified Discrete Response Models",
+      "paper_id": "2608.25814v1"
+    },
+    "2608.25304v1": {
+      "title": "SAUSS: Stochastic Approximation with Unbiased Simulated Scores for Limited Dependent Variable Models",
+      "paper_id": "2608.25304v1"
+    },
+    "2608.25720v1": {
+      "title": "Endogenous Selection and Spillovers: Bayesian Inference for Policy-Relevant Causal Effects",
+      "paper_id": "2608.25720v1"
+    },
+    "2608.25009v1": {
+      "title": "Theory as data compression",
+      "paper_id": "2608.25009v1"
+    },
+    "2608.25966v1": {
+      "title": "Potentials and Weak Potentials in Acyclic and Weakly Acyclic Games",
+      "paper_id": "2608.25966v1"
+    },
+    "2608.25731v1": {
+      "title": "Agnostic Sequential Rationality",
+      "paper_id": "2608.25731v1"
+    },
+    "2608.25602v1": {
+      "title": "The Reverse Big Push: Generative AI and Self-Fulfilling Automation",
+      "paper_id": "2608.25602v1"
+    },
+    "2608.25043v1": {
+      "title": "Interpersonally Comparable Utility",
+      "paper_id": "2608.25043v1"
+    },
+    "W7204120837": {
+      "title": "An Integrated SECM–SEFSC–Fourier Framework for Debt, Okun's Law, Inflation, Harvey's Term Structure, Bonds, and Financial Markets Through 2036",
+      "paper_id": "https://doi.org/10.5281/zenodo.22059436"
+    },
+    "repec:RePEc:ces:ceswps:_12947": {
+      "title": "Perverse Trade Sanction Effects",
+      "paper_id": "repec:RePEc:ces:ceswps:_12947"
+    },
+    "repec:RePEc:ces:ceswps:_12946": {
+      "title": "Chained Indices Unchained: Structural Transformation and the Welfare Foundations of Income Growth Measurement",
+      "paper_id": "repec:RePEc:ces:ceswps:_12946"
     }
   },
   "edges": [

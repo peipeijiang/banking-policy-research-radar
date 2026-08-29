@@ -4296,10 +4296,6 @@
       "title": "Formation of Sectoral Inflation Expectation with the New Keynesian Phillips Curve with Sector Profitability and Marginal Cost",
       "paper_id": "https://doi.org/10.54938/ijemdss.2026.05.3.755"
     },
-    "W7204223741": {
-      "title": "ECONOMETRIC ANALYSIS AND FORECASTING OF OPERATIONS IN THE GOVERNMENT SECURITIES MARKET OF UZBEKISTAN",
-      "paper_id": "https://doi.org/10.5281/zenodo.22111929"
-    },
     "repec:RePEc:ces:ceswps:_12945": {
       "title": "News Consumption in the Digital Age",
       "paper_id": "repec:RePEc:ces:ceswps:_12945"
@@ -4315,6 +4311,46 @@
     "W7204184477": {
       "title": "Institutional Quality, Bank Competition, and Liquidity Creation: Evidence from Emerging and Developing Economies in Asia",
       "paper_id": "https://doi.org/10.47836/ijeam.20.2.08"
+    },
+    "W7204234018": {
+      "title": "Research on Factors Affecting E-Mobile Banking Service Quality at Vietnam Bank for Agriculture and Rural Development - Nam Trung Yen Branch",
+      "paper_id": "https://doi.org/10.56201/ijefm.v10.no9.2025.pg45.54"
+    },
+    "W7204245894": {
+      "title": "The Interplay of CBN Liquidity Provision, Incentive-Driven Risk Behavior, and Market-Institutional Perceptions in Monetary Policy Transmission",
+      "paper_id": "https://doi.org/10.56201/ijefm.v10.no11.2025.pg342.365"
+    },
+    "W7204253406": {
+      "title": "ECONOMETRIC ANALYSIS AND FORECASTING OF OPERATIONS IN THE GOVERNMENT SECURITIES MARKET OF UZBEKISTAN",
+      "paper_id": "https://doi.org/10.5281/zenodo.22111930"
+    },
+    "W7204262320": {
+      "title": "The Impact of Monetary Policy Transmission Channels on Debt Profile in Nigeria",
+      "paper_id": "https://doi.org/10.56201/ijssmr.vol.11no12.2025.pg602.614"
+    },
+    "repec:RePEc:ces:ceswps:_12943": {
+      "title": "Returns to Caring? Health and Wellbeing Effects of Subsidized Long-Term Care",
+      "paper_id": "repec:RePEc:ces:ceswps:_12943"
+    },
+    "repec:RePEc:ces:ceswps:_12942": {
+      "title": "The U.S.–China Trade War and the Geography of Global Production",
+      "paper_id": "repec:RePEc:ces:ceswps:_12942"
+    },
+    "repec:RePEc:fip:fedfwp:103696": {
+      "title": "A Dual Mandate Can Support Price Stability",
+      "paper_id": "repec:RePEc:fip:fedfwp:103696"
+    },
+    "repec:RePEc:fip:fedlwp:103698": {
+      "title": "RePEc, a Tool and Open Dataset for and about Economists",
+      "paper_id": "repec:RePEc:fip:fedlwp:103698"
+    },
+    "repec:RePEc:zbw:bubdps:343105": {
+      "title": "A structural model of capital buffer usability",
+      "paper_id": "repec:RePEc:zbw:bubdps:343105"
+    },
+    "repec:RePEc:zbw:bubdps:343110": {
+      "title": "Collateral policy surprises",
+      "paper_id": "repec:RePEc:zbw:bubdps:343110"
     }
   },
   "edges": [

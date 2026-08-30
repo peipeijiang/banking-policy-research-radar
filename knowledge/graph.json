@@ -4351,6 +4351,26 @@
     "repec:RePEc:zbw:bubdps:343110": {
       "title": "Collateral policy surprises",
       "paper_id": "repec:RePEc:zbw:bubdps:343110"
+    },
+    "W7204591866": {
+      "title": "APPLICATION OF BIG DATA ANALYTICS IN MITIGATING NON-PERFORMING LOANS IN COMMERCIAL BANKS",
+      "paper_id": "https://doi.org/10.5281/zenodo.22147438"
+    },
+    "W7204199886": {
+      "title": "Experimenting with large language models for inflation forecasting in Colombia",
+      "paper_id": "https://doi.org/10.71609/iheid-zenq-qg34"
+    },
+    "repec:RePEc:fip:fedpwp:103699": {
+      "title": "An Auditable AI Agent Loop for Empirical Economics: A Case Study in Forecast Combination",
+      "paper_id": "repec:RePEc:fip:fedpwp:103699"
+    },
+    "repec:RePEc:zbw:bubdps:343079": {
+      "title": "Long-term implications of a digital euro on liquidity and funding costs in the German banking system",
+      "paper_id": "repec:RePEc:zbw:bubdps:343079"
+    },
+    "repec:RePEc:zbw:bubdps:343101": {
+      "title": "Quantification of margin of conservatism category C: Correlations and quantification levels",
+      "paper_id": "repec:RePEc:zbw:bubdps:343101"
     }
   },
   "edges": [

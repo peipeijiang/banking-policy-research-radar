@@ -3876,10 +3876,6 @@
       "title": "Compulsory Schooling Mitigates Health Inequality: Anthropometric Evidence from Two Centuries of Height Data",
       "paper_id": "repec:RePEc:ces:ceswps:_12919"
     },
-    "repec:RePEc:ces:ceswps:_12918": {
-      "title": "Long-Run Inflation and Financial Panics",
-      "paper_id": "repec:RePEc:ces:ceswps:_12918"
-    },
     "W7203855918": {
       "title": "Pass-through and bias in South Africa's household inflation expectations",
       "paper_id": "https://doi.org/10.71587/emxw4p88"
@@ -4176,10 +4172,6 @@
       "title": "Perceived Protection: Tariff Spillovers to Product Substitutes in the Used Car Market",
       "paper_id": "repec:RePEc:ces:ceswps:_12948"
     },
-    "2608.25972v1": {
-      "title": "The Dynamic Trade-Off of Dual-Class Shares",
-      "paper_id": "2608.25972v1"
-    },
     "2608.25678v1": {
       "title": "Normative boundaries of AI in scientific work: Evidence from PhD researchers",
       "paper_id": "2608.25678v1"
@@ -4352,10 +4344,6 @@
       "title": "Collateral policy surprises",
       "paper_id": "repec:RePEc:zbw:bubdps:343110"
     },
-    "W7204591866": {
-      "title": "APPLICATION OF BIG DATA ANALYTICS IN MITIGATING NON-PERFORMING LOANS IN COMMERCIAL BANKS",
-      "paper_id": "https://doi.org/10.5281/zenodo.22147438"
-    },
     "W7204199886": {
       "title": "Experimenting with large language models for inflation forecasting in Colombia",
       "paper_id": "https://doi.org/10.71609/iheid-zenq-qg34"
@@ -4371,6 +4359,70 @@
     "repec:RePEc:zbw:bubdps:343101": {
       "title": "Quantification of margin of conservatism category C: Correlations and quantification levels",
       "paper_id": "repec:RePEc:zbw:bubdps:343101"
+    },
+    "2608.27980v1": {
+      "title": "The Race for Elite Destinations: Education Competition and Low Fertility in Korea",
+      "paper_id": "2608.27980v1"
+    },
+    "2608.27598v1": {
+      "title": "Do Customer Disclosures Affect Suppliers' Internal Capital Allocation Decisions?",
+      "paper_id": "2608.27598v1"
+    },
+    "2608.27538v1": {
+      "title": "Disaffection at Work: Employee Responses to Job-Related Information",
+      "paper_id": "2608.27538v1"
+    },
+    "2608.25972v2": {
+      "title": "The Dynamic Trade-Off of Dual-Class Shares",
+      "paper_id": "2608.25972v2"
+    },
+    "2608.28115v1": {
+      "title": "Causal Non-causal State Space Models and the Modelling of Financial Bubbles",
+      "paper_id": "2608.28115v1"
+    },
+    "2608.28087v1": {
+      "title": "A Design Concept of Forecasting Software for Normalized Vector Autoregressions with Fat Tails and Stochastic Volatility",
+      "paper_id": "2608.28087v1"
+    },
+    "2608.27903v1": {
+      "title": "Countervailing Curation Strategic Disclosure and the Design of Attention",
+      "paper_id": "2608.27903v1"
+    },
+    "2608.27784v1": {
+      "title": "Strong Observable Substitutability and the Cumulative Offer Mechanism",
+      "paper_id": "2608.27784v1"
+    },
+    "2608.27536v1": {
+      "title": "Refundable Deposits: How to Restore Cooperation in Finitely Repeated Games",
+      "paper_id": "2608.27536v1"
+    },
+    "W7204599235": {
+      "title": "APPLICATION OF BIG DATA ANALYTICS IN MITIGATING NON-PERFORMING LOANS IN COMMERCIAL BANKS",
+      "paper_id": "https://doi.org/10.5281/zenodo.22147439"
+    },
+    "W7204231261": {
+      "title": "Beyond Ample Liquidity: Banking Resilience, Monetary Transmission, and Pro-Growth Intermediation in Indonesia in 2026",
+      "paper_id": "https://doi.org/10.47191/afmj/v11i8.06"
+    },
+    "W7204645366": {
+      "title": "Evaluating the socio-economic impacts of the energy system transition: the implications of wage-setting mechanisms",
+      "paper_id": "https://doi.org/10.1016/j.erss.2026.104946"
+    },
+    "repec:RePEc:fip:fedfwp:103704": {
+      "title": "Quality, Inequality and Understanding Housing Markets",
+      "paper_id": "repec:RePEc:fip:fedfwp:103704"
+    },
+    "repec:RePEc:fip:fedfwp:103705": {
+      "title": "Can Fiscal, AI, or Monetary News Explain the Rise in r∗?",
+      "paper_id": "repec:RePEc:fip:fedfwp:103705"
+    },
+    "repec:RePEc:zbw:bubdps:343043": {
+      "title": "Expected inflation and saving in categories",
+      "paper_id": "repec:RePEc:zbw:bubdps:343043"
+    },
+    "repec:RePEc:zbw:bubdps:343042": {
+      "title": "Long-run inflation and financial panics",
+      "paper_id": "repec:RePEc:zbw:bubdps:343042"
     }
   },
   "edges": [
@@ -31522,6 +31574,166 @@
     {
       "from": "W7204184477",
       "to": "W4410599936",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W25654640",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W1510170991",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W1972073572",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W1988854559",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W1993982946",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W2024288931",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W2067423999",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W2078533517",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W2103432542",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W2150723619",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W2156185522",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W2168526684",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W2784325229",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W2903616129",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W2922903482",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W3021644002",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W3082305249",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W3123194244",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W3123800814",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W3125498346",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W3136710351",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W3166908918",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W3182024738",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W3194894231",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W4237954859",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W4283781722",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W4312093135",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W4377690874",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W4385210341",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W4393059033",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W4393238114",
+      "type": "cites"
+    },
+    {
+      "from": "W7204645366",
+      "to": "W4406166165",
       "type": "cites"
     }
   ]

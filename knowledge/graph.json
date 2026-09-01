@@ -4280,10 +4280,6 @@
       "title": "Interpretable hybrid credit scoring for thin-file and underbanked populations",
       "paper_id": "2608.26837v1"
     },
-    "2608.26473v1": {
-      "title": "DTD-VAE: Disentangled Temporal Dependencies VAE for Credit Risk Prediction",
-      "paper_id": "2608.26473v1"
-    },
     "W7204154899": {
       "title": "Formation of Sectoral Inflation Expectation with the New Keynesian Phillips Curve with Sector Profitability and Marginal Cost",
       "paper_id": "https://doi.org/10.54938/ijemdss.2026.05.3.755"
@@ -4423,6 +4419,90 @@
     "repec:RePEc:zbw:bubdps:343042": {
       "title": "Long-run inflation and financial panics",
       "paper_id": "repec:RePEc:zbw:bubdps:343042"
+    },
+    "2608.30522v1": {
+      "title": "Tariff Threats, Macroeconomic Expectations, and Policy Communication Strategies: Experiments Based on a Multi-Agent System",
+      "paper_id": "2608.30522v1"
+    },
+    "2608.29843v1": {
+      "title": "The Price of Intelligence: A Quality-Adjusted Price Index for AI Services",
+      "paper_id": "2608.29843v1"
+    },
+    "2608.29818v1": {
+      "title": "Decarbonising price formation: unit-level evidence on battery storage and the imbalance price in the GB Balancing Mechanism",
+      "paper_id": "2608.29818v1"
+    },
+    "2608.31085v1": {
+      "title": "Moments of Random Coefficients in Short Panels",
+      "paper_id": "2608.31085v1"
+    },
+    "2608.30225v1": {
+      "title": "Redefining Stablecoins from Nominal to Real Value: A Maximum Likelihood Approach",
+      "paper_id": "2608.30225v1"
+    },
+    "2608.31059v1": {
+      "title": "When Can We Work in Embedding Space? What Text Embeddings Preserve",
+      "paper_id": "2608.31059v1"
+    },
+    "2608.29840v1": {
+      "title": "On the Complexity of Bayesian Signal Processing",
+      "paper_id": "2608.29840v1"
+    },
+    "2608.29430v1": {
+      "title": "Content Exploration Beyond the Feed: Creator Supply and the Shared Corpus",
+      "paper_id": "2608.29430v1"
+    },
+    "2608.29597v1": {
+      "title": "Credibility in school choice",
+      "paper_id": "2608.29597v1"
+    },
+    "2608.29506v1": {
+      "title": "Pure Risk",
+      "paper_id": "2608.29506v1"
+    },
+    "2608.29488v1": {
+      "title": "Characterization of Concave Consumption Functions under Conditional Impatience",
+      "paper_id": "2608.29488v1"
+    },
+    "2608.28866v1": {
+      "title": "Scrutiny and Conservatism",
+      "paper_id": "2608.28866v1"
+    },
+    "2608.28722v1": {
+      "title": "From the Social Choice Problem to a Collusion-Proof Tendering Mechanism for Dynamic Stochastic Projects",
+      "paper_id": "2608.28722v1"
+    },
+    "2608.29786v1": {
+      "title": "Recovering Posterior Beliefs in Credit Risk: A Latent-State EM Extension of the Information-Geometric Framework",
+      "paper_id": "2608.29786v1"
+    },
+    "2608.26473v2": {
+      "title": "DTD-VAE: Disentangled Temporal Dependencies VAE for Credit Risk Prediction",
+      "paper_id": "2608.26473v2"
+    },
+    "2608.30519v1": {
+      "title": "Authority-Inference Separation in Agentic Finance: First-Line Control, Blockchain Enforcement, and Replayable Assurance",
+      "paper_id": "2608.30519v1"
+    },
+    "2608.30490v1": {
+      "title": "Two Kinds of Nothing: What Insignificant Results in Finance Actually Show",
+      "paper_id": "2608.30490v1"
+    },
+    "W7204666423": {
+      "title": "IMPACT OF REPO RATE ANNOUNCEMENT ON BANK NIFTY",
+      "paper_id": "https://doi.org/10.70917/ijcisim-2026-5235"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/ifdp/pricing-risk-globally-intermediary-constraints-the-dollar-and-the-global-financial-cycle.htm": {
+      "title": "IFDP Paper: Pricing Risk Globally: Intermediary Constraints, the Dollar, and the Global Financial Cycle",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/ifdp/pricing-risk-globally-intermediary-constraints-the-dollar-and-the-global-financial-cycle.htm"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/united-states-of-u-star.htm": {
+      "title": "FEDS Paper: United States of U-Star",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/united-states-of-u-star.htm"
+    },
+    "worldbank:40124967": {
+      "title": "Not Too Much, Not Too Little :  A Goldilocks Approach to Sustainable, Universal Electricity Access in Sub-Saharan Africa",
+      "paper_id": "worldbank:40124967"
     }
   },
   "edges": [

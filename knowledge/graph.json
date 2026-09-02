@@ -4503,6 +4503,62 @@
     "worldbank:40124967": {
       "title": "Not Too Much, Not Too Little :  A Goldilocks Approach to Sustainable, Universal Electricity Access in Sub-Saharan Africa",
       "paper_id": "worldbank:40124967"
+    },
+    "2609.01467v1": {
+      "title": "Which Policy Works, and Where? Estimation and Inference for State-Level Treatment Effects in Difference-in-Differences",
+      "paper_id": "2609.01467v1"
+    },
+    "2609.01263v1": {
+      "title": "AI and the Economy: An Economic Examination of Production, Distribution, Firms, Labor, and Welfare",
+      "paper_id": "2609.01263v1"
+    },
+    "2609.00943v1": {
+      "title": "Illiquidity at Risk",
+      "paper_id": "2609.00943v1"
+    },
+    "2609.00541v1": {
+      "title": "Optimal Uniform Pricing for Multi-Interval Dispatch without Make-Whole Uplifts",
+      "paper_id": "2609.00541v1"
+    },
+    "2609.00350v1": {
+      "title": "Manipulation Testing in Boundary Discontinuity Designs",
+      "paper_id": "2609.00350v1"
+    },
+    "2609.00089v1": {
+      "title": "Foundation models for electricity price forecasting and battery arbitrage: Can they replace market-specific forecasting models?",
+      "paper_id": "2609.00089v1"
+    },
+    "2609.01489v1": {
+      "title": "Bi-Compositional Division Rules",
+      "paper_id": "2609.01489v1"
+    },
+    "2609.01595v1": {
+      "title": "Mechanism Design for Alignment and Control",
+      "paper_id": "2609.01595v1"
+    },
+    "2609.00799v1": {
+      "title": "How outside options are incorporated into payoff distributions",
+      "paper_id": "2609.00799v1"
+    },
+    "2609.01468v1": {
+      "title": "Freemium Model for Information Provision",
+      "paper_id": "2609.01468v1"
+    },
+    "2609.00380v1": {
+      "title": "Communicating About Endogenous Issues",
+      "paper_id": "2609.00380v1"
+    },
+    "2609.00911v1": {
+      "title": "Pricing the DeFi Tail: Do Protocols or Depositors Price Operational Risk?",
+      "paper_id": "2609.00911v1"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3278~42c60efb87.en.pdf": {
+      "title": "Environmental policy uncertainty and cleantech FDI",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3278~42c60efb87.en.pdf"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/risks-and-uncertainty-in-monetary-policy.htm": {
+      "title": "FEDS Paper: Risks and Uncertainty in Monetary Policy",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/risks-and-uncertainty-in-monetary-policy.htm"
     }
   },
   "edges": [

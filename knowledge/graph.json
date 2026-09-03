@@ -4484,10 +4484,6 @@
       "title": "Authority-Inference Separation in Agentic Finance: First-Line Control, Blockchain Enforcement, and Replayable Assurance",
       "paper_id": "2608.30519v1"
     },
-    "2608.30490v1": {
-      "title": "Two Kinds of Nothing: What Insignificant Results in Finance Actually Show",
-      "paper_id": "2608.30490v1"
-    },
     "W7204666423": {
       "title": "IMPACT OF REPO RATE ANNOUNCEMENT ON BANK NIFTY",
       "paper_id": "https://doi.org/10.70917/ijcisim-2026-5235"
@@ -4559,6 +4555,86 @@
     "federal_reserve:https://www.federalreserve.gov/econres/feds/risks-and-uncertainty-in-monetary-policy.htm": {
       "title": "FEDS Paper: Risks and Uncertainty in Monetary Policy",
       "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/risks-and-uncertainty-in-monetary-policy.htm"
+    },
+    "2609.02580v1": {
+      "title": "Competitive Market Behavior of LLMs",
+      "paper_id": "2609.02580v1"
+    },
+    "2609.02797v1": {
+      "title": "Dutch Books for Language Models",
+      "paper_id": "2609.02797v1"
+    },
+    "2609.02013v1": {
+      "title": "What Would it Cost to End Extreme Poverty?",
+      "paper_id": "2609.02013v1"
+    },
+    "2609.02756v1": {
+      "title": "Off-policy causal estimation in networks",
+      "paper_id": "2609.02756v1"
+    },
+    "2609.02673v1": {
+      "title": "Estimation risk in conditional expectiles",
+      "paper_id": "2609.02673v1"
+    },
+    "2609.01943v1": {
+      "title": "Headline Estimation with Multiple Research Designs",
+      "paper_id": "2609.01943v1"
+    },
+    "2609.01804v1": {
+      "title": "Robust Variance Estimation in Linear Regression: A Projection-Geometry Perspective",
+      "paper_id": "2609.01804v1"
+    },
+    "2609.02773v1": {
+      "title": "Sequential Pricing Mechanisms for Surplus Division",
+      "paper_id": "2609.02773v1"
+    },
+    "2609.02357v1": {
+      "title": "Strategic Centrality and the Emergence of Core-Periphery Networks",
+      "paper_id": "2609.02357v1"
+    },
+    "2609.02031v1": {
+      "title": "Equilibrium Architecture in Multi-Battle Contests with Count-Dependent Prizes",
+      "paper_id": "2609.02031v1"
+    },
+    "2608.30490v2": {
+      "title": "Two Kinds of Nothing: What Insignificant Results in Finance Actually Show",
+      "paper_id": "2608.30490v2"
+    },
+    "W7204944452": {
+      "title": "Capital structure, bank size and profitability of commercial banks: Dynamic panel evidence from Bangladesh",
+      "paper_id": "https://doi.org/10.55493/5002.v16i8.6200"
+    },
+    "W7204747494": {
+      "title": "Employee Digital Literacy and Customer Satisfaction in Commercial Banking: A Quantitative Study of Stanbic Bank, Mbarara, Uganda",
+      "paper_id": "https://doi.org/10.12688/f1000research.189446.1"
+    },
+    "W7204927217": {
+      "title": "Productivity shocks and monetary policy transmission efficiency in ECOWAS: A panel ARDL analysis (1981-2023)",
+      "paper_id": "https://doi.org/10.55493/5002.v16i8.6195"
+    },
+    "W7204999247": {
+      "title": "GEOPOLITICAL RISK AS A MACROFINANCIAL INDICATOR: TRANSMISSION CHANNELS OF EXTERNAL SHOCKS TO UKRAINE’S PUBLIC FINANCES",
+      "paper_id": "https://doi.org/10.32782/1814-1161/2026-2-6"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/linear-and-nonlinear-econometric-models-against-machine-learning-models.htm": {
+      "title": "FEDS Paper: Linear and Nonlinear Econometric Models versus Machine-Learning Models: Evidence from Realized-Volatility Forecasting(Revised)",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/linear-and-nonlinear-econometric-models-against-machine-learning-models.htm"
+    },
+    "worldbank:40125382": {
+      "title": "Predicting Debt Distress in Low-Income Countries",
+      "paper_id": "worldbank:40125382"
+    },
+    "repec:RePEc:bfr:banfra:1061": {
+      "title": "The Missing Surprise: Transmission Protection in Central Bank Announcements",
+      "paper_id": "repec:RePEc:bfr:banfra:1061"
+    },
+    "repec:RePEc:bfr:banfra:1062": {
+      "title": "Is Monetary Policy Transmission Heterogeneous across Euro Area Countries and over Time? A Reassessment",
+      "paper_id": "repec:RePEc:bfr:banfra:1062"
+    },
+    "repec:RePEc:bde:wpaper:2625": {
+      "title": "The Macro-Financial Impact of Economic Policy Uncertainty in Latin America",
+      "paper_id": "repec:RePEc:bde:wpaper:2625"
     }
   },
   "edges": [
@@ -31870,6 +31946,46 @@
     {
       "from": "W7204645366",
       "to": "W4406166165",
+      "type": "cites"
+    },
+    {
+      "from": "W7204747494",
+      "to": "W2116246239",
+      "type": "cites"
+    },
+    {
+      "from": "W7204747494",
+      "to": "W2140956556",
+      "type": "cites"
+    },
+    {
+      "from": "W7204747494",
+      "to": "W2156725384",
+      "type": "cites"
+    },
+    {
+      "from": "W7204747494",
+      "to": "W2891100457",
+      "type": "cites"
+    },
+    {
+      "from": "W7204747494",
+      "to": "W3124536214",
+      "type": "cites"
+    },
+    {
+      "from": "W7204747494",
+      "to": "W4391532752",
+      "type": "cites"
+    },
+    {
+      "from": "W7204747494",
+      "to": "W4402323104",
+      "type": "cites"
+    },
+    {
+      "from": "W7204747494",
+      "to": "W7203862676",
       "type": "cites"
     }
   ]

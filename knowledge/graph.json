@@ -4635,6 +4635,58 @@
     "repec:RePEc:bde:wpaper:2625": {
       "title": "The Macro-Financial Impact of Economic Policy Uncertainty in Latin America",
       "paper_id": "repec:RePEc:bde:wpaper:2625"
+    },
+    "2609.04136v1": {
+      "title": "Natural Disasters and the Nonprofit Sector",
+      "paper_id": "2609.04136v1"
+    },
+    "2609.03227v1": {
+      "title": "Randomization Inference for Matched Pairs with Binary Outcomes",
+      "paper_id": "2609.03227v1"
+    },
+    "2609.04068v1": {
+      "title": "Tournaments with Managerial Discretion",
+      "paper_id": "2609.04068v1"
+    },
+    "2609.03730v1": {
+      "title": "Proof of Steady-State Multiplicity in Aiyagari",
+      "paper_id": "2609.03730v1"
+    },
+    "2609.03439v1": {
+      "title": "Knowledge-Based Mechanisms",
+      "paper_id": "2609.03439v1"
+    },
+    "2609.03106v1": {
+      "title": "Scaling Laws, Tabular Data and Actuarial Ratemaking Models",
+      "paper_id": "2609.03106v1"
+    },
+    "2609.02992v1": {
+      "title": "Tempting the Agent: The Economics of Reputation without Persistent Identity in AI Agent Markets",
+      "paper_id": "2609.02992v1"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/the-flight-to-affordability-effects-of-pandemic-rent-increases-on-renters-by-geography.htm": {
+      "title": "FEDS Paper: The Flight to Affordability: Effects of Pandemic Rent Increases on Renters By Geography",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/the-flight-to-affordability-effects-of-pandemic-rent-increases-on-renters-by-geography.htm"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/09/staff-working-paper-2026-30/": {
+      "title": "Climate stress test of the global supply chain network: the case of river floods",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/09/staff-working-paper-2026-30/"
+    },
+    "repec:RePEc:bis:biswps:1374": {
+      "title": "Verifiable official statistics: a blockchain-based approach",
+      "paper_id": "repec:RePEc:bis:biswps:1374"
+    },
+    "repec:RePEc:bfr:banfra:1059": {
+      "title": "Stress Testing European Banks’ Transition Risk and Lending Behavior",
+      "paper_id": "repec:RePEc:bfr:banfra:1059"
+    },
+    "repec:RePEc:bfr:banfra:1060": {
+      "title": "Jus naturale : The Impact of Nature-Related Litigation on Corporate Valuation",
+      "paper_id": "repec:RePEc:bfr:banfra:1060"
+    },
+    "repec:RePEc:bde:wpaper:2626": {
+      "title": "The Taming of the Skew: Asymmetric Inflation Risk and Monetary Policy",
+      "paper_id": "repec:RePEc:bde:wpaper:2626"
     }
   },
   "edges": [

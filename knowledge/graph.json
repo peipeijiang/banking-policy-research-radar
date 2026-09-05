@@ -4687,6 +4687,26 @@
     "repec:RePEc:bde:wpaper:2626": {
       "title": "The Taming of the Skew: Asymmetric Inflation Risk and Monetary Policy",
       "paper_id": "repec:RePEc:bde:wpaper:2626"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/ifdp/exchange-rate-transmission-through-multinational-firms-evidence-from-japan.htm": {
+      "title": "IFDP Paper: Exchange Rate Transmission through Multinational Firms: Evidence from Japan",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/ifdp/exchange-rate-transmission-through-multinational-firms-evidence-from-japan.htm"
+    },
+    "repec:RePEc:fip:fednsr:103730": {
+      "title": "The Implied Equity Term Structure",
+      "paper_id": "repec:RePEc:fip:fednsr:103730"
+    },
+    "repec:RePEc:bis:biswps:1375": {
+      "title": "Zombie firms in emerging Asia: domestic and cross border implications",
+      "paper_id": "repec:RePEc:bis:biswps:1375"
+    },
+    "repec:RePEc:bfr:banfra:1058": {
+      "title": "Capital Pledgeability and Credit Misallocation",
+      "paper_id": "repec:RePEc:bfr:banfra:1058"
+    },
+    "repec:RePEc:bfr:banfra:1057": {
+      "title": "Navigating Shocks: The Ripple Effects of Shipping Route Closures",
+      "paper_id": "repec:RePEc:bfr:banfra:1057"
     }
   },
   "edges": [

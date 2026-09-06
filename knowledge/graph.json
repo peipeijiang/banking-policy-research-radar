@@ -4707,6 +4707,18 @@
     "repec:RePEc:bfr:banfra:1057": {
       "title": "Navigating Shocks: The Ripple Effects of Shipping Route Closures",
       "paper_id": "repec:RePEc:bfr:banfra:1057"
+    },
+    "repec:RePEc:fip:fednsr:103737": {
+      "title": "How Do Market Expectations React to the FOMC Dot Plot?",
+      "paper_id": "repec:RePEc:fip:fednsr:103737"
+    },
+    "repec:RePEc:bfr:banfra:1056": {
+      "title": "Aid Sanctions and Hybrid Regimes",
+      "paper_id": "repec:RePEc:bfr:banfra:1056"
+    },
+    "repec:RePEc:bfr:banfra:1055": {
+      "title": "Fiscal Sustainability when Public Debt is High: The Role of Portfolio Liquidity",
+      "paper_id": "repec:RePEc:bfr:banfra:1055"
     }
   },
   "edges": [

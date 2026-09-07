@@ -4719,6 +4719,82 @@
     "repec:RePEc:bfr:banfra:1055": {
       "title": "Fiscal Sustainability when Public Debt is High: The Role of Portfolio Liquidity",
       "paper_id": "repec:RePEc:bfr:banfra:1055"
+    },
+    "2609.05372v1": {
+      "title": "Does p-Hacking Mitigate or Exacerbate the Effects of Publication Bias?",
+      "paper_id": "2609.05372v1"
+    },
+    "2609.05115v1": {
+      "title": "Creators Have Difficulty Abandoning Ideas They Generated",
+      "paper_id": "2609.05115v1"
+    },
+    "2609.04994v1": {
+      "title": "Identification and Estimation of Intergenerational Income Mobility Measures",
+      "paper_id": "2609.04994v1"
+    },
+    "2609.04356v1": {
+      "title": "Blockchain-Enabled Secure Logging for Fiscal Electronic Mechanisms: Evaluation of the Greek eSEND and myDATA Tax Systems",
+      "paper_id": "2609.04356v1"
+    },
+    "2609.04622v1": {
+      "title": "Belief Updating without Complete Trust",
+      "paper_id": "2609.04622v1"
+    },
+    "2609.05318v1": {
+      "title": "Optimal Rates for Agentic Networked Information Aggregation",
+      "paper_id": "2609.05318v1"
+    },
+    "2609.04712v1": {
+      "title": "Convex Modeling of Price Cross-Impact over Time",
+      "paper_id": "2609.04712v1"
+    },
+    "2609.05162v1": {
+      "title": "Quantity, Risk, and Return",
+      "paper_id": "2609.05162v1"
+    },
+    "W7208743967": {
+      "title": "A Study on Cyber Risk Management Strategies in Financial Institutions",
+      "paper_id": "https://doi.org/10.64751/ijdim.2026.v5.n3.1319"
+    },
+    "W7208743729": {
+      "title": "Role of Green Organisational Culture in the relationship between Adaptive Capabilities and Competitive Advantage: A study of Commercial Banks in Kenya",
+      "paper_id": "https://doi.org/10.58721/ebw1f282"
+    },
+    "W7208768406": {
+      "title": "A Study on Blockchain and Artificial Intelligence Integration for Secure Financial Transactions at HDFC Bank",
+      "paper_id": "https://doi.org/10.62643/ijerst.2026.v22.n3.4541"
+    },
+    "W7208781851": {
+      "title": "Green Fintech and its Influence on Sustainable Financial Practices at Axis Bank",
+      "paper_id": "https://doi.org/10.64751/ajaccm.2026.v6.n3.868"
+    },
+    "W7208782257": {
+      "title": "Impact of Artificial Intelligence on Financial Decission Making in Bank Institute",
+      "paper_id": "https://doi.org/10.64751/m0mmtq52"
+    },
+    "W7208789761": {
+      "title": "Predictive Analytics for Loan Default Risk Assessment in Commercial Banks",
+      "paper_id": "https://doi.org/10.64751/ajaccm.2026.v6.n3.877"
+    },
+    "W7208809090": {
+      "title": "DYNAMIQUE DU TAUX DE CHANGE FACE AUX CHOCS DE POLITIQUE MONETAIRE EN RDC : UNE ANALYSE PAR LE MODELE VAR",
+      "paper_id": "https://doi.org/10.5281/zenodo.22338297"
+    },
+    "W7208725557": {
+      "title": "ORGANISATIONAL COMMITMENT AS THE MISSING MECHANISM: STRATEGIC HUMAN RESOURCE MANAGEMENT AND EMPLOYEE ENGAGEMENT IN BANGLADESHI COMMERCIAL BANKS",
+      "paper_id": "https://doi.org/10.70917/ijcisim-2026-5410"
+    },
+    "W7208820364": {
+      "title": "THE GIBBS-CALIBRATED GLOBAL REGIME OUTLOOK, 2026-2036: SECM-SEFSC-Fourier Anti-Ringing Forecasts of Collapse, Sustainability, Growth, Sovereign Financing, Central-Bank Backstops, and Gold Repricing",
+      "paper_id": "https://doi.org/10.5281/zenodo.22317046"
+    },
+    "repec:RePEc:fip:fedlwp:103742": {
+      "title": "Fleeting Forbearance in a World of Persistent Financial Distress",
+      "paper_id": "repec:RePEc:fip:fedlwp:103742"
+    },
+    "repec:RePEc:fip:fedpwp:103741": {
+      "title": "How Do Large, Sophisticated Cryptocurrency Trades Impact Broader DeFi Market Dynamics?",
+      "paper_id": "repec:RePEc:fip:fedpwp:103741"
     }
   },
   "edges": [

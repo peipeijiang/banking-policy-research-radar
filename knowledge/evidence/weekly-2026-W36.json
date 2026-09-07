@@ -1,0 +1,954 @@
+{
+  "generated_at": "2026-09-07T05:29:50.753074",
+  "papers": [
+    {
+      "paper_ref": "P01",
+      "paper_id": "repec:RePEc:bfr:banfra:1062",
+      "title": "Is Monetary Policy Transmission Heterogeneous across Euro Area Countries and over Time? A Reassessment",
+      "url": "https://ideas.repec.org/p/bfr/banfra/1062.html",
+      "topics": [],
+      "score": 90.0,
+      "discovery": {
+        "provider": "IDEAS/RePEc",
+        "series_url": "https://ideas.repec.org/s/bfr/banfra.html",
+        "free_download": true,
+        "date_precision": "year"
+      },
+      "claim_ids": [
+        "P01-C01",
+        "P01-C02"
+      ]
+    },
+    {
+      "paper_ref": "P02",
+      "paper_id": "repec:RePEc:fip:fednsr:103737",
+      "title": "How Do Market Expectations React to the FOMC Dot Plot?",
+      "url": "https://ideas.repec.org/p/fip/fednsr/103737.html",
+      "topics": [],
+      "score": 90.0,
+      "discovery": {
+        "provider": "IDEAS/RePEc",
+        "series_url": "https://ideas.repec.org/s/fip/fednsr.html",
+        "free_download": true,
+        "date_precision": "day"
+      },
+      "claim_ids": [
+        "P02-C01",
+        "P02-C02"
+      ]
+    },
+    {
+      "paper_ref": "P03",
+      "paper_id": "https://doi.org/10.5281/zenodo.22147439",
+      "title": "APPLICATION OF BIG DATA ANALYTICS IN MITIGATING NON-PERFORMING LOANS IN COMMERCIAL BANKS",
+      "url": "https://doi.org/10.5281/zenodo.22147439",
+      "topics": [
+        "Financial Distress and Bankruptcy Prediction",
+        "Banking stability, regulation, efficiency",
+        "Credit Risk and Financial Regulations"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P03-C01",
+        "P03-C02"
+      ]
+    },
+    {
+      "paper_ref": "P04",
+      "paper_id": "https://doi.org/10.47191/afmj/v11i8.06",
+      "title": "Beyond Ample Liquidity: Banking Resilience, Monetary Transmission, and Pro-Growth Intermediation in Indonesia in 2026",
+      "url": "https://doi.org/10.47191/afmj/v11i8.06",
+      "topics": [
+        "Banking stability, regulation, efficiency",
+        "Microfinance and Financial Inclusion",
+        "Legal and Policy Analysis in Indonesia"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P04-C01",
+        "P04-C02"
+      ]
+    },
+    {
+      "paper_ref": "P05",
+      "paper_id": "repec:RePEc:zbw:bubdps:343042",
+      "title": "Long-run inflation and financial panics",
+      "url": "https://ideas.repec.org/p/zbw/bubdps/343042.html",
+      "topics": [],
+      "score": 80.0,
+      "discovery": {
+        "provider": "IDEAS/RePEc",
+        "series_url": "https://ideas.repec.org/s/zbw/bubdps.html",
+        "free_download": true,
+        "date_precision": "year"
+      },
+      "claim_ids": [
+        "P05-C01",
+        "P05-C02"
+      ]
+    },
+    {
+      "paper_ref": "P06",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/risks-and-uncertainty-in-monetary-policy.htm",
+      "title": "FEDS Paper: Risks and Uncertainty in Monetary Policy",
+      "url": "https://www.federalreserve.gov/econres/feds/risks-and-uncertainty-in-monetary-policy.htm",
+      "topics": [],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P06-C01",
+        "P06-C02"
+      ]
+    },
+    {
+      "paper_ref": "P07",
+      "paper_id": "https://doi.org/10.55493/5002.v16i8.6200",
+      "title": "Capital structure, bank size and profitability of commercial banks: Dynamic panel evidence from Bangladesh",
+      "url": "https://doi.org/10.55493/5002.v16i8.6200",
+      "topics": [
+        "Banking stability, regulation, efficiency",
+        "Efficiency Analysis Using DEA",
+        "Microfinance and Financial Inclusion"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P07-C01",
+        "P07-C02"
+      ]
+    },
+    {
+      "paper_ref": "P08",
+      "paper_id": "https://doi.org/10.55493/5002.v16i8.6195",
+      "title": "Productivity shocks and monetary policy transmission efficiency in ECOWAS: A panel ARDL analysis (1981-2023)",
+      "url": "https://doi.org/10.55493/5002.v16i8.6195",
+      "topics": [
+        "Monetary Policy and Economic Impact",
+        "Fiscal Policies and Political Economy",
+        "Economic Growth and Development"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P08-C01",
+        "P08-C02"
+      ]
+    },
+    {
+      "paper_ref": "P09",
+      "paper_id": "https://doi.org/10.32782/1814-1161/2026-2-6",
+      "title": "GEOPOLITICAL RISK AS A MACROFINANCIAL INDICATOR: TRANSMISSION CHANNELS OF EXTERNAL SHOCKS TO UKRAINE’S PUBLIC FINANCES",
+      "url": "https://doi.org/10.32782/1814-1161/2026-2-6",
+      "topics": [
+        "Economic Issues in Ukraine",
+        "Environmental and Biological Research in Conflict Zones",
+        "Labor Market and Education"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P09-C01",
+        "P09-C02"
+      ]
+    },
+    {
+      "paper_ref": "P10",
+      "paper_id": "worldbank:40125382",
+      "title": "Predicting Debt Distress in Low-Income Countries",
+      "url": "https://documents.worldbank.org/curated/en/099707109022612787",
+      "topics": [],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P10-C01",
+        "P10-C02"
+      ]
+    },
+    {
+      "paper_ref": "P11",
+      "paper_id": "repec:RePEc:bfr:banfra:1061",
+      "title": "The Missing Surprise: Transmission Protection in Central Bank Announcements",
+      "url": "https://ideas.repec.org/p/bfr/banfra/1061.html",
+      "topics": [],
+      "score": 80.0,
+      "discovery": {
+        "provider": "IDEAS/RePEc",
+        "series_url": "https://ideas.repec.org/s/bfr/banfra.html",
+        "free_download": true,
+        "date_precision": "year"
+      },
+      "claim_ids": [
+        "P11-C01",
+        "P11-C02"
+      ]
+    },
+    {
+      "paper_ref": "P12",
+      "paper_id": "repec:RePEc:bfr:banfra:1055",
+      "title": "Fiscal Sustainability when Public Debt is High: The Role of Portfolio Liquidity",
+      "url": "https://ideas.repec.org/p/bfr/banfra/1055.html",
+      "topics": [],
+      "score": 80.0,
+      "discovery": {
+        "provider": "IDEAS/RePEc",
+        "series_url": "https://ideas.repec.org/s/bfr/banfra.html",
+        "free_download": true,
+        "date_precision": "year"
+      },
+      "claim_ids": [
+        "P12-C01",
+        "P12-C02"
+      ]
+    },
+    {
+      "paper_ref": "P13",
+      "paper_id": "https://doi.org/10.64751/ajaccm.2026.v6.n3.868",
+      "title": "Green Fintech and its Influence on Sustainable Financial Practices at Axis Bank",
+      "url": "https://doi.org/10.64751/ajaccm.2026.v6.n3.868",
+      "topics": [
+        "Sustainable Finance and Green Bonds",
+        "FinTech, Crowdfunding, Digital Finance",
+        "Energy, Environment, Economic Growth"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P13-C01",
+        "P13-C02"
+      ]
+    },
+    {
+      "paper_ref": "P14",
+      "paper_id": "https://doi.org/10.64751/m0mmtq52",
+      "title": "Impact of Artificial Intelligence on Financial Decission Making in Bank Institute",
+      "url": "https://doi.org/10.64751/m0mmtq52",
+      "topics": [
+        "Financial Distress and Bankruptcy Prediction",
+        "FinTech, Crowdfunding, Digital Finance",
+        "Robotic Process Automation Applications"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P14-C01",
+        "P14-C02"
+      ]
+    },
+    {
+      "paper_ref": "P15",
+      "paper_id": "https://doi.org/10.64751/ajaccm.2026.v6.n3.877",
+      "title": "Predictive Analytics for Loan Default Risk Assessment in Commercial Banks",
+      "url": "https://doi.org/10.64751/ajaccm.2026.v6.n3.877",
+      "topics": [
+        "Financial Distress and Bankruptcy Prediction",
+        "Credit Risk and Financial Regulations",
+        "Banking stability, regulation, efficiency"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P15-C01",
+        "P15-C02"
+      ]
+    },
+    {
+      "paper_ref": "P16",
+      "paper_id": "https://doi.org/10.5281/zenodo.22338297",
+      "title": "DYNAMIQUE DU TAUX DE CHANGE FACE AUX CHOCS DE POLITIQUE MONETAIRE EN RDC : UNE ANALYSE PAR LE MODELE VAR",
+      "url": "https://doi.org/10.5281/zenodo.22338297",
+      "topics": [
+        "Monetary Policy and Economic Impact",
+        "Global Financial Crisis and Policies",
+        "Economic Theory and Policy"
+      ],
+      "score": 80.0,
+      "discovery": {},
+      "claim_ids": [
+        "P16-C01",
+        "P16-C02"
+      ]
+    },
+    {
+      "paper_ref": "P17",
+      "paper_id": "https://doi.org/10.70917/ijcisim-2026-5235",
+      "title": "IMPACT OF REPO RATE ANNOUNCEMENT ON BANK NIFTY",
+      "url": "https://doi.org/10.70917/ijcisim-2026-5235",
+      "topics": [
+        "COVID-19 Pandemic Impacts",
+        "Cyberloafing and Workplace Behavior",
+        "Innovations and Analysis in Business and Education"
+      ],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P17-C01",
+        "P17-C02"
+      ]
+    },
+    {
+      "paper_ref": "P18",
+      "paper_id": "https://doi.org/10.12688/f1000research.189446.1",
+      "title": "Employee Digital Literacy and Customer Satisfaction in Commercial Banking: A Quantitative Study of Stanbic Bank, Mbarara, Uganda",
+      "url": "https://doi.org/10.12688/f1000research.189446.1",
+      "topics": [
+        "Technology Adoption and User Behaviour",
+        "Educational Leadership and Innovation",
+        "Digital literacy in education"
+      ],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P18-C01",
+        "P18-C02"
+      ]
+    },
+    {
+      "paper_ref": "P19",
+      "paper_id": "repec:RePEc:bfr:banfra:1058",
+      "title": "Capital Pledgeability and Credit Misallocation",
+      "url": "https://ideas.repec.org/p/bfr/banfra/1058.html",
+      "topics": [],
+      "score": 70.0,
+      "discovery": {
+        "provider": "IDEAS/RePEc",
+        "series_url": "https://ideas.repec.org/s/bfr/banfra.html",
+        "free_download": true,
+        "date_precision": "year"
+      },
+      "claim_ids": [
+        "P19-C01",
+        "P19-C02"
+      ]
+    },
+    {
+      "paper_ref": "P20",
+      "paper_id": "https://doi.org/10.62643/ijerst.2026.v22.n3.4541",
+      "title": "A Study on Blockchain and Artificial Intelligence Integration for Secure Financial Transactions at HDFC Bank",
+      "url": "https://doi.org/10.62643/ijerst.2026.v22.n3.4541",
+      "topics": [
+        "Blockchain Technology Applications and Security",
+        "FinTech, Crowdfunding, Digital Finance",
+        "Internet of Things and AI"
+      ],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P20-C01",
+        "P20-C02"
+      ]
+    },
+    {
+      "paper_ref": "P21",
+      "paper_id": "https://doi.org/10.5281/zenodo.22317046",
+      "title": "THE GIBBS-CALIBRATED GLOBAL REGIME OUTLOOK, 2026-2036: SECM-SEFSC-Fourier Anti-Ringing Forecasts of Collapse, Sustainability, Growth, Sovereign Financing, Central-Bank Backstops, and Gold Repricing",
+      "url": "https://doi.org/10.5281/zenodo.22317046",
+      "topics": [
+        "Economic Theory and Policy",
+        "Global Financial Crisis and Policies",
+        "Monetary Policy and Economic Impact"
+      ],
+      "score": 70.0,
+      "discovery": {},
+      "claim_ids": [
+        "P21-C01",
+        "P21-C02"
+      ]
+    },
+    {
+      "paper_ref": "P22",
+      "paper_id": "repec:RePEc:fip:fedfwp:103705",
+      "title": "Can Fiscal, AI, or Monetary News Explain the Rise in r∗?",
+      "url": "https://ideas.repec.org/p/fip/fedfwp/103705.html",
+      "topics": [],
+      "score": 60.0,
+      "discovery": {
+        "provider": "IDEAS/RePEc",
+        "series_url": "https://ideas.repec.org/s/fip/fedfwp.html",
+        "free_download": true,
+        "date_precision": "day"
+      },
+      "claim_ids": [
+        "P22-C01",
+        "P22-C02"
+      ]
+    },
+    {
+      "paper_ref": "P23",
+      "paper_id": "2608.26473v2",
+      "title": "DTD-VAE: Disentangled Temporal Dependencies VAE for Credit Risk Prediction",
+      "url": "http://arxiv.org/abs/2608.26473v2",
+      "topics": [],
+      "score": 60.0,
+      "discovery": {},
+      "claim_ids": [
+        "P23-C01",
+        "P23-C02"
+      ]
+    },
+    {
+      "paper_ref": "P24",
+      "paper_id": "2609.00911v1",
+      "title": "Pricing the DeFi Tail: Do Protocols or Depositors Price Operational Risk?",
+      "url": "http://arxiv.org/abs/2609.00911v1",
+      "topics": [],
+      "score": 60.0,
+      "discovery": {},
+      "claim_ids": [
+        "P24-C01",
+        "P24-C02",
+        "P24-C03"
+      ]
+    },
+    {
+      "paper_ref": "P25",
+      "paper_id": "repec:RePEc:bis:biswps:1375",
+      "title": "Zombie firms in emerging Asia: domestic and cross border implications",
+      "url": "https://ideas.repec.org/p/bis/biswps/1375.html",
+      "topics": [],
+      "score": 60.0,
+      "discovery": {
+        "provider": "IDEAS/RePEc",
+        "series_url": "https://ideas.repec.org/s/bis/biswps.html",
+        "free_download": true,
+        "date_precision": "month"
+      },
+      "claim_ids": [
+        "P25-C01",
+        "P25-C02"
+      ]
+    },
+    {
+      "paper_ref": "P26",
+      "paper_id": "https://doi.org/10.64751/ijdim.2026.v5.n3.1319",
+      "title": "A Study on Cyber Risk Management Strategies in Financial Institutions",
+      "url": "https://doi.org/10.64751/ijdim.2026.v5.n3.1319",
+      "topics": [
+        "Information and Cyber Security",
+        "Internet of Things and AI",
+        "Supply Chain Resilience and Risk Management"
+      ],
+      "score": 60.0,
+      "discovery": {},
+      "claim_ids": [
+        "P26-C01",
+        "P26-C02"
+      ]
+    },
+    {
+      "paper_ref": "P27",
+      "paper_id": "https://doi.org/10.58721/ebw1f282",
+      "title": "Role of Green Organisational Culture in the relationship between Adaptive Capabilities and Competitive Advantage: A study of Commercial Banks in Kenya",
+      "url": "https://doi.org/10.58721/ebw1f282",
+      "topics": [
+        "Environmental Sustainability in Business",
+        "Corporate Social Responsibility Reporting",
+        "Organizational Leadership and Management Strategies"
+      ],
+      "score": 60.0,
+      "discovery": {},
+      "claim_ids": [
+        "P27-C01",
+        "P27-C02"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "P01-C01",
+      "paper_id": "repec:RePEc:bfr:banfra:1062",
+      "paper_ref": "P01",
+      "kind": "paper_summary",
+      "text": "本文利用月度局部投影和FAVAR模型，评估2000-2025年欧元区各国货币政策传导的异质性，发现产出和通胀反应相对同质，但信贷和房价等变量存在差异，且非常规货币政策在危机期间缩小了国家间分歧。",
+      "location": "AI paper-level summary",
+      "source_url": "https://ideas.repec.org/p/bfr/banfra/1062.html"
+    },
+    {
+      "claim_id": "P01-C02",
+      "paper_id": "repec:RePEc:bfr:banfra:1062",
+      "paper_ref": "P01",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://ideas.repec.org/p/bfr/banfra/1062.html"
+    },
+    {
+      "claim_id": "P02-C01",
+      "paper_id": "repec:RePEc:fip:fednsr:103737",
+      "paper_ref": "P02",
+      "kind": "paper_summary",
+      "text": "本文利用事件研究等方法，发现市场对FOMC点阵图的反应是部分且渐进的，表明点阵图作为沟通工具能塑造但非强制市场预期，且市场预期与FOMC预测随时间收敛。",
+      "location": "AI paper-level summary",
+      "source_url": "https://ideas.repec.org/p/fip/fednsr/103737.html"
+    },
+    {
+      "claim_id": "P02-C02",
+      "paper_id": "repec:RePEc:fip:fednsr:103737",
+      "paper_ref": "P02",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://ideas.repec.org/p/fip/fednsr/103737.html"
+    },
+    {
+      "claim_id": "P03-C01",
+      "paper_id": "https://doi.org/10.5281/zenodo.22147439",
+      "paper_ref": "P03",
+      "kind": "paper_summary",
+      "text": "该研究探讨大数据分析在商业银行不良贷款识别与管理中的应用，通过机器学习提升违约预测准确性，并强化早期预警系统和预期信用损失计提。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.5281/zenodo.22147439"
+    },
+    {
+      "claim_id": "P03-C02",
+      "paper_id": "https://doi.org/10.5281/zenodo.22147439",
+      "paper_ref": "P03",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.5281/zenodo.22147439"
+    },
+    {
+      "claim_id": "P04-C01",
+      "paper_id": "https://doi.org/10.47191/afmj/v11i8.06",
+      "paper_ref": "P04",
+      "kind": "paper_summary",
+      "text": "本文通过定性文献综述和主题分析，研究2026年印尼银行业韧性，认为充裕流动性是必要非充分条件，韧性取决于五个维度，并提出政策建议。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.47191/afmj/v11i8.06"
+    },
+    {
+      "claim_id": "P04-C02",
+      "paper_id": "https://doi.org/10.47191/afmj/v11i8.06",
+      "paper_ref": "P04",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.47191/afmj/v11i8.06"
+    },
+    {
+      "claim_id": "P05-C01",
+      "paper_id": "repec:RePEc:zbw:bubdps:343042",
+      "paper_ref": "P05",
+      "kind": "paper_summary",
+      "text": "本文使用包含银行和内生金融恐慌的中等规模新凯恩斯模型，研究长期趋势通胀如何影响银行挤兑风险，发现高通胀显著增加恐慌概率，并讨论了对货币政策和宏观审慎政策的启示。",
+      "location": "AI paper-level summary",
+      "source_url": "https://ideas.repec.org/p/zbw/bubdps/343042.html"
+    },
+    {
+      "claim_id": "P05-C02",
+      "paper_id": "repec:RePEc:zbw:bubdps:343042",
+      "paper_ref": "P05",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://ideas.repec.org/p/zbw/bubdps/343042.html"
+    },
+    {
+      "claim_id": "P06-C01",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/risks-and-uncertainty-in-monetary-policy.htm",
+      "paper_ref": "P06",
+      "kind": "paper_summary",
+      "text": "该论文提出一种将货币政策情景分析与分布预测统一起来的框架，通过Scenario Synthesis方法为风险评估和政策制定提供可复现的工具。",
+      "location": "AI paper-level summary",
+      "source_url": "https://www.federalreserve.gov/econres/feds/risks-and-uncertainty-in-monetary-policy.htm"
+    },
+    {
+      "claim_id": "P06-C02",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/risks-and-uncertainty-in-monetary-policy.htm",
+      "paper_ref": "P06",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://www.federalreserve.gov/econres/feds/risks-and-uncertainty-in-monetary-policy.htm"
+    },
+    {
+      "claim_id": "P07-C01",
+      "paper_id": "https://doi.org/10.55493/5002.v16i8.6200",
+      "paper_ref": "P07",
+      "kind": "paper_summary",
+      "text": "该论文利用动态面板GMM方法，研究孟加拉国商业银行资本结构（债务比率）和银行规模对盈利能力（ROE和NIM）的影响，发现总资产杠杆提高盈利，而债务权益比过高降低盈利。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.55493/5002.v16i8.6200"
+    },
+    {
+      "claim_id": "P07-C02",
+      "paper_id": "https://doi.org/10.55493/5002.v16i8.6200",
+      "paper_ref": "P07",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.55493/5002.v16i8.6200"
+    },
+    {
+      "claim_id": "P08-C01",
+      "paper_id": "https://doi.org/10.55493/5002.v16i8.6195",
+      "paper_ref": "P08",
+      "kind": "paper_summary",
+      "text": "该研究利用1981-2023年ECOWAS国家面板数据，通过PMG估计发现生产率冲击显著支持货币政策传导效率，但政策利率对通胀的影响方向异常，建议结合结构性政策。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.55493/5002.v16i8.6195"
+    },
+    {
+      "claim_id": "P08-C02",
+      "paper_id": "https://doi.org/10.55493/5002.v16i8.6195",
+      "paper_ref": "P08",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.55493/5002.v16i8.6195"
+    },
+    {
+      "claim_id": "P09-C01",
+      "paper_id": "https://doi.org/10.32782/1814-1161/2026-2-6",
+      "paper_ref": "P09",
+      "kind": "paper_summary",
+      "text": "本文研究地缘政治风险作为宏观金融指标，通过金融、财政和投资渠道影响乌克兰公共财政，并强调财政战略规划对经济安全的重要性。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.32782/1814-1161/2026-2-6"
+    },
+    {
+      "claim_id": "P09-C02",
+      "paper_id": "https://doi.org/10.32782/1814-1161/2026-2-6",
+      "paper_ref": "P09",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.32782/1814-1161/2026-2-6"
+    },
+    {
+      "claim_id": "P10-C01",
+      "paper_id": "worldbank:40125382",
+      "paper_ref": "P10",
+      "kind": "paper_summary",
+      "text": "该论文开发了一个预测低收入国家债务困境的实证模型，发现简单probit模型优于复杂机器学习算法，并与IMF和世界银行的债务可持续性框架相当。",
+      "location": "AI paper-level summary",
+      "source_url": "https://documents.worldbank.org/curated/en/099707109022612787"
+    },
+    {
+      "claim_id": "P10-C02",
+      "paper_id": "worldbank:40125382",
+      "paper_ref": "P10",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://documents.worldbank.org/curated/en/099707109022612787"
+    },
+    {
+      "claim_id": "P11-C01",
+      "paper_id": "repec:RePEc:bfr:banfra:1061",
+      "paper_ref": "P11",
+      "kind": "paper_summary",
+      "text": "该论文利用欧元区分钟级资产价格数据，识别出央行公告中的'传导保护'意外，并证明其独立于政策立场和信息冲击，对金融市场有显著影响。",
+      "location": "AI paper-level summary",
+      "source_url": "https://ideas.repec.org/p/bfr/banfra/1061.html"
+    },
+    {
+      "claim_id": "P11-C02",
+      "paper_id": "repec:RePEc:bfr:banfra:1061",
+      "paper_ref": "P11",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://ideas.repec.org/p/bfr/banfra/1061.html"
+    },
+    {
+      "claim_id": "P12-C01",
+      "paper_id": "repec:RePEc:bfr:banfra:1055",
+      "paper_ref": "P12",
+      "kind": "paper_summary",
+      "text": "该论文构建异质性代理人新凯恩斯模型，研究高公共债务水平下财政和货币政策冲击的传导，发现财政扩张在债务高企时削弱债券流动性服务，迫使央行维持高利率，恶化债务可持续性；货币政策冲击的传导则与债务水平无关。",
+      "location": "AI paper-level summary",
+      "source_url": "https://ideas.repec.org/p/bfr/banfra/1055.html"
+    },
+    {
+      "claim_id": "P12-C02",
+      "paper_id": "repec:RePEc:bfr:banfra:1055",
+      "paper_ref": "P12",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://ideas.repec.org/p/bfr/banfra/1055.html"
+    },
+    {
+      "claim_id": "P13-C01",
+      "paper_id": "https://doi.org/10.64751/ajaccm.2026.v6.n3.868",
+      "paper_ref": "P13",
+      "kind": "paper_summary",
+      "text": "该研究通过资本预算分析评估Axis Bank绿色金融科技项目的财务可行性，发现其具有正NPV和高IRR，表明绿色金融科技能兼顾商业盈利与可持续目标。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.64751/ajaccm.2026.v6.n3.868"
+    },
+    {
+      "claim_id": "P13-C02",
+      "paper_id": "https://doi.org/10.64751/ajaccm.2026.v6.n3.868",
+      "paper_ref": "P13",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.64751/ajaccm.2026.v6.n3.868"
+    },
+    {
+      "claim_id": "P14-C01",
+      "paper_id": "https://doi.org/10.64751/m0mmtq52",
+      "paper_ref": "P14",
+      "kind": "paper_summary",
+      "text": "该研究评估了AI在商业银行信贷决策中的应用，通过资本预算分析显示其财务可行性，并显著提升运营效率和资产质量。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.64751/m0mmtq52"
+    },
+    {
+      "claim_id": "P14-C02",
+      "paper_id": "https://doi.org/10.64751/m0mmtq52",
+      "paper_ref": "P14",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.64751/m0mmtq52"
+    },
+    {
+      "claim_id": "P15-C01",
+      "paper_id": "https://doi.org/10.64751/ajaccm.2026.v6.n3.877",
+      "paper_ref": "P15",
+      "kind": "paper_summary",
+      "text": "该研究评估了商业银行中机器学习风险评分引擎在贷款违约预测中的准确性、财务可行性及对资产质量的影响，发现其显著优于传统模型并具有高投资回报。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.64751/ajaccm.2026.v6.n3.877"
+    },
+    {
+      "claim_id": "P15-C02",
+      "paper_id": "https://doi.org/10.64751/ajaccm.2026.v6.n3.877",
+      "paper_ref": "P15",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.64751/ajaccm.2026.v6.n3.877"
+    },
+    {
+      "claim_id": "P16-C01",
+      "paper_id": "https://doi.org/10.5281/zenodo.22338297",
+      "paper_ref": "P16",
+      "kind": "paper_summary",
+      "text": "该研究利用VAR模型分析刚果民主共和国货币政策（政策利率和货币供应量）对汇率动态的影响，发现政策利率传导有限，而美元化对汇率波动有显著解释力。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.5281/zenodo.22338297"
+    },
+    {
+      "claim_id": "P16-C02",
+      "paper_id": "https://doi.org/10.5281/zenodo.22338297",
+      "paper_ref": "P16",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.5281/zenodo.22338297"
+    },
+    {
+      "claim_id": "P17-C01",
+      "paper_id": "https://doi.org/10.70917/ijcisim-2026-5235",
+      "paper_ref": "P17",
+      "kind": "paper_summary",
+      "text": "该论文通过事件研究法分析印度回购利率公告对Bank Nifty指数收益和波动的影响，发现短期影响不显著，但存在延迟反应，并受疫情干扰。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.70917/ijcisim-2026-5235"
+    },
+    {
+      "claim_id": "P17-C02",
+      "paper_id": "https://doi.org/10.70917/ijcisim-2026-5235",
+      "paper_ref": "P17",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.70917/ijcisim-2026-5235"
+    },
+    {
+      "claim_id": "P18-C01",
+      "paper_id": "https://doi.org/10.12688/f1000research.189446.1",
+      "paper_ref": "P18",
+      "kind": "paper_summary",
+      "text": "该研究通过定量方法调查乌干达Stanbic银行员工数字素养对客户满意度的影响，发现数字素养是显著但次要的预测因素。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.12688/f1000research.189446.1"
+    },
+    {
+      "claim_id": "P18-C02",
+      "paper_id": "https://doi.org/10.12688/f1000research.189446.1",
+      "paper_ref": "P18",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.12688/f1000research.189446.1"
+    },
+    {
+      "claim_id": "P19-C01",
+      "paper_id": "repec:RePEc:bfr:banfra:1058",
+      "paper_ref": "P19",
+      "kind": "paper_summary",
+      "text": "本文利用法国企业数据和企业一般均衡模型，证明资本可抵押性差异导致信贷错配，并提出对高抵押企业征税、补贴低抵押企业的再分配政策可提高福利。",
+      "location": "AI paper-level summary",
+      "source_url": "https://ideas.repec.org/p/bfr/banfra/1058.html"
+    },
+    {
+      "claim_id": "P19-C02",
+      "paper_id": "repec:RePEc:bfr:banfra:1058",
+      "paper_ref": "P19",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://ideas.repec.org/p/bfr/banfra/1058.html"
+    },
+    {
+      "claim_id": "P20-C01",
+      "paper_id": "https://doi.org/10.62643/ijerst.2026.v22.n3.4541",
+      "paper_ref": "P20",
+      "kind": "paper_summary",
+      "text": "该研究通过资本预算分析评估了HDFC银行整合区块链和人工智能进行安全交易的财务可行性，发现项目具有正净现值和较高内部收益率。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.62643/ijerst.2026.v22.n3.4541"
+    },
+    {
+      "claim_id": "P20-C02",
+      "paper_id": "https://doi.org/10.62643/ijerst.2026.v22.n3.4541",
+      "paper_ref": "P20",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.62643/ijerst.2026.v22.n3.4541"
+    },
+    {
+      "claim_id": "P21-C01",
+      "paper_id": "https://doi.org/10.5281/zenodo.22317046",
+      "paper_ref": "P21",
+      "kind": "paper_summary",
+      "text": "该论文构建了一个基于Gibbs校准和SECM/SEFSC框架的全球宏观情景预测模型，分析2026-2036年财政、货币、通胀和主权融资风险，并评估央行和IMF的政策应对。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.5281/zenodo.22317046"
+    },
+    {
+      "claim_id": "P21-C02",
+      "paper_id": "https://doi.org/10.5281/zenodo.22317046",
+      "paper_ref": "P21",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.5281/zenodo.22317046"
+    },
+    {
+      "claim_id": "P22-C01",
+      "paper_id": "repec:RePEc:fip:fedfwp:103705",
+      "paper_ref": "P22",
+      "kind": "paper_summary",
+      "text": "通过高频事件研究，检验财政、AI和货币政策新闻能否解释美国自然利率r*自2020年以来的上升，发现均不能解释。",
+      "location": "AI paper-level summary",
+      "source_url": "https://ideas.repec.org/p/fip/fedfwp/103705.html"
+    },
+    {
+      "claim_id": "P22-C02",
+      "paper_id": "repec:RePEc:fip:fedfwp:103705",
+      "paper_ref": "P22",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://ideas.repec.org/p/fip/fedfwp/103705.html"
+    },
+    {
+      "claim_id": "P23-C01",
+      "paper_id": "2608.26473v2",
+      "paper_ref": "P23",
+      "kind": "paper_summary",
+      "text": "提出一种基于变分自编码器的信用风险预测模型，通过解耦时间依赖特征提升预测性能。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2608.26473v2"
+    },
+    {
+      "claim_id": "P23-C02",
+      "paper_id": "2608.26473v2",
+      "paper_ref": "P23",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2608.26473v2"
+    },
+    {
+      "claim_id": "P24-C01",
+      "paper_id": "2609.00911v1",
+      "paper_ref": "P24",
+      "kind": "paper_summary",
+      "text": "该论文量化DeFi协议的操作风险尾部，检验协议资本缓冲和存款人风险溢价是否充分定价，发现市场定价不足，建议披露而非资本强制。",
+      "location": "AI paper-level summary",
+      "source_url": "http://arxiv.org/abs/2609.00911v1"
+    },
+    {
+      "claim_id": "P24-C02",
+      "paper_id": "2609.00911v1",
+      "paper_ref": "P24",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "http://arxiv.org/abs/2609.00911v1"
+    },
+    {
+      "claim_id": "P24-C03",
+      "paper_id": "2609.00911v1",
+      "paper_ref": "P24",
+      "kind": "code_repository",
+      "text": "Code candidate nbundi/pricing-the-defi-tail is classified likely with confidence 50",
+      "location": "https://github.com/nbundi/pricing-the-defi-tail",
+      "source_url": "http://arxiv.org/abs/2609.00911v1"
+    },
+    {
+      "claim_id": "P25-C01",
+      "paper_id": "repec:RePEc:bis:biswps:1375",
+      "paper_ref": "P25",
+      "kind": "paper_summary",
+      "text": "利用亚洲10个新兴经济体的企业-银行数据，研究发现僵尸企业盛行通过银行续贷持续，并抑制国内及跨境的经济增长和通胀，主要通过全球价值链传导。",
+      "location": "AI paper-level summary",
+      "source_url": "https://ideas.repec.org/p/bis/biswps/1375.html"
+    },
+    {
+      "claim_id": "P25-C02",
+      "paper_id": "repec:RePEc:bis:biswps:1375",
+      "paper_ref": "P25",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://ideas.repec.org/p/bis/biswps/1375.html"
+    },
+    {
+      "claim_id": "P26-C01",
+      "paper_id": "https://doi.org/10.64751/ijdim.2026.v5.n3.1319",
+      "paper_ref": "P26",
+      "kind": "paper_summary",
+      "text": "该研究通过资本预算分析评估商业银行网络安全投资的经济可行性，发现其具有高回报和战略价值。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.64751/ijdim.2026.v5.n3.1319"
+    },
+    {
+      "claim_id": "P26-C02",
+      "paper_id": "https://doi.org/10.64751/ijdim.2026.v5.n3.1319",
+      "paper_ref": "P26",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.64751/ijdim.2026.v5.n3.1319"
+    },
+    {
+      "claim_id": "P27-C01",
+      "paper_id": "https://doi.org/10.58721/ebw1f282",
+      "paper_ref": "P27",
+      "kind": "paper_summary",
+      "text": "该研究基于动态能力理论，通过问卷调查和PLS-SEM分析，发现绿色组织文化在肯尼亚商业银行适应能力与竞争优势之间起中介作用，而非调节作用。",
+      "location": "AI paper-level summary",
+      "source_url": "https://doi.org/10.58721/ebw1f282"
+    },
+    {
+      "claim_id": "P27-C02",
+      "paper_id": "https://doi.org/10.58721/ebw1f282",
+      "paper_ref": "P27",
+      "kind": "metadata",
+      "text": "OpenAlex citation count: 0",
+      "location": "OpenAlex metadata",
+      "source_url": "https://doi.org/10.58721/ebw1f282"
+    }
+  ]
+}

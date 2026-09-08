@@ -4776,10 +4776,6 @@
       "title": "Predictive Analytics for Loan Default Risk Assessment in Commercial Banks",
       "paper_id": "https://doi.org/10.64751/ajaccm.2026.v6.n3.877"
     },
-    "W7208809090": {
-      "title": "DYNAMIQUE DU TAUX DE CHANGE FACE AUX CHOCS DE POLITIQUE MONETAIRE EN RDC : UNE ANALYSE PAR LE MODELE VAR",
-      "paper_id": "https://doi.org/10.5281/zenodo.22338297"
-    },
     "W7208725557": {
       "title": "ORGANISATIONAL COMMITMENT AS THE MISSING MECHANISM: STRATEGIC HUMAN RESOURCE MANAGEMENT AND EMPLOYEE ENGAGEMENT IN BANGLADESHI COMMERCIAL BANKS",
       "paper_id": "https://doi.org/10.70917/ijcisim-2026-5410"
@@ -4795,6 +4791,26 @@
     "repec:RePEc:fip:fedpwp:103741": {
       "title": "How Do Large, Sophisticated Cryptocurrency Trades Impact Broader DeFi Market Dynamics?",
       "paper_id": "repec:RePEc:fip:fedpwp:103741"
+    },
+    "W7208805987": {
+      "title": "Puzzling Behavior in Monetary Policy Transmission: New Evidence From Central Asian Economies",
+      "paper_id": "https://doi.org/10.59091/2460-9196.2686"
+    },
+    "W7208822635": {
+      "title": "DYNAMIQUE DU TAUX DE CHANGE FACE AUX CHOCS DE POLITIQUE MONETAIRE EN RDC : UNE ANALYSE PAR LE MODELE VAR",
+      "paper_id": "https://doi.org/10.5281/zenodo.22338296"
+    },
+    "W7210286036": {
+      "title": "Pengaruh Kebijakan Dividen, Suku Bunga, dan Inflasi terhadap Harga Saham",
+      "paper_id": "https://doi.org/10.37481/jmeb.v6i3.2287"
+    },
+    "repec:RePEc:boe:boeewp:023582": {
+      "title": "Macroeconomic dynamics of the output floor",
+      "paper_id": "repec:RePEc:boe:boeewp:023582"
+    },
+    "repec:RePEc:boe:boeewp:023581": {
+      "title": "Innovation, financial frictions, and persistent effects of monetary policy",
+      "paper_id": "repec:RePEc:boe:boeewp:023581"
     }
   },
   "edges": [

@@ -4971,6 +4971,94 @@
     "repec:RePEc:ces:ceswps:_12972": {
       "title": "Zero-Shot Conditional Forecasting and the Information Content of Central Bank Paths",
       "paper_id": "repec:RePEc:ces:ceswps:_12972"
+    },
+    "2609.10227v1": {
+      "title": "Italian Business-to-Business Invoicing Data: A Network Analysis",
+      "paper_id": "2609.10227v1"
+    },
+    "2609.10380v1": {
+      "title": "High Volume Low Complexity Surgical Hubs in England: Can They Improve Physician Productivity?",
+      "paper_id": "2609.10380v1"
+    },
+    "2609.10074v1": {
+      "title": "Strategic communication of narratives: An experiment",
+      "paper_id": "2609.10074v1"
+    },
+    "2609.10053v1": {
+      "title": "Do wind and solar curtail at negative electricity prices? Incentives and evidence across two decades of German renewable support schemes",
+      "paper_id": "2609.10053v1"
+    },
+    "2609.09859v1": {
+      "title": "How an Economy Shrinks in Space: Concavity-on-Jobs and Upward Consolidation under Demographic Decline",
+      "paper_id": "2609.09859v1"
+    },
+    "2609.09673v1": {
+      "title": "Reducing Prescription Errors Through Information Intervention: A Field Experiment in Healthcare Operations",
+      "paper_id": "2609.09673v1"
+    },
+    "2609.09337v1": {
+      "title": "Credible Discourse on Climate Policy: Beyond Dueling Certitudes",
+      "paper_id": "2609.09337v1"
+    },
+    "2609.09323v1": {
+      "title": "Buy Now, Pay Later: Academic Insights and Open Policy Questions",
+      "paper_id": "2609.09323v1"
+    },
+    "2609.09544v1": {
+      "title": "When is statistical evidence strong enough? Using hypothesis tests to value data collection",
+      "paper_id": "2609.09544v1"
+    },
+    "2609.10499v1": {
+      "title": "Monitoring Hierarchies in Knowledge Production",
+      "paper_id": "2609.10499v1"
+    },
+    "2609.09488v1": {
+      "title": "Two Margins in Difference-in-Differences with a Continuous Treatment",
+      "paper_id": "2609.09488v1"
+    },
+    "2609.10029v1": {
+      "title": "On accessibility of the core in mutidimensional spatial majority voting situations",
+      "paper_id": "2609.10029v1"
+    },
+    "2609.09888v1": {
+      "title": "The Response of Consumption to Interest Rates with Borrowing Constraints: An Analytical Approach",
+      "paper_id": "2609.09888v1"
+    },
+    "2609.09693v1": {
+      "title": "The Attention Cost of Stable Matching",
+      "paper_id": "2609.09693v1"
+    },
+    "2609.09945v1": {
+      "title": "Adversarial Training for Tabular Credit Scoring: A Multi-Attack Robustness Evaluation in P2P Lending",
+      "paper_id": "2609.09945v1"
+    },
+    "2609.09226v1": {
+      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+      "paper_id": "2609.09226v1"
+    },
+    "W7211925656": {
+      "title": "Financial Innovations and Sustainable Competitive Advantage of Commercial Banks in Kenya",
+      "paper_id": "https://doi.org/10.61108/ijsshr.v4i3.304"
+    },
+    "W7211911741": {
+      "title": "Monetary Policy Instruments and the Performance of Deposit Money Banks in Nigeria (2010–2023)",
+      "paper_id": "https://doi.org/10.56201/ijebm.vol.11.no8.2025.pg177.192"
+    },
+    "W7211934127": {
+      "title": "Heterogeneous Markups Cyclicality and Monetary Policy",
+      "paper_id": "https://doi.org/10.1111/iere.70109"
+    },
+    "worldbank:40126629": {
+      "title": "Safe Spaces to Digital Spaces : Short-Term Impacts of Life Skills and Digital Literacy Training for Adolescent Girls in Nigeria",
+      "paper_id": "worldbank:40126629"
+    },
+    "repec:RePEc:ces:ceswps:_12971": {
+      "title": "Minimum Wages and Race Disparities",
+      "paper_id": "repec:RePEc:ces:ceswps:_12971"
+    },
+    "repec:RePEc:ces:ceswps:_12970": {
+      "title": "The Costs and Benefits of Mediocrity: Endogenous Auction Design in Procurement",
+      "paper_id": "repec:RePEc:ces:ceswps:_12970"
     }
   },
   "edges": [
@@ -32322,6 +32410,321 @@
     {
       "from": "W7204747494",
       "to": "W7203862676",
+      "type": "cites"
+    },
+    {
+      "from": "W7211925656",
+      "to": "W1584666509",
+      "type": "cites"
+    },
+    {
+      "from": "W7211925656",
+      "to": "W2123709218",
+      "type": "cites"
+    },
+    {
+      "from": "W7211925656",
+      "to": "W2169667133",
+      "type": "cites"
+    },
+    {
+      "from": "W7211925656",
+      "to": "W3124536214",
+      "type": "cites"
+    },
+    {
+      "from": "W7211925656",
+      "to": "W4292811746",
+      "type": "cites"
+    },
+    {
+      "from": "W7211925656",
+      "to": "W4401433922",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W1043676963",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W1535425975",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W1902470918",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2003180421",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2025610165",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2030775385",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2057353990",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2126818273",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2135860498",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2153053242",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2153781119",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2176723585",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2321899566",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2340307213",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2343185847",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2384573676",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2749859120",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2766135991",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2766163035",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2766190141",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2890353604",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2904229448",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2964383261",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2981473075",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W2993403549",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3017109054",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3041934632",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3047682044",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3121293400",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3121403162",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3122544990",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3123935426",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3124265334",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3125266927",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3125796648",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3127565961",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3127673644",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3158363860",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3160655129",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3163113856",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W3200125252",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W4206459144",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W4210633885",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W4213023357",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W4214663102",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W4220920812",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W4225695266",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W4238022985",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W4282023525",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W4283700098",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W4283804957",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W4293327483",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W4308887348",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W4390942924",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W4399721813",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W4400086565",
+      "type": "cites"
+    },
+    {
+      "from": "W7211934127",
+      "to": "W7127188658",
       "type": "cites"
     }
   ]

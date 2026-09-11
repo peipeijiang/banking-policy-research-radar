@@ -5059,6 +5059,62 @@
     "repec:RePEc:ces:ceswps:_12970": {
       "title": "The Costs and Benefits of Mediocrity: Endogenous Auction Design in Procurement",
       "paper_id": "repec:RePEc:ces:ceswps:_12970"
+    },
+    "2609.11915v1": {
+      "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
+      "paper_id": "2609.11915v1"
+    },
+    "2609.10587v1": {
+      "title": "Expected Shortfall Factor Models: Common Tail Losses and Expected Returns",
+      "paper_id": "2609.10587v1"
+    },
+    "2609.11575v1": {
+      "title": "Market-Informed Networks for Modeling and Forecast Evaluation of Financial Extremes",
+      "paper_id": "2609.11575v1"
+    },
+    "2609.11222v1": {
+      "title": "Optimal Covariate Adjustment beyond the Average Treatment Effect: Treated-Population and Overlap-Weighted Estimands",
+      "paper_id": "2609.11222v1"
+    },
+    "2609.10971v1": {
+      "title": "Experimental Design for Policy Choice",
+      "paper_id": "2609.10971v1"
+    },
+    "2609.10925v1": {
+      "title": "Identification in Linear Quantile Panel Models",
+      "paper_id": "2609.10925v1"
+    },
+    "2609.10617v1": {
+      "title": "Average Treatment Effect Localization: Projection Methods in Synthetic Control",
+      "paper_id": "2609.10617v1"
+    },
+    "2609.10615v1": {
+      "title": "ACT, WAIT, or EXPERIMENT: A Causal Governance Framework for Retail Price Optimization Under Abstentions",
+      "paper_id": "2609.10615v1"
+    },
+    "2609.11748v1": {
+      "title": "Utility-Level-Dependent Ambiguity",
+      "paper_id": "2609.11748v1"
+    },
+    "2609.11374v1": {
+      "title": "Social Preferences and Cooperation: Beliefs, Robustness, and the Limits of Altruism",
+      "paper_id": "2609.11374v1"
+    },
+    "2609.10759v1": {
+      "title": "Where Should Society Draw the Line? A Social Choice Approach to Collective Consent",
+      "paper_id": "2609.10759v1"
+    },
+    "2609.11905v1": {
+      "title": "Entropic Value-at-Risk parity for tempered stable returns",
+      "paper_id": "2609.11905v1"
+    },
+    "repec:RePEc:ces:ceswps:_12968": {
+      "title": "Male Dominance and Cultural Extinction",
+      "paper_id": "repec:RePEc:ces:ceswps:_12968"
+    },
+    "repec:RePEc:ces:ceswps:_12969": {
+      "title": "Childcare for Informal-Sector Workers: Delivery Models, Access, and Welfare",
+      "paper_id": "repec:RePEc:ces:ceswps:_12969"
     }
   },
   "edges": [

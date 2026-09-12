@@ -5115,6 +5115,22 @@
     "repec:RePEc:ces:ceswps:_12969": {
       "title": "Childcare for Informal-Sector Workers: Delivery Models, Access, and Welfare",
       "paper_id": "repec:RePEc:ces:ceswps:_12969"
+    },
+    "W7212040909": {
+      "title": "Impact of Monetary Policy on Stock Portfolio Volatility",
+      "paper_id": "https://doi.org/10.56201/wjfir.v9.no8.2025.pg98.108"
+    },
+    "W7212029408": {
+      "title": "A machine learning framework for enhancing threat detection in core banking systems",
+      "paper_id": "https://doi.org/10.1038/s41598-026-68910-y"
+    },
+    "repec:RePEc:ces:ceswps:_12964": {
+      "title": "Systemic Runs and the Dimension of Financial Fragility",
+      "paper_id": "repec:RePEc:ces:ceswps:_12964"
+    },
+    "repec:RePEc:ces:ceswps:_12967": {
+      "title": "Political Rupture and the Origins of Secularization: Evidence from the French Revolution",
+      "paper_id": "repec:RePEc:ces:ceswps:_12967"
     }
   },
   "edges": [

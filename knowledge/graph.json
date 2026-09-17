@@ -1868,10 +1868,6 @@
       "title": "Inference Based on Scale, Label, and Economic Restrictions",
       "paper_id": "repec:RePEc:fip:fedpwp:103578"
     },
-    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3258~46133509d4.en.pdf": {
-      "title": "Import tariff transmission in a production network",
-      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3258~46133509d4.en.pdf"
-    },
     "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3257~92e2d05000.en.pdf": {
       "title": "The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital buffer using a parsimonious agent-based framework",
       "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3257~92e2d05000.en.pdf"
@@ -5131,6 +5127,162 @@
     "repec:RePEc:ces:ceswps:_12967": {
       "title": "Political Rupture and the Origins of Secularization: Evidence from the French Revolution",
       "paper_id": "repec:RePEc:ces:ceswps:_12967"
+    },
+    "2609.18750v1": {
+      "title": "PPML and Heavy-Tailed Trade and Factor Flows: Why Standard Inference Fails and How to Fix It",
+      "paper_id": "2609.18750v1"
+    },
+    "2609.18591v1": {
+      "title": "Recursive Reasoning or Statistical Extrapolation? In-Context Learning in Multi-Agent Interdependent Decision-Making",
+      "paper_id": "2609.18591v1"
+    },
+    "2609.18441v1": {
+      "title": "Multitask Reinforcement Learning for Assisting Choice Model Specification",
+      "paper_id": "2609.18441v1"
+    },
+    "2609.18287v1": {
+      "title": "A continuous-time dynamic contracting problem with limited liability and finite horizon",
+      "paper_id": "2609.18287v1"
+    },
+    "2609.18161v1": {
+      "title": "Why a Non-Discriminatory Royalty Surcharge Is Not Chip-Neutral: The Error in FTC v. Qualcomm",
+      "paper_id": "2609.18161v1"
+    },
+    "2609.17989v1": {
+      "title": "Whom Do AI Agents Work For? Role Assignment Induces Sponsorship Bias in LLM Recommenders",
+      "paper_id": "2609.17989v1"
+    },
+    "2609.15452v2": {
+      "title": "Computing Endogenous Transformations in Processing Networks: A Dynamic Calibration Approach",
+      "paper_id": "2609.15452v2"
+    },
+    "2609.17608v1": {
+      "title": "Equilibrium Selection in Coordination Games with Planned Actions and Scouting",
+      "paper_id": "2609.17608v1"
+    },
+    "2609.19081v1": {
+      "title": "Beyond Pretrends: A Discordance-Based Sensitivity Analysis for Difference-in-Differences",
+      "paper_id": "2609.19081v1"
+    },
+    "2609.18903v1": {
+      "title": "Shrinkage Bayesian Causal Forest with Instrumental Variable",
+      "paper_id": "2609.18903v1"
+    },
+    "2609.18734v1": {
+      "title": "Conditionally linear, matrix normal state space models",
+      "paper_id": "2609.18734v1"
+    },
+    "2609.18600v1": {
+      "title": "Policy Targeting with Market Equilibrium",
+      "paper_id": "2609.18600v1"
+    },
+    "2609.18172v1": {
+      "title": "What No First Stage Can Detect: Functional-Form Contamination in Linear IV",
+      "paper_id": "2609.18172v1"
+    },
+    "2609.18157v1": {
+      "title": "Tensor-BEKK: Conditional Covariance Modeling and Inference for Tensor-Valued Time Series",
+      "paper_id": "2609.18157v1"
+    },
+    "2609.18150v1": {
+      "title": "Profiled Anderson--Rubin Test: Robust Inference Allowing for Direct Effects of Instruments",
+      "paper_id": "2609.18150v1"
+    },
+    "2609.17939v1": {
+      "title": "Recursive-Head Geometry and Order-Free Efficient Inference in Finite-State Nested Markov Models",
+      "paper_id": "2609.17939v1"
+    },
+    "2609.17626v1": {
+      "title": "Structural Complexity of One-Factor Sparse Portfolio Selection: Exact Algorithms, Parameterized Hardness, and Restricted Circuit Lower Bounds",
+      "paper_id": "2609.17626v1"
+    },
+    "2609.18701v1": {
+      "title": "Comparison of Deterministic Information Providers",
+      "paper_id": "2609.18701v1"
+    },
+    "2609.18299v1": {
+      "title": "Fractional Assignment with $\\ell_1$ Preferences",
+      "paper_id": "2609.18299v1"
+    },
+    "2609.18147v1": {
+      "title": "Dynamic Pooling and Regional Participation in Deceased-Donor Organ Allocation",
+      "paper_id": "2609.18147v1"
+    },
+    "2609.17836v1": {
+      "title": "Coalition strategy-proof anonymous binary social choice in a countably infinite society",
+      "paper_id": "2609.17836v1"
+    },
+    "2609.17807v1": {
+      "title": "Segregation Monotonicity and the Measurement of Inequality in Social Networks",
+      "paper_id": "2609.17807v1"
+    },
+    "2609.17752v1": {
+      "title": "AI and the Market for Signals",
+      "paper_id": "2609.17752v1"
+    },
+    "2609.17617v1": {
+      "title": "Reputation without a Control Group",
+      "paper_id": "2609.17617v1"
+    },
+    "W7212354283": {
+      "title": "Integrating Cloud-Based Predictive Analytics for Strategic Decision-Making in Mid-Sized Commercial Banking: An Empirical Evaluation of Azure Synapse and Power BI",
+      "paper_id": "https://doi.org/10.5281/zenodo.22720704"
+    },
+    "W7212312984": {
+      "title": "BOC Bank and Human Hacking: Strategies and Defenses Against Social Engineering Attacks",
+      "paper_id": "https://doi.org/10.5281/zenodo.22702314"
+    },
+    "W7212426914": {
+      "title": "PROJECT: THE GREAT BRIDGE — A Dual-Tranche Sovereign Refinancing & Shared-Yield Digital-Dollar Architecture for U.S. Debt Stabilization",
+      "paper_id": "https://doi.org/10.5281/zenodo.22738370"
+    },
+    "W7212264122": {
+      "title": "Consumer inflation expectations: Are they shaped by central bank messages and personality traits? An experimental study of European economies",
+      "paper_id": "https://doi.org/10.1016/j.ssaho.2026.103590"
+    },
+    "W7212178065": {
+      "title": "Foreign Ownership, Digital Transformation, and Monetary Policy as Drivers of Vietcombank Stock Valuation: ARDL Evidence from 2015-2026",
+      "paper_id": "https://doi.org/10.62225/2583049x.2026.6.5.6854"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3281~01820b53fd.en.pdf": {
+      "title": "Endogenous monetary policy effectiveness",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3281~01820b53fd.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3282~b3fc21f7c5.en.pdf": {
+      "title": "When firms do not take the money and run: evidence from corporate loan moratoria",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3282~b3fc21f7c5.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3279~c0a22d29e1.en.pdf": {
+      "title": "Fiscal policy and sectoral spillovers in open-economy HANK",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3279~c0a22d29e1.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3280~503ba7d4b0.en.pdf": {
+      "title": "DeFi-ying the Fed? Monetary policy transmission to stablecoin deposit rates",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3280~503ba7d4b0.en.pdf"
+    },
+    "worldbank:40127283": {
+      "title": "Tracking Air Pollution from Space: High-Resolution Daily Estimates for PM2.5, O3, NO2, and CO",
+      "paper_id": "worldbank:40127283"
+    },
+    "worldbank:40127699": {
+      "title": "Who Benefits from Food Tax Exemptions in Lower-Income Settings ? Evidence on Pass-Through and Incidence",
+      "paper_id": "worldbank:40127699"
+    },
+    "worldbank:40127706": {
+      "title": "Get Ready : What Lessons for Social Protection from the Recent Energy Crisis ?\n",
+      "paper_id": "worldbank:40127706"
+    },
+    "repec:RePEc:ces:ceswps:_12989": {
+      "title": "So Far Away? Hiring Discrimination Against Female Commuters",
+      "paper_id": "repec:RePEc:ces:ceswps:_12989"
+    },
+    "repec:RePEc:ces:ceswps:_12988": {
+      "title": "Flexible Demand Estimation with Search Data",
+      "paper_id": "repec:RePEc:ces:ceswps:_12988"
+    },
+    "repec:RePEc:zbw:bubdps:343558": {
+      "title": "Import tariff transmission in a production network",
+      "paper_id": "repec:RePEc:zbw:bubdps:343558"
     }
   },
   "edges": [
@@ -32797,6 +32949,256 @@
     {
       "from": "W7211934127",
       "to": "W7127188658",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W928249625",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W1576496734",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W1671197181",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W1696533296",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W1984806222",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W1998576834",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2011164376",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2023214797",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2041703453",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2042049661",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2052647713",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2087096517",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2138630966",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2158030317",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2202945315",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2250713598",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2566240768",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2611897193",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2763519491",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2891911125",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2901130517",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2914323996",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2942613666",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2944371812",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2949164701",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2972615789",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W2975771456",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W3000739185",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W3011921531",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W3047969019",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W3090264114",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W3123595939",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W3124765927",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W3125135614",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W3125293137",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W3125497144",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W3214376555",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W4214707257",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W4226087175",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W4233731957",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W4280652794",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W4283022493",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W4382986170",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W4387213343",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W4388002500",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W4391358171",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W4408359466",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W4409150199",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W7119511714",
+      "type": "cites"
+    },
+    {
+      "from": "W7212264122",
+      "to": "W7140000393",
       "type": "cites"
     }
   ]

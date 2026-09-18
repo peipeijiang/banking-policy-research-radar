@@ -1340,10 +1340,6 @@
       "title": "Strategic OTC market making with reputation feedback",
       "paper_id": "2607.11328v2"
     },
-    "2607.13968v1": {
-      "title": "Measuring Sentiment News with Transformer-Based Language Models",
-      "paper_id": "2607.13968v1"
-    },
     "W7168129738": {
       "title": "ECOSYSTEM-SPECIFIC MACROECONOMIC DYNAMICS OF ETHEREUM, BUILD AND BUILD, AND SOLANA IN INDONESIA",
       "paper_id": "https://doi.org/10.24034/j25485024.y2026.v10.i1.7669"
@@ -5283,6 +5279,154 @@
     "repec:RePEc:zbw:bubdps:343558": {
       "title": "Import tariff transmission in a production network",
       "paper_id": "repec:RePEc:zbw:bubdps:343558"
+    },
+    "2609.20554v1": {
+      "title": "Does Training on Future Data Pay? Look-Ahead Bias in Forecasting with Pretrained Models",
+      "paper_id": "2609.20554v1"
+    },
+    "2609.20462v1": {
+      "title": "Unpriced Internal Externalities and Structural Inefficiency in Organizations",
+      "paper_id": "2609.20462v1"
+    },
+    "2609.20282v1": {
+      "title": "Tradeable Import Certificates for Strategic Supply Security",
+      "paper_id": "2609.20282v1"
+    },
+    "2609.20405v1": {
+      "title": "An Arbitrarily Precise Global Closed Form Approximation for the Neoclassical Growth Model",
+      "paper_id": "2609.20405v1"
+    },
+    "2609.20017v1": {
+      "title": "Who Aggregates Information? Screening, Rent, and the Coexistence of CLOB and AMM Prediction Markets",
+      "paper_id": "2609.20017v1"
+    },
+    "2609.19843v1": {
+      "title": "A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents",
+      "paper_id": "2609.19843v1"
+    },
+    "2609.19660v1": {
+      "title": "Screening Out the Needy: The Effects of SNAP Work Requirements",
+      "paper_id": "2609.19660v1"
+    },
+    "2609.19455v1": {
+      "title": "The Behavior of Inventories over the Business Cycle: Evidence across Levels of Development",
+      "paper_id": "2609.19455v1"
+    },
+    "2609.20655v1": {
+      "title": "Using machine learning metrics to provide deeper insights into the performance of choice models",
+      "paper_id": "2609.20655v1"
+    },
+    "2609.20473v1": {
+      "title": "Beyond Linearity: Semiparametric Solutions to Contamination Bias with Multi-valued Treatments",
+      "paper_id": "2609.20473v1"
+    },
+    "2609.20424v1": {
+      "title": "Cosine metric as a structural economic similarity measure",
+      "paper_id": "2609.20424v1"
+    },
+    "2609.20393v1": {
+      "title": "Gaussian Boundary Inference in a Hypergeometric Heavy-Tailed Family",
+      "paper_id": "2609.20393v1"
+    },
+    "2609.20044v1": {
+      "title": "Noise-adjusted turnover in estimated networks",
+      "paper_id": "2609.20044v1"
+    },
+    "2609.19738v1": {
+      "title": "Axiomatizing Local Asymptotic Minimax Risk",
+      "paper_id": "2609.19738v1"
+    },
+    "2609.19547v1": {
+      "title": "Vector Vine Copula Models for Multivariate Longitudinal Data",
+      "paper_id": "2609.19547v1"
+    },
+    "2609.19418v1": {
+      "title": "Stable Policy Learning",
+      "paper_id": "2609.19418v1"
+    },
+    "2609.19415v1": {
+      "title": "Aggregating many estimators using estimated weights",
+      "paper_id": "2609.19415v1"
+    },
+    "2609.19386v1": {
+      "title": "Omitted Variable Bias in Difference-in-Differences Designs",
+      "paper_id": "2609.19386v1"
+    },
+    "2609.20421v1": {
+      "title": "Stable Allocations, Unstable Payment Paths: The Shapley Value and Voluntary Coalition Formation",
+      "paper_id": "2609.20421v1"
+    },
+    "2609.20032v1": {
+      "title": "A polyhedral characterization of worker-quasi-stable matchings",
+      "paper_id": "2609.20032v1"
+    },
+    "2609.19932v1": {
+      "title": "Rational Bargaining: Characterization and Implementation",
+      "paper_id": "2609.19932v1"
+    },
+    "2609.19888v1": {
+      "title": "Putting Context into Preference Aggregation",
+      "paper_id": "2609.19888v1"
+    },
+    "2609.19771v1": {
+      "title": "Anonymous Accountability",
+      "paper_id": "2609.19771v1"
+    },
+    "2609.19764v1": {
+      "title": "Taxing Capital to Protect It",
+      "paper_id": "2609.19764v1"
+    },
+    "2609.19866v1": {
+      "title": "Reproducibility is not construct validity: LLM measurement of institutionally situated communication",
+      "paper_id": "2609.19866v1"
+    },
+    "2609.19316v1": {
+      "title": "Persistent mixed worldviews in the theory of chosen preferences",
+      "paper_id": "2609.19316v1"
+    },
+    "2609.13402v3": {
+      "title": "Diffusion models for dynamic volatility surface generation and data-driven hedging",
+      "paper_id": "2609.13402v3"
+    },
+    "W7213405461": {
+      "title": "SECM–SEFSC Predictive Yield-Curve Model IV: Real-Time Quarterly Composition, Maturity-Dependent Transmission, Error Correction, and Identified Policy–Fiscal Shocks",
+      "paper_id": "https://doi.org/10.5281/zenodo.22798934"
+    },
+    "W7213360067": {
+      "title": "Financial Technology and Performance of Commercial Banks in Nigeria",
+      "paper_id": "https://doi.org/10.56201/ijbfr.vol.12.no2.2026.pg197.211"
+    },
+    "W7213238324": {
+      "title": "Violating Fiscal Rules: Implications for Inflation, Expectations, and Monetary Credibility",
+      "paper_id": "https://doi.org/10.1007/s11079-026-09878-0"
+    },
+    "W7213409282": {
+      "title": "Mixture Models for Predictive Densities",
+      "paper_id": "https://doi.org/10.12804/revistas.urosario.edu.co/economia/a.16206"
+    },
+    "W7213335860": {
+      "title": "Attention to the Macroeconomy",
+      "paper_id": "https://doi.org/10.1093/qje/qjag047"
+    },
+    "W7212441313": {
+      "title": "INFLYATSION TARGETIRLASH SHAROITIDA MARKAZIY BANK VALYUTA INTERVENSIYALARI STRATEGIYASINI TAKOMILLASHTIRISH MEXANIZMLARI",
+      "paper_id": "https://doi.org/10.5281/zenodo.22736051"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3283~df0633dfd3.en.pdf": {
+      "title": "Measuring sentiment news with transformer-based language models",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3283~df0633dfd3.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3284~c350fd075f.en.pdf": {
+      "title": "Entropic tilting of forecasts to SPF histograms: analytics & applications",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3284~c350fd075f.en.pdf"
+    },
+    "repec:RePEc:ces:ceswps:_12986": {
+      "title": "Patents, Pay and People: How Innovation Reshapes the Workforce",
+      "paper_id": "repec:RePEc:ces:ceswps:_12986"
+    },
+    "repec:RePEc:ces:ceswps:_12987": {
+      "title": "Optimal Taxation with Migration and Regional Externalities",
+      "paper_id": "repec:RePEc:ces:ceswps:_12987"
     }
   },
   "edges": [
@@ -33199,6 +33343,281 @@
     {
       "from": "W7212264122",
       "to": "W7140000393",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W1905678139",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W1977898442",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W1996534665",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W1997794132",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2005798608",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2010670304",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2017256366",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2041885617",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2050076083",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2065307478",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2073767681",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2093220496",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2117178635",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2135860498",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2156092766",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2164357257",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2202769935",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2236896033",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2557713665",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2566240768",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2606606804",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2617957753",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2954190753",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W2955064636",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W3003633127",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W3121275295",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W3121617981",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W3121786260",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W3124099830",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W3124633565",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W3125076705",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W3125291676",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W3126081245",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W3127387596",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W3193559807",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W4212767065",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W4236185146",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W4400934849",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W4403287132",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W4403556983",
+      "type": "cites"
+    },
+    {
+      "from": "W7213238324",
+      "to": "W4406233789",
+      "type": "cites"
+    },
+    {
+      "from": "W7213409282",
+      "to": "W1509045286",
+      "type": "cites"
+    },
+    {
+      "from": "W7213409282",
+      "to": "W2111928004",
+      "type": "cites"
+    },
+    {
+      "from": "W7213409282",
+      "to": "W2185198019",
+      "type": "cites"
+    },
+    {
+      "from": "W7213409282",
+      "to": "W2312404966",
+      "type": "cites"
+    },
+    {
+      "from": "W7213409282",
+      "to": "W2525395575",
+      "type": "cites"
+    },
+    {
+      "from": "W7213409282",
+      "to": "W3123398840",
+      "type": "cites"
+    },
+    {
+      "from": "W7213409282",
+      "to": "W3197458821",
+      "type": "cites"
+    },
+    {
+      "from": "W7213409282",
+      "to": "W4206678871",
+      "type": "cites"
+    },
+    {
+      "from": "W7213409282",
+      "to": "W4229458400",
+      "type": "cites"
+    },
+    {
+      "from": "W7213409282",
+      "to": "W4295366751",
+      "type": "cites"
+    },
+    {
+      "from": "W7213409282",
+      "to": "W4318184858",
+      "type": "cites"
+    },
+    {
+      "from": "W7213409282",
+      "to": "W4387894115",
+      "type": "cites"
+    },
+    {
+      "from": "W7213409282",
+      "to": "W4388817788",
+      "type": "cites"
+    },
+    {
+      "from": "W7213409282",
+      "to": "W4408386334",
       "type": "cites"
     }
   ]

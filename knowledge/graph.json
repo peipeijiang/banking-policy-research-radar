@@ -2248,10 +2248,6 @@
       "title": "Economics and Epidemics: Evidence from an Estimated Spatial Econ-SIR Model",
       "paper_id": "2607.28348v1"
     },
-    "2607.28222v1": {
-      "title": "Voice AI in Firms: A Natural Field Experiment on Automated Job Interviews",
-      "paper_id": "2607.28222v1"
-    },
     "2607.28133v1": {
       "title": "AI Sycophancy and Decisions",
       "paper_id": "2607.28133v1"
@@ -5388,10 +5384,6 @@
       "title": "Diffusion models for dynamic volatility surface generation and data-driven hedging",
       "paper_id": "2609.13402v3"
     },
-    "W7213405461": {
-      "title": "SECM–SEFSC Predictive Yield-Curve Model IV: Real-Time Quarterly Composition, Maturity-Dependent Transmission, Error Correction, and Identified Policy–Fiscal Shocks",
-      "paper_id": "https://doi.org/10.5281/zenodo.22798934"
-    },
     "W7213360067": {
       "title": "Financial Technology and Performance of Commercial Banks in Nigeria",
       "paper_id": "https://doi.org/10.56201/ijbfr.vol.12.no2.2026.pg197.211"
@@ -5427,6 +5419,54 @@
     "repec:RePEc:ces:ceswps:_12987": {
       "title": "Optimal Taxation with Migration and Regional Externalities",
       "paper_id": "repec:RePEc:ces:ceswps:_12987"
+    },
+    "W7213411446": {
+      "title": "SECM–SEFSC Predictive Yield-Curve Model IV: Real-Time Quarterly Composition, Maturity-Dependent Transmission, Error Correction, and Identified Policy–Fiscal Shocks",
+      "paper_id": "https://doi.org/10.5281/zenodo.22798935"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3285~6f253764af.en.pdf": {
+      "title": "Bank competition and credit risk: the conditioning role of capital",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3285~6f253764af.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3286~f4202ab618.en.pdf": {
+      "title": "Out with the new, in with the old? Supranational bank supervision and the composition of firm investment",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3286~f4202ab618.en.pdf"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/optimal-pooling-in-taylor-rule-estimation-with-multiple-horizon-forecast-panels.htm": {
+      "title": "FEDS Paper: Optimal Pooling in Taylor Rule Estimation with Multiple-Horizon Forecast Panels",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/optimal-pooling-in-taylor-rule-estimation-with-multiple-horizon-forecast-panels.htm"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/premiums-or-peril.htm": {
+      "title": "FEDS Paper: Premiums or Peril",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/premiums-or-peril.htm"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/ifdp/estimating-yield-impacts-of-treasury-demand-and-supply-changes.htm": {
+      "title": "IFDP Paper: Estimating Yield Impacts of Treasury Demand and Supply Changes",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/ifdp/estimating-yield-impacts-of-treasury-demand-and-supply-changes.htm"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/09/staff-working-paper-2026-34/": {
+      "title": "Automation and Inequality: How Robots Shift Income Between Workers and Owners",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/09/staff-working-paper-2026-34/"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/09/staff-working-paper-2026-33/": {
+      "title": "A New Approach to Estimating Portfolio-Balance Models of the Yield Curve",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/09/staff-working-paper-2026-33/"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/09/staff-working-paper-2026-32/": {
+      "title": "Liquidity Optimization in Gross Settlement Systems with Quantum Reordering: Application to TARGET2∗",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/09/staff-working-paper-2026-32/"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/09/staff-working-paper-2026-31/": {
+      "title": "Labor Markets, Financial Crises, and Inflation: Jobless and Wageless Recoveries*",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/09/staff-working-paper-2026-31/"
+    },
+    "repec:RePEc:ces:ceswps:_12984": {
+      "title": "Voice AI in Firms: A Natural Field Experiment on Automated Job Interviews",
+      "paper_id": "repec:RePEc:ces:ceswps:_12984"
+    },
+    "repec:RePEc:ces:ceswps:_12985": {
+      "title": "Is It a Lie If I Don’t Know? Mechanisms and Mitigation of Dishonesty Under Ignorance",
+      "paper_id": "repec:RePEc:ces:ceswps:_12985"
     }
   },
   "edges": [

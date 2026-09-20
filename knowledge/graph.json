@@ -5467,6 +5467,18 @@
     "repec:RePEc:ces:ceswps:_12985": {
       "title": "Is It a Lie If I Don’t Know? Mechanisms and Mitigation of Dishonesty Under Ignorance",
       "paper_id": "repec:RePEc:ces:ceswps:_12985"
+    },
+    "repec:RePEc:boe:boeewp:023631": {
+      "title": "One dollar, many prices: dealer-specific pricing of synthetic dollar funding",
+      "paper_id": "repec:RePEc:boe:boeewp:023631"
+    },
+    "repec:RePEc:ces:ceswps:_12983": {
+      "title": "(How) Do We Teach Emotions?",
+      "paper_id": "repec:RePEc:ces:ceswps:_12983"
+    },
+    "repec:RePEc:ces:ceswps:_12982": {
+      "title": "Comparative Statics of Information Acquisition and Risk Aversion",
+      "paper_id": "repec:RePEc:ces:ceswps:_12982"
     }
   },
   "edges": [

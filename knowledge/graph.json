@@ -5300,10 +5300,6 @@
       "title": "A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents",
       "paper_id": "2609.19843v1"
     },
-    "2609.19660v1": {
-      "title": "Screening Out the Needy: The Effects of SNAP Work Requirements",
-      "paper_id": "2609.19660v1"
-    },
     "2609.19455v1": {
       "title": "The Behavior of Inventories over the Business Cycle: Evidence across Levels of Development",
       "paper_id": "2609.19455v1"
@@ -5323,10 +5319,6 @@
     "2609.20393v1": {
       "title": "Gaussian Boundary Inference in a Hypergeometric Heavy-Tailed Family",
       "paper_id": "2609.20393v1"
-    },
-    "2609.20044v1": {
-      "title": "Noise-adjusted turnover in estimated networks",
-      "paper_id": "2609.20044v1"
     },
     "2609.19738v1": {
       "title": "Axiomatizing Local Asymptotic Minimax Risk",
@@ -5479,6 +5471,62 @@
     "repec:RePEc:ces:ceswps:_12982": {
       "title": "Comparative Statics of Information Acquisition and Risk Aversion",
       "paper_id": "repec:RePEc:ces:ceswps:_12982"
+    },
+    "2609.19660v2": {
+      "title": "Screening Out the Needy: The Effects of SNAP Work Requirements",
+      "paper_id": "2609.19660v2"
+    },
+    "2609.21478v1": {
+      "title": "Bricks or Cash? Externalities of Housing Upgrading in High-density Cities",
+      "paper_id": "2609.21478v1"
+    },
+    "2609.21674v1": {
+      "title": "Match forecasts in UEFA club competitions: Elo ratings versus Transfermarkt valuations",
+      "paper_id": "2609.21674v1"
+    },
+    "2609.21622v1": {
+      "title": "Testing Conditional Stochastic Dominance via Copula Derivatives",
+      "paper_id": "2609.21622v1"
+    },
+    "2609.21587v1": {
+      "title": "The \"Rough\" HAR Model",
+      "paper_id": "2609.21587v1"
+    },
+    "2609.21393v1": {
+      "title": "Summary Indices in Treatment Effect Estimation",
+      "paper_id": "2609.21393v1"
+    },
+    "2609.20044v2": {
+      "title": "Noise-adjusted turnover in estimated networks",
+      "paper_id": "2609.20044v2"
+    },
+    "2609.21056v1": {
+      "title": "Poisson Regression under Multivariate Sample Selection",
+      "paper_id": "2609.21056v1"
+    },
+    "2609.21684v1": {
+      "title": "Equilibrium prices under hidden Markov fundamentals",
+      "paper_id": "2609.21684v1"
+    },
+    "2609.21539v1": {
+      "title": "Monodromy of Walrasian Equilibrium Prices: A Fixed-Preference Endowment-Redistribution Construction",
+      "paper_id": "2609.21539v1"
+    },
+    "2609.21168v1": {
+      "title": "Auctions as Experiments",
+      "paper_id": "2609.21168v1"
+    },
+    "2609.21335v1": {
+      "title": "Certifying Priority in Evidence-Based Allocation",
+      "paper_id": "2609.21335v1"
+    },
+    "2609.21163v1": {
+      "title": "New Approaches to Strategic Thinking in Dynamic Games",
+      "paper_id": "2609.21163v1"
+    },
+    "2609.22052v1": {
+      "title": "Design and pricing of a transparent parametric-modeled loss CAT bond: application to German windstorm",
+      "paper_id": "2609.22052v1"
     }
   },
   "edges": [

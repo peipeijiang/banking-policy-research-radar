@@ -5527,6 +5527,98 @@
     "2609.22052v1": {
       "title": "Design and pricing of a transparent parametric-modeled loss CAT bond: application to German windstorm",
       "paper_id": "2609.22052v1"
+    },
+    "2609.23744v1": {
+      "title": "Structural versus Allocative Inefficiency Across Organizational Settings",
+      "paper_id": "2609.23744v1"
+    },
+    "2609.24181v1": {
+      "title": "Firm Valuation When AI Shapes the Business Model: A Milestone-Based Real-Options Framework for the AI Valuation Uncertainty Problem",
+      "paper_id": "2609.24181v1"
+    },
+    "2609.22652v1": {
+      "title": "Pareto-Improving Pricing: Why 3 Is Better Than 2",
+      "paper_id": "2609.22652v1"
+    },
+    "2609.22446v1": {
+      "title": "Biased Agents, Extreme Beliefs: Motivated Reasoning Under Competing Models",
+      "paper_id": "2609.22446v1"
+    },
+    "2609.22408v1": {
+      "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
+      "paper_id": "2609.22408v1"
+    },
+    "2609.21439v1": {
+      "title": "People escalate against a competitor labelled human and hold back against one labelled an optimising machine",
+      "paper_id": "2609.21439v1"
+    },
+    "2609.23998v1": {
+      "title": "A Stochastic Nested Fixed Point Algorithm for Large-Scale BLP Estimation",
+      "paper_id": "2609.23998v1"
+    },
+    "2609.23303v1": {
+      "title": "Uniform Inference for Parameters Identified by Conditional Quantile Restrictions",
+      "paper_id": "2609.23303v1"
+    },
+    "2609.23223v1": {
+      "title": "Stealing profits: Spread-based temporal hierarchy forecasting for day-ahead electricity markets",
+      "paper_id": "2609.23223v1"
+    },
+    "2609.23220v1": {
+      "title": "Consistent Order Selection under Non-Identifiability and Dependence",
+      "paper_id": "2609.23220v1"
+    },
+    "2609.22761v1": {
+      "title": "Causal inference in two-sided randomization designs: factorial regression, two-way clustering, and covariate adjustment",
+      "paper_id": "2609.22761v1"
+    },
+    "2609.24020v1": {
+      "title": "Audit the Auditors: Commitment versus Professional Judgment",
+      "paper_id": "2609.24020v1"
+    },
+    "2609.23285v1": {
+      "title": "Contracting for Decision-Relevant Beliefs",
+      "paper_id": "2609.23285v1"
+    },
+    "2609.23768v1": {
+      "title": "Risk Measures under Paired-Ambiguity: A Deep Learning Reflected BSDE Framework",
+      "paper_id": "2609.23768v1"
+    },
+    "2609.23272v1": {
+      "title": "On Control of Drawdown: Robust Invariance and Optimality",
+      "paper_id": "2609.23272v1"
+    },
+    "2609.23969v1": {
+      "title": "Prediction Markets Beat the Weather Forecast on Tomorrow's High Temperature",
+      "paper_id": "2609.23969v1"
+    },
+    "2609.22612v1": {
+      "title": "Asymptotic Invariance of Kelly Allocation Under Power-Law Asset Dynamics: Evidence from Bitcoin",
+      "paper_id": "2609.22612v1"
+    },
+    "W7213640657": {
+      "title": "Unconventional but Different After All? A Unified Series of Narrative Monetary Policy Shocks a",
+      "paper_id": "https://doi.org/10.1111/jmcb.70091"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3287~f3a9c1695b.en.pdf": {
+      "title": "The impact of macroprudential policy fragmentation on corporate lending – evidence from a novel indicator",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3287~f3a9c1695b.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3288~e05b586456.en.pdf": {
+      "title": "Inflation narratives and risk premia",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3288~e05b586456.en.pdf"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/beyond-financial-conditions-measuring-structural-vulnerabilities-in-the-us-financial-system.htm": {
+      "title": "FEDS Paper: Beyond Financial Conditions: Measuring Structural Vulnerabilities in the U.S. Financial System",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/beyond-financial-conditions-measuring-structural-vulnerabilities-in-the-us-financial-system.htm"
+    },
+    "worldbank:40128555": {
+      "title": "Food Accounting Salience and Dietary Diversity : A Randomized Impact Evaluation of an Intervention to Track and Improve Young Children’s Food Consumption in Bihar, India",
+      "paper_id": "worldbank:40128555"
+    },
+    "W7207750422": {
+      "title": "Bank capital, competition and liquidity creation in the WAEMU",
+      "paper_id": "https://doi.org/10.1016/j.intfin.2026.102393"
     }
   },
   "edges": [
@@ -33718,6 +33810,416 @@
     {
       "from": "W7213409282",
       "to": "W4408386334",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W1577018397",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W2001086269",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W2117178635",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W2135860498",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W2158366624",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W2257263437",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W2580735467",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W2587898219",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W2614629730",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W2780094620",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W2808322056",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W2907145232",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W3022158784",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W3122933035",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W3123383467",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W3124345557",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W3124370054",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W3124933125",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W3125175487",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W3125912523",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W3126081245",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W3135463143",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W3197631022",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W3210395042",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W4236290419",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W4242854335",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W4298069875",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W4317530439",
+      "type": "cites"
+    },
+    {
+      "from": "W7213640657",
+      "to": "W4399504646",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W1587742039",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W1963772190",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W1982809111",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W1989773174",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W1994294864",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2005903872",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2017257678",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2019425608",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2024432701",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2024539880",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2030110682",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2055334484",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2059067189",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2141703703",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2147075091",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2167639294",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2168667427",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2174078226",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2178778720",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2318937213",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2465587637",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2577710765",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2582713259",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2596292584",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2887664936",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2891408824",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2896669038",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2913315965",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W2942676699",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W3011984407",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W3121292091",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W3121626700",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W3121894098",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W3122259252",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W3122631135",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W3122855903",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W3123208438",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W3123954093",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W3124982262",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W3125174509",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W3125210462",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W3170123425",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W3198411439",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W4221137548",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W4223581904",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W4235561483",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W4308488685",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W4387665570",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W4390311760",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W4404372034",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W4407448470",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W4408447401",
+      "type": "cites"
+    },
+    {
+      "from": "W7207750422",
+      "to": "W4411620561",
       "type": "cites"
     }
   ]

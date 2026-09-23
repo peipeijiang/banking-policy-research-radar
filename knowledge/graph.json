@@ -5619,6 +5619,90 @@
     "W7207750422": {
       "title": "Bank capital, competition and liquidity creation in the WAEMU",
       "paper_id": "https://doi.org/10.1016/j.intfin.2026.102393"
+    },
+    "2609.26604v1": {
+      "title": "The network advantage: benefits of interregional scientific knowledge spillovers on AI patenting",
+      "paper_id": "2609.26604v1"
+    },
+    "2609.25677v1": {
+      "title": "Seeing Is Not Perceiving: When Synthetic Consumers Can and Cannot Pretest Visual Marketing",
+      "paper_id": "2609.25677v1"
+    },
+    "2609.26303v1": {
+      "title": "Target alignment, dilution and forecast selection when cross-sectional forecasts share a common target",
+      "paper_id": "2609.26303v1"
+    },
+    "2609.25924v1": {
+      "title": "Conditional Tensor Diffusion: Distributional Counterfactual Learning and Inference",
+      "paper_id": "2609.25924v1"
+    },
+    "2609.26552v1": {
+      "title": "The Uniqueness of Exponential Second-Order Expected Utility",
+      "paper_id": "2609.26552v1"
+    },
+    "2609.26302v1": {
+      "title": "Strategy-proof choice on strictly convex frontiers",
+      "paper_id": "2609.26302v1"
+    },
+    "2609.25590v1": {
+      "title": "Contracting under Misspecification",
+      "paper_id": "2609.25590v1"
+    },
+    "2609.25509v1": {
+      "title": "The Depth and Reach of Exploitation: Contracting with Endogenously Naive Consumers",
+      "paper_id": "2609.25509v1"
+    },
+    "2609.25485v1": {
+      "title": "Dynamic Disclosure with(out) Timestamps",
+      "paper_id": "2609.25485v1"
+    },
+    "2609.25481v1": {
+      "title": "Priority Blockers: Welfare and Incentives in Matching under General Constraints",
+      "paper_id": "2609.25481v1"
+    },
+    "2609.25410v1": {
+      "title": "Strategic Disclosure of Action Space in Principal-Agent Contracts",
+      "paper_id": "2609.25410v1"
+    },
+    "2609.25072v1": {
+      "title": "The Fiscal Alibi: Hidden Spending Needs and Government Reputation",
+      "paper_id": "2609.25072v1"
+    },
+    "2609.25071v1": {
+      "title": "Who Enters the Record? Paywalls, Contributor Selection, and Social Learning",
+      "paper_id": "2609.25071v1"
+    },
+    "2609.26445v1": {
+      "title": "A Practical Guide on Graphical Model Validation",
+      "paper_id": "2609.26445v1"
+    },
+    "2609.25452v1": {
+      "title": "Risk diversification for infinitely divisible distributions",
+      "paper_id": "2609.25452v1"
+    },
+    "2609.25144v1": {
+      "title": "The Informational Content in Lepto-Variance and Its Relation to Higher Moments",
+      "paper_id": "2609.25144v1"
+    },
+    "W7213923969": {
+      "title": "Macroeconomic Effects of the US and Israeli Conflict with Iran in Early 2026",
+      "paper_id": "https://doi.org/10.5281/zenodo.22880899"
+    },
+    "W7213754473": {
+      "title": "Faiz Oranı Değişimlerinin Banka Kârlılığı ve Kredi Büyümesine Etkisi: Türkiye'de Fiyat ve Miktar Araçlarının Ayrışması (2021–2026)",
+      "paper_id": "https://doi.org/10.5281/zenodo.22852341"
+    },
+    "worldbank:40128686": {
+      "title": "Sovereign Risk Repricing after Hidden-Debt Revelations",
+      "paper_id": "worldbank:40128686"
+    },
+    "repec:RePEc:ces:ceswps:_13005": {
+      "title": "Social Sorting and Political Cleavages: Evidence from 2.5 Million Electoral Candidates",
+      "paper_id": "repec:RePEc:ces:ceswps:_13005"
+    },
+    "repec:RePEc:ces:ceswps:_13004": {
+      "title": "Birth, Life, and Death of AI Models",
+      "paper_id": "repec:RePEc:ces:ceswps:_13004"
     }
   },
   "edges": [

@@ -5556,10 +5556,6 @@
       "title": "A Stochastic Nested Fixed Point Algorithm for Large-Scale BLP Estimation",
       "paper_id": "2609.23998v1"
     },
-    "2609.23303v1": {
-      "title": "Uniform Inference for Parameters Identified by Conditional Quantile Restrictions",
-      "paper_id": "2609.23303v1"
-    },
     "2609.23223v1": {
       "title": "Stealing profits: Spread-based temporal hierarchy forecasting for day-ahead electricity markets",
       "paper_id": "2609.23223v1"
@@ -5703,6 +5699,134 @@
     "repec:RePEc:ces:ceswps:_13004": {
       "title": "Birth, Life, and Death of AI Models",
       "paper_id": "repec:RePEc:ces:ceswps:_13004"
+    },
+    "2609.28372v1": {
+      "title": "Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer",
+      "paper_id": "2609.28372v1"
+    },
+    "2609.27732v1": {
+      "title": "Do Drug Consumption Rooms Reduce Drug-Related Hospitalizations? Evidence from Switzerland",
+      "paper_id": "2609.27732v1"
+    },
+    "2609.27727v1": {
+      "title": "Sovereign Grassroots Currencies: A CBDC Architecture for Credit and Monetary Policy (Full Version)",
+      "paper_id": "2609.27727v1"
+    },
+    "2609.27686v1": {
+      "title": "Mining Meaning: Measurement Error in AI-Assisted Literature Reviews",
+      "paper_id": "2609.27686v1"
+    },
+    "2609.26861v1": {
+      "title": "Rule-Based Pricing Algorithms and Market Outcomes: An Experimental Study",
+      "paper_id": "2609.26861v1"
+    },
+    "2609.27404v1": {
+      "title": "When Trust Attracts Fraud: AI and Trust Arbitrage",
+      "paper_id": "2609.27404v1"
+    },
+    "2609.27691v1": {
+      "title": "Testing for Heterogeneous Treatment Effects in Regression Discontinuity Designs",
+      "paper_id": "2609.27691v1"
+    },
+    "2609.27200v1": {
+      "title": "Local Optimality and Rigidity of Frobenius Tests for Dense High-Dimensional Covariance Alternatives",
+      "paper_id": "2609.27200v1"
+    },
+    "2609.26840v1": {
+      "title": "Positive weight Hermite and Legendre quadrature rules",
+      "paper_id": "2609.26840v1"
+    },
+    "2609.26994v1": {
+      "title": "Nonlinear Drivers of Macroeconomic Tail Risk: A Threshold Stochastic Volatility-in-Mean VAR with Regime-Dependent Leverage",
+      "paper_id": "2609.26994v1"
+    },
+    "2609.23303v2": {
+      "title": "Uniform Inference for Parameters Identified by Conditional Quantile Restrictions",
+      "paper_id": "2609.23303v2"
+    },
+    "2609.28392v1": {
+      "title": "Cursed Rationalizability",
+      "paper_id": "2609.28392v1"
+    },
+    "2609.28291v1": {
+      "title": "Cooperating against Catastrophe",
+      "paper_id": "2609.28291v1"
+    },
+    "2609.28178v1": {
+      "title": "A Reverse War of Attrition",
+      "paper_id": "2609.28178v1"
+    },
+    "2609.28174v1": {
+      "title": "Minimally rational reallocation of objects",
+      "paper_id": "2609.28174v1"
+    },
+    "2609.27402v1": {
+      "title": "Credible AUctions via MPC Gadgets: Bounding Information Leakage Under Abort",
+      "paper_id": "2609.27402v1"
+    },
+    "2609.27293v1": {
+      "title": "Singleton-Attainability and Transparent Access in Matching",
+      "paper_id": "2609.27293v1"
+    },
+    "2609.27134v1": {
+      "title": "Rare States and Long-Run Pricing",
+      "paper_id": "2609.27134v1"
+    },
+    "2609.26964v1": {
+      "title": "Implicit Smooth Ambiguity: Perception, Attitude, and Identification",
+      "paper_id": "2609.26964v1"
+    },
+    "2609.27636v1": {
+      "title": "Multi-Agent AI Architecture for Regulated Insurers: A generic AI framework under Solvency II and the AI Act in Austria and Germany",
+      "paper_id": "2609.27636v1"
+    },
+    "2609.27107v1": {
+      "title": "Local Weak Limits for Equilibrium and Risk in Economic Networks",
+      "paper_id": "2609.27107v1"
+    },
+    "2609.27024v1": {
+      "title": "Loss Choice or Model Choice? The Role of Forecast Level in Cryptocurrency Volatility Forecasting",
+      "paper_id": "2609.27024v1"
+    },
+    "2609.26398v1": {
+      "title": "Weighted universal Value-at-Risk Superadditivity for discrete distributions",
+      "paper_id": "2609.26398v1"
+    },
+    "2609.27632v1": {
+      "title": "Compliant AI Infrastructure for Regulated Finance: A tiered multi-agent framework with DLT audit trails for financial operations in DACH",
+      "paper_id": "2609.27632v1"
+    },
+    "2609.26822v1": {
+      "title": "HARN: Hierarchical Associative Resonance Network for Event-Driven Multi-Timeframe Forecasting",
+      "paper_id": "2609.26822v1"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp32~90bd9a7638.en.pdf": {
+      "title": "Artificial intelligence and financial markets",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp32~90bd9a7638.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3289~670b45de09.en.pdf": {
+      "title": "Monetary policy transmission by securitising banks",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3289~670b45de09.en.pdf"
+    },
+    "repec:RePEc:ces:ceswps:_13003": {
+      "title": "Educating like China",
+      "paper_id": "repec:RePEc:ces:ceswps:_13003"
+    },
+    "repec:RePEc:ces:ceswps:_13002": {
+      "title": "Local Trade Wars",
+      "paper_id": "repec:RePEc:ces:ceswps:_13002"
+    },
+    "repec:RePEc:fip:fedfwp:103796": {
+      "title": "Risk Appetite and Monetary Transmission",
+      "paper_id": "repec:RePEc:fip:fedfwp:103796"
+    },
+    "repec:RePEc:fip:fedlwp:103785": {
+      "title": "Shipping to America",
+      "paper_id": "repec:RePEc:fip:fedlwp:103785"
+    },
+    "repec:RePEc:fip:fedpwp:103784": {
+      "title": "Debt Dictionaries",
+      "paper_id": "repec:RePEc:fip:fedpwp:103784"
     }
   },
   "edges": [

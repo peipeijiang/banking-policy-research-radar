@@ -5812,10 +5812,6 @@
       "title": "Risk Appetite and Monetary Transmission",
       "paper_id": "repec:RePEc:fip:fedfwp:103796"
     },
-    "repec:RePEc:fip:fedlwp:103785": {
-      "title": "Shipping to America",
-      "paper_id": "repec:RePEc:fip:fedlwp:103785"
-    },
     "repec:RePEc:fip:fedpwp:103784": {
       "title": "Debt Dictionaries",
       "paper_id": "repec:RePEc:fip:fedpwp:103784"
@@ -5911,6 +5907,38 @@
     "repec:RePEc:ces:ceswps:_13001": {
       "title": "AI Events, Persistence, and Volatility in US Utility and AI-Exposed Stocks: The AI-Power Channel",
       "paper_id": "repec:RePEc:ces:ceswps:_13001"
+    },
+    "W7213979079": {
+      "title": "Reconfiguring the bank lending channel: Regulation, liquidity, and monetary policy transmission in Germany",
+      "paper_id": "https://doi.org/10.1002/rfe.70064"
+    },
+    "W7213939855": {
+      "title": "Assessing the Scope for Monetary Policy Easing in Kenya: Balancing Price Stability with Output Growth",
+      "paper_id": "https://doi.org/10.61108/ijsshr.v4i3.308"
+    },
+    "W7213972741": {
+      "title": "Türkiye’de Enflasyon Ataleti: Local Projection Yaklaşımıyla Dinamik Etkilerin Analizi",
+      "paper_id": "https://doi.org/10.63556/tisej.2026.1880"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3290~30ee904f1e.en.pdf": {
+      "title": "Multivariate uncertainty and distributional transmission",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3290~30ee904f1e.en.pdf"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/how-did-cecl-affect-bank-lending.htm": {
+      "title": "FEDS Paper: How Did CECL Affect Bank Lending?",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/how-did-cecl-affect-bank-lending.htm"
+    },
+    "repec:RePEc:ces:ceswps:_12999": {
+      "title": "The Stories We Tell: Societal Narratives and Support for the Far Right",
+      "paper_id": "repec:RePEc:ces:ceswps:_12999"
+    },
+    "repec:RePEc:ces:ceswps:_12998": {
+      "title": "Shipping to America",
+      "paper_id": "repec:RePEc:ces:ceswps:_12998"
+    },
+    "repec:RePEc:fip:fedlwp:103812": {
+      "title": "On the Complementarity of K-12 Personal Finance and Economic Education: Evidence from Online Modules",
+      "paper_id": "repec:RePEc:fip:fedlwp:103812"
     }
   },
   "edges": [
@@ -34512,6 +34540,116 @@
     {
       "from": "W7207750422",
       "to": "W4411620561",
+      "type": "cites"
+    },
+    {
+      "from": "W7213979079",
+      "to": "W1558194331",
+      "type": "cites"
+    },
+    {
+      "from": "W7213979079",
+      "to": "W2135860498",
+      "type": "cites"
+    },
+    {
+      "from": "W7213979079",
+      "to": "W2590954054",
+      "type": "cites"
+    },
+    {
+      "from": "W7213979079",
+      "to": "W2739267606",
+      "type": "cites"
+    },
+    {
+      "from": "W7213979079",
+      "to": "W3121573740",
+      "type": "cites"
+    },
+    {
+      "from": "W7213979079",
+      "to": "W3121935849",
+      "type": "cites"
+    },
+    {
+      "from": "W7213979079",
+      "to": "W4376482375",
+      "type": "cites"
+    },
+    {
+      "from": "W7213979079",
+      "to": "W4409166040",
+      "type": "cites"
+    },
+    {
+      "from": "W7213979079",
+      "to": "W7159667105",
+      "type": "cites"
+    },
+    {
+      "from": "W7213939855",
+      "to": "W197943412",
+      "type": "cites"
+    },
+    {
+      "from": "W7213939855",
+      "to": "W2052237872",
+      "type": "cites"
+    },
+    {
+      "from": "W7213939855",
+      "to": "W2140138058",
+      "type": "cites"
+    },
+    {
+      "from": "W7213939855",
+      "to": "W2140898820",
+      "type": "cites"
+    },
+    {
+      "from": "W7213939855",
+      "to": "W2152839769",
+      "type": "cites"
+    },
+    {
+      "from": "W7213939855",
+      "to": "W2189139855",
+      "type": "cites"
+    },
+    {
+      "from": "W7213939855",
+      "to": "W3023652150",
+      "type": "cites"
+    },
+    {
+      "from": "W7213939855",
+      "to": "W3121935849",
+      "type": "cites"
+    },
+    {
+      "from": "W7213939855",
+      "to": "W3125135614",
+      "type": "cites"
+    },
+    {
+      "from": "W7213939855",
+      "to": "W3170140580",
+      "type": "cites"
+    },
+    {
+      "from": "W7213939855",
+      "to": "W4409352191",
+      "type": "cites"
+    },
+    {
+      "from": "W7213939855",
+      "to": "W7161169570",
+      "type": "cites"
+    },
+    {
+      "from": "W7213939855",
+      "to": "W7164893839",
       "type": "cites"
     }
   ]

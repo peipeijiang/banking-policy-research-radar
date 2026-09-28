@@ -5959,6 +5959,66 @@
     "repec:RePEc:fip:fedpwp:103815": {
       "title": "Ideas and Firm Dynamics When It Takes Two to Tango",
       "paper_id": "repec:RePEc:fip:fedpwp:103815"
+    },
+    "2609.31512v1": {
+      "title": "Tolerable Inflation, Intolerable Uncertainty",
+      "paper_id": "2609.31512v1"
+    },
+    "2609.31468v1": {
+      "title": "PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents",
+      "paper_id": "2609.31468v1"
+    },
+    "2609.31236v1": {
+      "title": "Catch-Up and Come Home: Economic Convergence and Return Migration",
+      "paper_id": "2609.31236v1"
+    },
+    "2609.31561v1": {
+      "title": "Orthogonal Moments in Likelihood Models",
+      "paper_id": "2609.31561v1"
+    },
+    "2609.31442v1": {
+      "title": "Improved Bootstrap Inference for Dynamic Panel Data models with Interactive Effects",
+      "paper_id": "2609.31442v1"
+    },
+    "2609.30617v1": {
+      "title": "Risk-Averse Welfare Maximization via Marginal Treatment Effects",
+      "paper_id": "2609.30617v1"
+    },
+    "2609.30528v1": {
+      "title": "When Do Surrogate Metrics Work? A Finite-Sample Comparison Under Realistic Failure Modes",
+      "paper_id": "2609.30528v1"
+    },
+    "2609.30504v1": {
+      "title": "A Characterization of the $M$-tests Under Nearly Integrated Nearly White Noise",
+      "paper_id": "2609.30504v1"
+    },
+    "2609.30481v1": {
+      "title": "Do Third-Party Web Traffic Estimates Preserve Causal Variation?",
+      "paper_id": "2609.30481v1"
+    },
+    "2609.31529v1": {
+      "title": "Prior-Free Delegation",
+      "paper_id": "2609.31529v1"
+    },
+    "2609.30464v1": {
+      "title": "The Robustness of Sequential Implementation under Information Perturbations",
+      "paper_id": "2609.30464v1"
+    },
+    "2609.31013v1": {
+      "title": "Same Text, Different Numbers: The Divergence of LLM-Based Measures",
+      "paper_id": "2609.31013v1"
+    },
+    "2609.30684v1": {
+      "title": "PixSim: a calibrated open-source simulator of instant-payment fraud, recovery and interdiction under analyst capacity constraints",
+      "paper_id": "2609.30684v1"
+    },
+    "2609.30940v1": {
+      "title": "Financial Fragility in Societies of LLM Agents: Coordination Failures and Stabilizing Mechanisms",
+      "paper_id": "2609.30940v1"
+    },
+    "W7214355332": {
+      "title": "Impact of Selected Macroeconomic Variables On Agricultural Sector Credit in Nigeria (1981–2024)",
+      "paper_id": "https://doi.org/10.64388/irev10i3-1723325"
     }
   },
   "edges": [

@@ -6036,10 +6036,6 @@
       "title": "Skill, Luck, or Imitation? What Actually Pays in Creator Markets",
       "paper_id": "2609.32925v1"
     },
-    "2609.32880v1": {
-      "title": "The Influence of the Vocal Few: Evidence from Social Media Comments",
-      "paper_id": "2609.32880v1"
-    },
     "2609.32859v1": {
       "title": "When Less Is More: Managing AI Adoption with Adaptive Incentive Design",
       "paper_id": "2609.32859v1"
@@ -6183,6 +6179,114 @@
     "worldbank:40129964": {
       "title": "Global Working Hours",
       "paper_id": "worldbank:40129964"
+    },
+    "2609.37820v1": {
+      "title": "Information Games: Strategic Crowding and Firm Repositioning in Language-Model Space",
+      "paper_id": "2609.37820v1"
+    },
+    "2609.37957v1": {
+      "title": "Multiscale Reconstruction of Weighted Networks from Coarse-Grained Data",
+      "paper_id": "2609.37957v1"
+    },
+    "2609.37343v1": {
+      "title": "Classification as Search Infrastructure: How Category Creation, Addition and Cleanup Shape Knowledge Retrieval",
+      "paper_id": "2609.37343v1"
+    },
+    "2609.37051v1": {
+      "title": "Beyond the Coast: an Empirical Assessment of the Kaldor-Verdoorn Law in Chinese Provinces",
+      "paper_id": "2609.37051v1"
+    },
+    "2609.37412v1": {
+      "title": "Debiased Inference for Bounding Wage Inequality with Many Controls",
+      "paper_id": "2609.37412v1"
+    },
+    "2609.36349v1": {
+      "title": "Ranking the wrong places: vulnerability assessment, flood losses and risk sharing in Italy and Europe",
+      "paper_id": "2609.36349v1"
+    },
+    "2609.37168v1": {
+      "title": "Are there asymmetries in euro area monetary policy transmission?",
+      "paper_id": "2609.37168v1"
+    },
+    "2609.36824v1": {
+      "title": "Testing for Unobserved Heterogeneity in Censored Duration Models: EM Approach",
+      "paper_id": "2609.36824v1"
+    },
+    "2609.36445v1": {
+      "title": "Continuously Updating GMM in Linear IV Models: A Polynomial Approach",
+      "paper_id": "2609.36445v1"
+    },
+    "2609.36280v1": {
+      "title": "Probabilistic Seasonality",
+      "paper_id": "2609.36280v1"
+    },
+    "2609.37477v1": {
+      "title": "Calibrated Order-Randomized Rosenblatt Tests",
+      "paper_id": "2609.37477v1"
+    },
+    "2609.37373v1": {
+      "title": "Strategic Voting Axioms for Multiwinner Elections",
+      "paper_id": "2609.37373v1"
+    },
+    "2609.36744v1": {
+      "title": "Aggregation of Time Preferences and Comparability of Intergenerational Utilities",
+      "paper_id": "2609.36744v1"
+    },
+    "2609.36667v1": {
+      "title": "When One Leak Pays Forever: Context Binding and the Price of Deterring Collusion",
+      "paper_id": "2609.36667v1"
+    },
+    "2609.36346v1": {
+      "title": "Solving the Arctic Product-Mix Auction",
+      "paper_id": "2609.36346v1"
+    },
+    "2609.36093v1": {
+      "title": "Endogenous Information Design and Informational Evolution in Dynamic Economic Systems with Incentives and Learning",
+      "paper_id": "2609.36093v1"
+    },
+    "2609.35907v1": {
+      "title": "Robust Mechanism Design on Networks with Externalities",
+      "paper_id": "2609.35907v1"
+    },
+    "2609.35888v1": {
+      "title": "The Exact Welfare Guarantee of Fixed-Price Bilateral Trade",
+      "paper_id": "2609.35888v1"
+    },
+    "2609.35866v1": {
+      "title": "A Topological Condition for Aggregation on Weak Preference Domains",
+      "paper_id": "2609.35866v1"
+    },
+    "2609.36177v1": {
+      "title": "A tale of two allocations: Risk capital contributions versus risk contributions in the tail",
+      "paper_id": "2609.36177v1"
+    },
+    "W7214627877": {
+      "title": "FOMC Announcements and Household Expectations",
+      "paper_id": "https://doi.org/10.1111/obes.70134"
+    },
+    "W7214561731": {
+      "title": "Global Inflation After COVID-19 and Monetary-Policy Responses in Developing and Developed Countries",
+      "paper_id": "https://doi.org/10.63544/ijss.v5i5.338"
+    },
+    "W7214445333": {
+      "title": "Firm-level inflationary expectations in South Africa: The role of oil supply news shocks",
+      "paper_id": "https://doi.org/10.1016/j.eap.2026.09.038"
+    },
+    "W7214688136": {
+      "title": "Forecasting Indian Core Inflation: Simple Made Simpler",
+      "paper_id": "openalex:W7214688136"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/measuring-and-projecting-us-investment-in-semiconductor-manufacturing-capacity.htm": {
+      "title": "FEDS Paper: Measuring and Projecting U.S. Investment in Semiconductor Manufacturing Capacity",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/measuring-and-projecting-us-investment-in-semiconductor-manufacturing-capacity.htm"
+    },
+    "repec:RePEc:ces:ceswps:_13018": {
+      "title": "The Influence of the Vocal Few: Evidence from Social Media Comments",
+      "paper_id": "repec:RePEc:ces:ceswps:_13018"
+    },
+    "repec:RePEc:ces:ceswps:_13019": {
+      "title": "Capital-Skill Complementarity Beyond Firm Boundaries",
+      "paper_id": "repec:RePEc:ces:ceswps:_13019"
     }
   },
   "edges": [
@@ -35309,6 +35413,166 @@
     {
       "from": "W7212357048",
       "to": "W7212357048",
+      "type": "cites"
+    },
+    {
+      "from": "W7214627877",
+      "to": "W2043377120",
+      "type": "cites"
+    },
+    {
+      "from": "W7214627877",
+      "to": "W2165100677",
+      "type": "cites"
+    },
+    {
+      "from": "W7214627877",
+      "to": "W2580735467",
+      "type": "cites"
+    },
+    {
+      "from": "W7214627877",
+      "to": "W2842157622",
+      "type": "cites"
+    },
+    {
+      "from": "W7214627877",
+      "to": "W2940839150",
+      "type": "cites"
+    },
+    {
+      "from": "W7214627877",
+      "to": "W2950677544",
+      "type": "cites"
+    },
+    {
+      "from": "W7214627877",
+      "to": "W2969755886",
+      "type": "cites"
+    },
+    {
+      "from": "W7214627877",
+      "to": "W2972106381",
+      "type": "cites"
+    },
+    {
+      "from": "W7214627877",
+      "to": "W3122627571",
+      "type": "cites"
+    },
+    {
+      "from": "W7214627877",
+      "to": "W3123952032",
+      "type": "cites"
+    },
+    {
+      "from": "W7214627877",
+      "to": "W4399006784",
+      "type": "cites"
+    },
+    {
+      "from": "W7214627877",
+      "to": "W7107946498",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W1593748280",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W1621132565",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W2588689305",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W2607405307",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W2780094620",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W2842157622",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W3043308057",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W3123235896",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W3126121421",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W3135463143",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W3185539996",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W3187899971",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W4280585888",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W4293327477",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W4387167419",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W4392234739",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W4392886652",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W4415760615",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W4416171631",
+      "type": "cites"
+    },
+    {
+      "from": "W7214445333",
+      "to": "W7164647452",
       "type": "cites"
     }
   ]

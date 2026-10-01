@@ -6287,6 +6287,82 @@
     "repec:RePEc:ces:ceswps:_13019": {
       "title": "Capital-Skill Complementarity Beyond Firm Boundaries",
       "paper_id": "repec:RePEc:ces:ceswps:_13019"
+    },
+    "2609.38459v1": {
+      "title": "Maintaining Human Verification Capacity under Automation",
+      "paper_id": "2609.38459v1"
+    },
+    "2609.39932v1": {
+      "title": "Food Insecurity Among Military Veterans",
+      "paper_id": "2609.39932v1"
+    },
+    "2609.40156v1": {
+      "title": "Partial identification with entropy regularized optimal transport",
+      "paper_id": "2609.40156v1"
+    },
+    "2609.38875v1": {
+      "title": "Optimal Allocation and Volume under Surface",
+      "paper_id": "2609.38875v1"
+    },
+    "2609.38692v1": {
+      "title": "Imputation is all you need: double robustness, semiparametric efficiency, and automatic covariate balance for estimating the average treatment effect",
+      "paper_id": "2609.38692v1"
+    },
+    "2609.39425v1": {
+      "title": "The Limits of Rank-Dependent Priorities in School Choice",
+      "paper_id": "2609.39425v1"
+    },
+    "2609.39163v1": {
+      "title": "Pair rationality and top trading cycles on single-peaked and single-dipped domains",
+      "paper_id": "2609.39163v1"
+    },
+    "2609.39077v1": {
+      "title": "The Capacity Cost of Informational Screening",
+      "paper_id": "2609.39077v1"
+    },
+    "2609.39070v1": {
+      "title": "Inherited Wage Dispersion and Optimal Discretion in a Dual-Rigidity TANK Model",
+      "paper_id": "2609.39070v1"
+    },
+    "2609.38628v1": {
+      "title": "A rainbow partition theorem for trees and connected maximin share allocations of chores",
+      "paper_id": "2609.38628v1"
+    },
+    "2609.38262v1": {
+      "title": "When Does Randomized Oversight Align AI Agents That Can Conceal?",
+      "paper_id": "2609.38262v1"
+    },
+    "2609.38503v1": {
+      "title": "Network Origins of the Money-Output Relation",
+      "paper_id": "2609.38503v1"
+    },
+    "2609.38765v1": {
+      "title": "Multiperiod bond portfolio optimization with transaction costs using a Markov Decision process",
+      "paper_id": "2609.38765v1"
+    },
+    "2609.39264v1": {
+      "title": "Exchange Rate Determination for Cryptocurrency Mergers: A Formal Framework",
+      "paper_id": "2609.39264v1"
+    },
+    "W7214802847": {
+      "title": "Ambivalence of People Inflation Expectations as Essential Indicator of Macro-Economic Stability and Monetary-Credit Policy Efficiency",
+      "paper_id": "https://doi.org/10.21686/2413-2829-2026-5-167-173"
+    },
+    "W7214795897": {
+      "title": "What happens after Governing Council sets the policy interest rate: Inside the implementation framework that makes monetary policy work",
+      "paper_id": "https://doi.org/10.34989/sap-2026-45"
+    },
+    "W7214773463": {
+      "title": "Fiscal-Monetary Policy Interactions and Macroeconomic Transmission under Exogenous Shocks: A HANK Approach",
+      "paper_id": "https://doi.org/10.21203/rs.3.rs-11183696/v1"
+    },
+    "repec:RePEc:ces:ceswps:_13016": {
+      "title": "Long-Term Care with Myopia",
+      "paper_id": "repec:RePEc:ces:ceswps:_13016"
+    },
+    "repec:RePEc:ces:ceswps:_13017": {
+      "title": "Childhood, Well-Being and Fairness",
+      "paper_id": "repec:RePEc:ces:ceswps:_13017"
     }
   },
   "edges": [
@@ -35573,6 +35649,116 @@
     {
       "from": "W7214445333",
       "to": "W7164647452",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W2041175506",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W2049444775",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W2070642383",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W2086270352",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W2088133319",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W2096198430",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W2096218604",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W2101270532",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W2103649432",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W2104165247",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W2145762689",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W2165613656",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W2253894436",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W2889863864",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W2892085198",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W3037679925",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W3085655176",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W3121293400",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W3122361617",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W3123968775",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W3123970111",
+      "type": "cites"
+    },
+    {
+      "from": "W7214773463",
+      "to": "W4249204951",
       "type": "cites"
     }
   ]

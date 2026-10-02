@@ -5940,10 +5940,6 @@
       "title": "Monetary Policy Transmission Mechanism and Economic Growth in the West African Monetary Zone, 2000-2025",
       "paper_id": "https://doi.org/10.56201/jbae.vol.12.no8.2026.pg143.159"
     },
-    "W7214332405": {
-      "title": "General Theory of Structural Constraints: Investment Trap, Demand-Constrained Growth, and Regime Shifts in Monetary Policy Transmission",
-      "paper_id": "https://doi.org/10.5281/zenodo.22953560"
-    },
     "W7214205646": {
       "title": "Asymmetric Risk Sensitivity of Low-Carbon Assets: Dynamic Wavelet Quantile Correlation and Beta Analysis",
       "paper_id": "https://doi.org/10.33203/mfy.1884547"
@@ -6204,10 +6200,6 @@
       "title": "Ranking the wrong places: vulnerability assessment, flood losses and risk sharing in Italy and Europe",
       "paper_id": "2609.36349v1"
     },
-    "2609.37168v1": {
-      "title": "Are there asymmetries in euro area monetary policy transmission?",
-      "paper_id": "2609.37168v1"
-    },
     "2609.36824v1": {
       "title": "Testing for Unobserved Heterogeneity in Censored Duration Models: EM Approach",
       "paper_id": "2609.36824v1"
@@ -6363,6 +6355,94 @@
     "repec:RePEc:ces:ceswps:_13017": {
       "title": "Childhood, Well-Being and Fairness",
       "paper_id": "repec:RePEc:ces:ceswps:_13017"
+    },
+    "2610.01897v1": {
+      "title": "Shared Models, Selective Trading, and Order Flow",
+      "paper_id": "2610.01897v1"
+    },
+    "2610.01264v1": {
+      "title": "Strategic Optimization of Bus Systems with Stochastic Ridership",
+      "paper_id": "2610.01264v1"
+    },
+    "2610.00782v1": {
+      "title": "Can we create a `race to the top' for weather forecasts to inform smallholder farmer decisions?",
+      "paper_id": "2610.00782v1"
+    },
+    "2610.01008v1": {
+      "title": "Modeling Shipping Emissions: Machine Learning, Engineering, and Policy Counterfactuals",
+      "paper_id": "2610.01008v1"
+    },
+    "2610.01654v1": {
+      "title": "Identifying Panel Conditioning with Refreshment Samples: Sharp Bounds and Design Assumptions",
+      "paper_id": "2610.01654v1"
+    },
+    "2610.01935v1": {
+      "title": "Pragmatic DML with AI-Learned Representations",
+      "paper_id": "2610.01935v1"
+    },
+    "2610.01465v1": {
+      "title": "A distributional modelling approach with application to electricity price forecasting",
+      "paper_id": "2610.01465v1"
+    },
+    "2610.01464v1": {
+      "title": "Inference after data-driven control-unit selection in difference-in-differences with estimated covariance",
+      "paper_id": "2610.01464v1"
+    },
+    "2610.01805v1": {
+      "title": "Robustness in Mechanism Design",
+      "paper_id": "2610.01805v1"
+    },
+    "2610.00581v1": {
+      "title": "The Anatomy of Commodity Risk: Micro, Market, and Economy-Wide Sources",
+      "paper_id": "2610.00581v1"
+    },
+    "2610.00784v1": {
+      "title": "Model Complexity and Restrictiveness",
+      "paper_id": "2610.00784v1"
+    },
+    "2610.01333v1": {
+      "title": "Stochastic Choice, Limited Attention, and Aggregation over Attributes",
+      "paper_id": "2610.01333v1"
+    },
+    "2610.00322v1": {
+      "title": "Task Architecture and Learning from Coarse Performance",
+      "paper_id": "2610.00322v1"
+    },
+    "2610.00323v1": {
+      "title": "Defense Feedback and Global-Game Selection",
+      "paper_id": "2610.00323v1"
+    },
+    "W7214899714": {
+      "title": "The CBRT’s Monetary Policy Transmission Mechanism: Evidence from Real Interest Rate Dynamics in Turkiye",
+      "paper_id": "https://doi.org/10.37075/ea.2026.3.06"
+    },
+    "W7214888522": {
+      "title": "General Theory of Structural Constraints: Investment Trap, Demand-Constrained Growth, and Regime Shifts in Monetary Policy Transmission",
+      "paper_id": "https://doi.org/10.5281/zenodo.23049735"
+    },
+    "W7214917887": {
+      "title": "Are there asymmetries in euro area monetary policy transmission?",
+      "paper_id": "https://doi.org/10.48550/arxiv.2609.37168"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3292~76d878a0cf.en.pdf": {
+      "title": "Monetary policy surprises with imperfect information",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3292~76d878a0cf.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3291~03026896b2.en.pdf": {
+      "title": "Forecasting wages with local linear forests",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3291~03026896b2.en.pdf"
+    },
+    "repec:RePEc:ces:ceswps:_13014": {
+      "title": "The Contribution of International Master Students to Entrepreneurship in the World",
+      "paper_id": "repec:RePEc:ces:ceswps:_13014"
+    },
+    "repec:RePEc:ces:ceswps:_13015": {
+      "title": "The Invisible Continent. Counting the Missing Poor in Developing Countries",
+      "paper_id": "repec:RePEc:ces:ceswps:_13015"
+    },
+    "repec:RePEc:fip:fedlwp:103833": {
+      "title": "An Analysis of the Literature on Monetary Policy Shocks",
+      "paper_id": "repec:RePEc:fip:fedlwp:103833"
     }
   },
   "edges": [

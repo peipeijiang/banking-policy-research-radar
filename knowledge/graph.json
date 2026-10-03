@@ -6424,14 +6424,6 @@
       "title": "Are there asymmetries in euro area monetary policy transmission?",
       "paper_id": "https://doi.org/10.48550/arxiv.2609.37168"
     },
-    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3292~76d878a0cf.en.pdf": {
-      "title": "Monetary policy surprises with imperfect information",
-      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3292~76d878a0cf.en.pdf"
-    },
-    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3291~03026896b2.en.pdf": {
-      "title": "Forecasting wages with local linear forests",
-      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3291~03026896b2.en.pdf"
-    },
     "repec:RePEc:ces:ceswps:_13014": {
       "title": "The Contribution of International Master Students to Entrepreneurship in the World",
       "paper_id": "repec:RePEc:ces:ceswps:_13014"
@@ -6443,6 +6435,62 @@
     "repec:RePEc:fip:fedlwp:103833": {
       "title": "An Analysis of the Literature on Monetary Policy Shocks",
       "paper_id": "repec:RePEc:fip:fedlwp:103833"
+    },
+    "W7215121108": {
+      "title": "A Conceptual Framework for the Evolving Role of Accountants from Compliance to Strategic Advisory in Ghana's Banking and Public University Sectors",
+      "paper_id": "https://doi.org/10.21203/rs.3.rs-10817096/v1"
+    },
+    "W7215042359": {
+      "title": "Il 3% come nuovo parametro di riferimento? Tassi più alti e inflazione persistente: uno scenario da verificare",
+      "paper_id": "https://doi.org/10.5281/zenodo.23086514"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/bells-and-whistles-of-nowcasting-models-which-matter-and-when.htm": {
+      "title": "FEDS Paper: Bells and Whistles of Nowcasting Models: Which Matter and When?",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/bells-and-whistles-of-nowcasting-models-which-matter-and-when.htm"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/10/staff-working-paper-2026-35/": {
+      "title": "The Production Network Amplification of Retaliatory Tariffs",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/10/staff-working-paper-2026-35/"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/10/staff-working-paper-2026-36/": {
+      "title": "How Do Import Tariffs Affect Aggregate Prices? Theory and Evidence from Canada",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/10/staff-working-paper-2026-36/"
+    },
+    "repec:RePEc:iza:izadps:dp18968": {
+      "title": "The Introduction of Universal Child Care in New Mexico: Initial Evidence on Mothers' Labor Supply",
+      "paper_id": "repec:RePEc:iza:izadps:dp18968"
+    },
+    "repec:RePEc:iza:izadps:dp18969": {
+      "title": "Instrumental-Variable Estimation of Fixed-Effects Fractional-Outcome Panel Data Models, with an Application to a Major Disability Support Policy Reform",
+      "paper_id": "repec:RePEc:iza:izadps:dp18969"
+    },
+    "repec:RePEc:ces:ceswps:_13013": {
+      "title": "Dividend Taxes and the Passage to Maturity",
+      "paper_id": "repec:RePEc:ces:ceswps:_13013"
+    },
+    "repec:RePEc:ces:ceswps:_13012": {
+      "title": "Organizing Expertise with Externalities: Evidence from Primary Care",
+      "paper_id": "repec:RePEc:ces:ceswps:_13012"
+    },
+    "repec:RePEc:ecb:ecbwps:20263292": {
+      "title": "Monetary policy surprises with imperfect information",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263292"
+    },
+    "repec:RePEc:ecb:ecbwps:20263291": {
+      "title": "Forecasting wages with local linear forests",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263291"
+    },
+    "repec:RePEc:bfr:banfra:1064": {
+      "title": "Monetary Policy and the Wealth Distribution",
+      "paper_id": "repec:RePEc:bfr:banfra:1064"
+    },
+    "repec:RePEc:bfr:banfra:1063": {
+      "title": "Geography versus Income: The Heterogeneous Effects of Carbon Taxation",
+      "paper_id": "repec:RePEc:bfr:banfra:1063"
+    },
+    "repec:RePEc:bde:wpaper:2633e": {
+      "title": "Moving Out: Geoeconomic Policy and the Relocation of Foreign Affiliates",
+      "paper_id": "repec:RePEc:bde:wpaper:2633e"
     }
   },
   "edges": [
@@ -35839,6 +35887,116 @@
     {
       "from": "W7214773463",
       "to": "W4249204951",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W1965278510",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W1967100576",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W1969231459",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W2021482571",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W2056373564",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W2068021702",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W3048660742",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W3123282572",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W4220875681",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W4223493152",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W4293235556",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W4295862705",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W4380624467",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W4394880228",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W4401417783",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W4401905930",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W4403133733",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W4403501534",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W4411759241",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W4413401457",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W7117555224",
+      "type": "cites"
+    },
+    {
+      "from": "W7215121108",
+      "to": "W7118207435",
       "type": "cites"
     }
   ]

@@ -6440,10 +6440,6 @@
       "title": "A Conceptual Framework for the Evolving Role of Accountants from Compliance to Strategic Advisory in Ghana's Banking and Public University Sectors",
       "paper_id": "https://doi.org/10.21203/rs.3.rs-10817096/v1"
     },
-    "W7215042359": {
-      "title": "Il 3% come nuovo parametro di riferimento? Tassi più alti e inflazione persistente: uno scenario da verificare",
-      "paper_id": "https://doi.org/10.5281/zenodo.23086514"
-    },
     "federal_reserve:https://www.federalreserve.gov/econres/feds/bells-and-whistles-of-nowcasting-models-which-matter-and-when.htm": {
       "title": "FEDS Paper: Bells and Whistles of Nowcasting Models: Which Matter and When?",
       "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/bells-and-whistles-of-nowcasting-models-which-matter-and-when.htm"
@@ -6491,6 +6487,34 @@
     "repec:RePEc:bde:wpaper:2633e": {
       "title": "Moving Out: Geoeconomic Policy and the Relocation of Foreign Affiliates",
       "paper_id": "repec:RePEc:bde:wpaper:2633e"
+    },
+    "W7214939286": {
+      "title": "From Pilots to Production: Enterprise Genai Integration Across Media and Financial Services",
+      "paper_id": "https://doi.org/10.64643/ijirt.209085-459"
+    },
+    "W7214758425": {
+      "title": "A study on the development of investment banking at the industrial and commercial bank of China",
+      "paper_id": "https://doi.org/10.54254/2977-5701/2026.37437"
+    },
+    "W7214986455": {
+      "title": "BANK LENDING TO AGRICULTURAL PRODUCERS IN UKRAINE: STRUCTURAL TRANSFORMATIONS UNDER CRISIS SHOCKS",
+      "paper_id": "https://doi.org/10.55643/ser.3.61.2026.683"
+    },
+    "W7215071181": {
+      "title": "Il 3% come nuovo parametro di riferimento? Tassi più alti e inflazione persistente: uno scenario da verificare",
+      "paper_id": "https://doi.org/10.5281/zenodo.23086513"
+    },
+    "W7214979348": {
+      "title": "Mood of the nation : An integrated statistical approach to household inflation expectations in India",
+      "paper_id": "https://doi.org/10.47974/jsms-1699"
+    },
+    "repec:RePEc:iza:izadps:dp18967": {
+      "title": "Entry Motivations Shape Preferences for Social Protection Among Platform Workers",
+      "paper_id": "repec:RePEc:iza:izadps:dp18967"
+    },
+    "repec:RePEc:bfr:banfra:1065": {
+      "title": "When Diversification Fades: a Firm Level Perspective of Stock and Corporate Bond Correlations",
+      "paper_id": "repec:RePEc:bfr:banfra:1065"
     }
   },
   "edges": [
@@ -35997,6 +36021,86 @@
     {
       "from": "W7215121108",
       "to": "W7118207435",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W171523933",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W2011749849",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W3001883471",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W3046216747",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W3188238724",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W3195327547",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W3208693491",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W4353066249",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W4386610495",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W4389548475",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W4396654145",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W4400473695",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W4401994833",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W7128430386",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W7160153729",
+      "type": "cites"
+    },
+    {
+      "from": "W7214986455",
+      "to": "W7168281345",
       "type": "cites"
     }
   ]

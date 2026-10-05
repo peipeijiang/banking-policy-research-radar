@@ -4772,10 +4772,6 @@
       "title": "THE GIBBS-CALIBRATED GLOBAL REGIME OUTLOOK, 2026-2036: SECM-SEFSC-Fourier Anti-Ringing Forecasts of Collapse, Sustainability, Growth, Sovereign Financing, Central-Bank Backstops, and Gold Repricing",
       "paper_id": "https://doi.org/10.5281/zenodo.22317046"
     },
-    "repec:RePEc:fip:fedlwp:103742": {
-      "title": "Fleeting Forbearance in a World of Persistent Financial Distress",
-      "paper_id": "repec:RePEc:fip:fedlwp:103742"
-    },
     "repec:RePEc:fip:fedpwp:103741": {
       "title": "How Do Large, Sophisticated Cryptocurrency Trades Impact Broader DeFi Market Dynamics?",
       "paper_id": "repec:RePEc:fip:fedpwp:103741"
@@ -6376,10 +6372,6 @@
       "title": "Identifying Panel Conditioning with Refreshment Samples: Sharp Bounds and Design Assumptions",
       "paper_id": "2610.01654v1"
     },
-    "2610.01935v1": {
-      "title": "Pragmatic DML with AI-Learned Representations",
-      "paper_id": "2610.01935v1"
-    },
     "2610.01465v1": {
       "title": "A distributional modelling approach with application to electricity price forecasting",
       "paper_id": "2610.01465v1"
@@ -6515,6 +6507,58 @@
     "repec:RePEc:bfr:banfra:1065": {
       "title": "When Diversification Fades: a Firm Level Perspective of Stock and Corporate Bond Correlations",
       "paper_id": "repec:RePEc:bfr:banfra:1065"
+    },
+    "2610.03250v1": {
+      "title": "No Women No Innovation? The Effect of Women on Boards on Hard and Soft Innovation in SMEs",
+      "paper_id": "2610.03250v1"
+    },
+    "2610.02492v1": {
+      "title": "Right Order, Wrong Scale: Auditing LLM Judges for Occupational AI Measurement",
+      "paper_id": "2610.02492v1"
+    },
+    "2610.02944v1": {
+      "title": "Cross-Fitting Under Nonregularity: Normality and Inference via Locality",
+      "paper_id": "2610.02944v1"
+    },
+    "2610.02938v1": {
+      "title": "Evaluating Threshold Policies in Randomized Threshold Designs: A Cautionary Tale for Regression Discontinuity Designs",
+      "paper_id": "2610.02938v1"
+    },
+    "2610.02290v1": {
+      "title": "Expected Utility Regret Rule: Minimax and Bayes Optimal Portfolio Choice",
+      "paper_id": "2610.02290v1"
+    },
+    "2610.01935v2": {
+      "title": "Pragmatic DML with AI-Learned Representations",
+      "paper_id": "2610.01935v2"
+    },
+    "2610.03157v1": {
+      "title": "Uniqueness of Recursive Utility with Unbounded Consumption and Non-Expected Utility",
+      "paper_id": "2610.03157v1"
+    },
+    "2610.03146v1": {
+      "title": "Signaling via Money",
+      "paper_id": "2610.03146v1"
+    },
+    "2610.03161v1": {
+      "title": "Landscape-Dependent Performance of Photonic Quantum Solvers in QUBO Feature Selection for Financial Risk Detection",
+      "paper_id": "2610.03161v1"
+    },
+    "2610.02863v1": {
+      "title": "Multi-Agent AI as a Nested Principal-Agent Problem in Private Wealth Management: Mandate Representation and Evidence Control in Switzerland, Germany and Austria",
+      "paper_id": "2610.02863v1"
+    },
+    "W7218707394": {
+      "title": "nCino nCino 301 Commercial Banking Configuration PDF",
+      "paper_id": "https://doi.org/10.5281/zenodo.23121588"
+    },
+    "repec:RePEc:fip:fednsr:103868": {
+      "title": "Fleeting Forbearance in a World of Persistent Financial Distress",
+      "paper_id": "repec:RePEc:fip:fednsr:103868"
+    },
+    "repec:RePEc:fip:fedpwp:103867": {
+      "title": "A Quantitative Model of Banking Industry Dynamics",
+      "paper_id": "repec:RePEc:fip:fedpwp:103867"
     }
   },
   "edges": [

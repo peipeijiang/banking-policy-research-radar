@@ -1,19 +1,19 @@
 ---
 title: "nCino nCino 301 Commercial Banking Configuration PDF"
-paper_id: "https://doi.org/10.5281/zenodo.23121588"
+paper_id: "https://doi.org/10.5281/zenodo.23121589"
 source: "openalex"
 published: "2026-10-03T00:00:00"
 score: 10.0
-tags: ["paper", "banking-fiscal-monetary-policy", "Banking Sector Performance and Management", "Digital Platforms and Economics", "Technology and Education Systems"]
+tags: ["paper", "banking-fiscal-monetary-policy", "Digital Transformation in Financial Services", "Banking Sector Performance and Management", "Robotic Process Automation Applications"]
 ---
 
 # nCino nCino 301 Commercial Banking Configuration PDF
 
-[查看原文](https://doi.org/10.5281/zenodo.23121588)
+[查看原文](https://doi.org/10.5281/zenodo.23121589)
 
 ## 一句话结论
 
-> 该文档是 nCino 商业银行业务配置的认证考试指南，介绍用户管理、贷款发放和合规工具等软件配置，不涉及学术研究问题、方法或结果。
+> 该文档是 nCino 商业银行业务配置的认证考试指南，提供软件配置说明和最佳实践，而非学术研究，不涉及任何经济金融领域的实证分析或政策讨论。
 
 ## 论文信息
 
@@ -21,7 +21,7 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking Sector Performance an
 - **来源**：Zenodo (CERN European Organization for Nuclear Research)
 - **发布时间**：2026-10-03
 - **相关度评分**：10.0
-- **DOI**：[https://doi.org/10.5281/zenodo.23121588](https://doi.org/10.5281/zenodo.23121588)
+- **DOI**：[https://doi.org/10.5281/zenodo.23121589](https://doi.org/10.5281/zenodo.23121589)
 
 ## 相关性评分
 
@@ -32,7 +32,7 @@ tags: ["paper", "banking-fiscal-monetary-policy", "Banking Sector Performance an
 <details open>
 <summary><strong>中文摘要</strong></summary>
 
-《nCino nCino 301 商业银行配置 PDF》是金融机构实施 nCino 商业银行解决方案的综合指南。该文档提供了详细的配置说明、最佳实践以及最大化平台能力所必需的见解。它涵盖了用户管理、贷款发放流程和合规工具等关键功能，使银行能够简化运营并提升客户服务。本指南专为银行管理员、IT 人员以及其他参与 nCino 解决方案部署和管理的利益相关者设计，是商业银行运营数字化转型中不可或缺的资源。来源：https://www.certification-exam.com/en/pdf/ncino-pdf/301-commercial-banking-configuration-pdf/
+《nCino nCino 301 商业银行配置 PDF》是金融机构实施 nCino 商业银行解决方案的综合指南。该文档提供了详细的配置说明、最佳实践以及最大化平台能力所必需的见解。它涵盖了用户管理、贷款发起流程和合规工具等关键功能，使银行能够简化运营并提升客户服务。本指南面向银行管理员、IT 人员以及其他参与 nCino 解决方案部署和管理的利益相关者，是商业银行运营数字化转型中不可或缺的资源。来源：https://www.certification-exam.com/en/pdf/ncino-pdf/301-commercial-banking-configuration-pdf/
 
 </details>
 
@@ -45,4 +45,4 @@ The "nCino nCino 301 Commercial Banking Configuration PDF" serves as a comprehen
 
 ---
 
-_知识库更新时间：2026-10-05T06:10:24.463994_
+_知识库更新时间：2026-10-06T06:54:16.530502_

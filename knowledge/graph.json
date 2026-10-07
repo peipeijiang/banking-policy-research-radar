@@ -6724,17 +6724,125 @@
       "title": "Macroeconomic Conditions, Effective Taxation, and Capital Structure Decisions: Evidence from Indonesian Manufacturing Firms",
       "paper_id": "https://doi.org/10.61194/ijtc.v7i4.2500"
     },
-    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3293~a7c6243bcc.en.pdf": {
-      "title": "ECB monetary policy transmission to unilaterally euroised economies",
-      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3293~a7c6243bcc.en.pdf"
-    },
-    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3294~343f6d6c31.en.pdf": {
-      "title": "Understanding inflation: insights from the term structure of inflation risks",
-      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3294~343f6d6c31.en.pdf"
-    },
     "worldbank:40131398": {
       "title": "Returns to Private Debt in Emerging and Developing Economies",
       "paper_id": "worldbank:40131398"
+    },
+    "2610.08467v1": {
+      "title": "Scalable Nonparametric Demand Estimation in Differentiated Product Markets",
+      "paper_id": "2610.08467v1"
+    },
+    "2610.08729v1": {
+      "title": "Ownership and Non-Neutral Technological Change: Evidence from China's State-Owned Enterprise Privatization",
+      "paper_id": "2610.08729v1"
+    },
+    "2610.08447v1": {
+      "title": "Organizational Lifespan as Commitment: The Case of Foundations",
+      "paper_id": "2610.08447v1"
+    },
+    "2610.08455v1": {
+      "title": "Competition with a Common Purpose",
+      "paper_id": "2610.08455v1"
+    },
+    "2610.08302v1": {
+      "title": "A Theory of Value Growth",
+      "paper_id": "2610.08302v1"
+    },
+    "2610.08275v1": {
+      "title": "Personalized Recommendations Without Inducing Congestion: Mitigating Disparities in the NYC High School Match",
+      "paper_id": "2610.08275v1"
+    },
+    "2610.08264v1": {
+      "title": "Understanding Interfirm AI Talent Flow Networks through Online Professional Profiles",
+      "paper_id": "2610.08264v1"
+    },
+    "2610.08194v1": {
+      "title": "The Noise Is the Signal: Correlated Sampling Error Is Rank-Informative for Proxy Metric Selection",
+      "paper_id": "2610.08194v1"
+    },
+    "2610.08004v1": {
+      "title": "University as catalyst of public R&D expenditures? An empirical assessment on EU NUTS 3 regions",
+      "paper_id": "2610.08004v1"
+    },
+    "2610.07974v1": {
+      "title": "Configurations, not thresholds: the middle-income trap in the CEE members of the OECD",
+      "paper_id": "2610.07974v1"
+    },
+    "2610.07239v1": {
+      "title": "Optimal Retirement of European Fossil Fuel Power Plants and the Cost of Delay",
+      "paper_id": "2610.07239v1"
+    },
+    "2610.07097v1": {
+      "title": "Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course",
+      "paper_id": "2610.07097v1"
+    },
+    "2610.07003v1": {
+      "title": "Reliability of AI Agents: Rater Effects, Drift, and the Return to an Evaluation Program",
+      "paper_id": "2610.07003v1"
+    },
+    "2610.08558v1": {
+      "title": "Measuring Gift Card Program Incrementality via Causal Data Fusion",
+      "paper_id": "2610.08558v1"
+    },
+    "2610.08409v1": {
+      "title": "Bayesian Machine Learning Methods For Large Scale Demand Estimation",
+      "paper_id": "2610.08409v1"
+    },
+    "2610.07589v1": {
+      "title": "Vine Copula VAR:From Recursive Margins to Joint Forecast Inference",
+      "paper_id": "2610.07589v1"
+    },
+    "2610.07363v1": {
+      "title": "Network Experiments with Edge Treatments and Node Outcomes",
+      "paper_id": "2610.07363v1"
+    },
+    "2610.08661v1": {
+      "title": "No Welfare Ties Between Pure-Strategy Nash Equilibria",
+      "paper_id": "2610.08661v1"
+    },
+    "2610.08435v1": {
+      "title": "Strategy-proof voting schemes under single-peaked preferences over intervals",
+      "paper_id": "2610.08435v1"
+    },
+    "2610.08096v1": {
+      "title": "The lattice structure of the crawler",
+      "paper_id": "2610.08096v1"
+    },
+    "2610.07959v1": {
+      "title": "Rewarding Informed Voting in PoS Governance",
+      "paper_id": "2610.07959v1"
+    },
+    "2610.07189v1": {
+      "title": "Regulating a Monopolist through Capacity Control",
+      "paper_id": "2610.07189v1"
+    },
+    "2610.07888v1": {
+      "title": "A Functional Representation of Credit Behavior for Probability of Default Modeling",
+      "paper_id": "2610.07888v1"
+    },
+    "2610.07404v1": {
+      "title": "Convex Order Beyond Dimension One: Projection Tests, Counterexamples and Gaussian Mixtures",
+      "paper_id": "2610.07404v1"
+    },
+    "W7220374459": {
+      "title": "Monetary Policy Credibility and Economic Convergence toward the European Union: Evidence From, Albania",
+      "paper_id": "https://doi.org/10.37394/23202.2026.25.53"
+    },
+    "W7220374151": {
+      "title": "INSTITUTIONAL BARRIERS TO ISLAMIC FINANCE DEVELOPMENT IN UZBEKISTAN: EVIDENCE FROM FINANCIAL INSTITUTIONS",
+      "paper_id": "https://doi.org/10.5281/zenodo.23163767"
+    },
+    "repec:RePEc:ecb:ecbwps:20263293": {
+      "title": "ECB monetary policy transmission to unilaterally euroised economies",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263293"
+    },
+    "repec:RePEc:ecb:ecbwps:20263294": {
+      "title": "Understanding inflation: insights from the term structure of inflation risks",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263294"
+    },
+    "repec:RePEc:bde:wpaper:2634e": {
+      "title": "Flooded by China? Trade diversion due to US tariffs during Trump’s first mandate",
+      "paper_id": "repec:RePEc:bde:wpaper:2634e"
     }
   },
   "edges": [
@@ -36611,6 +36719,76 @@
     {
       "from": "W7216499422",
       "to": "W7160859963",
+      "type": "cites"
+    },
+    {
+      "from": "W7220374459",
+      "to": "W2098910566",
+      "type": "cites"
+    },
+    {
+      "from": "W7220374459",
+      "to": "W2140898820",
+      "type": "cites"
+    },
+    {
+      "from": "W7220374459",
+      "to": "W2167468761",
+      "type": "cites"
+    },
+    {
+      "from": "W7220374459",
+      "to": "W2169417293",
+      "type": "cites"
+    },
+    {
+      "from": "W7220374459",
+      "to": "W2171440378",
+      "type": "cites"
+    },
+    {
+      "from": "W7220374459",
+      "to": "W3125135614",
+      "type": "cites"
+    },
+    {
+      "from": "W7220374459",
+      "to": "W3125780895",
+      "type": "cites"
+    },
+    {
+      "from": "W7220374459",
+      "to": "W3133953273",
+      "type": "cites"
+    },
+    {
+      "from": "W7220374459",
+      "to": "W4214651995",
+      "type": "cites"
+    },
+    {
+      "from": "W7220374459",
+      "to": "W4387666470",
+      "type": "cites"
+    },
+    {
+      "from": "W7220374459",
+      "to": "W4392853636",
+      "type": "cites"
+    },
+    {
+      "from": "W7220374459",
+      "to": "W4401480945",
+      "type": "cites"
+    },
+    {
+      "from": "W7220374459",
+      "to": "W4406678870",
+      "type": "cites"
+    },
+    {
+      "from": "W7220374459",
+      "to": "W4413291796",
       "type": "cites"
     }
   ]

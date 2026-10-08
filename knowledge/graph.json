@@ -6828,10 +6828,6 @@
       "title": "Monetary Policy Credibility and Economic Convergence toward the European Union: Evidence From, Albania",
       "paper_id": "https://doi.org/10.37394/23202.2026.25.53"
     },
-    "W7220374151": {
-      "title": "INSTITUTIONAL BARRIERS TO ISLAMIC FINANCE DEVELOPMENT IN UZBEKISTAN: EVIDENCE FROM FINANCIAL INSTITUTIONS",
-      "paper_id": "https://doi.org/10.5281/zenodo.23163767"
-    },
     "repec:RePEc:ecb:ecbwps:20263293": {
       "title": "ECB monetary policy transmission to unilaterally euroised economies",
       "paper_id": "repec:RePEc:ecb:ecbwps:20263293"
@@ -6843,6 +6839,86 @@
     "repec:RePEc:bde:wpaper:2634e": {
       "title": "Flooded by China? Trade diversion due to US tariffs during Trump’s first mandate",
       "paper_id": "repec:RePEc:bde:wpaper:2634e"
+    },
+    "2610.10506v1": {
+      "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
+      "paper_id": "2610.10506v1"
+    },
+    "2610.10356v1": {
+      "title": "The addicted predator-prey model: How opioid use disorder shapes productivity and growth-cycle dynamics",
+      "paper_id": "2610.10356v1"
+    },
+    "2610.10476v1": {
+      "title": "From a Hierarchy of Stochastic Differential Equations to a Hierarchy of Generalized Beta Distributions",
+      "paper_id": "2610.10476v1"
+    },
+    "2610.10069v1": {
+      "title": "Demand Models for Market-Level Data with Closed-Form Inverses",
+      "paper_id": "2610.10069v1"
+    },
+    "2610.10043v1": {
+      "title": "Building Macroeconomically Relevant Climate Indices via the Assemblage VAR",
+      "paper_id": "2610.10043v1"
+    },
+    "2610.09601v1": {
+      "title": "Cluster-Robust Prediction-Powered Inference",
+      "paper_id": "2610.09601v1"
+    },
+    "2610.09351v1": {
+      "title": "Detecting Copula Structural Changes: A Smooth Testing Approach",
+      "paper_id": "2610.09351v1"
+    },
+    "2610.10456v1": {
+      "title": "Risk-minimizing GUE-implementations of truthful reporting in a Dynamic Social Choice Problem",
+      "paper_id": "2610.10456v1"
+    },
+    "2610.10316v1": {
+      "title": "Anchor-proofness in Voting with Ranked Ballots",
+      "paper_id": "2610.10316v1"
+    },
+    "2610.10207v1": {
+      "title": "Identifiable Preference Types and Optimal Menu-Choice Experiments",
+      "paper_id": "2610.10207v1"
+    },
+    "2610.10172v1": {
+      "title": "Price Discrimination and Revealed Consumer Welfare",
+      "paper_id": "2610.10172v1"
+    },
+    "2610.10131v1": {
+      "title": "Selective Verification in Centralized Admissions: Which Priority Claims Must Be Checked?",
+      "paper_id": "2610.10131v1"
+    },
+    "2610.09899v1": {
+      "title": "Recovering Weighted Shapley Values from Position Preferences",
+      "paper_id": "2610.09899v1"
+    },
+    "2610.08968v1": {
+      "title": "Large player classes and approximately weighted voting",
+      "paper_id": "2610.08968v1"
+    },
+    "2610.09246v1": {
+      "title": "Conditional value-at-risk under reward-penalty mechanism with applications to robust portfolio management",
+      "paper_id": "2610.09246v1"
+    },
+    "2610.08869v1": {
+      "title": "Learned Monotone Recurrent Features in Governed Credit Scoring: The Price of the Frame and the Necessity of Macro Conditioning",
+      "paper_id": "2610.08869v1"
+    },
+    "2610.08882v1": {
+      "title": "FinVector-Market-4B: A Controlled Study of LoRA Adaptation for Structured Financial Tasks",
+      "paper_id": "2610.08882v1"
+    },
+    "W7220650441": {
+      "title": "From r* to monetary policy stance: Evidence from Poland",
+      "paper_id": "https://doi.org/10.18559/ref.2026.1.3013"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3295~5961ce0e96.en.pdf": {
+      "title": "Monitoring banks’ vulnerabilities using stressed depletion indices",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3295~5961ce0e96.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3296~db309862b0.en.pdf": {
+      "title": "Does shareholder diversification enhance firm investment resilience? Evidence from the euro area",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3296~db309862b0.en.pdf"
     }
   },
   "edges": [
@@ -36789,6 +36865,131 @@
     {
       "from": "W7220374459",
       "to": "W4413291796",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W197943412",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W1520617112",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W2019459021",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W2072494087",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W2096064009",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W2098683532",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W2131733003",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W2189139855",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W2625524822",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W2770058355",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W2885334304",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W2947626232",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W3023077672",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W3036929244",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W3125135614",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W4232866321",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W4251745853",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W4390604174",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W4402981352",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W4404482884",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W4407005653",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W4407989507",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W4411015670",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W4417055101",
+      "type": "cites"
+    },
+    {
+      "from": "W7220650441",
+      "to": "W7138420006",
       "type": "cites"
     }
   ]

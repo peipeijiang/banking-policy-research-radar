@@ -7019,6 +7019,14 @@
     "repec:RePEc:bfr:banfra:1066": {
       "title": "DSGE Models in Central Banks: Progress and Prospects",
       "paper_id": "repec:RePEc:bfr:banfra:1066"
+    },
+    "repec:RePEc:ces:ceswps:_13040": {
+      "title": "Access to Jobs and Individual Labor Market Outcomes",
+      "paper_id": "repec:RePEc:ces:ceswps:_13040"
+    },
+    "repec:RePEc:ces:ceswps:_13041": {
+      "title": "Return-to-Work Policies for Disability Insurance Recipients: The Role of Financial Incentives",
+      "paper_id": "repec:RePEc:ces:ceswps:_13041"
     }
   },
   "edges": [

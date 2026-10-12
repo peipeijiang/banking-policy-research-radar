@@ -6928,10 +6928,6 @@
       "title": "Who Leads and Who Collects:Algorithmic Collusion in Markets of Heterogeneous Language Models",
       "paper_id": "2610.11256v1"
     },
-    "2610.10606v1": {
-      "title": "The Gendered Impacts of Perceived Skin Tone: Evidence from African American Siblings in 1870-1940",
-      "paper_id": "2610.10606v1"
-    },
     "2610.12350v1": {
       "title": "The Panel Information Matrix Test",
       "paper_id": "2610.12350v1"
@@ -7027,6 +7023,102 @@
     "repec:RePEc:ces:ceswps:_13041": {
       "title": "Return-to-Work Policies for Disability Insurance Recipients: The Role of Financial Incentives",
       "paper_id": "repec:RePEc:ces:ceswps:_13041"
+    },
+    "2610.13785v1": {
+      "title": "Linear Demand Systems are Consistent with Discrete Choice",
+      "paper_id": "2610.13785v1"
+    },
+    "2610.12917v1": {
+      "title": "AI-Mediation in Retail Markets: Revenue Effects and Assortment Optimization",
+      "paper_id": "2610.12917v1"
+    },
+    "2610.12587v1": {
+      "title": "On the Optimality of Mental Accounting",
+      "paper_id": "2610.12587v1"
+    },
+    "2610.12875v1": {
+      "title": "The Financing of Debt Relief: Intermediary Liquidity and the Value of Borrower Information",
+      "paper_id": "2610.12875v1"
+    },
+    "2610.13446v1": {
+      "title": "Realized Tail-Risk Conditional Autoregressive Expectile Models: Accurate and Stable Forecasting Performance",
+      "paper_id": "2610.13446v1"
+    },
+    "2610.10606v2": {
+      "title": "The Gendered Impacts of Perceived Skin Tone: Evidence from African American Siblings in 1870-1940",
+      "paper_id": "2610.10606v2"
+    },
+    "2610.13269v1": {
+      "title": "Intentionally Overidentifying Local Projections",
+      "paper_id": "2610.13269v1"
+    },
+    "2610.12873v1": {
+      "title": "An efficient stochastic generalized method of moments estimator for nonlinear moment models",
+      "paper_id": "2610.12873v1"
+    },
+    "2610.12824v1": {
+      "title": "GMM for Panel Data Quantile Regression",
+      "paper_id": "2610.12824v1"
+    },
+    "2610.12674v1": {
+      "title": "Simple Standard Errors for Complicated (Quasi-)Experimental Designs",
+      "paper_id": "2610.12674v1"
+    },
+    "2610.12509v1": {
+      "title": "Early Investment Snowballs for Low-Skill Children: Average Marginal Returns and the Dynamics of Skill Formation",
+      "paper_id": "2610.12509v1"
+    },
+    "2610.13702v1": {
+      "title": "Two-Sided Plausibility Constraints in Persuasion",
+      "paper_id": "2610.13702v1"
+    },
+    "2610.12991v1": {
+      "title": "Dynamic Matching with Abandonment: Optimal Guarantees via Static Priority Policies",
+      "paper_id": "2610.12991v1"
+    },
+    "2610.12858v1": {
+      "title": "The False Allure of \"Security by Obscurity\": A Game-Theoretic Approach",
+      "paper_id": "2610.12858v1"
+    },
+    "2610.12732v1": {
+      "title": "Childcare Waitlists",
+      "paper_id": "2610.12732v1"
+    },
+    "2610.13606v1": {
+      "title": "CorrFlow: Exact and Permutation-Equivariant Flow Matching on the Correlation Elliptope",
+      "paper_id": "2610.13606v1"
+    },
+    "2610.13199v1": {
+      "title": "Enhancing credit risk scorecards with transactional-based behavioural features",
+      "paper_id": "2610.13199v1"
+    },
+    "2610.12718v1": {
+      "title": "A Distributional Framework for Behavioral Characterization and Risk Management of Large Language Models",
+      "paper_id": "2610.12718v1"
+    },
+    "W7221315827": {
+      "title": "TITLE: IMPROVING MECHANISMS FOR FINANCING ESG-BASED INVESTMENTS IN THE BANKING SECTOR OF UZBEKISTAN",
+      "paper_id": "https://doi.org/10.5281/zenodo.23279935"
+    },
+    "W7221342649": {
+      "title": "IMPLEMENTATION OF IFRS 9 IN COMMERCIAL BANKS OF UZBEKISTAN: CURRENT PRACTICES AND DEVELOPMENT PRIORITIES",
+      "paper_id": "https://doi.org/10.5281/zenodo.23280969"
+    },
+    "W7221084852": {
+      "title": "Improving the Financial Risk Management System in Commercial Banks",
+      "paper_id": "https://doi.org/10.51699/210ryq45"
+    },
+    "W7221318078": {
+      "title": "How Prudential Regulation Shapes Financial Resilience",
+      "paper_id": "https://doi.org/10.5281/zenodo.23285178"
+    },
+    "repec:RePEc:ces:ceswps:_13038": {
+      "title": "Justifying Sustainability While Taming Longtermism: A Pluralistic Approach to Intergenerational Justice",
+      "paper_id": "repec:RePEc:ces:ceswps:_13038"
+    },
+    "repec:RePEc:ces:ceswps:_13039": {
+      "title": "Financial Inclusion: A Meta-analytic Evidence from Global Research",
+      "paper_id": "repec:RePEc:ces:ceswps:_13039"
     }
   },
   "edges": [

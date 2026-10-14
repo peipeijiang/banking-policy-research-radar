@@ -6912,10 +6912,6 @@
       "title": "Does shareholder diversification enhance firm investment resilience? Evidence from the euro area",
       "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3296~db309862b0.en.pdf"
     },
-    "2610.12049v1": {
-      "title": "The Myth of Restrictive Working-Time Agreements: Firms' Working-Time Adjustment after Exit from Collective Bargaining",
-      "paper_id": "2610.12049v1"
-    },
     "2610.12186v1": {
       "title": "Microfinance Competition in the Presence of Moneylenders: Theory and Evidence",
       "paper_id": "2610.12186v1"
@@ -6963,10 +6959,6 @@
     "2610.11200v1": {
       "title": "Information Divergence and Endogenous Evolution of Asymmetric Information",
       "paper_id": "2610.11200v1"
-    },
-    "2610.11177v1": {
-      "title": "Dynamic Mechanism and Information Design in AI-Agent Environments: A General Analytical Framework",
-      "paper_id": "2610.11177v1"
     },
     "2610.11089v1": {
       "title": "Decision Noise in Threshold Selection",
@@ -7139,6 +7131,182 @@
     "repec:RePEc:ces:ceswps:_13037": {
       "title": "Oil Prices and Global Activity in a General Equilibrium Model with Dynamic Elasticities",
       "paper_id": "repec:RePEc:ces:ceswps:_13037"
+    },
+    "2610.17231v1": {
+      "title": "The Buffett Effect",
+      "paper_id": "2610.17231v1"
+    },
+    "2610.14984v1": {
+      "title": "Too Late to Prune: Generative AI, the Screen, and Team Creative Decisions",
+      "paper_id": "2610.14984v1"
+    },
+    "2610.14969v1": {
+      "title": "Allocative Efficiency and the Returns to Innovation",
+      "paper_id": "2610.14969v1"
+    },
+    "2610.14850v1": {
+      "title": "Displacement Is Endogenous: AI Workers in a Search-and-Matching Labor Market",
+      "paper_id": "2610.14850v1"
+    },
+    "2610.14317v1": {
+      "title": "Pregnancy and Interrupted Schooling: Evidence from Monthly Histories",
+      "paper_id": "2610.14317v1"
+    },
+    "2610.14632v1": {
+      "title": "From Observation to Intervention: Mastering Bus Holding Control from Historical Uncontrolled Trajectories with Offline Reinforcement Learning",
+      "paper_id": "2610.14632v1"
+    },
+    "2610.14145v1": {
+      "title": "Is the business of frontier AI companies selling tokens? Value capture and equity prices",
+      "paper_id": "2610.14145v1"
+    },
+    "2610.14305v1": {
+      "title": "Safety Research and the Allocation of Frontier Compute",
+      "paper_id": "2610.14305v1"
+    },
+    "2610.12049v2": {
+      "title": "The Myth of Restrictive Working-Time Agreements: Firms' Working-Time Adjustment after Exit from Collective Bargaining",
+      "paper_id": "2610.12049v2"
+    },
+    "2610.18387v1": {
+      "title": "Risk Measures for the Climate Transition Age: Why Symmetric Risk Budgets are unlikely to mitigate two-dimensionally asymmetric Climate Change risks",
+      "paper_id": "2610.18387v1"
+    },
+    "2610.17104v1": {
+      "title": "Dynamic Panel Multinomial Logit Models",
+      "paper_id": "2610.17104v1"
+    },
+    "2610.16754v1": {
+      "title": "Pseudo-Panel Event Studies: Econometric Foundations for Credible Applications",
+      "paper_id": "2610.16754v1"
+    },
+    "2610.16701v1": {
+      "title": "Estimation of Rational Inattention--Additive Random Utility Models",
+      "paper_id": "2610.16701v1"
+    },
+    "2610.16503v1": {
+      "title": "Honest Inference for High-Dimensional Linear Models",
+      "paper_id": "2610.16503v1"
+    },
+    "2610.15789v1": {
+      "title": "Inference on the Value of Policy Improvement in Adaptive Experiments",
+      "paper_id": "2610.15789v1"
+    },
+    "2610.15672v1": {
+      "title": "Uncertainty in Compound Decisions",
+      "paper_id": "2610.15672v1"
+    },
+    "2610.15296v1": {
+      "title": "Recurrent Neural Networks for Forecasting Autoregressive Noncausal Processes",
+      "paper_id": "2610.15296v1"
+    },
+    "2610.15168v1": {
+      "title": "GMM under finite-population asymptotics: instrumental variables and regression adjustment",
+      "paper_id": "2610.15168v1"
+    },
+    "2610.15063v1": {
+      "title": "Randomized Experiments with Ambiguous Record Linkage",
+      "paper_id": "2610.15063v1"
+    },
+    "2610.14511v1": {
+      "title": "A Balanced Parametrization of Correlation Matrices",
+      "paper_id": "2610.14511v1"
+    },
+    "2610.18812v1": {
+      "title": "The Geography of (Concurrent) Block Proposing",
+      "paper_id": "2610.18812v1"
+    },
+    "2610.18625v1": {
+      "title": "Falsification-proof non-market allocation mechanisms",
+      "paper_id": "2610.18625v1"
+    },
+    "2610.18581v1": {
+      "title": "More Goods Means More Commitment",
+      "paper_id": "2610.18581v1"
+    },
+    "2610.17674v1": {
+      "title": "AI Information Synthesis and Content Polarization",
+      "paper_id": "2610.17674v1"
+    },
+    "2610.17460v1": {
+      "title": "Continuity of stable marriage correspondences",
+      "paper_id": "2610.17460v1"
+    },
+    "2610.17450v1": {
+      "title": "Unit-Demand Pricing for Min-Buying Customers",
+      "paper_id": "2610.17450v1"
+    },
+    "2610.16863v1": {
+      "title": "Better together? A performance theory of human-machine skill policies under generalization difficulty",
+      "paper_id": "2610.16863v1"
+    },
+    "2610.15786v1": {
+      "title": "Resource Allocation with Midterm Review",
+      "paper_id": "2610.15786v1"
+    },
+    "2610.15087v1": {
+      "title": "Coalition-Proof Disclosure",
+      "paper_id": "2610.15087v1"
+    },
+    "2610.14916v1": {
+      "title": "Multilateral governance of invasive alien species management: An ecological-economic model with Allee effect",
+      "paper_id": "2610.14916v1"
+    },
+    "2610.14569v1": {
+      "title": "Robust Capital Budgeting",
+      "paper_id": "2610.14569v1"
+    },
+    "2610.14391v1": {
+      "title": "Optimal Dynamic Majority-Quorum Rules: Theory and Evidence",
+      "paper_id": "2610.14391v1"
+    },
+    "2610.14225v1": {
+      "title": "Shaping the Menu: Information Design under Screening",
+      "paper_id": "2610.14225v1"
+    },
+    "2610.11177v2": {
+      "title": "Dynamic Mechanism and Information Design in AI-Agent Environments: A General Analytical Framework",
+      "paper_id": "2610.11177v2"
+    },
+    "2610.18795v1": {
+      "title": "Discrete-Time Survival Modelling with Dynamic Industrial Graphs for Mortgage Credit Risk",
+      "paper_id": "2610.18795v1"
+    },
+    "2610.17681v1": {
+      "title": "E-Backtesting Expected Shortfall without Value-at-Risk Forecasts under Time-series Models",
+      "paper_id": "2610.17681v1"
+    },
+    "2610.17481v1": {
+      "title": "Designing Independent Variation: A Guided Iteration Methodology for Price Experiments in Short, Correlated Panels",
+      "paper_id": "2610.17481v1"
+    },
+    "2610.17304v1": {
+      "title": "Dirichlet sub-mixtures: A new reading of multiplicative background risk models with Pareto margins",
+      "paper_id": "2610.17304v1"
+    },
+    "2610.15973v1": {
+      "title": "Requested, Executed and Recoverable Credit: Shared Action Ordering among LLM Borrowers in a Simulated Lending Market",
+      "paper_id": "2610.15973v1"
+    },
+    "2610.14120v1": {
+      "title": "Early Detection of Pension-Sponsor Distress from Public Filings: A Sponsor Vulnerability Index, Stress-Augmented VaR, and Dynamic Self-Investment Caps",
+      "paper_id": "2610.14120v1"
+    },
+    "2610.18435v1": {
+      "title": "How Well Do LLMs Perform in Peer Review? Evidence from Finance and Accounting",
+      "paper_id": "2610.18435v1"
+    },
+    "W7221507662": {
+      "title": "Cryptocurrency market from January to September 2026",
+      "paper_id": "https://doi.org/10.5281/zenodo.23321062"
+    },
+    "W7221455690": {
+      "title": "Failing Factories, Fearful Finance: Reimagining Pakistani Banking Through the German Hausbank Lens",
+      "paper_id": "https://doi.org/10.67521/sjbe.2026.023"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/inattentive-price-setting-and-inflation-under-fiscal-policy-uncertainty.htm": {
+      "title": "FEDS Paper: Inattentive Price Setting and Inflation Under Fiscal Policy Uncertainty",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/inattentive-price-setting-and-inflation-under-fiscal-policy-uncertainty.htm"
     }
   },
   "edges": [
@@ -37510,6 +37678,11 @@
     {
       "from": "W7220837346",
       "to": "W4415909245",
+      "type": "cites"
+    },
+    {
+      "from": "W7221455690",
+      "to": "W4403315862",
       "type": "cites"
     }
   ]

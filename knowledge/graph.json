@@ -7375,6 +7375,62 @@
     "repec:RePEc:boe:boeewp:023786": {
       "title": "Domestic and foreign insurer corporate bond demand and monetary policy",
       "paper_id": "repec:RePEc:boe:boeewp:023786"
+    },
+    "2610.21756v1": {
+      "title": "Locally Robust Inference with Outcomes Predicted by Machine Learning",
+      "paper_id": "2610.21756v1"
+    },
+    "2610.21296v1": {
+      "title": "On the fairness of single round-robin tournaments: Evidence from European football",
+      "paper_id": "2610.21296v1"
+    },
+    "2610.21019v1": {
+      "title": "Testing Tail-Index Homogeneity via Exceedance-Covariate Independence",
+      "paper_id": "2610.21019v1"
+    },
+    "2610.22038v1": {
+      "title": "Partial Localization and Multifractality in Heterogeneous Population Growth with Resetting",
+      "paper_id": "2610.22038v1"
+    },
+    "2610.22032v1": {
+      "title": "Designing Experiments for External Decision Makers",
+      "paper_id": "2610.22032v1"
+    },
+    "2610.21111v1": {
+      "title": "A unified decision model for Bayesian ambiguity and non-affine statistics",
+      "paper_id": "2610.21111v1"
+    },
+    "2610.21540v1": {
+      "title": "Pricing the Unprovable: Ambiguity, Turnstile Runs, and the Verifiability Discount in Crypto Protocols",
+      "paper_id": "2610.21540v1"
+    },
+    "2610.22043v1": {
+      "title": "Momentum, Commentary Tone, and Earnings Surprise in LLM Financial Forecasts",
+      "paper_id": "2610.22043v1"
+    },
+    "W7221805372": {
+      "title": "ADOPTION OF DIGITAL PAYMENT SYSTEMS AND BLOCKCHAIN TECHNOLOGIES IN COMMERCIAL BANKING",
+      "paper_id": "https://doi.org/10.5281/zenodo.23363491"
+    },
+    "W7221719240": {
+      "title": "Innovation financière, FinTech et politique monétaire : Cartographie de la recherche scientifique",
+      "paper_id": "https://doi.org/10.5281/zenodo.23342569"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3300~0277bae3af.en.pdf": {
+      "title": "When less is more: behavioral effects of CBDC holding limits",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3300~0277bae3af.en.pdf"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3301~1585c96063.en.pdf": {
+      "title": "Stop believing in haircuts - at least the way you think about them",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3301~1585c96063.en.pdf"
+    },
+    "worldbank:40133416": {
+      "title": "Public Externalities of Universal Health Care Access",
+      "paper_id": "worldbank:40133416"
+    },
+    "repec:RePEc:fip:fedpwp:103922": {
+      "title": "A Unified Framework for Transparent Quasi-Experimental Research",
+      "paper_id": "repec:RePEc:fip:fedpwp:103922"
     }
   },
   "edges": [

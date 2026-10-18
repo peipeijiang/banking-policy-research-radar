@@ -7312,10 +7312,6 @@
       "title": "Auction-based allocation of routes in capacity-constrained networks",
       "paper_id": "2610.20125v1"
     },
-    "2610.19720v1": {
-      "title": "Which Text Matters: Handling Model Uncertainty in Text-as-Data Regressions, with an Application to Central Bank Communication",
-      "paper_id": "2610.19720v1"
-    },
     "2610.18921v1": {
       "title": "Creative destruction: Human-AI competition in an experimental market",
       "paper_id": "2610.18921v1"
@@ -7431,6 +7427,50 @@
     "repec:RePEc:fip:fedpwp:103922": {
       "title": "A Unified Framework for Transparent Quasi-Experimental Research",
       "paper_id": "repec:RePEc:fip:fedpwp:103922"
+    },
+    "W7222720202": {
+      "title": "Beyond \"Looking Through\": Monetary Policy Responses and Communication Under Supply-Driven Inflation",
+      "paper_id": "https://doi.org/10.34989/swp-2026-39"
+    },
+    "W7221889726": {
+      "title": "Import restriction as a means of maintaining macroeconomic stability: Evidence from the Japanese experience of monetary and financial regulation",
+      "paper_id": "https://doi.org/10.35854/1998-1627-2026-9-1187-1197"
+    },
+    "W7222090690": {
+      "title": "Which Text Matters: Handling Model Uncertainty in Text-as-Data Regressions, with an Application to Central Bank Communication",
+      "paper_id": "https://doi.org/10.48550/arxiv.2610.19720"
+    },
+    "W7221756206": {
+      "title": "Digital Payments, Monetary Conditions, and Household Consumption: Evidence from Indonesia",
+      "paper_id": "https://doi.org/10.58631/ajemb.v5i10.562"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/10/staff-working-paper-2026-40/": {
+      "title": "Artificial Intelligence and Financial Tail Risks",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/10/staff-working-paper-2026-40/"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/10/staff-working-paper-2026-38/": {
+      "title": "The Distributional Consequences of Commodity Booms",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/10/staff-working-paper-2026-38/"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/10/staff-working-paper-2026-37/": {
+      "title": "Offshoring and Voting Patterns in the US",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/10/staff-working-paper-2026-37/"
+    },
+    "repec:RePEc:ces:ceswps:_13054": {
+      "title": "The Hidden Cost of Resource Nationalism",
+      "paper_id": "repec:RePEc:ces:ceswps:_13054"
+    },
+    "repec:RePEc:ces:ceswps:_13055": {
+      "title": "Dividend Taxes and the Limits of the New View",
+      "paper_id": "repec:RePEc:ces:ceswps:_13055"
+    },
+    "repec:RePEc:fip:fedfwp:103940": {
+      "title": "The Impacts of Unauthorized Immigration on U.S. Labor and Housing Markets: New Evidence from Administrative Microdata",
+      "paper_id": "repec:RePEc:fip:fedfwp:103940"
+    },
+    "repec:RePEc:fip:fedfwp:103935": {
+      "title": "Cash Transfers in Developing Countries: Local Multipliers, Aggregate Effects, and External Adjustment",
+      "paper_id": "repec:RePEc:fip:fedfwp:103935"
     }
   },
   "edges": [
@@ -38087,6 +38127,11 @@
     {
       "from": "W7221536416",
       "to": "W7167348682",
+      "type": "cites"
+    },
+    {
+      "from": "W7221889726",
+      "to": "W4285685138",
       "type": "cites"
     }
   ]

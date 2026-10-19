@@ -7471,6 +7471,62 @@
     "repec:RePEc:fip:fedfwp:103935": {
       "title": "Cash Transfers in Developing Countries: Local Multipliers, Aggregate Effects, and External Adjustment",
       "paper_id": "repec:RePEc:fip:fedfwp:103935"
+    },
+    "2610.23283v1": {
+      "title": "Market Efficiency in a Changing Asset Population: Mobility, Entry, and Survival over Cryptocurrency's Full History",
+      "paper_id": "2610.23283v1"
+    },
+    "2610.23391v1": {
+      "title": "Input-output analysis with a sphere packing approach",
+      "paper_id": "2610.23391v1"
+    },
+    "2610.22864v1": {
+      "title": "The Source of Data Value: Consumer Disclosure, Access Design, and Platform Monetization",
+      "paper_id": "2610.22864v1"
+    },
+    "2610.22830v1": {
+      "title": "Bystander on the Fence: Sanctions in a Multipolar World",
+      "paper_id": "2610.22830v1"
+    },
+    "2610.21711v1": {
+      "title": "How language model agents reshape price competition",
+      "paper_id": "2610.21711v1"
+    },
+    "2610.23119v1": {
+      "title": "Online Conditional Vine Copulas: Forecasting Electricity Demand",
+      "paper_id": "2610.23119v1"
+    },
+    "2610.22522v1": {
+      "title": "Agentic AI in Automated Markets",
+      "paper_id": "2610.22522v1"
+    },
+    "2610.23282v1": {
+      "title": "A Characterization of Quantile Stable Matchings in Many-to-Many Markets",
+      "paper_id": "2610.23282v1"
+    },
+    "2610.23193v1": {
+      "title": "Proportionality in Ranking Compression",
+      "paper_id": "2610.23193v1"
+    },
+    "W7222406733": {
+      "title": "Digital Ruble and Monetary Policy Transmission: A DSGE Analysis of Russia’s CBDC Implementation",
+      "paper_id": "https://doi.org/10.3897/brics-econ.7.e177677"
+    },
+    "repec:RePEc:ces:ceswps:_13052": {
+      "title": "The Paradox of Inequality",
+      "paper_id": "repec:RePEc:ces:ceswps:_13052"
+    },
+    "repec:RePEc:ces:ceswps:_13053": {
+      "title": "Geopolitical Tensions, Social Identity and the Fragmentation of the Global Economy",
+      "paper_id": "repec:RePEc:ces:ceswps:_13053"
+    },
+    "repec:RePEc:fip:fedfwp:103934": {
+      "title": "In Hot Water? The Macroeconomic Impacts of El Niño",
+      "paper_id": "repec:RePEc:fip:fedfwp:103934"
+    },
+    "repec:RePEc:fip:fedpwp:103953": {
+      "title": "The Treasury General Account and the Fed’s Balance Sheet",
+      "paper_id": "repec:RePEc:fip:fedpwp:103953"
     }
   },
   "edges": [
@@ -38132,6 +38188,81 @@
     {
       "from": "W7221889726",
       "to": "W4285685138",
+      "type": "cites"
+    },
+    {
+      "from": "W7222406733",
+      "to": "W1991009982",
+      "type": "cites"
+    },
+    {
+      "from": "W7222406733",
+      "to": "W1995278743",
+      "type": "cites"
+    },
+    {
+      "from": "W7222406733",
+      "to": "W2307732195",
+      "type": "cites"
+    },
+    {
+      "from": "W7222406733",
+      "to": "W2589482191",
+      "type": "cites"
+    },
+    {
+      "from": "W7222406733",
+      "to": "W2808605327",
+      "type": "cites"
+    },
+    {
+      "from": "W7222406733",
+      "to": "W2946506390",
+      "type": "cites"
+    },
+    {
+      "from": "W7222406733",
+      "to": "W2972621255",
+      "type": "cites"
+    },
+    {
+      "from": "W7222406733",
+      "to": "W3020373968",
+      "type": "cites"
+    },
+    {
+      "from": "W7222406733",
+      "to": "W3047794938",
+      "type": "cites"
+    },
+    {
+      "from": "W7222406733",
+      "to": "W3121380054",
+      "type": "cites"
+    },
+    {
+      "from": "W7222406733",
+      "to": "W3125151312",
+      "type": "cites"
+    },
+    {
+      "from": "W7222406733",
+      "to": "W3138944651",
+      "type": "cites"
+    },
+    {
+      "from": "W7222406733",
+      "to": "W3161792430",
+      "type": "cites"
+    },
+    {
+      "from": "W7222406733",
+      "to": "W4226348880",
+      "type": "cites"
+    },
+    {
+      "from": "W7222406733",
+      "to": "W4394594704",
       "type": "cites"
     }
   ]

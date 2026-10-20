@@ -7527,6 +7527,158 @@
     "repec:RePEc:fip:fedpwp:103953": {
       "title": "The Treasury General Account and the Fed’s Balance Sheet",
       "paper_id": "repec:RePEc:fip:fedpwp:103953"
+    },
+    "2610.24792v1": {
+      "title": "Strategic Origins of Network Structure",
+      "paper_id": "2610.24792v1"
+    },
+    "2610.25603v1": {
+      "title": "When Better Opportunities Backfire: Service Worker Responses to Parallel AI Deployment in Customer Acquisition",
+      "paper_id": "2610.25603v1"
+    },
+    "2610.24192v1": {
+      "title": "The wealth-to-salary ratio: a simple indicator of inequality",
+      "paper_id": "2610.24192v1"
+    },
+    "2610.24267v1": {
+      "title": "How exposed is work to robotics? Occupational, industry, and geographic measures",
+      "paper_id": "2610.24267v1"
+    },
+    "2610.24035v1": {
+      "title": "TRACE: Governing AI-Assisted Research with Principles from Computer Science",
+      "paper_id": "2610.24035v1"
+    },
+    "2610.26427v1": {
+      "title": "Almost Uniform Bias Correction for Persistent Panel Local Projections",
+      "paper_id": "2610.26427v1"
+    },
+    "2610.26576v1": {
+      "title": "Synthetic Control: An Exact Geometric Formulation",
+      "paper_id": "2610.26576v1"
+    },
+    "2610.26298v1": {
+      "title": "Deep-$π^*$: A Neural Network Estimate of Trend Inflation",
+      "paper_id": "2610.26298v1"
+    },
+    "2610.25986v1": {
+      "title": "Tuning-Free Tests for Treatment Effect Heterogeneity via Expectile Processes",
+      "paper_id": "2610.25986v1"
+    },
+    "2610.25667v1": {
+      "title": "A LATE-Targeting Experimental Design for Multi-Arm RCTs",
+      "paper_id": "2610.25667v1"
+    },
+    "2610.25589v1": {
+      "title": "Linear Regression with Common Unobserved Heterogeneity",
+      "paper_id": "2610.25589v1"
+    },
+    "2610.25495v1": {
+      "title": "Probabilistic Limit Order Book Forecasting with Conditional Diffusion Models",
+      "paper_id": "2610.25495v1"
+    },
+    "2610.25453v1": {
+      "title": "Inference on Linear Programs via Feasibility Testing",
+      "paper_id": "2610.25453v1"
+    },
+    "2610.25421v1": {
+      "title": "Efficient estimation of measures of functional dependence",
+      "paper_id": "2610.25421v1"
+    },
+    "2610.25238v1": {
+      "title": "Persistence is not Independence: A structural Credibility Protocol for Distribution based Recovery in VARLiNGAM",
+      "paper_id": "2610.25238v1"
+    },
+    "2610.25237v1": {
+      "title": "Conventional Inference under Nonstationary Heavy Tailed Fractional Processes & Arrays",
+      "paper_id": "2610.25237v1"
+    },
+    "2610.25038v1": {
+      "title": "Globally Optimal Estimation of Nested Logit Models",
+      "paper_id": "2610.25038v1"
+    },
+    "2610.25009v1": {
+      "title": "Nonparametric Dyadic Quantile Regression",
+      "paper_id": "2610.25009v1"
+    },
+    "2610.24113v1": {
+      "title": "Graph-Regularized Synthetic Control for Stable Counterfactual Estimation under Donor Redundancy",
+      "paper_id": "2610.24113v1"
+    },
+    "2610.26494v1": {
+      "title": "Promotion Signaling and Signal Jamming: An Analysis of Job Title Inflation",
+      "paper_id": "2610.26494v1"
+    },
+    "2610.25814v1": {
+      "title": "Balanced Social Learning",
+      "paper_id": "2610.25814v1"
+    },
+    "2610.25576v1": {
+      "title": "Winner's bliss: interdependent-value auctions with horizontal uncertainty",
+      "paper_id": "2610.25576v1"
+    },
+    "2610.25539v1": {
+      "title": "Informative Imitation",
+      "paper_id": "2610.25539v1"
+    },
+    "2610.25167v1": {
+      "title": "Monotonicity in streaming problems",
+      "paper_id": "2610.25167v1"
+    },
+    "2610.24973v1": {
+      "title": "Improved Approximation and Tight Competition for Simple Auctions",
+      "paper_id": "2610.24973v1"
+    },
+    "2610.24901v1": {
+      "title": "Coarse Revenue Guarantee in First Price Auction and Beyond",
+      "paper_id": "2610.24901v1"
+    },
+    "2610.24819v1": {
+      "title": "Rating Multiple Agents with Career Concerns",
+      "paper_id": "2610.24819v1"
+    },
+    "2610.24240v1": {
+      "title": "Extending Myerson's Optimal Auctions to Correlated Bidders via Neural Network Interpolation",
+      "paper_id": "2610.24240v1"
+    },
+    "2610.24230v1": {
+      "title": "Search and Matching without Reciprocity",
+      "paper_id": "2610.24230v1"
+    },
+    "2610.26797v1": {
+      "title": "Teacher Supervision, Fixed Representations and Calibration: Exact Risk Calculations for Candidate-Scoring Decision Models",
+      "paper_id": "2610.26797v1"
+    },
+    "2610.26746v1": {
+      "title": "Probability-Weighting Functions for Normal Tempered-Stable Laws: Orthogonal Channels and Information-Theoretic Indices",
+      "paper_id": "2610.26746v1"
+    },
+    "2610.26324v1": {
+      "title": "The Control Layer Behind Rule-Following Agents Trading Across Market Conditions",
+      "paper_id": "2610.26324v1"
+    },
+    "2610.25802v1": {
+      "title": "Amortized Neural Filtering for Calibrated Posteriors in Statistical Arbitrage",
+      "paper_id": "2610.25802v1"
+    },
+    "2610.24586v1": {
+      "title": "Conditional Weight of Evidence for Gradient-Boosted Credit Models: Estimation, Additivity and Its Relation to Adverse Action Reasons",
+      "paper_id": "2610.24586v1"
+    },
+    "2610.24439v1": {
+      "title": "Dynamic Programming for Value-at-risk Markov Decision Processes in Continuous Spaces",
+      "paper_id": "2610.24439v1"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3302~7ff8a286bc.en.pdf": {
+      "title": "Headwind or tailwind? How banks interpret borrowers’ AI exposure",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3302~7ff8a286bc.en.pdf"
+    },
+    "repec:RePEc:ces:ceswps:_13051": {
+      "title": "Like a Good Neighbor: Childhood Neighbors Influence Occupation Choice",
+      "paper_id": "repec:RePEc:ces:ceswps:_13051"
+    },
+    "repec:RePEc:ces:ceswps:_13050": {
+      "title": "Debiasing Law Enforcement Officers: Evidence from an Expressive Arts Intervention in India",
+      "paper_id": "repec:RePEc:ces:ceswps:_13050"
     }
   },
   "edges": [

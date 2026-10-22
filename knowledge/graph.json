@@ -7564,10 +7564,6 @@
       "title": "Tuning-Free Tests for Treatment Effect Heterogeneity via Expectile Processes",
       "paper_id": "2610.25986v1"
     },
-    "2610.25667v1": {
-      "title": "A LATE-Targeting Experimental Design for Multi-Arm RCTs",
-      "paper_id": "2610.25667v1"
-    },
     "2610.25589v1": {
       "title": "Linear Regression with Common Unobserved Heterogeneity",
       "paper_id": "2610.25589v1"
@@ -7663,10 +7659,6 @@
     "2610.24586v1": {
       "title": "Conditional Weight of Evidence for Gradient-Boosted Credit Models: Estimation, Additivity and Its Relation to Adverse Action Reasons",
       "paper_id": "2610.24586v1"
-    },
-    "2610.24439v1": {
-      "title": "Dynamic Programming for Value-at-risk Markov Decision Processes in Continuous Spaces",
-      "paper_id": "2610.24439v1"
     },
     "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3302~7ff8a286bc.en.pdf": {
       "title": "Headwind or tailwind? How banks interpret borrowers’ AI exposure",
@@ -7795,6 +7787,90 @@
     "repec:RePEc:ces:ceswps:_13048": {
       "title": "Forming the AMR Club: The Exclusivity-Mobility Tradeoff",
       "paper_id": "repec:RePEc:ces:ceswps:_13048"
+    },
+    "2610.29344v1": {
+      "title": "Climate-Driven Supply-Demand Matching Reshapes Global SolarEV Decarbonization Potential",
+      "paper_id": "2610.29344v1"
+    },
+    "2610.29199v1": {
+      "title": "Motivation and Contribution in Open Source Software: A Meta-Analytic Investigation",
+      "paper_id": "2610.29199v1"
+    },
+    "2610.28907v1": {
+      "title": "JaxMARL-BC: Multi-Agent Reinforcement Learning for Macroeconomic Modelling, in Seconds",
+      "paper_id": "2610.28907v1"
+    },
+    "2610.28965v1": {
+      "title": "Discretion at the Margin: Threshold Manipulation and Electoral Bans in Colombian Public Procurement",
+      "paper_id": "2610.28965v1"
+    },
+    "2610.28793v1": {
+      "title": "A cross-cultural dataset on the structure of social networks: The ENDOW project",
+      "paper_id": "2610.28793v1"
+    },
+    "2610.29600v1": {
+      "title": "Demand Estimation for Rationally Inattentive Consumers",
+      "paper_id": "2610.29600v1"
+    },
+    "2610.29221v1": {
+      "title": "Policy Learning with Network-Shaping Assignments",
+      "paper_id": "2610.29221v1"
+    },
+    "2610.29148v1": {
+      "title": "Testing Common Causality of Covariates: Evidence from Private-Sector Ban-the-Box Policies",
+      "paper_id": "2610.29148v1"
+    },
+    "2610.28979v1": {
+      "title": "Anytime-Valid Inference in Conjoint Experiments",
+      "paper_id": "2610.28979v1"
+    },
+    "2610.25667v2": {
+      "title": "A LATE-Targeting Experimental Design for Multi-Arm RCTs",
+      "paper_id": "2610.25667v2"
+    },
+    "2610.29847v1": {
+      "title": "Memory Manipulation",
+      "paper_id": "2610.29847v1"
+    },
+    "2610.29208v1": {
+      "title": "Revenue Guarantee Equivalence between Dominant-Strategy and Bayesian Mechanisms",
+      "paper_id": "2610.29208v1"
+    },
+    "2610.28783v1": {
+      "title": "Truth and Deception",
+      "paper_id": "2610.28783v1"
+    },
+    "2610.27198v1": {
+      "title": "DeGroot Dynamics on Multiplex Networks with Directed and Acyclic Interlayer Connectivities",
+      "paper_id": "2610.27198v1"
+    },
+    "2610.24439v2": {
+      "title": "Dynamic Programming for Value-at-Risk Markov Decision Processes in Continuous Spaces",
+      "paper_id": "2610.24439v2"
+    },
+    "2610.29652v1": {
+      "title": "Distributions or Quantiles? A Convex Variational Theory of Worst-Case Risk",
+      "paper_id": "2610.29652v1"
+    },
+    "W7222977440": {
+      "title": "Navigating Bank Mergers and Acquisitions in Nepalese Banking Sector: Opportunities, Challenges, And Implications",
+      "paper_id": "https://doi.org/10.5281/zenodo.23469633"
+    },
+    "W7222929085": {
+      "title": "Determinants of Common Stock Prices: Evidence from NEPSE-Listed Commercial Banks in Nepal",
+      "paper_id": "https://doi.org/10.3126/irjmmc.v7i4.101350"
+    },
+    "W7222991161": {
+      "title": "Financial Structure and Performance of Libya's Consolidated Commercial Banking Sector: An Empirical Analysis of the 2023–2024 Aggregate Balance Sheet and Income Statement",
+      "paper_id": "openalex:W7222991161"
+    },
+    "W7222918299": {
+      "title": "O crédito dirigido baixou o custo do crédito às empresas em Angola? Evidência do aviso 10 do Banco Nacional de Angola (2016–2026)",
+      "paper_id": "https://doi.org/10.69849/0d74qn39"
+    },
+    "W7222956915": {
+      "title": "Dynamic Effect of BI Rate on Non-Performing Loans in Indonesian Banking",
+      "paper_id": "https://doi.org/10.58344/locus.v5i10.6257"
     }
   },
   "edges": [

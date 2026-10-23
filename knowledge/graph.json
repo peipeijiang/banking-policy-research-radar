@@ -7852,10 +7852,6 @@
       "title": "Distributions or Quantiles? A Convex Variational Theory of Worst-Case Risk",
       "paper_id": "2610.29652v1"
     },
-    "W7222977440": {
-      "title": "Navigating Bank Mergers and Acquisitions in Nepalese Banking Sector: Opportunities, Challenges, And Implications",
-      "paper_id": "https://doi.org/10.5281/zenodo.23469633"
-    },
     "W7222929085": {
       "title": "Determinants of Common Stock Prices: Evidence from NEPSE-Listed Commercial Banks in Nepal",
       "paper_id": "https://doi.org/10.3126/irjmmc.v7i4.101350"
@@ -7871,6 +7867,82 @@
     "W7222956915": {
       "title": "Dynamic Effect of BI Rate on Non-Performing Loans in Indonesian Banking",
       "paper_id": "https://doi.org/10.58344/locus.v5i10.6257"
+    },
+    "2610.31159v1": {
+      "title": "Beyond city pairs: Higher-order information in urban growth across borders",
+      "paper_id": "2610.31159v1"
+    },
+    "2610.30886v1": {
+      "title": "The Reaction of Financial Markets to the Releases of DeepSeek R1 and Kimi K3: A Critical Analysis",
+      "paper_id": "2610.30886v1"
+    },
+    "2610.30858v1": {
+      "title": "Joules-to-GDP: How Much Economic Value Do AI Systems Produce per Unit of Energy?",
+      "paper_id": "2610.30858v1"
+    },
+    "2610.30752v1": {
+      "title": "The Delegation Divide: An Open Index of AI-Agent Delegability across Occupations and Countries",
+      "paper_id": "2610.30752v1"
+    },
+    "2610.30527v1": {
+      "title": "Austerity, Gender, and Multidimensional Deprivation Among Older Europeans: Evidence from SHARE",
+      "paper_id": "2610.30527v1"
+    },
+    "2610.30307v1": {
+      "title": "The Customer Is the Builder: How AI Coding Agents Are Rewriting the Economics of Software",
+      "paper_id": "2610.30307v1"
+    },
+    "2610.31537v1": {
+      "title": "Causal inference in staggered adoption panels: The correct comparison set depends on your intervention",
+      "paper_id": "2610.31537v1"
+    },
+    "2610.31106v1": {
+      "title": "Testing for peer effects in short panels without identifying the network structure",
+      "paper_id": "2610.31106v1"
+    },
+    "2610.31418v1": {
+      "title": "A Resource Allocation Tournament",
+      "paper_id": "2610.31418v1"
+    },
+    "2610.30487v1": {
+      "title": "Monetary Policy Forecast Errors and Inflation Compensation under Sovereign Stress in Brazil",
+      "paper_id": "2610.30487v1"
+    },
+    "2610.30956v1": {
+      "title": "Risk Sensitivity and Stationary Equilibrium in Incomplete Markets",
+      "paper_id": "2610.30956v1"
+    },
+    "2610.30807v1": {
+      "title": "A Weakly Group Strategy-Proof and Pareto-Stable Matching Mechanism with Two-Sided Indifferences under Gross Substitutes",
+      "paper_id": "2610.30807v1"
+    },
+    "2610.30563v1": {
+      "title": "Selling Evidence Bit by Bit",
+      "paper_id": "2610.30563v1"
+    },
+    "2610.30408v1": {
+      "title": "The Limits of Price Discrimination When the Market Is Unknown",
+      "paper_id": "2610.30408v1"
+    },
+    "2610.30324v1": {
+      "title": "Paying for Information, Not for Clicks: A Block-Level Publisher Content Marketplace for AI Answers",
+      "paper_id": "2610.30324v1"
+    },
+    "2610.31038v1": {
+      "title": "Multichoice Modeling: Exploring Decision Configuration Space under Uncertainty",
+      "paper_id": "2610.31038v1"
+    },
+    "2610.31141v1": {
+      "title": "Intraday Forecasting Ability and Liquidity Provision of Institutional Traders",
+      "paper_id": "2610.31141v1"
+    },
+    "W7223094155": {
+      "title": "Impact of Proposed UPI Transaction Fees on Digital Payment Adoption and Market Dynamics in India: An Empirical Study",
+      "paper_id": "https://doi.org/10.21203/rs.3.rs-11449824/v1"
+    },
+    "W7223115472": {
+      "title": "Empirical Evaluation of Credit Risk Mitigation and MSME Asset Quality in Gujarat",
+      "paper_id": "https://doi.org/10.5281/zenodo.23540548"
     }
   },
   "edges": [

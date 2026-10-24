@@ -7943,6 +7943,22 @@
     "W7223115472": {
       "title": "Empirical Evaluation of Credit Risk Mitigation and MSME Asset Quality in Gujarat",
       "paper_id": "https://doi.org/10.5281/zenodo.23540548"
+    },
+    "repec:RePEc:ris:adbewp:023850": {
+      "title": "Well-Being Losses from Coastal Hazards",
+      "paper_id": "repec:RePEc:ris:adbewp:023850"
+    },
+    "repec:RePEc:ces:ceswps:_13071": {
+      "title": "Foreign Ownership and Occupational Safety: Evidence from France",
+      "paper_id": "repec:RePEc:ces:ceswps:_13071"
+    },
+    "repec:RePEc:ces:ceswps:_13072": {
+      "title": "The Role of Employment and Redistribution for Lifetime Income Inequality in Denmark",
+      "paper_id": "repec:RePEc:ces:ceswps:_13072"
+    },
+    "repec:RePEc:fip:fedpwp:103963": {
+      "title": "The Welfare Impacts of Urban Renewal and Forced Relocation: Evidence from Chicago’s HOPE VI Demolitions",
+      "paper_id": "repec:RePEc:fip:fedpwp:103963"
     }
   },
   "edges": [

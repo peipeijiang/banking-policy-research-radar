@@ -7364,10 +7364,6 @@
       "title": "FEDS Paper: A Macroeconomic Analysis of Household Labor Supply Responses to Large Fiscal Transfers",
       "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/a-macroeconomic-analysis-of-household-labor-supply-responses-to-large-fiscal-transfers.htm"
     },
-    "repec:RePEc:boe:boeewp:023787": {
-      "title": "Navigating climate policy shocks: optimal monetary policy responses",
-      "paper_id": "repec:RePEc:boe:boeewp:023787"
-    },
     "repec:RePEc:boe:boeewp:023786": {
       "title": "Domestic and foreign insurer corporate bond demand and monetary policy",
       "paper_id": "repec:RePEc:boe:boeewp:023786"
@@ -7959,6 +7955,18 @@
     "repec:RePEc:fip:fedpwp:103963": {
       "title": "The Welfare Impacts of Urban Renewal and Forced Relocation: Evidence from Chicago’s HOPE VI Demolitions",
       "paper_id": "repec:RePEc:fip:fedpwp:103963"
+    },
+    "repec:RePEc:ces:ceswps:_13069": {
+      "title": "Transition Risk in Emerging Economies",
+      "paper_id": "repec:RePEc:ces:ceswps:_13069"
+    },
+    "repec:RePEc:ces:ceswps:_13070": {
+      "title": "Football Tournaments and Economic Sentiment: Cross-Country Evidence from Europe",
+      "paper_id": "repec:RePEc:ces:ceswps:_13070"
+    },
+    "repec:RePEc:zbw:bubdps:344219": {
+      "title": "Navigating climate policy shocks: Optimal monetary policy responses",
+      "paper_id": "repec:RePEc:zbw:bubdps:344219"
     }
   },
   "edges": [

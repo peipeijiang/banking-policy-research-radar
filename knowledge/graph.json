@@ -7844,10 +7844,6 @@
       "title": "Dynamic Programming for Value-at-Risk Markov Decision Processes in Continuous Spaces",
       "paper_id": "2610.24439v2"
     },
-    "2610.29652v1": {
-      "title": "Distributions or Quantiles? A Convex Variational Theory of Worst-Case Risk",
-      "paper_id": "2610.29652v1"
-    },
     "W7222929085": {
       "title": "Determinants of Common Stock Prices: Evidence from NEPSE-Listed Commercial Banks in Nepal",
       "paper_id": "https://doi.org/10.3126/irjmmc.v7i4.101350"
@@ -7967,6 +7963,90 @@
     "repec:RePEc:zbw:bubdps:344219": {
       "title": "Navigating climate policy shocks: Optimal monetary policy responses",
       "paper_id": "repec:RePEc:zbw:bubdps:344219"
+    },
+    "2610.32355v1": {
+      "title": "AI-Augmented Research: Free to Write, Costly to Read",
+      "paper_id": "2610.32355v1"
+    },
+    "2610.32455v1": {
+      "title": "Delayed Retirement, Intergenerational Transfers, and Fertility",
+      "paper_id": "2610.32455v1"
+    },
+    "2610.32300v1": {
+      "title": "Jawboning the Fed: Do Markets Listen When Administrations Talk?",
+      "paper_id": "2610.32300v1"
+    },
+    "2610.31693v1": {
+      "title": "When AI Gets Cheaper, Do Prices Follow? Information Delays and Algorithmic Pricing",
+      "paper_id": "2610.31693v1"
+    },
+    "2610.32846v1": {
+      "title": "Local Polynomial Estimation in Irregular Correlated Random Coefficient Panel Data Models",
+      "paper_id": "2610.32846v1"
+    },
+    "2610.32735v1": {
+      "title": "Optimal Treatment Assignment Rules on Networked Populations",
+      "paper_id": "2610.32735v1"
+    },
+    "2610.31978v1": {
+      "title": "Parallel Trends as a Spectrum",
+      "paper_id": "2610.31978v1"
+    },
+    "2610.32963v1": {
+      "title": "Fiscal Dominance and Global Determinacy",
+      "paper_id": "2610.32963v1"
+    },
+    "2610.32958v1": {
+      "title": "Information Requirements for Resolving Implementation Impossibilities",
+      "paper_id": "2610.32958v1"
+    },
+    "2610.32945v1": {
+      "title": "Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms",
+      "paper_id": "2610.32945v1"
+    },
+    "2610.32877v1": {
+      "title": "A metric on solutions of the bargaining problem",
+      "paper_id": "2610.32877v1"
+    },
+    "2610.32681v1": {
+      "title": "Optimal Random Taxation",
+      "paper_id": "2610.32681v1"
+    },
+    "2610.31817v1": {
+      "title": "Dynamic Test Design",
+      "paper_id": "2610.31817v1"
+    },
+    "2610.32959v1": {
+      "title": "Optimal collective investment under regulatory uncertainty",
+      "paper_id": "2610.32959v1"
+    },
+    "2610.32614v1": {
+      "title": "Risk Adequacy and Anti-Discrimination in Insurance Pricing: Classification, Aggregation, and Transfers",
+      "paper_id": "2610.32614v1"
+    },
+    "2610.29652v2": {
+      "title": "Distributions or Quantiles? A Convex Variational Theory of Worst-Case Risk",
+      "paper_id": "2610.29652v2"
+    },
+    "W7223452193": {
+      "title": "Integrity in Exit, Turmoil in Markets: Decoding Trust and the Plunging Valuation of HDFC Bank",
+      "paper_id": "https://doi.org/10.66635/d93dhk67"
+    },
+    "W7223466422": {
+      "title": "Financial Market Stress and Monetary Policy Transmission in Nigeria: Evidence from Regime-Switching Models and Machine Learning.",
+      "paper_id": "https://doi.org/10.17148/iarjset.2026.131050"
+    },
+    "W7223287827": {
+      "title": "The Role of Inflation Targeting in Placement of Household Savings in Nominal Contracts",
+      "paper_id": "https://doi.org/10.18288/1994-5124-2026-5-142-173"
+    },
+    "repec:RePEc:ces:ceswps:_13068": {
+      "title": "Global Hydropower Exposure to Rainfall Variability: Historical Estimates and the 2026/27 El Niño",
+      "paper_id": "repec:RePEc:ces:ceswps:_13068"
+    },
+    "repec:RePEc:ces:ceswps:_13067": {
+      "title": "Political Incentives in Local Tax Setting: Evidence from the German Property Tax Reform",
+      "paper_id": "repec:RePEc:ces:ceswps:_13067"
     }
   },
   "edges": [
@@ -38703,6 +38783,171 @@
     {
       "from": "W7222406733",
       "to": "W4394594704",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W1492251865",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W1508560261",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W1966913009",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W2029986756",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W2057013615",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W2058768260",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W2095309736",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W2117338956",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W2138647346",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W2166136702",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W2168389395",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W2171440378",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W2418576930",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W2892197067",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W3022712314",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W3122172149",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W3122315136",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W3123454197",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W3125135614",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W3125526182",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W3200718188",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W4205867812",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W4226149544",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W4387246965",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W4399260386",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W4407192444",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W4414113893",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W7116838047",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W7117713097",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W7128293916",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W7143539415",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W7160256801",
+      "type": "cites"
+    },
+    {
+      "from": "W7223287827",
+      "to": "W7160312836",
       "type": "cites"
     }
   ]

@@ -8104,10 +8104,6 @@
       "title": "Higher-Order Marginal Likelihood Approximation for Nonlinear State Space Models",
       "paper_id": "2610.34629v1"
     },
-    "2610.34547v1": {
-      "title": "Demand Estimation with Unobserved Stockout Substitution: Exact Likelihood Maximization",
-      "paper_id": "2610.34547v1"
-    },
     "2610.34198v1": {
       "title": "Testing for Essential Heterogeneity in the Marginal Treatment Effects Model",
       "paper_id": "2610.34198v1"
@@ -8199,6 +8195,114 @@
     "repec:RePEc:ces:ceswps:_13065": {
       "title": "Dynamic Identification of Sovereign Facilitators in International Corporate Tax Avoidance",
       "paper_id": "repec:RePEc:ces:ceswps:_13065"
+    },
+    "2610.37306v1": {
+      "title": "Climate change, sea level rise, and the agricultural revolution",
+      "paper_id": "2610.37306v1"
+    },
+    "2610.37445v1": {
+      "title": "Hosting is not capturing: an exposure-capability framework and Hungary's electric-vehicle battery bet",
+      "paper_id": "2610.37445v1"
+    },
+    "2610.36171v1": {
+      "title": "From Tariff Changes to Trade Effects: A Practical Framework for Empirical Trade Policy Analysis",
+      "paper_id": "2610.36171v1"
+    },
+    "2610.36008v1": {
+      "title": "Practice Makes Perfect: Tacit Knowledge, Generative AI, and Returns to Schooling and Experience",
+      "paper_id": "2610.36008v1"
+    },
+    "2610.35986v1": {
+      "title": "Leveraging US Commercial Adjustments: MFN Tariffs and Trade Diversion",
+      "paper_id": "2610.35986v1"
+    },
+    "2610.37487v1": {
+      "title": "Contemporaneous Transmission Networks and Systemic Risk in European Banking",
+      "paper_id": "2610.37487v1"
+    },
+    "2610.37269v1": {
+      "title": "Personal preference or system role? Battery swapping among UK electric vehicle users",
+      "paper_id": "2610.37269v1"
+    },
+    "2610.37049v1": {
+      "title": "Identifying and disentangling direct and spillover effects using multiple pre-treatment periods",
+      "paper_id": "2610.37049v1"
+    },
+    "2610.36739v1": {
+      "title": "A Semiparametric Real-Time GARCH Model with Nonstationary Variance",
+      "paper_id": "2610.36739v1"
+    },
+    "2610.36634v1": {
+      "title": "Time-Varying Quantile VAR Models: Estimation and Inference",
+      "paper_id": "2610.36634v1"
+    },
+    "2610.36443v1": {
+      "title": "Bias Correction and Inference for Panel Quantile Regression",
+      "paper_id": "2610.36443v1"
+    },
+    "2610.36352v1": {
+      "title": "Many Hands Make Light Work: Long-Term Effect Inference for the Experiment Reservoir",
+      "paper_id": "2610.36352v1"
+    },
+    "2610.36206v1": {
+      "title": "Indirect inference in incomplete and partially identified econometric models",
+      "paper_id": "2610.36206v1"
+    },
+    "2610.36176v1": {
+      "title": "Probabilistic Causal Panel Analysis",
+      "paper_id": "2610.36176v1"
+    },
+    "2610.36093v1": {
+      "title": "Testing strong exogeneity in proxy SVARs with internal synthetic proxies",
+      "paper_id": "2610.36093v1"
+    },
+    "2610.34547v2": {
+      "title": "Demand Estimation with Unobserved Stockout Substitution: Exact Likelihood Maximization",
+      "paper_id": "2610.34547v2"
+    },
+    "2610.36941v1": {
+      "title": "Algorithmic Monoculture in Machine Learning-based Site-Specific Fertilizer Recommendation",
+      "paper_id": "2610.36941v1"
+    },
+    "2610.36712v1": {
+      "title": "Characterizing Maximum Nash Welfare: Envy-Freeness and Proportionality",
+      "paper_id": "2610.36712v1"
+    },
+    "2610.36490v1": {
+      "title": "Mediated Disclosure",
+      "paper_id": "2610.36490v1"
+    },
+    "2610.36629v1": {
+      "title": "Sybil-Proofness of Generalized Adaptive Clinching and Implications for Blockchain Mechanism Design",
+      "paper_id": "2610.36629v1"
+    },
+    "2610.36112v1": {
+      "title": "Degrading the Grade: Grading Variance as Evidence of Shirking",
+      "paper_id": "2610.36112v1"
+    },
+    "2610.36244v1": {
+      "title": "Optimally Selling Heterogeneous Objects by Quantity",
+      "paper_id": "2610.36244v1"
+    },
+    "2610.37171v1": {
+      "title": "An Application of Geometric Riemannian Pricing Algorithm for Valuing Catastrophe Bonds in Incomplete Markets: Market-Consistent Financial Entropy and the Split of Frequency and Severity Risk Premia",
+      "paper_id": "2610.37171v1"
+    },
+    "2610.36473v1": {
+      "title": "Risk measures for infinite-server queues driven by a Cox-BESQ process",
+      "paper_id": "2610.36473v1"
+    },
+    "W7223556315": {
+      "title": "Disinflation Costs in Africa: The Role of Policy Design and Monetary Institutions",
+      "paper_id": "https://doi.org/10.1111/1467-8268.70081"
+    },
+    "W7223565116": {
+      "title": "Monetary Policy Transmission in the Real Economy: A Cross-Country Comparison of Developed and Emerging Economies",
+      "paper_id": "https://doi.org/10.11648/j.ijber.20261505.14"
+    },
+    "repec:RePEc:ris:adbewp:023856": {
+      "title": "Coastal Flooding and Wealth in Asia and the Pacific",
+      "paper_id": "repec:RePEc:ris:adbewp:023856"
     }
   },
   "edges": [
@@ -39100,6 +39204,186 @@
     {
       "from": "W7223287827",
       "to": "W7160312836",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W1991865067",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W2014760587",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W2023346308",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W2032175972",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W2131396510",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W2157135202",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W2168876779",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W2797048910",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W2970340327",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W2995869355",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W2995926647",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W3086012186",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W3121450656",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W3122259252",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W3122362347",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W3123910842",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W3124115106",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W3125135614",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W3125446901",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W3130550223",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W3140044363",
+      "type": "cites"
+    },
+    {
+      "from": "W7223556315",
+      "to": "W4231759421",
+      "type": "cites"
+    },
+    {
+      "from": "W7223565116",
+      "to": "W197943412",
+      "type": "cites"
+    },
+    {
+      "from": "W7223565116",
+      "to": "W1980378218",
+      "type": "cites"
+    },
+    {
+      "from": "W7223565116",
+      "to": "W2048267822",
+      "type": "cites"
+    },
+    {
+      "from": "W7223565116",
+      "to": "W2107940899",
+      "type": "cites"
+    },
+    {
+      "from": "W7223565116",
+      "to": "W2115657206",
+      "type": "cites"
+    },
+    {
+      "from": "W7223565116",
+      "to": "W2605537144",
+      "type": "cites"
+    },
+    {
+      "from": "W7223565116",
+      "to": "W2791959148",
+      "type": "cites"
+    },
+    {
+      "from": "W7223565116",
+      "to": "W2890502708",
+      "type": "cites"
+    },
+    {
+      "from": "W7223565116",
+      "to": "W2974649701",
+      "type": "cites"
+    },
+    {
+      "from": "W7223565116",
+      "to": "W3121135941",
+      "type": "cites"
+    },
+    {
+      "from": "W7223565116",
+      "to": "W3121935849",
+      "type": "cites"
+    },
+    {
+      "from": "W7223565116",
+      "to": "W3123655378",
+      "type": "cites"
+    },
+    {
+      "from": "W7223565116",
+      "to": "W4230505797",
+      "type": "cites"
+    },
+    {
+      "from": "W7223565116",
+      "to": "W4377224099",
       "type": "cites"
     }
   ]

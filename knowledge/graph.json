@@ -8303,6 +8303,10 @@
     "repec:RePEc:ris:adbewp:023856": {
       "title": "Coastal Flooding and Wealth in Asia and the Pacific",
       "paper_id": "repec:RePEc:ris:adbewp:023856"
+    },
+    "worldbank:40136184": {
+      "title": "Education and Poverty Reduction",
+      "paper_id": "worldbank:40136184"
     }
   },
   "edges": [

@@ -8224,10 +8224,6 @@
       "title": "Personal preference or system role? Battery swapping among UK electric vehicle users",
       "paper_id": "2610.37269v1"
     },
-    "2610.37049v1": {
-      "title": "Identifying and disentangling direct and spillover effects using multiple pre-treatment periods",
-      "paper_id": "2610.37049v1"
-    },
     "2610.36739v1": {
       "title": "A Semiparametric Real-Time GARCH Model with Nonstationary Variance",
       "paper_id": "2610.36739v1"
@@ -8307,6 +8303,146 @@
     "worldbank:40136184": {
       "title": "Education and Poverty Reduction",
       "paper_id": "worldbank:40136184"
+    },
+    "2610.40324v1": {
+      "title": "Crowds Believe in You: Online Prediction Markets Overestimate How Often People Achieve Their Own Goals",
+      "paper_id": "2610.40324v1"
+    },
+    "2610.40650v1": {
+      "title": "When Does Storage Complement Solar? Investment and Cost Recovery under Advanced Net Metering",
+      "paper_id": "2610.40650v1"
+    },
+    "2610.39844v1": {
+      "title": "When are complements and substitutes dual?",
+      "paper_id": "2610.39844v1"
+    },
+    "2610.40312v1": {
+      "title": "A Proof for Generalized Egalitarianism",
+      "paper_id": "2610.40312v1"
+    },
+    "2610.39843v1": {
+      "title": "Did the energy crisis turn borrowers green? Zonal power prices and green bond choice on Oslo Børs",
+      "paper_id": "2610.39843v1"
+    },
+    "2610.39375v1": {
+      "title": "What is Work For? Labor, Politics, and Meaning in the Age of AI",
+      "paper_id": "2610.39375v1"
+    },
+    "2610.38997v1": {
+      "title": "Capital growth since the 19th century",
+      "paper_id": "2610.38997v1"
+    },
+    "2610.39097v1": {
+      "title": "Measuring Longer-Horizon Leveraged ETF Performance",
+      "paper_id": "2610.39097v1"
+    },
+    "2610.38883v1": {
+      "title": "Can Artificial Intelligence Forecast Treatment Effects in Economics?",
+      "paper_id": "2610.38883v1"
+    },
+    "2610.38365v1": {
+      "title": "Pawnshops and Property-Related Crime: Lessons from Interwar Tokyo",
+      "paper_id": "2610.38365v1"
+    },
+    "2610.40582v1": {
+      "title": "Optimal Policy With Noisy Sufficient Statistics",
+      "paper_id": "2610.40582v1"
+    },
+    "2610.40047v1": {
+      "title": "Smooth Threshold GARCH: Quasi Maximum Likelihood Estimation and Empirical Evidence",
+      "paper_id": "2610.40047v1"
+    },
+    "2610.39995v1": {
+      "title": "How Different are Different Differences-in-Differences? A Large-Scale Meta-Analysis",
+      "paper_id": "2610.39995v1"
+    },
+    "2610.39871v1": {
+      "title": "Threshold Regression with a Nearly Integrated Threshold Variable",
+      "paper_id": "2610.39871v1"
+    },
+    "2610.38965v1": {
+      "title": "Orthogonal Inference for Conditional Z-Estimation without Cross-Fitting: A Distributional Nearest-Neighbor Approach",
+      "paper_id": "2610.38965v1"
+    },
+    "2610.38896v1": {
+      "title": "The Hidden Value of Soft Infrastructure for Urban Flood Adaptation",
+      "paper_id": "2610.38896v1"
+    },
+    "2610.38665v1": {
+      "title": "Quantile Methods in Large Panels with Fixed Effects",
+      "paper_id": "2610.38665v1"
+    },
+    "2610.38529v1": {
+      "title": "Debiasing Functionals of Conditional Distributions",
+      "paper_id": "2610.38529v1"
+    },
+    "2610.37883v1": {
+      "title": "fastC-GC and fastC-GC*: Efficient RCCP-Guided Graph Estimation for Time Series",
+      "paper_id": "2610.37883v1"
+    },
+    "2610.37049v2": {
+      "title": "Identifying and disentangling direct and spillover effects using multiple pre-treatment periods",
+      "paper_id": "2610.37049v2"
+    },
+    "2610.40626v1": {
+      "title": "Finding Competitive Equilibria in Online Marketplaces with Platform Fees, Taxes, and Subsidies",
+      "paper_id": "2610.40626v1"
+    },
+    "2610.40243v1": {
+      "title": "Recognizing Dominance through Local Improvement",
+      "paper_id": "2610.40243v1"
+    },
+    "2610.40230v1": {
+      "title": "Who Says What: Strategic Communication in Networks",
+      "paper_id": "2610.40230v1"
+    },
+    "2610.39198v1": {
+      "title": "Persistence of Bounded Rationality in Financial Markets: An Evolutionary Game-Theoretic Model",
+      "paper_id": "2610.39198v1"
+    },
+    "2610.39139v1": {
+      "title": "The Welfare Limits of Market Segmentation with Captive Consumers",
+      "paper_id": "2610.39139v1"
+    },
+    "2610.38824v1": {
+      "title": "The existence of anonymous, stationary, monotone social welfare functions satisfying restricted dominance: an answer to an open question in intergenerational equity",
+      "paper_id": "2610.38824v1"
+    },
+    "2610.38487v1": {
+      "title": "Simultaneous Gradient Learning in First-Price Auctions",
+      "paper_id": "2610.38487v1"
+    },
+    "2610.38290v1": {
+      "title": "When an effort-maximizing team architecture is unstable",
+      "paper_id": "2610.38290v1"
+    },
+    "2610.38170v1": {
+      "title": "How to Pick a Model if You Must",
+      "paper_id": "2610.38170v1"
+    },
+    "2610.38263v1": {
+      "title": "Optimal Information Disclosure in Classic Auctions Revisited: Endogenous Information Acquisition and Costly Verification",
+      "paper_id": "2610.38263v1"
+    },
+    "2610.38098v1": {
+      "title": "A Sequential Foundation for Two-Level Nested Logit",
+      "paper_id": "2610.38098v1"
+    },
+    "2610.39636v1": {
+      "title": "Information Flow and Market Risk: Transformer-Based Evidence on Sentiment and Volatility Dynamics",
+      "paper_id": "2610.39636v1"
+    },
+    "2610.38084v1": {
+      "title": "CADENCE: Distributional Next-Transaction Forecasting for Business Cash-Flow Underwriting",
+      "paper_id": "2610.38084v1"
+    },
+    "2610.37705v1": {
+      "title": "Decorrelating the Advice Layer: A Calibrated Fragility Metric and Tested Mitigations for Synchronized Liquidation in Agentic Wealth Management",
+      "paper_id": "2610.37705v1"
+    },
+    "2610.38631v1": {
+      "title": "Right Numbers, Wrong Questions: Evaluating LLMs on Underspecified Financial Queries",
+      "paper_id": "2610.38631v1"
     }
   },
   "edges": [

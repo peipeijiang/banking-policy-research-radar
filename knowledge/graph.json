@@ -8443,6 +8443,30 @@
     "2610.38631v1": {
       "title": "Right Numbers, Wrong Questions: Evaluating LLMs on Underspecified Financial Queries",
       "paper_id": "2610.38631v1"
+    },
+    "W7224579909": {
+      "title": "Inflation Dynamics and Monetary Security: Implications for Macroeconomic Stability and Household Welfare",
+      "paper_id": "https://doi.org/10.5281/zenodo.23762849"
+    },
+    "W7224473475": {
+      "title": "DIGITAL BANKING ADOPTION AND THE FINANCIAL PERFORMANCE OF COMMERCIAL BANKS IN MOGADISHU, SOMALIA Abdikafi Mohamud Ahmed, Dr. Chukwuemeka O Agwu",
+      "paper_id": "https://doi.org/10.5281/zenodo.23763641"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3303~10146acd61.en.pdf": {
+      "title": "The effects of geopolitical risk on sovereign debt holders in the euro area",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3303~10146acd61.en.pdf"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/measuring-consumption-with-credit-card-data-benchmarking-and-beyond.htm": {
+      "title": "FEDS Paper: Measuring Consumption with Credit Card Data: Benchmarking and Beyond",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/measuring-consumption-with-credit-card-data-benchmarking-and-beyond.htm"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/ifdp/when-and-for-whom-does-the-sovereign-bank-nexus-matter-evidence-from-post-crisis-europe.htm": {
+      "title": "IFDP Paper: When and for Whom Does the Sovereign-Bank Nexus Matter? Evidence from Post-Crisis Europe",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/ifdp/when-and-for-whom-does-the-sovereign-bank-nexus-matter-evidence-from-post-crisis-europe.htm"
+    },
+    "worldbank:40136690": {
+      "title": "The Transparency Tax : Discouraging Firm Ownership via Tax Havens",
+      "paper_id": "worldbank:40136690"
     }
   },
   "edges": [

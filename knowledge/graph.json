@@ -8587,6 +8587,278 @@
     "repec:RePEc:ces:ceswps:_13093": {
       "title": "Growing Pains: The Unequal Costs of Infrastructure Modernization",
       "paper_id": "repec:RePEc:ces:ceswps:_13093"
+    },
+    "2611.02959v1": {
+      "title": "Labor Market Returns to Education and Intra-family Educational Inequality: Theory and Experimental Evidence",
+      "paper_id": "2611.02959v1"
+    },
+    "2611.02960v1": {
+      "title": "Leverage Dynamics in Product-Market Networks",
+      "paper_id": "2611.02960v1"
+    },
+    "2611.02647v1": {
+      "title": "Public salience mobilizes nationwide responses to violence against women",
+      "paper_id": "2611.02647v1"
+    },
+    "2611.02623v1": {
+      "title": "Ask More, Hear Less: How a Review Prompt Changes What Online Ratings Show",
+      "paper_id": "2611.02623v1"
+    },
+    "2611.02592v1": {
+      "title": "Estimating Rail Commuter Preferences under Endogenous Crowding: A Population Game Approach to Train Choice in Tokyo",
+      "paper_id": "2611.02592v1"
+    },
+    "2611.02533v1": {
+      "title": "Local and Neighboring Food Retail Supply and Population across Japan's Municipalities",
+      "paper_id": "2611.02533v1"
+    },
+    "2611.02302v1": {
+      "title": "Owning What Can Quit",
+      "paper_id": "2611.02302v1"
+    },
+    "2611.02033v1": {
+      "title": "How Green Is Your Manifesto? Scoring Environmental Positions in the 2024 EU Elections with an LLM Panel",
+      "paper_id": "2611.02033v1"
+    },
+    "2611.01829v1": {
+      "title": "Same Text, Different Filename: Are LLM Judges Biased?",
+      "paper_id": "2611.01829v1"
+    },
+    "2611.01750v1": {
+      "title": "The maximum concentration of results in incomplete round-robin tournaments",
+      "paper_id": "2611.01750v1"
+    },
+    "2611.01706v1": {
+      "title": "Agent-Based Disruption Simulation on an Edge-Level Product-Annotated Supply Network of the Automotive Industry",
+      "paper_id": "2611.01706v1"
+    },
+    "2611.01540v1": {
+      "title": "Social Networks and the Propagation of Household Shocks to Asset Prices",
+      "paper_id": "2611.01540v1"
+    },
+    "2611.01392v1": {
+      "title": "The Costs and Benefits of Leveraged ETFs",
+      "paper_id": "2611.01392v1"
+    },
+    "2611.01329v1": {
+      "title": "Floods and the Duplication of Production: Evidence from the Global Car Industry",
+      "paper_id": "2611.01329v1"
+    },
+    "2611.01286v1": {
+      "title": "An analytical model to explain under which conditions home batteries create new load peaks in the local grid",
+      "paper_id": "2611.01286v1"
+    },
+    "2611.01226v1": {
+      "title": "Learning about Markets from Models: Evidence from an AI Hiring Platform",
+      "paper_id": "2611.01226v1"
+    },
+    "2611.00673v1": {
+      "title": "Dynamic investment in disaster preparedness under recurrent and catastrophic risks",
+      "paper_id": "2611.00673v1"
+    },
+    "2611.00661v1": {
+      "title": "Designing Behavioral Profiles for Language Model Simulation of Out-of-Distribution Human Behavior",
+      "paper_id": "2611.00661v1"
+    },
+    "2611.00630v1": {
+      "title": "Accessibility to Higher Education and Inter-regional Mobility",
+      "paper_id": "2611.00630v1"
+    },
+    "2611.00462v1": {
+      "title": "Siting and Curtailment Depth Limit the Grid Headroom Available to New Large Loads",
+      "paper_id": "2611.00462v1"
+    },
+    "2611.00256v1": {
+      "title": "Validating LLM-Generated Synthetic Survey Samples: A Use-Dependent Multi-Dimensional Framework for Social-Science Applications",
+      "paper_id": "2611.00256v1"
+    },
+    "2611.03550v1": {
+      "title": "Unconfoundedness as an Information Constraint",
+      "paper_id": "2611.03550v1"
+    },
+    "2611.03391v1": {
+      "title": "Specification LASSO and a Flexible Characteristics-Based Asset Pricing Model",
+      "paper_id": "2611.03391v1"
+    },
+    "2611.03079v1": {
+      "title": "When Covariates Mask Pre-Trends",
+      "paper_id": "2611.03079v1"
+    },
+    "2611.03345v1": {
+      "title": "Sharp Identification for Regression with Interval-Observed and Missing Covariates",
+      "paper_id": "2611.03345v1"
+    },
+    "2611.03075v1": {
+      "title": "Sharp Fréchet--Hoeffding Bounds under Selectively Incomplete Observation",
+      "paper_id": "2611.03075v1"
+    },
+    "2611.02716v1": {
+      "title": "Conditional expectile-based value-at-risk: Semiparametric estimation and inference",
+      "paper_id": "2611.02716v1"
+    },
+    "2611.02443v1": {
+      "title": "Selective Randomization Inference for Interference",
+      "paper_id": "2611.02443v1"
+    },
+    "2611.02061v1": {
+      "title": "Looking Forward to Constructing Better Causal Comparisons",
+      "paper_id": "2611.02061v1"
+    },
+    "2611.02048v1": {
+      "title": "Minimax-Optimal Static Estimators Under Interference",
+      "paper_id": "2611.02048v1"
+    },
+    "2611.02029v1": {
+      "title": "Does Calibration Pick the Right Model? Likelihood Evidence from Income Risk",
+      "paper_id": "2611.02029v1"
+    },
+    "2611.01857v1": {
+      "title": "Inference for conditional Fréchet means via Riemannian Robust Bias Correction",
+      "paper_id": "2611.01857v1"
+    },
+    "2611.01854v1": {
+      "title": "Exploiting Locally Exogeneous Variation in Spatial Data: Linear Regression with Many Small Units",
+      "paper_id": "2611.01854v1"
+    },
+    "2611.01806v1": {
+      "title": "Testing Exogeneity in Nonparametric Instrumental Variable Models",
+      "paper_id": "2611.01806v1"
+    },
+    "2611.01799v1": {
+      "title": "Learning AI Agents, Market Makers, and Stress in Automated Markets",
+      "paper_id": "2611.01799v1"
+    },
+    "2611.00705v1": {
+      "title": "Estimating Average Treatment Effects with Projected Instrumental Variables",
+      "paper_id": "2611.00705v1"
+    },
+    "2611.00677v1": {
+      "title": "When Does $N$ Buy Precision? Heterogeneous Responses to Aggregate Shocks in Micro Panels",
+      "paper_id": "2611.00677v1"
+    },
+    "2611.00348v1": {
+      "title": "Robustness of Median-based Splitting Rules for Causal Trees",
+      "paper_id": "2611.00348v1"
+    },
+    "2611.00338v1": {
+      "title": "Reading the Count: Prediction Markets and Brazil's 2026 Presidential Election",
+      "paper_id": "2611.00338v1"
+    },
+    "2611.03251v1": {
+      "title": "On the difficulty of characterizing top trading cycles with identical houses",
+      "paper_id": "2611.03251v1"
+    },
+    "2611.03409v1": {
+      "title": "On inverse aggregate network assignment games",
+      "paper_id": "2611.03409v1"
+    },
+    "2611.02984v1": {
+      "title": "Classification Aggregation with Multiple Memberships",
+      "paper_id": "2611.02984v1"
+    },
+    "2611.02910v1": {
+      "title": "The Market for AI-Assisted Signaling",
+      "paper_id": "2611.02910v1"
+    },
+    "2611.02845v1": {
+      "title": "Persuasion by Parts",
+      "paper_id": "2611.02845v1"
+    },
+    "2611.02635v1": {
+      "title": "The Market and the Jungle",
+      "paper_id": "2611.02635v1"
+    },
+    "2611.02504v1": {
+      "title": "Nought Venture, Nought Have: Risk Taking and Efficient Investment in Matching Markets",
+      "paper_id": "2611.02504v1"
+    },
+    "2611.02565v1": {
+      "title": "Comparing the Empirical Content of Economic Theories",
+      "paper_id": "2611.02565v1"
+    },
+    "2611.02265v1": {
+      "title": "The Verification Bottleneck",
+      "paper_id": "2611.02265v1"
+    },
+    "2611.02292v1": {
+      "title": "Why Good Experience Can End Joint Activity",
+      "paper_id": "2611.02292v1"
+    },
+    "2611.01431v1": {
+      "title": "Longest-Queue Policies in Dynamic Matching with Abandonments",
+      "paper_id": "2611.01431v1"
+    },
+    "2611.01195v1": {
+      "title": "Recommendations with Costly Verification",
+      "paper_id": "2611.01195v1"
+    },
+    "2611.00708v1": {
+      "title": "von Neumann-Morgenstern stable sets in job matching problems",
+      "paper_id": "2611.00708v1"
+    },
+    "2611.01037v1": {
+      "title": "Contracting for Experimentation with Private Findings",
+      "paper_id": "2611.01037v1"
+    },
+    "2611.00542v1": {
+      "title": "Multiplicity and Uniqueness of Stationary Expected Payoffs in Coalitional Bargaining",
+      "paper_id": "2611.00542v1"
+    },
+    "2611.03022v1": {
+      "title": "Interpretable Allocation and Model-Predictive Rebalancing of Equity Portfolios, Tested on Real and Synthetic Markets",
+      "paper_id": "2611.03022v1"
+    },
+    "2611.01886v1": {
+      "title": "The Laplace transform of the time of ruin in the Cramér--Lundberg model with Erlang $E_2(μ)$ claims: spectrum, exact moments and matrix reduction",
+      "paper_id": "2611.01886v1"
+    },
+    "2611.01236v1": {
+      "title": "RiskReason: A Benchmark for Verifiable Financial Risk Reasoning",
+      "paper_id": "2611.01236v1"
+    },
+    "2611.01003v1": {
+      "title": "Robust distortion riskmetrics under symmetry, unimodality, and Wasserstein constraints",
+      "paper_id": "2611.01003v1"
+    },
+    "2611.00958v1": {
+      "title": "Quantifying Repair Risk in Crypto Option Surfaces",
+      "paper_id": "2611.00958v1"
+    },
+    "2611.00855v1": {
+      "title": "Approximate clearing in financial networks with credit default swaps: hardness thresholds, a box algorithm, barriers, and exact solvency at bounded degree",
+      "paper_id": "2611.00855v1"
+    },
+    "2611.01185v1": {
+      "title": "Boom-Busty Marketron as a Model of Market Dynamics: How Investor-Market Reflexivity Amplifies Non-Equilibrium",
+      "paper_id": "2611.01185v1"
+    },
+    "W7225036070": {
+      "title": "CRYPTOCURRENCY REGULATION AND MONETARY POLICY TRADE-OFFS IN TRANSITION ECONOMIES",
+      "paper_id": "https://doi.org/10.5281/zenodo.23855244"
+    },
+    "W7225003731": {
+      "title": "International Remittances, Monetary Policy and Unemployment in Kenya: Evidence from an Autoregressive Distributed Lag Bounds Testing Approach, 1990–2024",
+      "paper_id": "https://doi.org/10.68715/92c90470"
+    },
+    "W7225012637": {
+      "title": "Budget Deficits, Monetary Accommodation and Inflation-Output Dynamics in Ghana",
+      "paper_id": "https://doi.org/10.53819/81018102t3194"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3304~9082a5f181.en.pdf": {
+      "title": "ECB perception of non-banks: a machine learning-based approach",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3304~9082a5f181.en.pdf"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/heterogeneity-in-service-fee-sensitivity-evidence-from-atm-surcharges.htm": {
+      "title": "FEDS Paper: Heterogeneity in Service Fee Sensitivity: Evidence from ATM Surcharges",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/heterogeneity-in-service-fee-sensitivity-evidence-from-atm-surcharges.htm"
+    },
+    "repec:RePEc:ces:ceswps:_13091": {
+      "title": "Preferences for the Poorest: New Data and Sectoral Evidence on Non-Reciprocal Trade",
+      "paper_id": "repec:RePEc:ces:ceswps:_13091"
+    },
+    "repec:RePEc:ces:ceswps:_13092": {
+      "title": "When Parents Stay Home: Work-from-Home and Sorting Across Public, Private, and Home Schools",
+      "paper_id": "repec:RePEc:ces:ceswps:_13092"
     }
   },
   "edges": [
@@ -40798,6 +41070,161 @@
     {
       "from": "W7224947868",
       "to": "W2915908244",
+      "type": "related"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W2904812166",
+      "type": "cites"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W3217018923",
+      "type": "cites"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W4283808886",
+      "type": "cites"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W4308786113",
+      "type": "cites"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W4313204163",
+      "type": "cites"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W4380879244",
+      "type": "cites"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W4383619776",
+      "type": "cites"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W4383682178",
+      "type": "cites"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W4400211259",
+      "type": "cites"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W4409123550",
+      "type": "cites"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W4411472595",
+      "type": "cites"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W2946125520",
+      "type": "related"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W2902563684",
+      "type": "related"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W4411494617",
+      "type": "related"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W4416268185",
+      "type": "related"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W3127580828",
+      "type": "related"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W4390638244",
+      "type": "related"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W7133525754",
+      "type": "related"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W4308754198",
+      "type": "related"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W4283397980",
+      "type": "related"
+    },
+    {
+      "from": "W7225003731",
+      "to": "W4406472308",
+      "type": "related"
+    },
+    {
+      "from": "W7225012637",
+      "to": "W6989589113",
+      "type": "related"
+    },
+    {
+      "from": "W7225012637",
+      "to": "W4220936616",
+      "type": "related"
+    },
+    {
+      "from": "W7225012637",
+      "to": "W2018119137",
+      "type": "related"
+    },
+    {
+      "from": "W7225012637",
+      "to": "W7152753778",
+      "type": "related"
+    },
+    {
+      "from": "W7225012637",
+      "to": "W4391316727",
+      "type": "related"
+    },
+    {
+      "from": "W7225012637",
+      "to": "W3208348302",
+      "type": "related"
+    },
+    {
+      "from": "W7225012637",
+      "to": "W4283587439",
+      "type": "related"
+    },
+    {
+      "from": "W7225012637",
+      "to": "W1572718732",
+      "type": "related"
+    },
+    {
+      "from": "W7225012637",
+      "to": "W4210396671",
+      "type": "related"
+    },
+    {
+      "from": "W7225012637",
+      "to": "W7017159170",
       "type": "related"
     }
   ]

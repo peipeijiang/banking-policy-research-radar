@@ -7552,10 +7552,6 @@
       "title": "Synthetic Control: An Exact Geometric Formulation",
       "paper_id": "2610.26576v1"
     },
-    "2610.26298v1": {
-      "title": "Deep-$π^*$: A Neural Network Estimate of Trend Inflation",
-      "paper_id": "2610.26298v1"
-    },
     "2610.25986v1": {
       "title": "Tuning-Free Tests for Treatment Effect Heterogeneity via Expectile Processes",
       "paper_id": "2610.25986v1"
@@ -8632,10 +8628,6 @@
       "title": "Agent-Based Disruption Simulation on an Edge-Level Product-Annotated Supply Network of the Automotive Industry",
       "paper_id": "2611.01706v1"
     },
-    "2611.01540v1": {
-      "title": "Social Networks and the Propagation of Household Shocks to Asset Prices",
-      "paper_id": "2611.01540v1"
-    },
     "2611.01329v1": {
       "title": "Floods and the Duplication of Production: Evidence from the Global Car Industry",
       "paper_id": "2611.01329v1"
@@ -8948,14 +8940,6 @@
       "title": "Can Fiscal Policy Stabilise Ghana’s Economy? Evidence from Government Spending and Tax Multipliers",
       "paper_id": "https://doi.org/10.53819/81018102t3193"
     },
-    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3306~028a82bc67.en.pdf": {
-      "title": "Debt maturity and government spending multipliers",
-      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3306~028a82bc67.en.pdf"
-    },
-    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3305~877e68c2b7.en.pdf": {
-      "title": "Elastic in cash, inelastic in repo: hedge funds in the treasury and repo markets",
-      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3305~877e68c2b7.en.pdf"
-    },
     "repec:RePEc:ces:ceswps:_13090": {
       "title": "Biased Beliefs, Job Search, and Welfare: A Structural Analysis of Coaching and Counseling",
       "paper_id": "repec:RePEc:ces:ceswps:_13090"
@@ -8967,6 +8951,142 @@
     "repec:RePEc:ecb:ecbwps:20263304": {
       "title": "ECB perception of non-banks: a machine learning-based approach",
       "paper_id": "repec:RePEc:ecb:ecbwps:20263304"
+    },
+    "2611.06888v1": {
+      "title": "Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure",
+      "paper_id": "2611.06888v1"
+    },
+    "2611.06696v1": {
+      "title": "You Know What You Will Like: People Predict Their Own Ratings Better Than Recommender Systems",
+      "paper_id": "2611.06696v1"
+    },
+    "2611.06629v1": {
+      "title": "Does Frontier AI Strengthen Cyber Defense? Evidence from Project Glasswing",
+      "paper_id": "2611.06629v1"
+    },
+    "2611.05767v1": {
+      "title": "Priced In or Bet On? Cram-School Lessons, Jeonse Leases, and Expected Appreciation in Seoul",
+      "paper_id": "2611.05767v1"
+    },
+    "2611.05714v1": {
+      "title": "The potential impact of fiscal rule changes on digital products trade",
+      "paper_id": "2611.05714v1"
+    },
+    "2611.05640v1": {
+      "title": "Economic Policy Uncertainty Index for Poland: Data, Construction, and Validation",
+      "paper_id": "2611.05640v1"
+    },
+    "2611.05553v1": {
+      "title": "Decision Models as Scalable Economic Surrogates that Capture Human Variation",
+      "paper_id": "2611.05553v1"
+    },
+    "2611.06855v1": {
+      "title": "Regression with Many Generated Controls",
+      "paper_id": "2611.06855v1"
+    },
+    "2611.01540v2": {
+      "title": "Social Networks and the Propagation of Household Shocks to Asset Prices",
+      "paper_id": "2611.01540v2"
+    },
+    "2611.06557v1": {
+      "title": "Approximate minimax regret for conditionally similar tests",
+      "paper_id": "2611.06557v1"
+    },
+    "2611.06266v1": {
+      "title": "Online Bayesian Inference for a Dirichlet Process Mixture of Binary Logit Models",
+      "paper_id": "2611.06266v1"
+    },
+    "2611.06067v1": {
+      "title": "Offline Learning of Reserve Prices from Censored Bids",
+      "paper_id": "2611.06067v1"
+    },
+    "2611.05778v1": {
+      "title": "Neural Score-Driven Volatility and Risk Forecasting",
+      "paper_id": "2611.05778v1"
+    },
+    "2611.05644v1": {
+      "title": "On the Theory of Multidimensional Stationary Random Processes (1941): Translation and Commentary",
+      "paper_id": "2611.05644v1"
+    },
+    "2611.05608v1": {
+      "title": "Debiased Conditional Independence Tests for Causal Effects",
+      "paper_id": "2611.05608v1"
+    },
+    "2611.05584v1": {
+      "title": "Sensitivity Analysis in Population Shares",
+      "paper_id": "2611.05584v1"
+    },
+    "2611.05456v1": {
+      "title": "Aggregating treatment effects across multiple outcomes",
+      "paper_id": "2611.05456v1"
+    },
+    "2611.06775v1": {
+      "title": "Stability and Perfection in Constrained Weighted Network Games",
+      "paper_id": "2611.06775v1"
+    },
+    "2611.06644v1": {
+      "title": "Universal Nonexistence of Monotone Equilibrium in Multiunit Auctions with Risk Aversion",
+      "paper_id": "2611.06644v1"
+    },
+    "2611.06620v1": {
+      "title": "Weak Atomic Continuity and Subgame Perfection",
+      "paper_id": "2611.06620v1"
+    },
+    "2611.06101v1": {
+      "title": "Optimality of Separate Selling with Finite-Support Values",
+      "paper_id": "2611.06101v1"
+    },
+    "2611.05708v1": {
+      "title": "Inventory and Assortment Optimization under General Choice: A Unified Approximation Framework",
+      "paper_id": "2611.05708v1"
+    },
+    "2611.05706v1": {
+      "title": "Neural networks and games",
+      "paper_id": "2611.05706v1"
+    },
+    "2611.05705v1": {
+      "title": "Iterated Elimination of Dominated Mixed Strategies",
+      "paper_id": "2611.05705v1"
+    },
+    "2611.05701v1": {
+      "title": "Learning to Design Information",
+      "paper_id": "2611.05701v1"
+    },
+    "2611.05692v1": {
+      "title": "A General Theory of Dynamic Mechanism Design with Endogenous Information and Hidden Actions",
+      "paper_id": "2611.05692v1"
+    },
+    "2611.05417v1": {
+      "title": "Organizing Intelligence",
+      "paper_id": "2611.05417v1"
+    },
+    "2611.06126v1": {
+      "title": "Exponential Seniority Weighting Chain-Ladder Reserving",
+      "paper_id": "2611.06126v1"
+    },
+    "W7225098947": {
+      "title": "The Demand for Local Currency Real Money Balances in Zimbabwe: An Error Correction Model",
+      "paper_id": "https://doi.org/10.51137/wrp.ijarbm.847"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3307~d3d2e0c5e4.en.pdf": {
+      "title": "Deep-π*: a neural network estimate of trend inflation",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3307~d3d2e0c5e4.en.pdf"
+    },
+    "repec:RePEc:fip:fedpwp:104010": {
+      "title": "Public and Private Money: Inflation Dynamics and Optimal Policy",
+      "paper_id": "repec:RePEc:fip:fedpwp:104010"
+    },
+    "repec:RePEc:ecb:ecbwps:20263306": {
+      "title": "Debt maturity and government spending multipliers",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263306"
+    },
+    "repec:RePEc:ecb:ecbwps:20263305": {
+      "title": "Elastic in cash, inelastic in repo: hedge funds in the treasury and repo markets",
+      "paper_id": "repec:RePEc:ecb:ecbwps:20263305"
+    },
+    "repec:RePEc:bis:biswps:1390": {
+      "title": "Prewar US business cycles under uncertainty: reconstructing quarterly GDP before 1947",
+      "paper_id": "repec:RePEc:bis:biswps:1390"
     }
   },
   "edges": [
@@ -41928,6 +42048,56 @@
     {
       "from": "W7224993519",
       "to": "W4415948075",
+      "type": "related"
+    },
+    {
+      "from": "W7225098947",
+      "to": "W4400420531",
+      "type": "related"
+    },
+    {
+      "from": "W7225098947",
+      "to": "W1556039865",
+      "type": "related"
+    },
+    {
+      "from": "W7225098947",
+      "to": "W3149386755",
+      "type": "related"
+    },
+    {
+      "from": "W7225098947",
+      "to": "W4312367549",
+      "type": "related"
+    },
+    {
+      "from": "W7225098947",
+      "to": "W4412748546",
+      "type": "related"
+    },
+    {
+      "from": "W7225098947",
+      "to": "W4400153906",
+      "type": "related"
+    },
+    {
+      "from": "W7225098947",
+      "to": "W2618354818",
+      "type": "related"
+    },
+    {
+      "from": "W7225098947",
+      "to": "W1542709535",
+      "type": "related"
+    },
+    {
+      "from": "W7225098947",
+      "to": "W2766628831",
+      "type": "related"
+    },
+    {
+      "from": "W7225098947",
+      "to": "W2617525136",
       "type": "related"
     }
   ]

@@ -8800,10 +8800,6 @@
       "title": "Robust distortion riskmetrics under symmetry, unimodality, and Wasserstein constraints",
       "paper_id": "2611.01003v1"
     },
-    "2611.00958v1": {
-      "title": "Quantifying Repair Risk in Crypto Option Surfaces",
-      "paper_id": "2611.00958v1"
-    },
     "2611.00855v1": {
       "title": "Approximate clearing in financial networks with credit default swaps: hardness thresholds, a box algorithm, barriers, and exact solvency at bounded degree",
       "paper_id": "2611.00855v1"
@@ -9087,6 +9083,86 @@
     "repec:RePEc:bis:biswps:1390": {
       "title": "Prewar US business cycles under uncertainty: reconstructing quarterly GDP before 1947",
       "paper_id": "repec:RePEc:bis:biswps:1390"
+    },
+    "2611.08430v1": {
+      "title": "Cross-Border Ownership and Input Access: Evidence from the Lithium Supply Chain",
+      "paper_id": "2611.08430v1"
+    },
+    "2611.08031v1": {
+      "title": "Economies of scale and the equity-efficiency trade-off: Evidence from a piped water network in rural Bangladesh",
+      "paper_id": "2611.08031v1"
+    },
+    "2611.08160v1": {
+      "title": "Patch Attention Wisely: Understanding Patch Length in Attention-Based Forecasting",
+      "paper_id": "2611.08160v1"
+    },
+    "2611.07699v1": {
+      "title": "Stay, Reposition, or Recharge: Battery-Aware Operation of Robotaxi Fleets",
+      "paper_id": "2611.07699v1"
+    },
+    "2611.07774v1": {
+      "title": "Unobserved Consideration and Consumer Welfare",
+      "paper_id": "2611.07774v1"
+    },
+    "2611.07787v1": {
+      "title": "Discrete Choice under Congestion: Equilibrium and Welfare",
+      "paper_id": "2611.07787v1"
+    },
+    "2611.07249v1": {
+      "title": "Double Machine Learning for Panel Data: Identification, Specification, and a Bank Regulation Effect",
+      "paper_id": "2611.07249v1"
+    },
+    "2611.07698v1": {
+      "title": "Willingness-to-pay space and preference space: a unified treatment of equivalence, heterogeneity and interpretation",
+      "paper_id": "2611.07698v1"
+    },
+    "2611.07744v1": {
+      "title": "Designing Public Information for Strategic Advice",
+      "paper_id": "2611.07744v1"
+    },
+    "2611.07240v1": {
+      "title": "Nonparametric Subgraph Regression",
+      "paper_id": "2611.07240v1"
+    },
+    "2611.07494v1": {
+      "title": "Transparency in Team Contracts",
+      "paper_id": "2611.07494v1"
+    },
+    "2611.07572v1": {
+      "title": "Cores of $3$-distant convex games",
+      "paper_id": "2611.07572v1"
+    },
+    "2611.07419v1": {
+      "title": "Robust prizes in all-pay contests with loss aversion",
+      "paper_id": "2611.07419v1"
+    },
+    "2611.07278v1": {
+      "title": "Brave New Data: Pricing Expertise and Discovery",
+      "paper_id": "2611.07278v1"
+    },
+    "2611.07128v1": {
+      "title": "Complex Menus in Discriminatory Pricing",
+      "paper_id": "2611.07128v1"
+    },
+    "2611.07089v1": {
+      "title": "Polynomial-Time Computation of Extensive-Form Proper Equilibria in Two-Player Zero-Sum Games",
+      "paper_id": "2611.07089v1"
+    },
+    "2611.07110v1": {
+      "title": "Credibility Clustering for Experience Rating: An Automated Approach to Risk Group Allocation in Group Life Insurance",
+      "paper_id": "2611.07110v1"
+    },
+    "2611.00958v2": {
+      "title": "Quantifying Repair Risk in Crypto Option Surfaces",
+      "paper_id": "2611.00958v2"
+    },
+    "W7225150322": {
+      "title": "United States of Americas monetary policy transmission to 8 African countries: Exploring three unexplored channels",
+      "paper_id": "https://doi.org/10.5897/jeif2025.1248"
+    },
+    "repec:RePEc:bis:biswps:1391": {
+      "title": "Scenarios for future banking: implications for profitability, liquidity and solvency",
+      "paper_id": "repec:RePEc:bis:biswps:1391"
     }
   },
   "edges": [
@@ -42098,6 +42174,166 @@
     {
       "from": "W7225098947",
       "to": "W2617525136",
+      "type": "related"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W2891382546",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W2945123639",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W3023959005",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W3047003284",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W3111476140",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W3121394472",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W3124398360",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W3125289246",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W3128677079",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W3204880992",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W4293772037",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W4295203130",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W4311104352",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W4324140179",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W4378714756",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W4387545637",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W4387717583",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W4387776506",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W4392121603",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W4392350258",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W4399250436",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W7164891337",
+      "type": "cites"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W2744390729",
+      "type": "related"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W7057396467",
+      "type": "related"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W2993732558",
+      "type": "related"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W1872694991",
+      "type": "related"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W3121680112",
+      "type": "related"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W2761799163",
+      "type": "related"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W2797108217",
+      "type": "related"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W3213379581",
+      "type": "related"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W2208463810",
+      "type": "related"
+    },
+    {
+      "from": "W7225150322",
+      "to": "W7055523892",
       "type": "related"
     }
   ]

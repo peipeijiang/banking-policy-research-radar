@@ -9175,6 +9175,14 @@
     "W7225248074": {
       "title": "Do commodity prices signal inflation under quantitative easing? Evidence from interest rate co-movements",
       "paper_id": "https://doi.org/10.1016/j.intfin.2026.102425"
+    },
+    "W7217439505": {
+      "title": "Economic Aspects of Managing Income and Consumer Spending in an Inflationary Environment",
+      "paper_id": "https://doi.org/10.5281/zenodo.24010136"
+    },
+    "repec:RePEc:fip:fedlwp:104020": {
+      "title": "Specialization vs. Diversification: Research Strategy and Performance in Economics",
+      "paper_id": "repec:RePEc:fip:fedlwp:104020"
     }
   },
   "edges": [
@@ -42821,6 +42829,56 @@
     {
       "from": "W7225248074",
       "to": "W1509373551",
+      "type": "related"
+    },
+    {
+      "from": "W7217439505",
+      "to": "W7220494647",
+      "type": "related"
+    },
+    {
+      "from": "W7217439505",
+      "to": "W4411301679",
+      "type": "related"
+    },
+    {
+      "from": "W7217439505",
+      "to": "W7201910590",
+      "type": "related"
+    },
+    {
+      "from": "W7217439505",
+      "to": "W7172271132",
+      "type": "related"
+    },
+    {
+      "from": "W7217439505",
+      "to": "W4399342008",
+      "type": "related"
+    },
+    {
+      "from": "W7217439505",
+      "to": "W7219942198",
+      "type": "related"
+    },
+    {
+      "from": "W7217439505",
+      "to": "W4405812967",
+      "type": "related"
+    },
+    {
+      "from": "W7217439505",
+      "to": "W2758932687",
+      "type": "related"
+    },
+    {
+      "from": "W7217439505",
+      "to": "W7147301251",
+      "type": "related"
+    },
+    {
+      "from": "W7217439505",
+      "to": "W7161705411",
       "type": "related"
     }
   ]

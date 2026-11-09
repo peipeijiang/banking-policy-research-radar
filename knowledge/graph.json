@@ -8736,10 +8736,6 @@
       "title": "On inverse aggregate network assignment games",
       "paper_id": "2611.03409v1"
     },
-    "2611.02984v1": {
-      "title": "Classification Aggregation with Multiple Memberships",
-      "paper_id": "2611.02984v1"
-    },
     "2611.02910v1": {
       "title": "The Market for AI-Assisted Signaling",
       "paper_id": "2611.02910v1"
@@ -9183,6 +9179,78 @@
     "repec:RePEc:fip:fedlwp:104020": {
       "title": "Specialization vs. Diversification: Research Strategy and Performance in Economics",
       "paper_id": "repec:RePEc:fip:fedlwp:104020"
+    },
+    "2611.09337v1": {
+      "title": "Sanctions, Evasion, and Deterrence: Evidence from Speeding Enforcement",
+      "paper_id": "2611.09337v1"
+    },
+    "2611.09208v1": {
+      "title": "The Network Adaptive Market Hypothesis: Detection, Attribution, and Network-Mediated Efficiency",
+      "paper_id": "2611.09208v1"
+    },
+    "2611.09792v1": {
+      "title": "Knowing When to Intervene: Causal Evaluation of AI Agents",
+      "paper_id": "2611.09792v1"
+    },
+    "2611.09790v1": {
+      "title": "Box-Cox Transformations of Correlation Matrices",
+      "paper_id": "2611.09790v1"
+    },
+    "2611.09023v1": {
+      "title": "Constrained Nested-Logit Pricing: An Exact Reformulation and Global Optimization Method",
+      "paper_id": "2611.09023v1"
+    },
+    "2611.08859v1": {
+      "title": "Instant Payments After a Betting Ban: Evidence from Brazil",
+      "paper_id": "2611.08859v1"
+    },
+    "2611.08528v1": {
+      "title": "Price-Volume Correlations Are Always Zero",
+      "paper_id": "2611.08528v1"
+    },
+    "2611.09685v1": {
+      "title": "Who Picks First? Compensatory Fairness When Equal Division Is Impossible",
+      "paper_id": "2611.09685v1"
+    },
+    "2611.09515v1": {
+      "title": "Moral Consumers and the Environment",
+      "paper_id": "2611.09515v1"
+    },
+    "2611.09452v1": {
+      "title": "Optimal robust comonotonic risk sharing under operational constraints",
+      "paper_id": "2611.09452v1"
+    },
+    "2611.09399v1": {
+      "title": "Artificial Shoppers and Attention Competition",
+      "paper_id": "2611.09399v1"
+    },
+    "2611.09381v1": {
+      "title": "Decomposing the Cost of Complexity Under Risk",
+      "paper_id": "2611.09381v1"
+    },
+    "2611.02984v2": {
+      "title": "Classification Aggregation with Multiple Memberships",
+      "paper_id": "2611.02984v2"
+    },
+    "2611.09213v1": {
+      "title": "Joint modelling of financial cost and carbon footprint in motor insurance claims: a BINAR(1) decision framework for circular auto parts adoption",
+      "paper_id": "2611.09213v1"
+    },
+    "2611.08968v1": {
+      "title": "Portfolio-aware scenario transfer of reserve movements: evidence from Lloyd's syndicates",
+      "paper_id": "2611.08968v1"
+    },
+    "2611.09834v1": {
+      "title": "The Logic of Factor Portfolios: Boolean Rules, Interactions, and Trading Costs",
+      "paper_id": "2611.09834v1"
+    },
+    "W7225383306": {
+      "title": "Global Commodity Prices, Exchange Rates, and Policy Interest Rates: ARDL Evidence from Indonesia's Stock Market, 2017–2024",
+      "paper_id": "https://doi.org/10.63922/ijbqr.v4i04.7344"
+    },
+    "repec:RePEc:fip:fedpwp:104025": {
+      "title": "Short-Term Incidence of Property Tax Hikes on Professionally Managed Apartments – Evidence from Philadelphia",
+      "paper_id": "repec:RePEc:fip:fedpwp:104025"
     }
   },
   "edges": [
@@ -42879,6 +42947,136 @@
     {
       "from": "W7217439505",
       "to": "W7161705411",
+      "type": "related"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W1966910378",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W1973809982",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W2010681793",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W2116988722",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W2119189903",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W2144836007",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W2888423870",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W3114705237",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W3119505612",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W3121758494",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W3121935849",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W3121940608",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W3123598957",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W4221040930",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W4388728725",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W4392726876",
+      "type": "cites"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W7216884628",
+      "type": "related"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W7202392805",
+      "type": "related"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W7167406074",
+      "type": "related"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W4311051930",
+      "type": "related"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W2245991055",
+      "type": "related"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W2970605881",
+      "type": "related"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W4312478304",
+      "type": "related"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W4229002836",
+      "type": "related"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W4366573533",
+      "type": "related"
+    },
+    {
+      "from": "W7225383306",
+      "to": "W3117763200",
       "type": "related"
     }
   ]

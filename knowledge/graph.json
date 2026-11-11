@@ -9188,10 +9188,6 @@
       "title": "The Network Adaptive Market Hypothesis: Detection, Attribution, and Network-Mediated Efficiency",
       "paper_id": "2611.09208v1"
     },
-    "2611.09792v1": {
-      "title": "Knowing When to Intervene: Causal Evaluation of AI Agents",
-      "paper_id": "2611.09792v1"
-    },
     "2611.09790v1": {
       "title": "Box-Cox Transformations of Correlation Matrices",
       "paper_id": "2611.09790v1"
@@ -9283,10 +9279,6 @@
     "2611.10791v1": {
       "title": "Winning Reviews, Losing Discovery? The Co-Evolutionary Game of AI Research and Peer Review",
       "paper_id": "2611.10791v1"
-    },
-    "2611.10731v1": {
-      "title": "Have wind and solar energy increased electricity price volatility? And what is electricity price volatility, anyway?",
-      "paper_id": "2611.10731v1"
     },
     "2611.10155v1": {
       "title": "When Is Prosocial Behavior Intuitive? The Moderating Role of Empathic Perspective Taking",
@@ -9423,6 +9415,122 @@
     "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3308~a6e82e37aa.en.pdf": {
       "title": "Unlocking supervisory effectiveness in credit risk: insights from the ECB’s supervisory findings and measures",
       "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3308~a6e82e37aa.en.pdf"
+    },
+    "2611.13866v1": {
+      "title": "Economic Benefits of Cross-Border Electricity Trade and Domestic Electricity Production in Switzerland",
+      "paper_id": "2611.13866v1"
+    },
+    "2611.14146v1": {
+      "title": "Estimating multidimensional poverty under incomplete data in North Macedonia",
+      "paper_id": "2611.14146v1"
+    },
+    "2611.13616v1": {
+      "title": "Optimal Trading Speed on Blockchain",
+      "paper_id": "2611.13616v1"
+    },
+    "2611.13715v1": {
+      "title": "Optimal Regulation and Information Institutions with Hidden Network Equilibria",
+      "paper_id": "2611.13715v1"
+    },
+    "2611.13230v1": {
+      "title": "Dynamic investment and coordination in teams: Theory and experimental evidence",
+      "paper_id": "2611.13230v1"
+    },
+    "2611.13259v1": {
+      "title": "Choosing Complexity: Cognitive Ability, Overconfidence, and Task Choice",
+      "paper_id": "2611.13259v1"
+    },
+    "2611.13194v1": {
+      "title": "Taste or Strategy? Nationalistic Bias and Competitor Penalties in Figure Skating Judging",
+      "paper_id": "2611.13194v1"
+    },
+    "2611.12987v1": {
+      "title": "Global Trends and Heterogeneity in Modified Adjusted Net Savings",
+      "paper_id": "2611.12987v1"
+    },
+    "2611.10731v2": {
+      "title": "Have wind and solar energy increased electricity price volatility? And what is electricity price volatility, anyway?",
+      "paper_id": "2611.10731v2"
+    },
+    "2611.14434v1": {
+      "title": "Hedging out the HEDGE Bias: Identifying Dynamic Partial-Equilibrium Effects with Panel LP-IV",
+      "paper_id": "2611.14434v1"
+    },
+    "2611.14385v1": {
+      "title": "Semiparametric Inference in Panel Data with Interactive and High-dimensional Confounding",
+      "paper_id": "2611.14385v1"
+    },
+    "2611.13882v1": {
+      "title": "Backtesting High-Dimensional Expected Shortfall",
+      "paper_id": "2611.13882v1"
+    },
+    "2611.13313v1": {
+      "title": "Instrumental variables with treatment clusters",
+      "paper_id": "2611.13313v1"
+    },
+    "2611.13212v1": {
+      "title": "Prediction Inference for Hybrid Models on Realized Volatility Forecasting",
+      "paper_id": "2611.13212v1"
+    },
+    "2611.13169v1": {
+      "title": "Identification, estimation, and robust inference of structural autoregressions for multidimensional data",
+      "paper_id": "2611.13169v1"
+    },
+    "2611.09792v2": {
+      "title": "Knowing When to Intervene: Causal Evaluation of AI Agents",
+      "paper_id": "2611.09792v2"
+    },
+    "2611.13632v1": {
+      "title": "Herding with Multiple States: When the Prior Matters",
+      "paper_id": "2611.13632v1"
+    },
+    "2611.13469v1": {
+      "title": "Obvious Group Manipulations and Top Trading Cycles",
+      "paper_id": "2611.13469v1"
+    },
+    "2611.13450v1": {
+      "title": "Feedback Design in the Shadow of Strategic Communication",
+      "paper_id": "2611.13450v1"
+    },
+    "2611.13189v1": {
+      "title": "On the Nonemptiness of the Core: Connecting Cooperative Games and Asset Pricing",
+      "paper_id": "2611.13189v1"
+    },
+    "2611.13365v1": {
+      "title": "Making sense of rule 605",
+      "paper_id": "2611.13365v1"
+    },
+    "W7225650832": {
+      "title": "Monetary Policy Transmission, Exchange Rate Dynamics, and Inflation Control in Emerging Market Economies",
+      "paper_id": "https://doi.org/10.5281/zenodo.24084149"
+    },
+    "W7225638556": {
+      "title": "MACROECONOMIC TRANSMISSION MECHANISMS OF CRUDE OIL PRICE SHOCKS IN NIGERIA: A SEEMINGLY UNRELATED REGRESSION ANALYSIS",
+      "paper_id": "https://doi.org/10.5281/zenodo.24079485"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/ifdp/trade-deflection-the-spillover-effects-of-us-tariffs-on-import-prices-in-bystander-countries.htm": {
+      "title": "IFDP Paper: Trade Deflection: The Spillover Effects of U.S. Tariffs on Import Prices in Bystander Countries",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/ifdp/trade-deflection-the-spillover-effects-of-us-tariffs-on-import-prices-in-bystander-countries.htm"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/ifdp/who-built-the-service-economy.htm": {
+      "title": "IFDP Paper: Who Built the Service Economy?",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/ifdp/who-built-the-service-economy.htm"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/costly-misdemeanours-labour-market-effects-of-low-level-drink-driving-violations.htm": {
+      "title": "FEDS Paper: Costly Misdemeanours: Labour Market Effects of Low-Level Drink-Driving Violations",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/costly-misdemeanours-labour-market-effects-of-low-level-drink-driving-violations.htm"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/11/staff-working-paper-2026-41/": {
+      "title": "Instant Payments, Fraud, and Optimal Consumer Protection",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/11/staff-working-paper-2026-41/"
+    },
+    "repec:RePEc:ces:ceswps:_13132": {
+      "title": "Aggregating Epigenetic Clocks to Study Human Capital Formation",
+      "paper_id": "repec:RePEc:ces:ceswps:_13132"
+    },
+    "repec:RePEc:ces:ceswps:_13131": {
+      "title": "The Moral Cost of Carbon",
+      "paper_id": "repec:RePEc:ces:ceswps:_13131"
     }
   },
   "edges": [

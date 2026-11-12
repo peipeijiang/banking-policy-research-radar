@@ -9256,10 +9256,6 @@
       "title": "That Time of the Year Again: Government Pay Revisions in the Aggregate Economy",
       "paper_id": "2611.12565v1"
     },
-    "2611.12347v1": {
-      "title": "Fueling Inflation Risks: An Oil Shortage Scenario",
-      "paper_id": "2611.12347v1"
-    },
     "2611.12117v1": {
       "title": "Does fare communication format matter? Evidence from a randomised experiment in public transport",
       "paper_id": "2611.12117v1"
@@ -9531,6 +9527,42 @@
     "repec:RePEc:ces:ceswps:_13131": {
       "title": "The Moral Cost of Carbon",
       "paper_id": "repec:RePEc:ces:ceswps:_13131"
+    },
+    "W7225742931": {
+      "title": "Fueling Inflation Risks: An Oil Shortage Scenario",
+      "paper_id": "https://doi.org/10.48550/arxiv.2611.12347"
+    },
+    "W7225686308": {
+      "title": "Determinants of Non-Performing Loans in Saudi Banks: Governance and Business Models",
+      "paper_id": "openalex:W7225686308"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3309~4e8af93b3a.en.pdf": {
+      "title": "The real and financial effects of local corporate tax increases: evidence from linked firm–bank data",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3309~4e8af93b3a.en.pdf"
+    },
+    "repec:RePEc:ces:ceswps:_13130": {
+      "title": "Economics of Mental Health",
+      "paper_id": "repec:RePEc:ces:ceswps:_13130"
+    },
+    "repec:RePEc:ces:ceswps:_13129": {
+      "title": "Untapped Tax Revenue and Sovereign Credit Ratings",
+      "paper_id": "repec:RePEc:ces:ceswps:_13129"
+    },
+    "repec:RePEc:fip:fedpwp:104037": {
+      "title": "Dynamic Individuals, Static Neighborhoods: Migration and Earnings Changes in Poor Neighborhoods",
+      "paper_id": "repec:RePEc:fip:fedpwp:104037"
+    },
+    "repec:RePEc:fip:fedpwp:104036": {
+      "title": "Social Insurance with Imperfect Eligibility Screening: Theory and Evidence from Pandemic UI",
+      "paper_id": "repec:RePEc:fip:fedpwp:104036"
+    },
+    "repec:RePEc:zbw:bubdps:344531": {
+      "title": "Safe haven status and international shock transmission",
+      "paper_id": "repec:RePEc:zbw:bubdps:344531"
+    },
+    "repec:RePEc:zbw:bubdps:344532": {
+      "title": "The macroeconomics of stablecoins",
+      "paper_id": "repec:RePEc:zbw:bubdps:344532"
     }
   },
   "edges": [
@@ -43477,6 +43509,56 @@
     {
       "from": "W7225464294",
       "to": "W7208737772",
+      "type": "related"
+    },
+    {
+      "from": "W7225686308",
+      "to": "W4396222142",
+      "type": "related"
+    },
+    {
+      "from": "W7225686308",
+      "to": "W3196874421",
+      "type": "related"
+    },
+    {
+      "from": "W7225686308",
+      "to": "W4405833547",
+      "type": "related"
+    },
+    {
+      "from": "W7225686308",
+      "to": "W4399667851",
+      "type": "related"
+    },
+    {
+      "from": "W7225686308",
+      "to": "W4292543086",
+      "type": "related"
+    },
+    {
+      "from": "W7225686308",
+      "to": "W2960862846",
+      "type": "related"
+    },
+    {
+      "from": "W7225686308",
+      "to": "W2894212000",
+      "type": "related"
+    },
+    {
+      "from": "W7225686308",
+      "to": "W7172334120",
+      "type": "related"
+    },
+    {
+      "from": "W7225686308",
+      "to": "W4387576083",
+      "type": "related"
+    },
+    {
+      "from": "W7225686308",
+      "to": "W7220199459",
       "type": "related"
     }
   ]

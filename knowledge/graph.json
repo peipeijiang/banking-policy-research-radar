@@ -9300,10 +9300,6 @@
       "title": "Polynomial-Preserving Processes and Volatility Modelling in Discrete Time",
       "paper_id": "2611.10928v1"
     },
-    "2611.11003v1": {
-      "title": "Do Modern Difference-in-Differences Estimators Change Published Findings in Business Research?",
-      "paper_id": "2611.11003v1"
-    },
     "2611.10863v1": {
       "title": "Weak-Instrument Inference and Model Diagnostics in Double Machine Learning for Linear Instrumental Variable Models",
       "paper_id": "2611.10863v1"
@@ -9420,10 +9416,6 @@
       "title": "Estimating multidimensional poverty under incomplete data in North Macedonia",
       "paper_id": "2611.14146v1"
     },
-    "2611.13616v1": {
-      "title": "Optimal Trading Speed on Blockchain",
-      "paper_id": "2611.13616v1"
-    },
     "2611.13715v1": {
       "title": "Optimal Regulation and Information Institutions with Hidden Network Equilibria",
       "paper_id": "2611.13715v1"
@@ -9447,10 +9439,6 @@
     "2611.10731v2": {
       "title": "Have wind and solar energy increased electricity price volatility? And what is electricity price volatility, anyway?",
       "paper_id": "2611.10731v2"
-    },
-    "2611.14434v1": {
-      "title": "Hedging out the HEDGE Bias: Identifying Dynamic Partial-Equilibrium Effects with Panel LP-IV",
-      "paper_id": "2611.14434v1"
     },
     "2611.14385v1": {
       "title": "Semiparametric Inference in Panel Data with Interactive and High-dimensional Confounding",
@@ -9563,6 +9551,178 @@
     "repec:RePEc:zbw:bubdps:344532": {
       "title": "The macroeconomics of stablecoins",
       "paper_id": "repec:RePEc:zbw:bubdps:344532"
+    },
+    "2611.16747v1": {
+      "title": "Unequal Rewards and the Direction of Scientific Work: Evidence from U.S. Public Universities",
+      "paper_id": "2611.16747v1"
+    },
+    "2611.16657v1": {
+      "title": "Price co-movement and price information diverge across Nordic electricity zones after the energy crisis",
+      "paper_id": "2611.16657v1"
+    },
+    "2611.16471v1": {
+      "title": "Accuracy Is Not Welfare: Evaluating AI Buyers under Strategic Price Complexity in a Synthetic Duopoly",
+      "paper_id": "2611.16471v1"
+    },
+    "2611.16095v1": {
+      "title": "Data-center growth impacts household electricity costs more through wholesale prices than through grid reinforcement",
+      "paper_id": "2611.16095v1"
+    },
+    "2611.15747v1": {
+      "title": "Huge If True: Learning from the Size of the Surprise",
+      "paper_id": "2611.15747v1"
+    },
+    "2611.16058v1": {
+      "title": "Human Capital in Context: What Employment Survival Reveals About Worker-Firm Match",
+      "paper_id": "2611.16058v1"
+    },
+    "2611.15430v1": {
+      "title": "Factors Influencing Rural Female Workforce Participation in India, 2017- 2025: An Econometric Analysis Using District-Level Panel Data",
+      "paper_id": "2611.15430v1"
+    },
+    "2611.15371v1": {
+      "title": "From the firm- to the application-level: A new typology of AI use in organisations",
+      "paper_id": "2611.15371v1"
+    },
+    "2611.15017v1": {
+      "title": "Beyond Named Mechanisms: Economic Institutions as a Design Space for Artificial Agents",
+      "paper_id": "2611.15017v1"
+    },
+    "2611.14938v1": {
+      "title": "When Does a Recommendation Spark Curiosity? Theory, Measurement, and Field Evidence",
+      "paper_id": "2611.14938v1"
+    },
+    "2611.14708v1": {
+      "title": "The Rebundling of Freelance Work in the AI Age",
+      "paper_id": "2611.14708v1"
+    },
+    "2611.13616v2": {
+      "title": "Optimal Trading Speed on Blockchain",
+      "paper_id": "2611.13616v2"
+    },
+    "2611.16584v1": {
+      "title": "Uniform Inference for Two-Way Clustered Data",
+      "paper_id": "2611.16584v1"
+    },
+    "2611.16556v1": {
+      "title": "Localizing Mean Shifts in High-Dimensional Vector Autoregressive Models",
+      "paper_id": "2611.16556v1"
+    },
+    "2611.16406v1": {
+      "title": "One-Sided Randomization in Two-Sided Platform Experiments: Which Side Should be Randomized?",
+      "paper_id": "2611.16406v1"
+    },
+    "2611.16242v1": {
+      "title": "A Sensitivity Framework for Assessing External Validity",
+      "paper_id": "2611.16242v1"
+    },
+    "2611.16199v1": {
+      "title": "Testing Density Discontinuity Using Spacings",
+      "paper_id": "2611.16199v1"
+    },
+    "2611.15947v1": {
+      "title": "Introducing and Repealing an EV Subsidy: Evidence from New Zealand's Clean Car Discount",
+      "paper_id": "2611.15947v1"
+    },
+    "2611.15552v1": {
+      "title": "Inference After Model Refutation: Uniform Post-Relaxation Inference for Partially Identified Models",
+      "paper_id": "2611.15552v1"
+    },
+    "2611.14752v1": {
+      "title": "Identification of Rational Inattention-Additive Random Utility Models",
+      "paper_id": "2611.14752v1"
+    },
+    "2611.14789v1": {
+      "title": "Lost in the Bins: Treatment Effects with Discretized Covariates",
+      "paper_id": "2611.14789v1"
+    },
+    "2611.14673v1": {
+      "title": "Recent developments in spatial econometrics",
+      "paper_id": "2611.14673v1"
+    },
+    "2611.14434v2": {
+      "title": "Hedging out the HEDGE Bias: Identifying Dynamic Partial-Equilibrium Effects with Panel LP-IV",
+      "paper_id": "2611.14434v2"
+    },
+    "2611.11003v2": {
+      "title": "Do Modern Difference-in-Differences Estimators Change Published Findings in Business Research?",
+      "paper_id": "2611.11003v2"
+    },
+    "2611.17148v1": {
+      "title": "Learning Dynamics of the Influencer's Game in Resource Landscapes",
+      "paper_id": "2611.17148v1"
+    },
+    "2611.17029v1": {
+      "title": "Contractual Structure and Obvious Manipulation in Many-to-Many Matching",
+      "paper_id": "2611.17029v1"
+    },
+    "2611.16327v1": {
+      "title": "Designing Information in a Forest: Algorithmic Aspects",
+      "paper_id": "2611.16327v1"
+    },
+    "2611.16207v1": {
+      "title": "Core nonemptiness for $2/3$-convex games",
+      "paper_id": "2611.16207v1"
+    },
+    "2611.15527v1": {
+      "title": "Not Strassen's theorem",
+      "paper_id": "2611.15527v1"
+    },
+    "2611.14983v1": {
+      "title": "The Cherry-Picking Trap",
+      "paper_id": "2611.14983v1"
+    },
+    "2611.14858v1": {
+      "title": "The Price of Anarchy in Markets for Lemons",
+      "paper_id": "2611.14858v1"
+    },
+    "2611.13131v1": {
+      "title": "Useful Work Can Increase Energy Use: Demand Elasticity and Proof of Useful Work",
+      "paper_id": "2611.13131v1"
+    },
+    "2611.16540v1": {
+      "title": "Dynamic Scenario-Based Portfolio Optimization for Multi-Asset ETFs",
+      "paper_id": "2611.16540v1"
+    },
+    "2611.15211v1": {
+      "title": "Least Expensive Standard Pensions",
+      "paper_id": "2611.15211v1"
+    },
+    "2611.14699v1": {
+      "title": "Conformal Risk Certificates for Portfolio Optimization Under Uncertainty: A Gated Reinforcement-Learning Approach",
+      "paper_id": "2611.14699v1"
+    },
+    "W7225693790": {
+      "title": "Presidential Address: Human Finance: Incorporating Insights from the Life Sciences",
+      "paper_id": "https://doi.org/10.1111/jofi.70096"
+    },
+    "W7225693922": {
+      "title": "The effects of perceived ease of use, perceived security, and service quality on customer satisfaction in the Malaysian banking sector: The mediating role of trust",
+      "paper_id": "https://doi.org/10.59953/paperasia.v42i5b.1793"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3310~6ef5699d9a.en.pdf": {
+      "title": "The macroeconomic effects of defence spending: what impact beyond GDP?",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3310~6ef5699d9a.en.pdf"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/artificial-intelligence-and-the-us-economy-current-evidence.htm": {
+      "title": "FEDS Paper: Artificial Intelligence and the U.S. Economy: Current Evidence",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/artificial-intelligence-and-the-us-economy-current-evidence.htm"
+    },
+    "repec:RePEc:ces:ceswps:_13126": {
+      "title": "Incentives in Mergers and Acquisitions",
+      "paper_id": "repec:RePEc:ces:ceswps:_13126"
+    },
+    "repec:RePEc:ces:ceswps:_13127": {
+      "title": "Organizational Capabilities and the Dynamics of Multinational Expansion: Evidence from Korean Firms",
+      "paper_id": "repec:RePEc:ces:ceswps:_13127"
+    },
+    "repec:RePEc:zbw:bubdps:344530": {
+      "title": "Carbon pricing, trade and the natural rate",
+      "paper_id": "repec:RePEc:zbw:bubdps:344530"
+    },
+    "repec:RePEc:zbw:bubdps:344529": {
+      "title": "Macroeconomic effects of carbon-intensive energy price changes: A model comparison",
+      "paper_id": "repec:RePEc:zbw:bubdps:344529"
     }
   },
   "edges": [
@@ -43559,6 +43719,656 @@
     {
       "from": "W7225686308",
       "to": "W7220199459",
+      "type": "related"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W408132433",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1508749062",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1547214718",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1606675402",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1829691299",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1857910965",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1904113786",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1966850344",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1968966047",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1972991952",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1974169858",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1978239295",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1982030460",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1987088919",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1987375729",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1992656348",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2007696393",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2011882079",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2015780545",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2022085232",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2027289999",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2027970772",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2035901807",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2041656267",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2041961720",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2046810640",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2058053468",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2060294850",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2067502350",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2078562360",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2081172822",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2088027515",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2110352084",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2116777802",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2118059904",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2118836230",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2124454279",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2129283428",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2134956426",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2144101679",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2149150934",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2156667558",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2156984202",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2159843942",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2163673686",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2166513723",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2168463074",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2239666518",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2252441556",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2272326785",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2346872235",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2387063905",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2472334070",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2529186330",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2540952065",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2607133520",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2805774976",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2890069351",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2936176560",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2946390335",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2979380273",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2981594369",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3013111324",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3016252849",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3020990796",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3022808291",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3023473673",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3023537665",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3024664944",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3045029853",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3047100893",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3120394274",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3121132650",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3121259382",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3121282282",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3121670284",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3121860914",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3122562732",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3122723386",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3122843332",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3122890729",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3123190515",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3123502919",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3123660086",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3123677014",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3124047731",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3124141057",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3124859767",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3125302922",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3125917831",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3126080930",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3159345035",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3160586705",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3186796436",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3196970306",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3199027711",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3205760481",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W4205132645",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W4211093919",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W4233731957",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W4390025858",
+      "type": "related"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2167636457",
+      "type": "related"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1974511612",
+      "type": "related"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W4400224369",
+      "type": "related"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2013546803",
+      "type": "related"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W7164566029",
+      "type": "related"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W7225245111",
+      "type": "related"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W2169997522",
+      "type": "related"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W3124698307",
+      "type": "related"
+    },
+    {
+      "from": "W7225693790",
+      "to": "W1992759418",
+      "type": "related"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W1791587663",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W2028184439",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W2093548531",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W2788984615",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W3190031275",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W4394566526",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W4399906357",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W4417447314",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W7122809125",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W7161544693",
+      "type": "cites"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W7214064539",
+      "type": "related"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W7139045843",
+      "type": "related"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W7206181304",
+      "type": "related"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W7160825987",
+      "type": "related"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W4296459004",
+      "type": "related"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W7163543046",
+      "type": "related"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W2965893853",
+      "type": "related"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W7221907876",
+      "type": "related"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W7210269120",
+      "type": "related"
+    },
+    {
+      "from": "W7225693922",
+      "to": "W4384393811",
       "type": "related"
     }
   ]

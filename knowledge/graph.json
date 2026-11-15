@@ -9755,6 +9755,18 @@
     "repec:RePEc:zbw:bubdps:344524": {
       "title": "On looking through sectoral shocks: The role of (de-)anchored inflation expectations",
       "paper_id": "repec:RePEc:zbw:bubdps:344524"
+    },
+    "W7225709266": {
+      "title": "L'impact des innovations financières sur la transmission de la politique monétaire au Maroc : approche théorique et comparative",
+      "paper_id": "https://doi.org/10.5281/zenodo.24095431"
+    },
+    "W7225730121": {
+      "title": "CFP-R4 Survives Severe Tests on Inflation Expectations and Climate Belief",
+      "paper_id": "https://doi.org/10.5281/zenodo.24116951"
+    },
+    "repec:RePEc:zbw:bubdps:344520": {
+      "title": "Survey design and professional forecasters: The case of uncertainty in the US SPF",
+      "paper_id": "repec:RePEc:zbw:bubdps:344520"
     }
   },
   "edges": [
@@ -44401,6 +44413,106 @@
     {
       "from": "W7225693922",
       "to": "W4384393811",
+      "type": "related"
+    },
+    {
+      "from": "W7225709266",
+      "to": "W6893442007",
+      "type": "related"
+    },
+    {
+      "from": "W7225709266",
+      "to": "W7127885098",
+      "type": "related"
+    },
+    {
+      "from": "W7225709266",
+      "to": "W2609330295",
+      "type": "related"
+    },
+    {
+      "from": "W7225709266",
+      "to": "W7149507901",
+      "type": "related"
+    },
+    {
+      "from": "W7225709266",
+      "to": "W2474086142",
+      "type": "related"
+    },
+    {
+      "from": "W7225709266",
+      "to": "W4377217508",
+      "type": "related"
+    },
+    {
+      "from": "W7225709266",
+      "to": "W4310771633",
+      "type": "related"
+    },
+    {
+      "from": "W7225709266",
+      "to": "W3087782605",
+      "type": "related"
+    },
+    {
+      "from": "W7225709266",
+      "to": "W2888345426",
+      "type": "related"
+    },
+    {
+      "from": "W7225709266",
+      "to": "W6912288546",
+      "type": "related"
+    },
+    {
+      "from": "W7225730121",
+      "to": "W6960007784",
+      "type": "related"
+    },
+    {
+      "from": "W7225730121",
+      "to": "W2025038423",
+      "type": "related"
+    },
+    {
+      "from": "W7225730121",
+      "to": "W7117648832",
+      "type": "related"
+    },
+    {
+      "from": "W7225730121",
+      "to": "W2323485714",
+      "type": "related"
+    },
+    {
+      "from": "W7225730121",
+      "to": "W2735752409",
+      "type": "related"
+    },
+    {
+      "from": "W7225730121",
+      "to": "W3049300508",
+      "type": "related"
+    },
+    {
+      "from": "W7225730121",
+      "to": "W2166247811",
+      "type": "related"
+    },
+    {
+      "from": "W7225730121",
+      "to": "W2258875306",
+      "type": "related"
+    },
+    {
+      "from": "W7225730121",
+      "to": "W157467292",
+      "type": "related"
+    },
+    {
+      "from": "W7225730121",
+      "to": "W7001113499",
       "type": "related"
     }
   ]

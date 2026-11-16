@@ -9568,10 +9568,6 @@
       "title": "Data-center growth impacts household electricity costs more through wholesale prices than through grid reinforcement",
       "paper_id": "2611.16095v1"
     },
-    "2611.15747v1": {
-      "title": "Huge If True: Learning from the Size of the Surprise",
-      "paper_id": "2611.15747v1"
-    },
     "2611.16058v1": {
       "title": "Human Capital in Context: What Employment Survival Reveals About Worker-Firm Match",
       "paper_id": "2611.16058v1"
@@ -9648,17 +9644,9 @@
       "title": "Do Modern Difference-in-Differences Estimators Change Published Findings in Business Research?",
       "paper_id": "2611.11003v2"
     },
-    "2611.17148v1": {
-      "title": "Learning Dynamics of the Influencer's Game in Resource Landscapes",
-      "paper_id": "2611.17148v1"
-    },
     "2611.17029v1": {
       "title": "Contractual Structure and Obvious Manipulation in Many-to-Many Matching",
       "paper_id": "2611.17029v1"
-    },
-    "2611.16327v1": {
-      "title": "Designing Information in a Forest: Algorithmic Aspects",
-      "paper_id": "2611.16327v1"
     },
     "2611.16207v1": {
       "title": "Core nonemptiness for $2/3$-convex games",
@@ -9767,6 +9755,98 @@
     "repec:RePEc:zbw:bubdps:344520": {
       "title": "Survey design and professional forecasters: The case of uncertainty in the US SPF",
       "paper_id": "repec:RePEc:zbw:bubdps:344520"
+    },
+    "2611.17984v1": {
+      "title": "Menu Design Meets Market Design: Strategic Simplicity vs. Choice Complexity",
+      "paper_id": "2611.17984v1"
+    },
+    "2611.17530v1": {
+      "title": "AI and the Two Margins of Work: Why Job Losses Show Up Before Job Creation",
+      "paper_id": "2611.17530v1"
+    },
+    "2611.17515v1": {
+      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "paper_id": "2611.17515v1"
+    },
+    "2611.15747v2": {
+      "title": "Huge If True: Learning from the Size of the Surprise",
+      "paper_id": "2611.15747v2"
+    },
+    "2611.18479v1": {
+      "title": "Estimating a Rational Inattention Discrete Choice Model: A Semiparametric Approach",
+      "paper_id": "2611.18479v1"
+    },
+    "2611.18444v1": {
+      "title": "Constrained Stochastic Policy Targeting under Heterogeneous Partial Interference",
+      "paper_id": "2611.18444v1"
+    },
+    "2611.18411v1": {
+      "title": "Making Experiment Results Comparable through Sitewide Impact Estimation",
+      "paper_id": "2611.18411v1"
+    },
+    "2611.18227v1": {
+      "title": "Broken Adaptive Ridge in High-Dimensional Vector Autoregressions",
+      "paper_id": "2611.18227v1"
+    },
+    "2611.17692v1": {
+      "title": "Random Utility Models in the Consumption-Budget Setting: Vertex and Network-Flow Characterizations",
+      "paper_id": "2611.17692v1"
+    },
+    "2611.18116v1": {
+      "title": "Positive Weights Do Not Certify TWFE Inference: A Design Diagnostic under Treatment-Effect Heterogeneity",
+      "paper_id": "2611.18116v1"
+    },
+    "2611.17578v1": {
+      "title": "Orthogonal Scores and Double/Debiased Machine Learning for Possibly Misspecified GMM",
+      "paper_id": "2611.17578v1"
+    },
+    "2611.18468v1": {
+      "title": "Disenfranchisement in Spatial Voting Games",
+      "paper_id": "2611.18468v1"
+    },
+    "2611.18345v1": {
+      "title": "Exploitation, class income and welfare in a Sraffian economy with consumption preferences",
+      "paper_id": "2611.18345v1"
+    },
+    "2611.18282v1": {
+      "title": "Safe manipulation of tops-only voting rules",
+      "paper_id": "2611.18282v1"
+    },
+    "2611.18054v1": {
+      "title": "Endogenous Parcel Contiguity and Rent Indeterminacy in a Finite-Household Monocentric City",
+      "paper_id": "2611.18054v1"
+    },
+    "2611.17701v1": {
+      "title": "Truthful compromise and insurance on a sphere",
+      "paper_id": "2611.17701v1"
+    },
+    "2611.17148v2": {
+      "title": "Learning Dynamics of the Influencer's Game in Resource Landscapes",
+      "paper_id": "2611.17148v2"
+    },
+    "2611.16327v2": {
+      "title": "Designing Information in a Forest: Algorithmic Aspects",
+      "paper_id": "2611.16327v2"
+    },
+    "2611.18367v1": {
+      "title": "DECODE: Decomposable Environments for COntrolled Sequential-Decision Evaluation",
+      "paper_id": "2611.18367v1"
+    },
+    "2611.18531v1": {
+      "title": "Alignment by Socialization: Learning Tradeoffs Under Selection",
+      "paper_id": "2611.18531v1"
+    },
+    "2611.17942v1": {
+      "title": "Mapping NGFS Climate Pathways to GICS Sectors: Application to Portfolio Decarbonization",
+      "paper_id": "2611.17942v1"
+    },
+    "W7226012856": {
+      "title": "The Correction Freeze Problem: Severe Tests, Potential Climate-Belief Hysteresis, and a Proposal for a New Research Field",
+      "paper_id": "https://doi.org/10.17613/yva4j-4zm56"
+    },
+    "W7231379279": {
+      "title": "The Correction Freeze Problem in a New Domain: Blind and Exploratory Tests on Air Quality",
+      "paper_id": "https://doi.org/10.17613/a0tvg-9a872"
     }
   },
   "edges": [
@@ -44513,6 +44593,56 @@
     {
       "from": "W7225730121",
       "to": "W7001113499",
+      "type": "related"
+    },
+    {
+      "from": "W7226012856",
+      "to": "W7225693720",
+      "type": "related"
+    },
+    {
+      "from": "W7226012856",
+      "to": "W7225730121",
+      "type": "related"
+    },
+    {
+      "from": "W7226012856",
+      "to": "W7225798034",
+      "type": "related"
+    },
+    {
+      "from": "W7226012856",
+      "to": "W7225904256",
+      "type": "related"
+    },
+    {
+      "from": "W7226012856",
+      "to": "W7225818842",
+      "type": "related"
+    },
+    {
+      "from": "W7226012856",
+      "to": "W7225851236",
+      "type": "related"
+    },
+    {
+      "from": "W7226012856",
+      "to": "W4401610556",
+      "type": "related"
+    },
+    {
+      "from": "W7226012856",
+      "to": "W7213750354",
+      "type": "related"
+    },
+    {
+      "from": "W7226012856",
+      "to": "W4404616781",
+      "type": "related"
+    },
+    {
+      "from": "W7226012856",
+      "to": "W1012456612",
       "type": "related"
     }
   ]

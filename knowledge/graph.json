@@ -9844,9 +9844,157 @@
       "title": "The Correction Freeze Problem: Severe Tests, Potential Climate-Belief Hysteresis, and a Proposal for a New Research Field",
       "paper_id": "https://doi.org/10.17613/yva4j-4zm56"
     },
-    "W7231379279": {
+    "2611.21364v1": {
+      "title": "A Game of Throngs: How Spotlight Tourism Reshapes Local Economies",
+      "paper_id": "2611.21364v1"
+    },
+    "2611.21568v1": {
+      "title": "The Geoengineering Put: Ecological Debt, Termination Risk, and Asset Prices",
+      "paper_id": "2611.21568v1"
+    },
+    "2611.19662v1": {
+      "title": "Identifying Time Preference Shocks: Stated and Revealed Preferences after an Italian Earthquake",
+      "paper_id": "2611.19662v1"
+    },
+    "2611.21070v1": {
+      "title": "Trade Tensions Meet the Gig Economy: Evidence from the 2025 Halving of Chinese Travel to Japan",
+      "paper_id": "2611.21070v1"
+    },
+    "2611.18872v1": {
+      "title": "The opposing informational effects of AI trading",
+      "paper_id": "2611.18872v1"
+    },
+    "2611.19068v1": {
+      "title": "Corporate Stances on Societal Issues in the US",
+      "paper_id": "2611.19068v1"
+    },
+    "2611.21496v1": {
+      "title": "Never too LATE: Exploiting restrictions for inference on the Local Average Treatment Effect",
+      "paper_id": "2611.21496v1"
+    },
+    "2611.18767v1": {
+      "title": "China's Local Government Debt, Strategic Competition, and Bitcoin Demand: A Conditional Transmission Framework",
+      "paper_id": "2611.18767v1"
+    },
+    "2611.21474v1": {
+      "title": "Sharp High-Dimensional Gaussian Approximations over Rectangles without Covariance Restrictions",
+      "paper_id": "2611.21474v1"
+    },
+    "2611.21230v1": {
+      "title": "Shrink Responsibly: Empirical Bayes in Economics",
+      "paper_id": "2611.21230v1"
+    },
+    "2611.21207v1": {
+      "title": "Who Is the Regression About? Auditing AI-Labeled Treatments When Effects Differ",
+      "paper_id": "2611.21207v1"
+    },
+    "2611.20806v1": {
+      "title": "Do Hierarchical Networks Actually Learn? Insights from Word-of-Mouth Estimation",
+      "paper_id": "2611.20806v1"
+    },
+    "2611.20322v1": {
+      "title": "Maximum Scores and Treatment Feedback in Regression Discontinuity Designs",
+      "paper_id": "2611.20322v1"
+    },
+    "2611.20209v1": {
+      "title": "Knowing Less After a Diagnostic Test: Dilation in Clinical Decision-Making",
+      "paper_id": "2611.20209v1"
+    },
+    "2611.20030v1": {
+      "title": "High-Dimensional Approximate Factor Models with Score-Driven Dynamics: Estimation and Inference",
+      "paper_id": "2611.20030v1"
+    },
+    "2611.19690v1": {
+      "title": "Comparing Two-Sample IV Estimators under Weak Instruments",
+      "paper_id": "2611.19690v1"
+    },
+    "2611.19476v1": {
+      "title": "Team Stability: Theory and Evidence",
+      "paper_id": "2611.19476v1"
+    },
+    "2611.19432v1": {
+      "title": "Cluster-Robust Inference in Small Samples Using Bias Corrections",
+      "paper_id": "2611.19432v1"
+    },
+    "2611.19209v1": {
+      "title": "Unit-Level Conformal Inference for Panel Counterfactuals",
+      "paper_id": "2611.19209v1"
+    },
+    "2611.19177v1": {
+      "title": "Alternative Computational Formulations for Testing Discrete-Choice Random Utility Models: Half-Space and Network-Flow Formulations",
+      "paper_id": "2611.19177v1"
+    },
+    "2611.18785v1": {
+      "title": "Setting Optimal Reserve Prices using Fine-Tuned Language Models",
+      "paper_id": "2611.18785v1"
+    },
+    "2611.21262v1": {
+      "title": "Strategic Repayment and Latent Fragility in Financial Networks: Why Banks Withhold Payable Liquidity",
+      "paper_id": "2611.21262v1"
+    },
+    "2611.21113v1": {
+      "title": "Intransigence or compromise: concatenated opinion dynamics with voting feedback",
+      "paper_id": "2611.21113v1"
+    },
+    "2611.20561v1": {
+      "title": "When Better Artificial Intelligence Widens the Adoption Gap in Health Care",
+      "paper_id": "2611.20561v1"
+    },
+    "2611.20204v1": {
+      "title": "Paying Creators for Training Data Can Increase AI Displacement",
+      "paper_id": "2611.20204v1"
+    },
+    "2611.20110v1": {
+      "title": "Who Observes Whom: Network Rationalizability and Its Complexity",
+      "paper_id": "2611.20110v1"
+    },
+    "2611.19417v1": {
+      "title": "Are Revealed Preferences All You Need for AI Alignment?",
+      "paper_id": "2611.19417v1"
+    },
+    "2611.19021v1": {
+      "title": "Aggregating Rankings of Coalitions to Rank Individuals",
+      "paper_id": "2611.19021v1"
+    },
+    "2611.21326v1": {
+      "title": "Neural Marked Point Processes for Health Insurance Claims",
+      "paper_id": "2611.21326v1"
+    },
+    "2611.19028v1": {
+      "title": "Optimal Capital Injections in a Microlending Group under External Shocks",
+      "paper_id": "2611.19028v1"
+    },
+    "2611.18759v1": {
+      "title": "Portfolio-Size Constraints on Default Correlation: Exact Coherence Tests and Sharp Asymptotic Bounds",
+      "paper_id": "2611.18759v1"
+    },
+    "2611.19849v1": {
+      "title": "NoLBERT-Calls: Reading Earnings Calls Without Hindsight",
+      "paper_id": "2611.19849v1"
+    },
+    "2611.18934v1": {
+      "title": "Short Windows, Unmodelled Costs, Unknown Cutoffs: A Pre-Registered Evidence Audit of 91 LLM Trading Papers",
+      "paper_id": "2611.18934v1"
+    },
+    "W7225982683": {
+      "title": "From Commercial Banking to Rural Banking: Regulatory Challenges and Legal Consequences in Indonesia’s Banking Sector",
+      "paper_id": "https://doi.org/10.30649/ph.v26i2.656"
+    },
+    "W7232009981": {
+      "title": "Legal and Ethical Implication Framework for Artificial Intelligence Application in Centenary Bank Uganda Limited",
+      "paper_id": "https://doi.org/10.59232/air-v4i3p101"
+    },
+    "W7226033940": {
+      "title": "The Influence of Profitability, Interest Rates (BI Rate) and Institutional Ownership on Stock Returns at PT Akasha Wira Internasional Tbk",
+      "paper_id": "https://doi.org/10.61536/escalate.v4i4.886"
+    },
+    "W7233468239": {
       "title": "The Correction Freeze Problem in a New Domain: Blind and Exploratory Tests on Air Quality",
-      "paper_id": "https://doi.org/10.17613/a0tvg-9a872"
+      "paper_id": "https://doi.org/10.5281/zenodo.24220634"
+    },
+    "worldbank:40139462": {
+      "title": "The Impact of Digitalization and Technological Development on Tax Administration, Compliance, and Complexity : An Exploratory Study",
+      "paper_id": "worldbank:40139462"
     }
   },
   "edges": [
@@ -44643,6 +44791,316 @@
     {
       "from": "W7226012856",
       "to": "W1012456612",
+      "type": "related"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W2300303770",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W2757640177",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W2806923020",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W2899793762",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W2921973597",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W2936788662",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W2959388131",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W2966987847",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W2996198591",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W3007485212",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W3043676271",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W3182332277",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W3196149876",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W4233248400",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W4389790584",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W7126464489",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W7160268739",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W7215822991",
+      "type": "cites"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W4399614160",
+      "type": "related"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W4413874457",
+      "type": "related"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W7160268739",
+      "type": "related"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W4285319792",
+      "type": "related"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W744309394",
+      "type": "related"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W642229527",
+      "type": "related"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W4389395028",
+      "type": "related"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W4411415211",
+      "type": "related"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W4404301095",
+      "type": "related"
+    },
+    {
+      "from": "W7225982683",
+      "to": "W2994298267",
+      "type": "related"
+    },
+    {
+      "from": "W7232009981",
+      "to": "W7171456851",
+      "type": "related"
+    },
+    {
+      "from": "W7232009981",
+      "to": "W4407005717",
+      "type": "related"
+    },
+    {
+      "from": "W7232009981",
+      "to": "W7135233347",
+      "type": "related"
+    },
+    {
+      "from": "W7232009981",
+      "to": "W7135369333",
+      "type": "related"
+    },
+    {
+      "from": "W7232009981",
+      "to": "W7131412701",
+      "type": "related"
+    },
+    {
+      "from": "W7232009981",
+      "to": "W4390298389",
+      "type": "related"
+    },
+    {
+      "from": "W7232009981",
+      "to": "W4407005752",
+      "type": "related"
+    },
+    {
+      "from": "W7232009981",
+      "to": "W4415201261",
+      "type": "related"
+    },
+    {
+      "from": "W7232009981",
+      "to": "W7163544346",
+      "type": "related"
+    },
+    {
+      "from": "W7232009981",
+      "to": "W7204488847",
+      "type": "related"
+    },
+    {
+      "from": "W7226033940",
+      "to": "W3042387515",
+      "type": "cites"
+    },
+    {
+      "from": "W7226033940",
+      "to": "W3090990194",
+      "type": "cites"
+    },
+    {
+      "from": "W7226033940",
+      "to": "W4406583637",
+      "type": "cites"
+    },
+    {
+      "from": "W7226033940",
+      "to": "W4414828101",
+      "type": "cites"
+    },
+    {
+      "from": "W7226033940",
+      "to": "W3158657225",
+      "type": "related"
+    },
+    {
+      "from": "W7226033940",
+      "to": "W3198745244",
+      "type": "related"
+    },
+    {
+      "from": "W7226033940",
+      "to": "W7116750192",
+      "type": "related"
+    },
+    {
+      "from": "W7226033940",
+      "to": "W7136087896",
+      "type": "related"
+    },
+    {
+      "from": "W7226033940",
+      "to": "W3188734642",
+      "type": "related"
+    },
+    {
+      "from": "W7226033940",
+      "to": "W7164503961",
+      "type": "related"
+    },
+    {
+      "from": "W7226033940",
+      "to": "W4392516287",
+      "type": "related"
+    },
+    {
+      "from": "W7226033940",
+      "to": "W7223178950",
+      "type": "related"
+    },
+    {
+      "from": "W7226033940",
+      "to": "W4403229140",
+      "type": "related"
+    },
+    {
+      "from": "W7226033940",
+      "to": "W7130962261",
+      "type": "related"
+    },
+    {
+      "from": "W7233468239",
+      "to": "W7232981944",
+      "type": "related"
+    },
+    {
+      "from": "W7233468239",
+      "to": "W7225904256",
+      "type": "related"
+    },
+    {
+      "from": "W7233468239",
+      "to": "W7225907814",
+      "type": "related"
+    },
+    {
+      "from": "W7233468239",
+      "to": "W7226031611",
+      "type": "related"
+    },
+    {
+      "from": "W7233468239",
+      "to": "W4288740053",
+      "type": "related"
+    },
+    {
+      "from": "W7233468239",
+      "to": "W1701447440",
+      "type": "related"
+    },
+    {
+      "from": "W7233468239",
+      "to": "W7227467882",
+      "type": "related"
+    },
+    {
+      "from": "W7233468239",
+      "to": "W1543289718",
+      "type": "related"
+    },
+    {
+      "from": "W7233468239",
+      "to": "W2334272090",
+      "type": "related"
+    },
+    {
+      "from": "W7233468239",
+      "to": "W2805080185",
       "type": "related"
     }
   ]

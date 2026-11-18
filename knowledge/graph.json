@@ -5244,10 +5244,6 @@
       "title": "Fiscal policy and sectoral spillovers in open-economy HANK",
       "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3279~c0a22d29e1.en.pdf"
     },
-    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3280~503ba7d4b0.en.pdf": {
-      "title": "DeFi-ying the Fed? Monetary policy transmission to stablecoin deposit rates",
-      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3280~503ba7d4b0.en.pdf"
-    },
     "worldbank:40127283": {
       "title": "Tracking Air Pollution from Space: High-Resolution Daily Estimates for PM2.5, O3, NO2, and CO",
       "paper_id": "worldbank:40127283"
@@ -9604,10 +9600,6 @@
       "title": "Localizing Mean Shifts in High-Dimensional Vector Autoregressive Models",
       "paper_id": "2611.16556v1"
     },
-    "2611.16406v1": {
-      "title": "One-Sided Randomization in Two-Sided Platform Experiments: Which Side Should be Randomized?",
-      "paper_id": "2611.16406v1"
-    },
     "2611.16242v1": {
       "title": "A Sensitivity Framework for Assessing External Validity",
       "paper_id": "2611.16242v1"
@@ -9995,6 +9987,114 @@
     "worldbank:40139462": {
       "title": "The Impact of Digitalization and Technological Development on Tax Administration, Compliance, and Complexity : An Exploratory Study",
       "paper_id": "worldbank:40139462"
+    },
+    "2611.22793v1": {
+      "title": "Does the AI Reviewer Alleviate or Aggravate the Maintenance Burden? Evidence from GitHub Copilot Reviewer",
+      "paper_id": "2611.22793v1"
+    },
+    "2611.22517v1": {
+      "title": "Clicks, Carbon, and Risk: Climate Attention, Persistent Financial Risk, and Real-Sector Activity",
+      "paper_id": "2611.22517v1"
+    },
+    "2611.22033v1": {
+      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+      "paper_id": "2611.22033v1"
+    },
+    "2611.21672v1": {
+      "title": "Who sees the sea? Sea-view potential by façade and floor from cadastral LoD1 models on the Costa del Sol",
+      "paper_id": "2611.21672v1"
+    },
+    "2611.22984v1": {
+      "title": "Long-Term Quantile Treatment Effects with Combined Experimental and Observational Data",
+      "paper_id": "2611.22984v1"
+    },
+    "2611.23174v1": {
+      "title": "Inference after coding agents",
+      "paper_id": "2611.23174v1"
+    },
+    "2611.22921v1": {
+      "title": "Action-outcome coupling: a pre-investment feasibility audit for offline reinforcement learning in supply chain operations",
+      "paper_id": "2611.22921v1"
+    },
+    "2611.22675v1": {
+      "title": "Exact and Approximate Maximum Likelihood Estimation for Multivariate Diffusions under High-Frequency Sampling",
+      "paper_id": "2611.22675v1"
+    },
+    "2611.22638v1": {
+      "title": "Nested logit: model structure and normalisation",
+      "paper_id": "2611.22638v1"
+    },
+    "2611.22289v1": {
+      "title": "Estimation and Model Selection in Factor Models with Long Memory",
+      "paper_id": "2611.22289v1"
+    },
+    "2611.22257v1": {
+      "title": "The Online LSTM Prediction Models and The Term Structure of Predictions",
+      "paper_id": "2611.22257v1"
+    },
+    "2611.16406v2": {
+      "title": "One-Sided Randomization in Two-Sided Platform Experiments: Which Side Should be Randomized?",
+      "paper_id": "2611.16406v2"
+    },
+    "2611.22484v1": {
+      "title": "Moral Inversion: Expressive Payoffs and the Reliability of Consensus",
+      "paper_id": "2611.22484v1"
+    },
+    "2611.22892v1": {
+      "title": "Weighted Proportional Toll Sharing on General Highway Networks",
+      "paper_id": "2611.22892v1"
+    },
+    "2611.22370v1": {
+      "title": "Who Pays for Product Returns? Advertising and Return Policies",
+      "paper_id": "2611.22370v1"
+    },
+    "2611.22216v1": {
+      "title": "Settling the Time and Structural Complexity of Bertrand Networks",
+      "paper_id": "2611.22216v1"
+    },
+    "2611.22119v1": {
+      "title": "An axiomatic foundation for optimized certainty equivalents",
+      "paper_id": "2611.22119v1"
+    },
+    "2611.22116v1": {
+      "title": "Reserve Systems in Dynamic Settings: Account Design and Inherited Rights",
+      "paper_id": "2611.22116v1"
+    },
+    "2611.21856v1": {
+      "title": "Optimal Network Design under Node Failures",
+      "paper_id": "2611.21856v1"
+    },
+    "2611.23057v1": {
+      "title": "Integrating market sentiments for stock price prediction: A comparative study of Bi-LSTM and multilayer perceptions",
+      "paper_id": "2611.23057v1"
+    },
+    "2611.22277v1": {
+      "title": "Explaining Realized Returns: Roll's $R^2$ 40 Years Later",
+      "paper_id": "2611.22277v1"
+    },
+    "W7234046101": {
+      "title": "Do New Zealand inflation-expectation surveys still lead inflation? Evidence to 2026",
+      "paper_id": "https://doi.org/10.5281/zenodo.24267247"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3311~66cc2a4d65.en.pdf": {
+      "title": "Monetary policy, segmented capital markets and innovation",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3311~66cc2a4d65.en.pdf"
+    },
+    "repec:RePEc:ces:ceswps:_13154": {
+      "title": "Economic Literacy: Measurement, Expectations, and Policy Views",
+      "paper_id": "repec:RePEc:ces:ceswps:_13154"
+    },
+    "repec:RePEc:ces:ceswps:_13153": {
+      "title": "Frontier Technology in Frontier Markets? Financing Global AI Entrepreneurship",
+      "paper_id": "repec:RePEc:ces:ceswps:_13153"
+    },
+    "repec:RePEc:bfr:banfra:1068": {
+      "title": "From Income to Wealth Inequality Trickle-Down vs. Capital Gains",
+      "paper_id": "repec:RePEc:bfr:banfra:1068"
+    },
+    "repec:RePEc:bfr:banfra:1069": {
+      "title": "DeFi-ying the Fed? Monetary Policy Transmission to Stablecoin Deposit Rates",
+      "paper_id": "repec:RePEc:bfr:banfra:1069"
     }
   },
   "edges": [
@@ -45102,6 +45202,11 @@
       "from": "W7233468239",
       "to": "W2805080185",
       "type": "related"
+    },
+    {
+      "from": "W7234046101",
+      "to": "W7225796879",
+      "type": "cites"
     }
   ]
 }

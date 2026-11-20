@@ -10179,6 +10179,126 @@
     "repec:RePEc:bfr:banfra:1067": {
       "title": "Authority, Attention, and the Origins of Monetary Policy Surprises",
       "paper_id": "repec:RePEc:bfr:banfra:1067"
+    },
+    "2611.26338v1": {
+      "title": "Structural economic change under the digital transformation",
+      "paper_id": "2611.26338v1"
+    },
+    "2611.26365v1": {
+      "title": "Interpreting the Morbidity Gap",
+      "paper_id": "2611.26365v1"
+    },
+    "2611.26197v1": {
+      "title": "Equity and Aggregate Ambiguity",
+      "paper_id": "2611.26197v1"
+    },
+    "2611.26168v1": {
+      "title": "Globally promoting legumes by production or use subsidies",
+      "paper_id": "2611.26168v1"
+    },
+    "2611.25869v1": {
+      "title": "Persistence and Change in National Production Networks",
+      "paper_id": "2611.25869v1"
+    },
+    "2611.25218v1": {
+      "title": "The American Medical Directory Panel: Comparing AI-Assisted and LLM Transcription with Manual Data Entry at Scale",
+      "paper_id": "2611.25218v1"
+    },
+    "2611.26410v1": {
+      "title": "Statistical Inference with Ill-Conditioned Random Weight Neural Network Sieves",
+      "paper_id": "2611.26410v1"
+    },
+    "2611.25951v1": {
+      "title": "Measuring climate credibility? Talk, emissions, and corporate debt composition",
+      "paper_id": "2611.25951v1"
+    },
+    "2611.25702v1": {
+      "title": "The Statistical Cost of Second-Order Orthogonality",
+      "paper_id": "2611.25702v1"
+    },
+    "2611.25420v1": {
+      "title": "Structural Fine-Tuning under Economic Restrictions",
+      "paper_id": "2611.25420v1"
+    },
+    "2611.25253v1": {
+      "title": "Informative Local Average Treatment Effects Using Propensity Scores",
+      "paper_id": "2611.25253v1"
+    },
+    "2611.25238v1": {
+      "title": "Stability Bands for Feature Attribution: The Core, the Nucleolus and the Bargaining Set of Explained-Variance Games",
+      "paper_id": "2611.25238v1"
+    },
+    "2611.25222v1": {
+      "title": "Network-Adaptive Instrumental Variables",
+      "paper_id": "2611.25222v1"
+    },
+    "2611.26452v1": {
+      "title": "Entry Deterrence with Public Signals: Revisiting the Chain-Store Paradox",
+      "paper_id": "2611.26452v1"
+    },
+    "2611.26247v1": {
+      "title": "An Enforcement Foundation for Constrained Equal Awards",
+      "paper_id": "2611.26247v1"
+    },
+    "2611.26224v1": {
+      "title": "Obvious group manipulations in voting",
+      "paper_id": "2611.26224v1"
+    },
+    "2611.25748v1": {
+      "title": "A Simple Proof of Koray's Theorem",
+      "paper_id": "2611.25748v1"
+    },
+    "2611.25368v1": {
+      "title": "Cognitive Constraints and Misspecification Concern",
+      "paper_id": "2611.25368v1"
+    },
+    "2611.25280v1": {
+      "title": "Folk Theorems for Social Learning",
+      "paper_id": "2611.25280v1"
+    },
+    "2611.25213v1": {
+      "title": "Moral AI and the Erosion of Its Own Demand",
+      "paper_id": "2611.25213v1"
+    },
+    "2611.25205v1": {
+      "title": "When Good News Fails in Evolution: A Note on Information, Exposure, and Evolutionary Stability",
+      "paper_id": "2611.25205v1"
+    },
+    "2611.26623v1": {
+      "title": "Path-Independent Deleveraging Rules",
+      "paper_id": "2611.26623v1"
+    },
+    "2611.26200v1": {
+      "title": "A Three-Factor Hull-White Scenario Generator for Macro-Financial Stress Forecasting",
+      "paper_id": "2611.26200v1"
+    },
+    "2611.26180v1": {
+      "title": "Stablecoin Runs as Safe-Asset Stress Signals: Episode-Level Evidence for Central Bank Surveillance",
+      "paper_id": "2611.26180v1"
+    },
+    "2611.25393v1": {
+      "title": "The Coevolution and Coexistence of Humans and AI",
+      "paper_id": "2611.25393v1"
+    },
+    "W7112162049": {
+      "title": "Forecast Accuracy and Efficiency at the Bank of England",
+      "paper_id": "https://doi.org/10.1111/obes.70145"
+    },
+    "W7234114814": {
+      "title": "Monetary policy in response to supply shocks – A comparative analysis of the actions of the National Bank of Poland and the European Central Bank during the 2022 energy crisis",
+      "paper_id": "https://doi.org/10.24136/ceref.2026.014"
+    },
+    "bank_of_canada:https://www.bankofcanada.ca/2026/11/staff-working-paper-2026-42/": {
+      "title": "Cyclicality of Income-Growth Distribution and the Role of Monetary Policy",
+      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/11/staff-working-paper-2026-42/"
+    },
+    "repec:RePEc:ces:ceswps:_13149": {
+      "title": "Ambiguity in China's Climate Policy Discourse: A Provincial-Level Analysis",
+      "paper_id": "repec:RePEc:ces:ceswps:_13149"
+    },
+    "repec:RePEc:ces:ceswps:_13150": {
+      "title": "How Media Shape Policy Uncertainty",
+      "paper_id": "repec:RePEc:ces:ceswps:_13150"
     }
   },
   "edges": [
@@ -45700,6 +45820,171 @@
     {
       "from": "W7234636207",
       "to": "W7113646015",
+      "type": "related"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W1576527543",
+      "type": "cites"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W2047196406",
+      "type": "cites"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W2053142295",
+      "type": "cites"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W2062551580",
+      "type": "cites"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W2067150672",
+      "type": "cites"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W2073431235",
+      "type": "cites"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W2589619974",
+      "type": "cites"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W2923764174",
+      "type": "cites"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W3122315136",
+      "type": "cites"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W3150341366",
+      "type": "cites"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W4390912462",
+      "type": "cites"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W4408870576",
+      "type": "cites"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W4410489990",
+      "type": "cites"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W4414984059",
+      "type": "related"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W2046990000",
+      "type": "related"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W2109406616",
+      "type": "related"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W2103784952",
+      "type": "related"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W3122402271",
+      "type": "related"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W1794066358",
+      "type": "related"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W4405904330",
+      "type": "related"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W4414934574",
+      "type": "related"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W2981132192",
+      "type": "related"
+    },
+    {
+      "from": "W7112162049",
+      "to": "W2254237954",
+      "type": "related"
+    },
+    {
+      "from": "W7234114814",
+      "to": "W7117644737",
+      "type": "related"
+    },
+    {
+      "from": "W7234114814",
+      "to": "W4321504395",
+      "type": "related"
+    },
+    {
+      "from": "W7234114814",
+      "to": "W4410090201",
+      "type": "related"
+    },
+    {
+      "from": "W7234114814",
+      "to": "W2733171126",
+      "type": "related"
+    },
+    {
+      "from": "W7234114814",
+      "to": "W7134926074",
+      "type": "related"
+    },
+    {
+      "from": "W7234114814",
+      "to": "W4390826970",
+      "type": "related"
+    },
+    {
+      "from": "W7234114814",
+      "to": "W144527451",
+      "type": "related"
+    },
+    {
+      "from": "W7234114814",
+      "to": "W7214204765",
+      "type": "related"
+    },
+    {
+      "from": "W7234114814",
+      "to": "W7133533154",
+      "type": "related"
+    },
+    {
+      "from": "W7234114814",
+      "to": "W4407236031",
       "type": "related"
     }
   ]

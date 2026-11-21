@@ -10299,6 +10299,30 @@
     "repec:RePEc:ces:ceswps:_13150": {
       "title": "How Media Shape Policy Uncertainty",
       "paper_id": "repec:RePEc:ces:ceswps:_13150"
+    },
+    "W7236740947": {
+      "title": "Money, Interest Rates and Inflation in Mexico, 1985–2025: Extreme Bounds Analysis Within Clusters of Policy-Homogeneous Years",
+      "paper_id": "https://doi.org/10.21203/rs.3.rs-11784245/v1"
+    },
+    "W4416118947": {
+      "title": "Testing Monetary Sovereignty and Structural Inflation Shifts: Evidence from Croatia’s Euro Transition (2000–2025)",
+      "paper_id": "https://doi.org/10.3390/economies14110560"
+    },
+    "repec:RePEc:ces:ceswps:_13148": {
+      "title": "Low Enrollment Rates in Centralized College Admission Systems: Evidence from Brazil",
+      "paper_id": "repec:RePEc:ces:ceswps:_13148"
+    },
+    "repec:RePEc:ces:ceswps:_13147": {
+      "title": "The Limits of Behavioral Simulation With AI",
+      "paper_id": "repec:RePEc:ces:ceswps:_13147"
+    },
+    "repec:RePEc:fip:fedpwp:104084": {
+      "title": "Fiscal Policy as a Nominal Anchor",
+      "paper_id": "repec:RePEc:fip:fedpwp:104084"
+    },
+    "repec:RePEc:fip:fedpwp:104085": {
+      "title": "The Push of Big City Prices and the Pull of Small Town Amenities",
+      "paper_id": "repec:RePEc:fip:fedpwp:104085"
     }
   },
   "edges": [
@@ -45985,6 +46009,251 @@
     {
       "from": "W7234114814",
       "to": "W4407236031",
+      "type": "related"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W1543166152",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W1577109248",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W1585345154",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W1942772109",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W1966910378",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W1978775682",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2011279941",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2020961759",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2022220920",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2045656233",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2057013615",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2078639378",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2081668237",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2083426436",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2086739523",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2107544637",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2114463818",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2117513178",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2122966827",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2124884000",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2125331782",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2147422150",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2170433190",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2593999556",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2598827617",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2752384816",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2920804790",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W3021164001",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W3047695342",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W3121705696",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W3122978756",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W3123833473",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W3124091918",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W3125135614",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W3125420330",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W3145166190",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W4244056628",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W4390895257",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W7065309274",
+      "type": "cites"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W7116316225",
+      "type": "related"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W6998728942",
+      "type": "related"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2070899921",
+      "type": "related"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2007256057",
+      "type": "related"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W7220498271",
+      "type": "related"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W1882263229",
+      "type": "related"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W565101429",
+      "type": "related"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W4392365291",
+      "type": "related"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W2606684304",
+      "type": "related"
+    },
+    {
+      "from": "W4416118947",
+      "to": "W1842236166",
       "type": "related"
     }
   ]

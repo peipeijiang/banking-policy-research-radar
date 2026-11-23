@@ -10096,10 +10096,6 @@
       "title": "The Structural Number of Parties: An Electoral-Outcome-Independent Baseline for Comparing Party-System Scale",
       "paper_id": "2611.24714v1"
     },
-    "2611.23354v1": {
-      "title": "AI, Specialization, and the Organization of Knowledge Work: Evidence from Legal Services",
-      "paper_id": "2611.23354v1"
-    },
     "2611.24402v1": {
       "title": "Design-Based Inference for Fuzzy Difference-in-Differences",
       "paper_id": "2611.24402v1"
@@ -10343,6 +10339,74 @@
     "repec:RePEc:zbw:bubdps:344825": {
       "title": "Granular monetary policy surprises",
       "paper_id": "repec:RePEc:zbw:bubdps:344825"
+    },
+    "2611.27210v1": {
+      "title": "The Rise of Agents and the Human Labor Market",
+      "paper_id": "2611.27210v1"
+    },
+    "2611.27020v1": {
+      "title": "Trust and Lottery-Related Anomalies",
+      "paper_id": "2611.27020v1"
+    },
+    "2611.26882v1": {
+      "title": "The Rural Margin of Territorial Peace: Within-Municipality Evidence from Colombia",
+      "paper_id": "2611.26882v1"
+    },
+    "2611.23354v2": {
+      "title": "AI, Specialization, and the Organization of Knowledge Work: Evidence from Legal Services",
+      "paper_id": "2611.23354v2"
+    },
+    "2611.27757v1": {
+      "title": "Eliminating Make-Whole Uplifts with a Minimum-Cost Uniform Price Adder",
+      "paper_id": "2611.27757v1"
+    },
+    "2611.27684v1": {
+      "title": "Exchange rights and vacancy priorities",
+      "paper_id": "2611.27684v1"
+    },
+    "2611.27692v1": {
+      "title": "Reconstructing risk preferences from data",
+      "paper_id": "2611.27692v1"
+    },
+    "2611.27274v1": {
+      "title": "Nonlinear Shrinkage for Higher Moments Estimation in Large Portfolios",
+      "paper_id": "2611.27274v1"
+    },
+    "2611.27485v1": {
+      "title": "Risk sharing for background risk models with infinite mean",
+      "paper_id": "2611.27485v1"
+    },
+    "2611.26700v1": {
+      "title": "Held-to-Maturity Accounting: Hidden Losses and Systemic Fragility",
+      "paper_id": "2611.26700v1"
+    },
+    "2611.26670v1": {
+      "title": "A Solvency II-Based Framework for Pricing Structural Longevity Risk under an Affine Mortality Model",
+      "paper_id": "2611.26670v1"
+    },
+    "2611.26652v1": {
+      "title": "Distributional Deep Hedging",
+      "paper_id": "2611.26652v1"
+    },
+    "2611.27505v1": {
+      "title": "Accountable AI Delegation in Banking: Identity, Commitment Controls, Decision Evidence and Recovery",
+      "paper_id": "2611.27505v1"
+    },
+    "W7237333481": {
+      "title": "INFLATION AND WAYS TO COMBAT IT: TYPES, CAUSES, SOCIO-ECONOMIC CONSEQUENCES AND MONETARY POLICY RESPONSES",
+      "paper_id": "https://doi.org/10.5281/zenodo.24411521"
+    },
+    "W7237387770": {
+      "title": "The Role of Monetary Policy in Influencing Interbank Rate, Inflation, and Gross Domestic Product in Malaysia",
+      "paper_id": "openalex:W7237387770"
+    },
+    "repec:RePEc:zbw:bubdps:344828": {
+      "title": "When nonbanks dampen and when they amplify: A yield-curve view of the nonbank lending channel",
+      "paper_id": "repec:RePEc:zbw:bubdps:344828"
+    },
+    "repec:RePEc:zbw:bubdps:344827": {
+      "title": "Anatomy of a safe asset: Bund market structure and reform",
+      "paper_id": "repec:RePEc:zbw:bubdps:344827"
     }
   },
   "edges": [

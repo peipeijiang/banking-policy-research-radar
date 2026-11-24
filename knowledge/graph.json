@@ -4664,10 +4664,6 @@
       "title": "Verifiable official statistics: a blockchain-based approach",
       "paper_id": "repec:RePEc:bis:biswps:1374"
     },
-    "repec:RePEc:bfr:banfra:1059": {
-      "title": "Stress Testing European Banks’ Transition Risk and Lending Behavior",
-      "paper_id": "repec:RePEc:bfr:banfra:1059"
-    },
     "repec:RePEc:bfr:banfra:1060": {
       "title": "Jus naturale : The Impact of Nature-Related Litigation on Corporate Valuation",
       "paper_id": "repec:RePEc:bfr:banfra:1060"
@@ -10200,10 +10196,6 @@
       "title": "The American Medical Directory Panel: Comparing AI-Assisted and LLM Transcription with Manual Data Entry at Scale",
       "paper_id": "2611.25218v1"
     },
-    "2611.26410v1": {
-      "title": "Statistical Inference with Ill-Conditioned Random Weight Neural Network Sieves",
-      "paper_id": "2611.26410v1"
-    },
     "2611.25951v1": {
       "title": "Measuring climate credibility? Talk, emissions, and corporate debt composition",
       "paper_id": "2611.25951v1"
@@ -10239,10 +10231,6 @@
     "2611.26224v1": {
       "title": "Obvious group manipulations in voting",
       "paper_id": "2611.26224v1"
-    },
-    "2611.25748v1": {
-      "title": "A Simple Proof of Koray's Theorem",
-      "paper_id": "2611.25748v1"
     },
     "2611.25368v1": {
       "title": "Cognitive Constraints and Misspecification Concern",
@@ -10407,6 +10395,166 @@
     "repec:RePEc:zbw:bubdps:344827": {
       "title": "Anatomy of a safe asset: Bund market structure and reform",
       "paper_id": "repec:RePEc:zbw:bubdps:344827"
+    },
+    "2611.31083v1": {
+      "title": "AI-Assisted Programming and Labor Demand",
+      "paper_id": "2611.31083v1"
+    },
+    "2611.31100v1": {
+      "title": "Place-Based Policy from Space: Evidence from Italy's Inner Areas",
+      "paper_id": "2611.31100v1"
+    },
+    "2611.30735v1": {
+      "title": "The Private Production of Safety Outside Options and the Burden of Protection",
+      "paper_id": "2611.30735v1"
+    },
+    "2611.30584v1": {
+      "title": "Do Candlestick Charts Suffice? The Incremental Economic Value of Technical Indicators in Stock Return Prediction",
+      "paper_id": "2611.30584v1"
+    },
+    "2611.30019v1": {
+      "title": "Optimization of a Solar-Grid Water Supply System with Hydraulic Energy Storage: A Case Study",
+      "paper_id": "2611.30019v1"
+    },
+    "2611.29652v1": {
+      "title": "Neighbourhood flood damage amplifies mortgage default cascades",
+      "paper_id": "2611.29652v1"
+    },
+    "2611.29502v1": {
+      "title": "How to Mismatch Consumers",
+      "paper_id": "2611.29502v1"
+    },
+    "2611.29485v1": {
+      "title": "What the annual energy balance hides: the coordination value of digital platforms for positive energy districts",
+      "paper_id": "2611.29485v1"
+    },
+    "2611.28309v1": {
+      "title": "Echoes of the boom in hydraulic fracturing: What changes in Louisiana's energy complex reveal about global energy cycles",
+      "paper_id": "2611.28309v1"
+    },
+    "2611.30998v1": {
+      "title": "Spurious Information in Large Markets: Random Matrix Laws for Entropy, Mutual Information and the Value of Information",
+      "paper_id": "2611.30998v1"
+    },
+    "2611.27210v2": {
+      "title": "The Rise of Agents and the Labor Market",
+      "paper_id": "2611.27210v2"
+    },
+    "2611.30599v1": {
+      "title": "What Should an Experiment Measure? Combining a Short-Term Experiment with Confounded Observational Data to Identify Long-Term Treatment Effects",
+      "paper_id": "2611.30599v1"
+    },
+    "2611.30595v1": {
+      "title": "Adaptive experiments with observational data: Efficient experimental design and asymptotic time-uniform inference for long-term treatment effects",
+      "paper_id": "2611.30595v1"
+    },
+    "2611.30045v1": {
+      "title": "The Entangled Veil: Why Redistribution Requires a New Language",
+      "paper_id": "2611.30045v1"
+    },
+    "2611.29833v1": {
+      "title": "Computational Strategies for Mixed Logit Estimation Automatic Differentiation, GPU Computing, and Floating-Point Precision",
+      "paper_id": "2611.29833v1"
+    },
+    "2611.29797v1": {
+      "title": "Shadow economy as a null set. Measure-theoretic approach to shadow economy",
+      "paper_id": "2611.29797v1"
+    },
+    "2611.29747v1": {
+      "title": "Sharpe Ratio Inference after Machine Learning",
+      "paper_id": "2611.29747v1"
+    },
+    "2611.29074v1": {
+      "title": "Quadratic Forms of Multivariate $t$-Distributions",
+      "paper_id": "2611.29074v1"
+    },
+    "2611.29632v1": {
+      "title": "Probability-Feasible Historical Transport: Sharp Bounds and Falsification Tests for Distributional Pre-Trend Designs",
+      "paper_id": "2611.29632v1"
+    },
+    "2611.28457v1": {
+      "title": "Decision Theory with Degree of Membership in the State Space",
+      "paper_id": "2611.28457v1"
+    },
+    "2611.28301v1": {
+      "title": "Skew-Symmetric Factor Models",
+      "paper_id": "2611.28301v1"
+    },
+    "2611.28297v1": {
+      "title": "Measuring Colombia's Informal Output: Relative Earnings and Identification in a Bayesian Two-Sector Model, 1993-2026",
+      "paper_id": "2611.28297v1"
+    },
+    "2611.26410v2": {
+      "title": "Statistical Inference with Ill-Conditioned Random Weight Neural Network Sieves",
+      "paper_id": "2611.26410v2"
+    },
+    "2611.30620v1": {
+      "title": "Large Economies with Social Types",
+      "paper_id": "2611.30620v1"
+    },
+    "2611.30612v1": {
+      "title": "Principal Revelations of the Revelation Principle",
+      "paper_id": "2611.30612v1"
+    },
+    "2611.30200v1": {
+      "title": "Adopting AI Technologies without Traps: A Multi-Agent Reinforcement Learning Framework",
+      "paper_id": "2611.30200v1"
+    },
+    "2611.29971v1": {
+      "title": "Selling Training Data",
+      "paper_id": "2611.29971v1"
+    },
+    "2611.29933v1": {
+      "title": "Coarse Price Discrimination",
+      "paper_id": "2611.29933v1"
+    },
+    "2611.29688v1": {
+      "title": "Analytical modelling of compliance dynamics under fiscal feedback: tipping thresholds, intervention costs and hysteresis",
+      "paper_id": "2611.29688v1"
+    },
+    "2611.28868v1": {
+      "title": "Risk aversion with two risks for state-dependent utilities",
+      "paper_id": "2611.28868v1"
+    },
+    "2611.28515v1": {
+      "title": "Logarithmic Tracing and Equilibrium Selection in Asymmetric Coordination Games",
+      "paper_id": "2611.28515v1"
+    },
+    "2611.25748v2": {
+      "title": "A Simple Proof of Koray's Theorem",
+      "paper_id": "2611.25748v2"
+    },
+    "2611.28342v1": {
+      "title": "Which Loans, Not How Many: Exactly Level-Invariant, Anytime-Valid Monitoring of Deployed Risk Models",
+      "paper_id": "2611.28342v1"
+    },
+    "2611.28288v1": {
+      "title": "Model Doubt, Risk Aversion, and the Threshold for Trading: A Geometry of Pricing Measures",
+      "paper_id": "2611.28288v1"
+    },
+    "2611.29281v1": {
+      "title": "Project financing in vanishing forests: Do investors care about nature protection?",
+      "paper_id": "2611.29281v1"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3312~6f0e0bfceb.en.pdf": {
+      "title": "The geography of financial frictions",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3312~6f0e0bfceb.en.pdf"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/the-welfare-effects-of-bank-liquidity-and-capital-requirements.htm": {
+      "title": "FEDS Paper: The Welfare Effects of Bank Liquidity and Capital Requirements(Revised)",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/the-welfare-effects-of-bank-liquidity-and-capital-requirements.htm"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/wheres-the-bank-banking-access-in-the-era-of-branch-consolidation.htm": {
+      "title": "FEDS Paper: Where's The Bank? Banking Access in the Era of Branch Consolidation(Revised)",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/wheres-the-bank-banking-access-in-the-era-of-branch-consolidation.htm"
+    },
+    "repec:RePEc:zbw:bubdps:344819": {
+      "title": "What volatility reveals: Agnostic identification of exchange rate and treasury-market dynamics in inconvenient times",
+      "paper_id": "repec:RePEc:zbw:bubdps:344819"
+    },
+    "repec:RePEc:zbw:bubdps:344818": {
+      "title": "Stress testing European banks' transition risk and lending behavior",
+      "paper_id": "repec:RePEc:zbw:bubdps:344818"
     }
   },
   "edges": [

@@ -10555,6 +10555,86 @@
     "repec:RePEc:zbw:bubdps:344818": {
       "title": "Stress testing European banks' transition risk and lending behavior",
       "paper_id": "repec:RePEc:zbw:bubdps:344818"
+    },
+    "2611.32420v1": {
+      "title": "Grokipedia stretches the US political spectrum",
+      "paper_id": "2611.32420v1"
+    },
+    "2611.33050v1": {
+      "title": "Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement",
+      "paper_id": "2611.33050v1"
+    },
+    "2611.32139v1": {
+      "title": "Decision support framework for mitigating failure demand in healthcare",
+      "paper_id": "2611.32139v1"
+    },
+    "2611.31860v1": {
+      "title": "The Effect of Remote Working on Regional Waste: Evidence from South Korea",
+      "paper_id": "2611.31860v1"
+    },
+    "2611.31613v1": {
+      "title": "Training decision models for simulating human respondents",
+      "paper_id": "2611.31613v1"
+    },
+    "2611.31518v1": {
+      "title": "Burning the Bridge: Agentification and Domestic Value Added",
+      "paper_id": "2611.31518v1"
+    },
+    "2611.33069v1": {
+      "title": "Pragmatic Deeply Debiased ML",
+      "paper_id": "2611.33069v1"
+    },
+    "2611.31707v1": {
+      "title": "An entropy-adjusted invariant likelihood for incidental parameters",
+      "paper_id": "2611.31707v1"
+    },
+    "2611.32741v1": {
+      "title": "What it is to Obey",
+      "paper_id": "2611.32741v1"
+    },
+    "2611.32072v1": {
+      "title": "Privacy-Preserving Disclosure and Welfare",
+      "paper_id": "2611.32072v1"
+    },
+    "2611.31829v1": {
+      "title": "Contests versus Contracts in Innovation Procurement",
+      "paper_id": "2611.31829v1"
+    },
+    "2611.31557v1": {
+      "title": "Fairness and incentives in combinatorial assignment",
+      "paper_id": "2611.31557v1"
+    },
+    "2611.32790v1": {
+      "title": "Delta-Vega Hedging with Deep Reinforcement Learning: From Simulation to Reality",
+      "paper_id": "2611.32790v1"
+    },
+    "2611.32488v1": {
+      "title": "Dynamic stochastic multi-attribute group decision-making based on fractional-order stochastic dominance criteria",
+      "paper_id": "2611.32488v1"
+    },
+    "2611.32389v1": {
+      "title": "AgentBank: Banking on Blockchain Agentic Payments",
+      "paper_id": "2611.32389v1"
+    },
+    "W7237449324": {
+      "title": "Islamic Financial Product Acceptance and the Effectiveness of Inflation Targeting in Kenya: A Theoretical and Calibration Analysis of Monetary Policy Transmission.",
+      "paper_id": "https://doi.org/10.61108/ijsshr.v4i3.358"
+    },
+    "federal_reserve:https://www.federalreserve.gov/econres/feds/collateral-mobility-and-the-lender-of-last-resort.htm": {
+      "title": "FEDS Paper: Collateral Mobility and the Lender of Last Resort",
+      "paper_id": "federal_reserve:https://www.federalreserve.gov/econres/feds/collateral-mobility-and-the-lender-of-last-resort.htm"
+    },
+    "repec:RePEc:ces:ceswps:_13166": {
+      "title": "Labor Market Power and Wage Rigidity in New Keynesian Business Cycles",
+      "paper_id": "repec:RePEc:ces:ceswps:_13166"
+    },
+    "repec:RePEc:ces:ceswps:_13165": {
+      "title": "Closing Windows: Fertility Decline and the Timing of Preventive War",
+      "paper_id": "repec:RePEc:ces:ceswps:_13165"
+    },
+    "repec:RePEc:zbw:bubdps:344817": {
+      "title": "Some thoughts on modified X-11 seasonal adjustments for time series with complex seasonality",
+      "paper_id": "repec:RePEc:zbw:bubdps:344817"
     }
   },
   "edges": [
@@ -46692,6 +46772,141 @@
       "from": "W7237131628",
       "to": "W7211875491",
       "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W592313174",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W1558194331",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W1805699599",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W1925705858",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W2074007493",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W2140898820",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W2148160517",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W2606568258",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W2763934986",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W2955399615",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W3021164001",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W3121993673",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W3201251383",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W4214488424",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W4253543067",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W4290989844",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W7165777665",
+      "type": "cites"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W2506455190",
+      "type": "related"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W2806004571",
+      "type": "related"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W2919829706",
+      "type": "related"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W4388912289",
+      "type": "related"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W7135774713",
+      "type": "related"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W3201931314",
+      "type": "related"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W4405674454",
+      "type": "related"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W2405512096",
+      "type": "related"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W2485115268",
+      "type": "related"
+    },
+    {
+      "from": "W7237449324",
+      "to": "W7163920715",
+      "type": "related"
     }
   ]
 }

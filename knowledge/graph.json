@@ -10736,10 +10736,6 @@
       "title": "Stress in the Press or Stress in the Market: A New Measure of Perceived Financial Stress",
       "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/11/staff-working-paper-2026-44/"
     },
-    "bank_of_canada:https://www.bankofcanada.ca/2026/11/staff-working-paper-2026-43/": {
-      "title": "Demand-Supply Decomposition of House-Price Inflation and the Impact of Monetary Policy",
-      "paper_id": "bank_of_canada:https://www.bankofcanada.ca/2026/11/staff-working-paper-2026-43/"
-    },
     "repec:RePEc:ces:ceswps:_13163": {
       "title": "The Third Great Transition: From Human-Bound to Autonomous AI-Driven Innovation",
       "paper_id": "repec:RePEc:ces:ceswps:_13163"
@@ -10751,6 +10747,30 @@
     "repec:RePEc:fip:fedpwp:104153": {
       "title": "Pricing Power in the Mortgage Market: Evidence from GSE Fee Waivers",
       "paper_id": "repec:RePEc:fip:fedpwp:104153"
+    },
+    "W7237159101": {
+      "title": "To What Extent Did Interest Rate Hikes, Rather Than Supply-Side Normalisation, Bring Inflation Down in India and the Us Between 2022 and 2026?",
+      "paper_id": "https://doi.org/10.47191/jefms/v9-i11-39"
+    },
+    "W7239835352": {
+      "title": "Demand-Supply Decomposition of House-Price Inflation and the Impact of Monetary Policy",
+      "paper_id": "https://doi.org/10.34989/swp-2026-43"
+    },
+    "W7239751718": {
+      "title": "The Impact of Monetary Policy on Exchange Rate Stability: A Case Study of Emerging Economies",
+      "paper_id": "https://doi.org/10.71094/ecoin.v3i1.507"
+    },
+    "repec:RePEc:ces:ceswps:_13161": {
+      "title": "Reducing Talent Misallocation Through Policy Signals: Theory and Evidence",
+      "paper_id": "repec:RePEc:ces:ceswps:_13161"
+    },
+    "repec:RePEc:ces:ceswps:_13162": {
+      "title": "Beyond Words: Non-Verbal Cues in Virtual Collaborations",
+      "paper_id": "repec:RePEc:ces:ceswps:_13162"
+    },
+    "repec:RePEc:fip:fedlwp:104158": {
+      "title": "Doing Aggregative Economics with Disaggregate Data",
+      "paper_id": "repec:RePEc:fip:fedlwp:104158"
     }
   },
   "edges": [
@@ -47992,6 +48012,156 @@
     {
       "from": "W7238877798",
       "to": "W7214221075",
+      "type": "cites"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W3121293400",
+      "type": "cites"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W4285299676",
+      "type": "cites"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W4285654539",
+      "type": "cites"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W4366596347",
+      "type": "cites"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W4382935640",
+      "type": "cites"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W4392307707",
+      "type": "cites"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W4394565518",
+      "type": "cites"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W7113266949",
+      "type": "related"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W7172511973",
+      "type": "related"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W2953882756",
+      "type": "related"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W7111849976",
+      "type": "related"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W7221519026",
+      "type": "related"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W7212434141",
+      "type": "related"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W1983459463",
+      "type": "related"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W4409698649",
+      "type": "related"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W7112762865",
+      "type": "related"
+    },
+    {
+      "from": "W7237159101",
+      "to": "W3208116781",
+      "type": "related"
+    },
+    {
+      "from": "W7239751718",
+      "to": "W1966910378",
+      "type": "cites"
+    },
+    {
+      "from": "W7239751718",
+      "to": "W2140566476",
+      "type": "cites"
+    },
+    {
+      "from": "W7239751718",
+      "to": "W2963476014",
+      "type": "cites"
+    },
+    {
+      "from": "W7239751718",
+      "to": "W2981010267",
+      "type": "cites"
+    },
+    {
+      "from": "W7239751718",
+      "to": "W2991173540",
+      "type": "cites"
+    },
+    {
+      "from": "W7239751718",
+      "to": "W3023649121",
+      "type": "cites"
+    },
+    {
+      "from": "W7239751718",
+      "to": "W3118315097",
+      "type": "cites"
+    },
+    {
+      "from": "W7239751718",
+      "to": "W3123661969",
+      "type": "cites"
+    },
+    {
+      "from": "W7239751718",
+      "to": "W3194310979",
+      "type": "cites"
+    },
+    {
+      "from": "W7239751718",
+      "to": "W3207910616",
+      "type": "cites"
+    },
+    {
+      "from": "W7239751718",
+      "to": "W4307128306",
+      "type": "cites"
+    },
+    {
+      "from": "W7239751718",
+      "to": "W4393948608",
+      "type": "cites"
+    },
+    {
+      "from": "W7239751718",
+      "to": "W4405578679",
       "type": "cites"
     }
   ]

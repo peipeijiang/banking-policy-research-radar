@@ -10771,6 +10771,22 @@
     "repec:RePEc:fip:fedlwp:104158": {
       "title": "Doing Aggregative Economics with Disaggregate Data",
       "paper_id": "repec:RePEc:fip:fedlwp:104158"
+    },
+    "W7239939306": {
+      "title": "PREPARING BANK EMPLOYEES FOR AI ADOPTION: AN INTEGRATIVE LITERATURE REVIEW AND CONCEPTUAL FRAMEWORK",
+      "paper_id": "openalex:W7239939306"
+    },
+    "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3313~bef94fc3fa.en.pdf": {
+      "title": "Synthetic controls meet Lucas! Unifying causal effects and structural decompositions",
+      "paper_id": "ecb:https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3313~bef94fc3fa.en.pdf"
+    },
+    "repec:RePEc:ces:ceswps:_13159": {
+      "title": "Climate Policy Without Commitment",
+      "paper_id": "repec:RePEc:ces:ceswps:_13159"
+    },
+    "repec:RePEc:ces:ceswps:_13160": {
+      "title": "Degrees for GPTs: The Effects of Generative AI on Skill Demand and Supply",
+      "paper_id": "repec:RePEc:ces:ceswps:_13160"
     }
   },
   "edges": [
@@ -48163,6 +48179,186 @@
       "from": "W7239751718",
       "to": "W4405578679",
       "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W2032692513",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W2057353181",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W2104215943",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W2129650730",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W2165041900",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W2170135023",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W2535354139",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W2922903482",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W3005681662",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W4401200122",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W4404112462",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W4407749147",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W4409665887",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W4413969056",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W4414795747",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W6911985934",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7104444585",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7126272804",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7134193574",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7140490440",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7161131951",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7204105684",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7204234681",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7212017522",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7220369448",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7225007609",
+      "type": "cites"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7128194945",
+      "type": "related"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7204440441",
+      "type": "related"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W3019915815",
+      "type": "related"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W4406984345",
+      "type": "related"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7223702446",
+      "type": "related"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7225576164",
+      "type": "related"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W3082768471",
+      "type": "related"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7233528280",
+      "type": "related"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W2940808993",
+      "type": "related"
+    },
+    {
+      "from": "W7239939306",
+      "to": "W7225323264",
+      "type": "related"
     }
   ]
 }
